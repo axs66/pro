@@ -1,0 +1,48 @@
+{
+	"class": "FeaturedBannersView",
+	"itemSize": "{260, 160}",
+	"itemCornerRadius": 5,
+	"banners": [
+		{
+			"url": "http://axs66.github.io/pro/images/ewm.png",
+			"title": "",
+			"package": "com.axs.sileo"
+		},
+		{
+			"url": "http://axs66.github.io/pro/images/newfeature.png",
+			"title": "NewFeature",
+			"package": "com.axs.newfeature"
+		},
+		{
+			"url": "http://axs66.github.io/pro/images/wechat.png",
+			"title": "全局圆角",
+			"package": "com.axs.yuanjiao"
+		},
+		{
+			"url": "http://axs66.github.io/pro/images/svp.png",
+			"title": "SVP分屏",
+			"package": "com.axs.split-view-pro"
+		},
+		{
+			"url": "http://axs66.github.io/pro/images/applecard.png",
+			"title": "App Lecard分屏",
+			"package": "com.nx.appcardlite"
+		},
+		{
+			"url": "http://axs66.github.io/pro/images/dy.png",
+			"title": "抖音净化",
+			"package": "com.axs.dytweak"
+		},
+		{
+			"url": "http://axs66.github.io/pro/images/musiclizi.png",
+			"title": "灵动岛背景动画",
+			"package": "com.axs.lddgifbg"
+		},
+		{
+			"url": "http://axs66.github.io/pro/images/keyboardhook.png",
+			"title": "原生输入法美化",
+			"package": "com.axs.keyboardhook"
+		}
+
+	]
+}
