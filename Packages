@@ -2111,16 +2111,16 @@ Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
 Depends: mobilesubstrate, firmware (>= 10.0), preferenceloader
 Filename: ./debs/com.Axs.denyphotoalbums_1.2.1_iphoneos-arm64.deb
-Size: 72816
-MD5sum: 0fcffb1deab6358e90e6eb2e84eb12a4
-SHA1: 72f2882a210e91a4ce7ae217e46f416d374be93d
-SHA256: 82bf246bb12f35be2fea2f63cc80d07df5e0a798792ddb2bda016feaae880756
+Size: 72852
+MD5sum: 4b271a4de5cf57122d45b12038f08ff5
+SHA1: e754e73e66ba8d97a857839539e0d8eb9fca0833
+SHA256: aeb0edd390581887e54b9c8958be41a1c77591175cbfcc92aee14ad31e18ba08
 Section: 系统增强
 Description: 系统照片增强，隐藏多个自定义选项
 Author: CydiaGeek <qiaozhani000@163.com>
-Icon: https://axs66.github.io/repo/icon/denyphotoalbums.png
+Icon: https://axs66.github.io/pro/icon/denyphotoalbums.png
 Name: DenyPhotoAlbums相册增强
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/denyphotoalbums/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/denyphotoalbums/js.json
 
 Package: com.Axs.designer
 Version: 1.5.5
@@ -2129,17 +2129,17 @@ Maintainer: Axs
 Installed-Size: 20612
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.Axs.designer_1.5.5_iphoneos-arm64.deb
-Size: 5798568
-MD5sum: f00e77a9ca8ebc1801b6f6e872d29b32
-SHA1: 0776dc6cc2d8a45283d3b071968142f7e6e93976
-SHA256: 3c8131554bb84f5214ce89532c223e65e0d33364e58c8a02e8f47cfae9521cbb
+Size: 5797536
+MD5sum: 0644ef8a7c0a6a14578b80da014ad475
+SHA1: dfeced309a94a37bf53aea0d80abf0bfacadf7ce
+SHA256: 75fae25fc1b0af42495a21de45879e3929beced856576ba3036bcde07b51cc10
 Section: Tweaks
 Description: Design layouts for lockscreen and homescreen
 Author: JunesiPhone
 Depiction: https://t.me/wxfx8
-Icon: https://axs66.github.io/repo/icon/designer.png
+Icon: https://axs66.github.io/pro/icon/designer.png
 Name: Designer 锁屏美化
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/designer/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/designer/js.json
 
 Package: com.Axs.dismissalert
 Version: 1.0.0
@@ -3299,32 +3299,32 @@ Maintainer: liuf
 Installed-Size: 356
 Depends: mobilesubstrate
 Filename: ./debs/com.Axs.lddgifbg_1.0.0_iphoneos-arm64.deb
-Size: 16004
-MD5sum: fad26300807dc4ed2770d6b11e359581
-SHA1: 8c77eec5f7a0cfb05b07b31a34f327453f5a3f52
-SHA256: ea1396b2c9aaf4596bbd2fa555db8f4e7504e01201d72bec870fe2b6352d0a62
+Size: 15996
+MD5sum: 62c650ae54371914128850ec1e4f711e
+SHA1: d78ddc9165a3e070d11c509385e271ee2c2c2012
+SHA256: 3816b0a01e565904b5e0f66073c24dc1d2999c73458f2cbaa8f5ab05f647eabe
 Section: 灵动岛
 Description: 灵动岛GIF背景!无根用户需要在https://axs66.github.io/repo源里面安装Flex 3 Beta90依赖，不然会安全模式。隐根用户直接安装即可
 Author: liuf
-Icon: https://axs66.github.io/repo/icon/lddgifbg.png
+Icon: https://axs66.github.io/pro/icon/lddgifbg.png
 Name: 灵动岛GIF背景
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/lddgifbg/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/lddgifbg/js.json
 
 Package: com.Axs.lddxz
 Version: 1.3.7
 Architecture: iphoneos-arm64
 Maintainer: Axs
 Filename: ./debs/com.Axs.lddxz_1.3.7_iphoneos-arm64.deb
-Size: 95928
-MD5sum: 5ef3a3beba6fee7a856473348b135275
-SHA1: 834fdeaf8cf77fced72a4423bd3e1f1127062b37
-SHA256: aa11487d5dcd2357840b109b5d29979af3eb4c5d40881e5bdc45ce05b2b7d9d9
+Size: 95912
+MD5sum: cdbff4277e23592708bb651504d2bdd2
+SHA1: 8bfc4af5511df047cf8eabb585c924da80e985f4
+SHA256: d10be585dbd4e5a3b3a7b1597a7cad9c5a34771a49bfd7819a53fbd19d480d55
 Section: 灵动岛
 Description: 一键安装挂载音乐岛录屏岛，需配合真皮多巴胺。</br>⚠️仅限懒人挂载使用，挂载大牛勿下，会替换你原有的挂载目录！</br>一键挂载音乐岛录屏岛，需配合真皮多巴胺（仅限无根真皮2.2及以上版本，其他自行挪到对应路径）。
 Author: lddxz
-Icon: https://axs66.github.io/repo/icon/lddxz.png
+Icon: https://axs66.github.io/pro/icon/lddxz.png
 Name: 灵动岛旋转
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/lddxz/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/lddxz/js.json
 
 Package: com.Axs.libnotifications
 Version: 0.3-6-1+debug
@@ -3372,17 +3372,17 @@ Maintainer: MrShi
 Installed-Size: 2352
 Depends: mobilesubstrate
 Filename: ./debs/com.Axs.lingdongdao_1.0.0.2-235_iphoneos-arm64.deb
-Size: 548168
-MD5sum: 95f58260d292dca25d76fc52700b2d11
-SHA1: 06b56f95775106c516b0fde5da5b2fb7a0f116ab
-SHA256: 81058030f36e5657ada7d252e8012de54728f979c2b156b6ae767f50d519a910
+Size: 545820
+MD5sum: a7f0f0b9a95becb765284dfaf0ff3a9d
+SHA1: 0856fbbc5c8f6780977eae1a546941b7df8c4e91
+SHA256: 7cd2ca8ec085050cba0a44f7866b62b45244b486dc826372c44985c4b6679f0a
 Section: 灵动岛
 Description: 给灵动岛的外框内框添加自定义颜色，通知背景颜色等
 Author: MrShi
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/lingdongdao.png
+Depiction: https://axs66.github.io/pro
+Icon: https://axs66.github.io/pro/icon/lingdongdao.png
 Name: 灵动岛自定义
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/lingdongdao/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/lingdongdao/js.json
 
 Package: com.Axs.ljm
 Version: 0.0.1
@@ -4049,10 +4049,10 @@ Maintainer: Axs
 Installed-Size: 1408
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.Axs.newfeature_5.4.0-1_iphoneos-arm64.deb
-Size: 305812
-MD5sum: a92be32494b6183fd47aa45a3c799e26
-SHA1: 2fd23faf91ebfbab5dce6d4465d56a31ef89a3f1
-SHA256: 11369417a25a576fa5f9f208d116afe66dcde0b9fd0e06747738e2c36c324f13
+Size: 306504
+MD5sum: 39b4606de1627c9ce7a1fa1f37f16286
+SHA1: d47be190db16a7a52796f452d39235409eb5ed48
+SHA256: 533a9da356ad3a103205972c9002c3a1eef4da5db03871036be383d875566326
 Section: 微信插件
 Description: 一个简单的微信插件。功能介绍：
     *   1.账号信息：用户信息、应用信息、签名信息。
@@ -4068,9 +4068,9 @@ Description: 一个简单的微信插件。功能介绍：
     *   6.5时间星空背景、SVG图标随机颜色。
     *   7.其他功能：隐藏我的二维码、图片边缘点击关闭、图片信息扩展、朋友圈消息尾巴、微信去广告。
 Author: Axs
-Icon: https://axs66.github.io/repo/icon/wechat.png
+Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: NewFeature
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/newfeature/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/newfeature/js.json
 
 Package: com.Axs.ocd5
 Version: 5.4.1.1
@@ -4190,16 +4190,16 @@ Architecture: iphoneos-arm64
 Maintainer: axs <qiaozhani000@163.com>
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.Axs.picsewvip_1.0.0_iphoneos-arm64.deb
-Size: 25248
-MD5sum: 73e9eab6b12e33e0782939e619dee96a
-SHA1: 898a7bc29120db11510fb439fc45ff3527c17bb9
-SHA256: 0ebbbe5149cdf2103789d24bd1bc44fff5fa11f91b8de6eda53a8699b38d33fb
+Size: 25320
+MD5sum: ea8e8243f28fc8f36338f0ae0a73813c
+SHA1: f0801d0fe731c7e55da058046213bb66676c7481
+SHA256: cdcd560898fdfb3af0a0076a6e738553cfd5e3a63c4b79ad6fedb0caa42812b2
 Section: 系统增强
 Description: App Store搜索Picsew，一款非常好用的长截图软件！本插件已默认解除Pro权限，如果无效请删除重下软件，测试版本号为3.11.4！无任何广告弹窗！
 Author: x <qiaozhani000@163.com>
-Icon: https://axs66.github.io/repo/icon/picsew.png
+Icon: https://axs66.github.io/pro/icon/picsew.png
 Name: Picsew长截图 vip
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.Axs.picturemodule
 Version: 1.2
@@ -4405,16 +4405,16 @@ Maintainer: ETHN
 Installed-Size: 3636
 Depends: mobilesubstrate
 Filename: ./debs/com.Axs.reachplayer_2.6_iphoneos-arm64.deb
-Size: 1141540
-MD5sum: 74e9f58596d290b6bd94c5ffe8a15a06
-SHA1: ca296d44729dd927d60661e42666675f778228a8
-SHA256: 2b815ddb43001c2cd0a1d62b9cd77eba6cc2da86b76b6e237debf74f004181e5
+Size: 1141668
+MD5sum: af36f12ee278762cc7d24a08508c2bda
+SHA1: 79d7a0ae489c218d258a18972ce4534700249d35
+SHA256: 02fff00e542b1a604055927125083059588e5ff2570488cec5abc258a02d4ea8
 Section: Tweaks
 Description: ReachPlayer便捷访问音乐专辑
 Author: ETHN
-Icon: https://axs66.github.io/repo/icon/reachplayer.png
+Icon: https://axs66.github.io/pro/icon/reachplayer.png
 Name: ReachPlayer音乐专辑
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/reachplayer/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/reachplayer/js.json
 
 Package: com.Axs.recordanywhere
 Version: 1.1.0
@@ -4806,20 +4806,20 @@ Ts: sp-sss
 Package: com.Axs.split-view-pro
 Version: 1.4.1
 Architecture: iphoneos-arm64
-Maintainer: sunshinesong
+Maintainer: Axs
 Installed-Size: 5624
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
 Filename: ./debs/com.Axs.split-view-pro_1.4.1_iphoneos-arm64.deb
-Size: 1529296
-MD5sum: 20043abb32f72236c9a46b81ec0fce76
-SHA1: 3edc07956bb98f4208247c3fd3ca2da3c1b092b7
-SHA256: 9b8f520e55609964f025a1626c8224b831028647e32e8e119655dd6214b2187f
+Size: 1528120
+MD5sum: d1aa251242738f56a1dc9937e11f5aef
+SHA1: 2e82daaad6f92c1a1958cd6c543d1446ac8ae122
+SHA256: c29db7d4778f76801e32155acde52f90e19c7187f565939ae3f18ddca216cd97
 Section: 分屏插件
 Description: 免费的分屏插件，不必太复杂，一切从简即可。
 Author: A
-Icon: https://axs66.github.io/repo/icon/svp.png
+Icon: https://axs66.github.io/pro/icon/svp.png
 Name: SVP分屏独立版
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/split-view-pro/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/split-view-pro/js.json
 Ts: sp-sss
 
 Package: com.Axs.split-view-pro-helper
@@ -6225,6 +6225,23 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: 全局圆角
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/yuanjiao/js.json
 
+Package: com.Axs.yuanjiao
+Version: 1.8.6-END
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.Axs.yuanjiao_1.8.6-END_iphoneos-arm64.deb
+Size: 642312
+MD5sum: 5165ad5b01ec287ea7b5131d20c5d465
+SHA1: 530efee117dc7d57c88c65dc8bc1dcf622f74603
+SHA256: a4ba0b0f69236d0a61056e9a5bbaef532abaa1e0258072e9594af29a28fa0c0b
+Section: 微信插件
+Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
+Author: A
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 全局圆角
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/yuanjiao/js.json
+
 Package: com.Axs.zaire
 Version: 0.9.0
 Architecture: iphoneos-arm64
@@ -6520,18 +6537,18 @@ Maintainer: Axs
 Installed-Size: 2324
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/com.axs.dytweak_3.0.7_iphoneos-arm64.deb
-Size: 449420
-MD5sum: 9f818651f2761892c420e0262bea295d
-SHA1: 97b017922a5e48fba9c8c11f583a41f3f0949331
-SHA256: c15d18587589ccd9b2b4138a1569b1709c9b4897dfa9e5a106188d6bb27580ba
+Size: 446948
+MD5sum: 16bde38af7a08acb4d38b3e3ff649e04
+SHA1: f7ff869128d0405d1873dd45c8492c64877a6fe1
+SHA256: 34d6e01358c0a6e5894a7f89b4bb65bdb1278e29c4a42786fbfbaad815a5814a
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/axs66
 Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: Axs
-Icon: https://axs66.github.io/repo/icon/dy.png
+Icon: https://axs66.github.io/pro/icon/dy.png
 Name: 抖音净化
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/dytweak/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/dytweak/js.json
 
 Package: com.axs.floatingtag
 Version: 1.0.0
@@ -6657,16 +6674,16 @@ Architecture: iphoneos-arm64
 Maintainer: https://axs66.github.io/repo
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/com.axs.sileo_1.0_iphoneos-arm64.deb
-Size: 908
-MD5sum: 9845311858928f3e15acbb1b962aaf1a
-SHA1: fcc9d9446ae6c850b45934724b94ecb86fd9724c
-SHA256: 01a03a6acc90cc52f7f41da08c23864d4079dcbbadadc90e818bf65cdaf4114b
+Size: 912
+MD5sum: f0935001b3c6c9cd7a956b7ce12b5684
+SHA1: 8cbb4265f328443e9ee69fb68b95b91180c2a18b
+SHA256: 6177ae547054c622c2d937a846d85ed7ae657be547e5f7be3f134bfa7d38747b
 Section: Axs-Tweaks
 Description: Axs
 Author: Axs
-Icon: https://axs66.github.io/repo/images/cjms.png
+Icon: https://axs66.github.io/pro/images/cjms.png
 Name: Sileo越狱源介绍
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/sileo/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/sileo/js.json
 
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
@@ -7795,16 +7812,16 @@ Maintainer: Crassna
 Installed-Size: 1948
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 15.0)
 Filename: ./debs/com.nx.appcardlite_3.3.3-END_iphoneos-arm64.deb
-Size: 408756
-MD5sum: 72bfa9fdf7c52f9dc871ef829c281ed1
-SHA1: 4bc4e08ff3f32d66b3568d84ad0f0763e1e866ec
-SHA256: b5612f3de02468383ef8fb93faf943924080bdae7c601cef6fea3ab7ec12213f
+Size: 409160
+MD5sum: c70434121fcbdaec79dde2494f67a588
+SHA1: 1f2bef4ff7bf4b2614846786eded1225532f4e84
+SHA256: 0cfd6538fc3d4be1336fa83db2c90c946cbacb4d1a966941e9bc03ab3dff6564
 Section: 分屏插件
 Description: Jailbrea!
 Author: Crassna
-Icon: https://axs66.github.io/repo/icon/applecard.png
+Icon: https://axs66.github.io/pro/icon/applecard.png
 Name: App Lecard 分屏插件
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/applecard/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/applecard/js.json
 
 Package: com.opa334.choicy
 Version: 1.5.3-2
@@ -8513,17 +8530,17 @@ Maintainer: lzsxcl
 Installed-Size: 30588
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
 Filename: ./debs/xc.lzsxcl.o2pro_17.26.7_iphoneos-arm64.deb
-Size: 12608532
-MD5sum: 077c8c2d182b0f6958e065fc5d52659d
-SHA1: 4f345c7303fd7149b434fd15c3c93461e24f83d4
-SHA256: 9e1d838b417505ce71c76b4783cd53623f8f7e7c816a895fa20edcb5fef9f184
+Size: 12609044
+MD5sum: 31fd86fa91b09948c851e4c6815d174e
+SHA1: 6f46adb0bc5f77637a8b8f876edb4a7a9d6381cc
+SHA256: 5903e3e48f2414aa6fd6215c4abc3d3d6a320da82670b81c80f42a54f59fe7b6
 Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
 Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/o2pro.png
+Icon: https://axs66.github.io/pro/icon/o2pro.png
 Name: o2Pro
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/o2pro/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
 
 Package: xc.lzsxcl.o2pro
 Version: 17.8.8
