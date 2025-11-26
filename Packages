@@ -3165,6 +3165,24 @@ Icon: https://axs66.github.io/repo/icon/keyboardhook.png
 Name: KeyboardHook原生输入法自定义
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/keyboardhook/js.json
 
+Package: com.Axs.keyboardhook
+Version: 2.1-3+debug
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 524
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.Axs.keyboardhook_2.1-3+debug_iphoneos-arm64.deb
+Size: 44564
+MD5sum: d81c2a7783b23d2a1ef78191b7c5b9b3
+SHA1: 0486409b0b217f520bd1d765557e57fd6546fc57
+SHA256: b9f61d90228d06305f4115daaec0a5817dc8157ba3b7a77ce8391887a47efcfd
+Section: Tweaks
+Description: 关于系统输入法和微信输入法的一些自定义，包括：键盘背景自定义、预选词语自定义；付费插件，仅做个人备份。
+Author: baiy
+Icon: https://axs66.github.io/pro/icon/keyboardhook.png
+Name: KeyboardHook原生输入法自定义
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardhook/js.json
+
 Package: com.Axs.keyboards
 Version: 3.0
 Architecture: iphoneos-arm64
