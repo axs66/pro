@@ -1,0 +1,88 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://axs66.github.io/pro/images/Axslogo.png",
+    "tintColor": "00BFFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "text":"✈分享频道",
+                    "action":"https://t.me/wxfx8",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                }, 
+               {
+                    "text":"✈交流群组",
+                    "action":"https://t.me/oncar2",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },      
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "对您的设置应用程序进行了极大的增强！比如越狱插件归纳，手机设置美化等",
+                    "useRawFormat": true,
+                },      
+               {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{80, 176.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/pro/images/cjms.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "A先生",
+                    "title": "维护者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "VCR66T",
+                    "title": "微信"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "无法查看此软件包的更新日志",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ],
+}

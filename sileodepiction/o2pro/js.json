@@ -1,0 +1,130 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://axs66.github.io/pro/images/Axslogo.png",
+    "tintColor": "#1DD660",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "text":"✈分享频道",
+                    "action":"https://t.me/wxfx8",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },
+               {
+                    "text":"✈交流群组",
+                    "action":"https://t.me/oncar2",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },
+                {
+                    "markdown": "插件介绍：02Pro包含付费功能和免费功能，集中在同一个deb文件中。</br></br>一. 免费功能介绍：来电视频。</br>  1. 系统电话、微信CK语音均可生效。</br>  2. 设置位于插件底部实验室。</br>  3. 其他免费功能会逐步开放。</br></br>二. 付费功能介绍：包含多种分屏模式、极限模式（小窗）、灵动岛通知交互、ios18跑马灯等等。</br>1. 付费功能需提供udid绑定设备，一机一码。</br>2.付费功能很多，可能存在与其他插件冲突，导致安全模式，需要自行排查。</br></br>三. 其他说明：</br>1. 付费功能，用户根据自身需求自行考虑，可查看下方图片上的二维码联系作者本人，自行沟通。</br>2. 本源上传仅为个人备份使用。",
+                    "useRawFormat": true,
+                    "class": "DepictionMarkdownView"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "预览",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+               {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 0,
+                    "itemSize": "{150, 345}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/pro/sileodepiction/o2pro/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/pro/sileodepiction/o2pro/Screenshot_02.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/pro/sileodepiction/o2pro/Screenshot_03.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/pro/sileodepiction/o2pro/Screenshot_04.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/pro/sileodepiction/o2pro/Screenshot_05.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "六六",
+                    "title": "维护者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "SB11o_",
+                    "title": "微信"
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "17.24-1",
+                    "title": "插件版本"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "iOS 14 - iOS 16.6.1",
+                    "title": "支持系统"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025 年 8 月 5 日",
+                    "title": "最后更新"
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 17.24-1\n1.解决了一些已知问题。\n2.解决了提出问题的人。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                }
+            ]
+        }
+    ],
+}

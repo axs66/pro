@@ -1,0 +1,107 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://axs66.github.io/pro/images/Axslogo.png",
+    "tintColor": "#00BFFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "text":"✈分享频道",
+                    "action":"https://t.me/wxfx8",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                }, 
+               {
+                    "text":"✈交流群组",
+                    "action":"https://t.me/oncar2",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },      
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "功能介绍：一个简单的微信插件<br>1.账号信息：用户信息、应用信息、签名信息。<br>2.内测功能：微信各版本灰度功能提前享用。<br>3.输入窗口：聊天界面输入框美化及增强功能。<br>4.实用功能：时间渐变旋转背景、SVG图标随机颜色、微信输入法隐藏Logo、消息左滑引用、引用消息点击跳转、全屏三击截图、全屏返回手势。<br>5.附件布局：聊天功能面板 2x5布局(可自定义排序）.<br>6.美化功能：<br>6.1微信头像-自定义主页和聊天界面的微信头像位置，即在线状态，头像周边自定义特效。<br>6.2微信铭牌-支持微信群聊界面，昵称后面显示铭牌（支持png/gif素材）。<br>6.3首页+号背景、消息长按菜单背景、底部背景、底栏背景、顶栏背景等均支持png、gif、mp4、mov素材。<br>6.4底栏背景：隐藏系统图标文字、背景、分割线、点击特效、图标偏移等。<br>6.5时间星空背景、SVG图标随机颜色。。<br>7.其他功能：隐藏我的二维码、图片边缘点击关闭、图片信息扩展、朋友圈消息尾巴、微信去广告。",
+                    "useRawFormat": true,
+                },      
+               {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{150, 346}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/pro/sileodepiction/newfeature/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/pro/sileodepiction/newfeature/Screenshot_02.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/pro/sileodepiction/newfeature/Screenshot_03.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "A先生",
+                    "title": "维护者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "CIA239",
+                    "title": "微信"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2025 年 11 月 11 日",
+                    "title": "最后更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.4.0-1",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                        "markdown": "1、优化隐藏图标文字不稳定的问题。<br> 2. 2、增加了主题抽屉入口，请在主题diy文件夹放入一个图标素材：newfeature.png。",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ]
+}
