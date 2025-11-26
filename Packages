@@ -151,6 +151,129 @@ Icon: https://axs66.github.io/repo/icon/kayoko.png
 Name: Kayoko剪贴板
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/kayoko/js.json
 
+Package: com.0xkuj.bubbleapps
+Version: 3.0.0
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 808
+Depends: com.opa334.altlist
+Filename: ./debs/com.0xkuj.bubbleapps_3.0.0_iphoneos-arm64.deb
+Size: 256768
+MD5sum: 973f1cae3e49e619d447b3a40ba11eae
+SHA1: 66289315322fbcb957645e7add8dd98fe232507b
+SHA256: f5c06f87ce0269de931ab4053181f72a4745b9d249a8f3a0ea65c087e8716419
+Section: Tweaks
+Description: Floating app buttons anywhere you want。浮动应用按钮在您想要的任何地方
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/bubbleapps.png
+Name: Bubble Apps桌面图标随心摆
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/bubbleapps/js.json
+
+Package: com.0xkuj.filzadirprobe
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: ./debs/com.0xkuj.filzadirprobe_1.6.2_iphoneos-arm64.deb
+Size: 56656
+MD5sum: 1dfd1ea3096142b9e2138264eb94f925
+SHA1: 9ba73c49771ed9dd3dbd5d3b6a6c6a1b916237ce
+SHA256: e2f4facfd4562af8e27ecc50722ad6a4613f3ae9042813d4cfc2f8b2949d1168
+Section: Tweaks
+Description: 计算Filza里文件夹大小。
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/filza.png
+Name: FilzaDirProbe
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/filzadirprobe/js.json
+
+Package: com.0xkuj.filzadirprobe
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 240
+Filename: ./debs/com.0xkuj.filzadirprobe_1.7.1_iphoneos-arm64.deb
+Size: 33116
+MD5sum: 7c28540cc6982dc52691328767d7a7f2
+SHA1: 13bd84dca4c6e48c06ff323465da088802597eaa
+SHA256: 813fe38e114a63b78d4117eb3d60441e6f21a126a802f1b7de37ea82917fd380
+Section: Tweaks
+Description: 计算Filza里文件夹大小。
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/filza.png
+Name: FilzaDirProbe
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/filzadirprobe/js.json
+
+Package: com.0xkuj.notificationsgroupcount
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.0xkuj.notificationsgroupcount_1.0.7_iphoneos-arm64.deb
+Size: 80000
+MD5sum: 5e9ffdeb8403c0b1589e10f1bad5fc04
+SHA1: 642dc23cc34516bf789b0ee89c694557d4ef1bcc
+SHA256: d7d179d9db49c855c79e3278211c87272dd6809b9a07f38e62b967beda58cedb
+Section: 系统增强
+Description: Count those notifications inside Apple notifications grouping!
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/notificationsgroupcounts.png
+Name: NotificationsGroupCount仿ios18通知分组计数
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
+
+Package: com.0xkuj.safarix
+Version: 1.9.8
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 892
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.8_iphoneos-arm64.deb
+Size: 311640
+MD5sum: bd5dc175c3c71a79f28d948f8c7d2c4f
+SHA1: 79dc39ef3f3d122424b0a808abf40dfec3a8430a
+SHA256: 3fee282fd21c88932ca01229e6047e620b41f88c4362eac642ba59617dd5c511
+Section: 系统增强
+Description: Safari Essential Features
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/safari.png
+Name: SafariX
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
+
+Package: com.0xkuj.safarix
+Version: 1.9.9
+Architecture: iphoneos-arm64
+Maintainer: 0xkuj
+Installed-Size: 928
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.9_iphoneos-arm64.deb
+Size: 315672
+MD5sum: 05d6f5147a47f9d00b4c0c8db86af2d4
+SHA1: 66b1fd8c4c751d4708d7265f41e022cf6c33690b
+SHA256: 8b3e92ccfdb5bcfb6b1880ce11cc3bbd1298bca4bd58a849f0dff6644af49699
+Section: Tweaks
+Description: Safari Essential Features
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/safari.png
+Name: SafariX
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
+
+Package: com.0xkuj.safarix
+Version: 1.9.9.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.0xkuj.safarix_1.9.9.1_iphoneos-arm64.deb
+Size: 315460
+MD5sum: 4253a28d204661919b92faed4632922c
+SHA1: 6a6c23c0306885bdd38d0a8a5dd3776e2f32638b
+SHA256: 71805dcdeae07951cbeabcaf6f0072ca1e970c920158f8f854df0e8208ad0565
+Section: 系统增强
+Description: 此插件为iPhone自带浏览器增强插件，功能非常的多，强烈建议用safari的用户下载！
+Author: 0xkuj
+Icon: https://axs66.github.io/repo/icon/safari.png
+Name: SafariX
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/safarix/js.json
+
 Package: com.25mao.doutu.rootless
 Version: 3.1-5
 Architecture: iphoneos-arm64
