@@ -1,25 +1,3 @@
-Package: ApibugTextToVoice
-Version: 1.0.5
-Architecture: iphoneos-arm64
-Essential: no
-Maintainer: Apibug <apibug6@gmail.com>
-Depends: mobilesubstrate
-Conflicts: ApibugTextToVoice
-Replaces: ApibugTextToVoice
-Provides: ApibugTextToVoice
-Filename: ./debs/ApibugTextToVoice_1.0.5_iphoneos-arm64.deb
-Size: 170084
-MD5sum: 6a251baf8c4865ade0101ffb7385196a
-SHA1: c4736bbdc1f196238f1818374591b0771b841d22
-SHA256: 8e3ff28b1f894c45141d4982c3a70f5354d8eaf3260e8ef40f0e685f809d8380
-Section: 微信插件
-Priority: optional
-Description: 微信文字转语音原神版,模型运算版本,等待6秒左右合成成功
-Author: Apibug
-Icon: https://axs66.github.io/repo/icon/wechat.png
-Name: ApibugTextToVoice
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/Apibug/js.json
-
 Package: MisakaHelper
 Version: 2.0-0
 Architecture: iphoneos-arm64
