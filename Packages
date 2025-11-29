@@ -6874,24 +6874,6 @@ Description: 京东去广告+精简
 Author: M哥
 Name: 京东（去广告+精简）
 
-Package: com.jontelang.instalauncher2
-Version: 1.11.0
-Architecture: iphoneos-arm64
-Maintainer: Jonathan Winger Lang <jontelang@gmail.com>
-Installed-Size: 1188
-Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
-Conflicts: com.jontelang.instalauncher2.beta
-Filename: ./debs/com.jontelang.instalauncher2_1.11.0_iphoneos-arm64.deb
-Size: 203906
-MD5sum: f881738665a556d86eceb0b2f1e39603
-SHA1: 2eab5ef9c913190a3f6ba1c6220619e526e8c5cc
-SHA256: 0c7c6545061871c7e58820d4e67b0dc9c91dc010f54a2101295d02b4e1503e9e
-Section: Tweaks
-Description: Launch ANY app instantly
-Author: Jonathan Winger Lang <jontelang@gmail.com>
-Icon: file:///Library/PreferenceBundles/instalauncher2preferences.bundle/icons/preferences-icon@2x.png
-Name: InstaLauncher 2
-
 Package: com.jontelang.snapper3
 Version: 1.0
 Architecture: iphoneos-arm64
