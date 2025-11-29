@@ -1388,24 +1388,6 @@ Icon: https://axs66.github.io/repo/icon/bounceit.png
 Name: Bounce It 弹跳效果动画
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/bounceit/js.json
 
-Package: com.Axs.bridge
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 7088
-Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common
-Filename: ./debs/com.Axs.bridge_1.1_iphoneos-arm64.deb
-Size: 4946224
-MD5sum: f8249f29fc1fe7d8f963ee2217d5df5e
-SHA1: 9aba22d46b8bf0ececf2d1425216285800277df1
-SHA256: f150623b09db11a6bb22c21d90c25d27f1500053750b4b145f3d4171e7759a8f
-Section: 系统增强
-Description: The Apple Watch homescreen experience brought to iOS
-Author: MTAC • ETHN
-Icon: https://axs66.github.io/repo/icon/bridge.png
-Name: Bridge 桌面应用随意摆
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/bridge/js.json
-
 Package: com.Axs.bzhelper
 Version: 1.6.5
 Architecture: iphoneos-arm64
