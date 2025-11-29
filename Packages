@@ -7755,23 +7755,6 @@ Icon: https://axs66.github.io/repo/icon/rose.png
 Name: Rose 🌹
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/rose/js.json
 
-Package: me.nebula.ding
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: Nebula
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.17), firmware (>= 13.0)
-Filename: ./debs/me.nebula.ding_1.1.0_iphoneos-arm64.deb
-Size: 25468
-MD5sum: 3811568ff02877578174f4301c0422cc
-SHA1: cc63c8700155836b1ba1f083d303abbe12149b88
-SHA256: 1b6c05e80560a5c2e0cc186ea22938374950b24179371a68d06d0545ed3b3573
-Section: 系统增强
-Description: 静音拨片物理按键自定义其他功能(比如手电筒)
-Author: Nebula
-Depiction: nebula
-Icon: https://img.chariz.cloud/icon/ding/icon@3x.png
-Name: Ding
-
 Package: netskao.wcpureextension
 Version: 4.2-6
 Architecture: iphoneos-arm64
