@@ -3671,26 +3671,6 @@ Icon: https://axs66.github.io/repo/icon/ocd.png
 Name: OCD5
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ocd5/js.json
 
-Package: com.Axs.onesettings
-Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: Nightwind
-Installed-Size: 1084
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
-Conflicts: com.creaturecoding.shuffle
-Replaces: com.twickd.nightwind.onesettings
-Filename: ./debs/com.Axs.onesettings_2.2_iphoneos-arm64.deb
-Size: 207400
-MD5sum: 358db8e2233cee0c8622c35f9b2cedb7
-SHA1: ad2385c79f5b82018cc8836f068b0a4de0564fd2
-SHA256: 59c1445b221c39372526239cac2e3f3952c9ad8e81768f3536768d10cba0dbbd
-Section: Tweaks
-Description: A great enhancement to your Settings App!
-Author: Nightwind
-Icon: https://axs66.github.io/repo/icon/onesettings.png
-Name: OneSettings越狱插件收纳
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/onesettings/js.json
-
 Package: com.Axs.pancake
 Version: 2.2
 Architecture: iphoneos-arm64
