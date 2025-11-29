@@ -3123,24 +3123,6 @@ Icon: https://axs66.github.io/repo/icon/lstimeseconds.png
 Name: LSTimeSeconds 锁屏秒钟
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/lstimeseconds/js.json
 
-Package: com.Axs.lynxtwo
-Version: 2.5.4
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: mobilesubstrate, firmware (>= 14.0), preferenceloader, ws.hbang.common
-Filename: ./debs/com.Axs.lynxtwo_2.5.4_iphoneos-arm64.deb
-Size: 677632
-MD5sum: 28bdcab0095587aeac12f8310b9ebdf5
-SHA1: 8ff694f5c8299a1448b139224d3040ba58ec719a
-SHA256: 96f44aa355b962de44daf0090e2a689831d4f995d197712437dfbd7c7acca6db
-Section: 系统增强
-Description: iOS 14、15和16的最终IDEVICE自定义
-Author: MTAC
-Depiction: https://pan.ios999.vip/
-Icon: https://axs66.github.io/repo/icon/lynx2.png
-Name: Lynx2
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/lynx2/js.json
-
 Package: com.Axs.lyric
 Version: 3.0
 Architecture: iphoneos-arm64
