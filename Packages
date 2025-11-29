@@ -1369,24 +1369,6 @@ Icon: https://axs66.github.io/repo/icon/calculatorhistory.png
 Name: CalculatorHistory 苹果计算器历史记录
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/calculatorhistory/js.json
 
-Package: com.Axs.carbridgecarplay
-Version: 2.0.15
-Architecture: iphoneos-arm64
-Maintainer: Axs <qiaozhani000@163.com>
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0), preferenceloader, com.opa334.altlist (>= 1.0.10)
-Conflicts: com.leftyfl1p.carplay, com.eason.carplay, com.eason.carplay.ios11, com.cortex.carplayenable
-Filename: ./debs/com.Axs.carbridgecarplay_2.0.15_iphoneos-arm64.deb
-Size: 434608
-MD5sum: c234f112e605f6c89435fbae32e1969a
-SHA1: 9a773e480fadc9b653697f88a83b8819e0ae917d
-SHA256: 17620bdc9ecf740aa94387c3dcf9194eb49fb5426df357d33000482b789872cc
-Section: Tweaks
-Description: Open any app in CarPlay!让不支持互联的软件显示在车机上！
-Author: leftyfl1p <qiaozhani000@163.com>
-Icon: https://axs66.github.io/repo/icon/CarBridge.png
-Name: CarBridge汽车互联
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/CarBridge/js.json
-
 Package: com.Axs.cc18
 Version: 1.1.0-1+debug
 Architecture: iphoneos-arm64
