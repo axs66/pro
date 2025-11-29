@@ -4310,26 +4310,6 @@ Icon: https://axs66.github.io/repo/icon/SmallBoard.png
 Name: SmallBoard 键盘下沉
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/SmallBoard/js.json
 
-Package: com.Axs.smartnetwork
-Version: 1.1
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 1272
-Depends: mobilesubstrate, com.spark.libsparkapplist, ws.hbang.common
-Conflicts: com.eliassfeir.smartnetwork
-Filename: ./debs/com.Axs.smartnetwork_1.1_iphoneos-arm64.deb
-Size: 286380
-MD5sum: f7e0f21c4812572187d345db6ffa9caf
-SHA1: 0e1abbda646ae1f0767a4a657289435cc9610aee
-SHA256: fd40d6f8733ee0c5f66b66bc8531c137df8c26419d7fd74eb1dab7e6c505c792
-Section: 系统增强
-Description: 可以信任当前Wi-Fi/蓝牙等，直接解锁手机，其他的功能自己研究。
-Author: elias
-Icon: https://axs66.github.io/repo/icon/smartnetwork.png
-Name: SmartNetwork
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/smartnetwork/js.json
-Sponsor: Axs
-
 Package: com.Axs.snapper3.hh
 Version: 1.2.1
 Architecture: iphoneos-arm64
