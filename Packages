@@ -4474,24 +4474,6 @@ Icon: https://axs66.github.io/repo/icon/staypro.png
 Name: Stay Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/staypro/js.json
 
-Package: com.Axs.stella
-Version: 1.1.3
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2), com.ginsu.comet
-Filename: ./debs/com.Axs.stella_1.1.3_iphoneos-arm64.deb
-Size: 365320
-MD5sum: 2c1d4ae6ded2bc933e5c18e0107bc858
-SHA1: 5279ff7078b3a29596cf9641bb14717c18968331
-SHA256: 0c47d99900c4aea81a2c9432d5cada8bd6d2782e2f8849cafc4c5c1db8596f28
-Section: 系统增强
-Description: Let it snow on your device!
-Author: yan
-Depiction: Axs
-Icon: https://axs66.github.io/repo/icon/stella.png
-Name: Stella
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/stella/js.json
-
 Package: com.Axs.steppy
 Version: 1.0
 Architecture: iphoneos-arm64
