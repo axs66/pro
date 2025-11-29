@@ -719,6 +719,28 @@ Icon: https://axs66.github.io/repo/icon/wechat.png
 Name: MikotoHelper
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/MikotoHelper/js.json
 
+Package: com.Axs.MikotoHelper
+Version: 1.3.6-6
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: MikotoHelper
+Replaces: MikotoHelper
+Provides: MikotoHelper
+Filename: ./debs/com.Axs.MikotoHelper_1.3.6-6_iphoneos-arm64.deb
+Size: 19229480
+MD5sum: b7582afd001a3fc92dada415b6164537
+SHA1: 1c4e6234d3bb0007b10441db11bbd89de8f9644e
+SHA256: 1fadb225c8dcac3d7d9199b3a0e9d10756f0d169793fab1fba2ddb72a12554ca
+Section: 微信插件
+Priority: optional
+Description: MikotoHelper
+Author: Mikoto
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: MikotoHelper
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/MikotoHelper/js.json
+
 Package: com.Axs.SwitchPro
 Version: 1.0.1
 Architecture: iphoneos-arm64
