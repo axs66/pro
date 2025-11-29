@@ -5821,25 +5821,6 @@ Icon: https://axs66.github.io/repo/icon/zaire.png
 Name: Zaire
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/zaire/js.json
 
-Package: com.Axs.zeppelinreborn
-Version: 1.4.2
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: mobilesubstrate, preferenceloader, com.muirey03.libimagepicker
-Provides: com.alexzielenski.zeppelin
-Filename: ./debs/com.Axs.zeppelinreborn_1.4.2_iphoneos-arm64.deb
-Size: 2980888
-MD5sum: 957b3354353ba92ef0d64a18ae6b2f11
-SHA1: 9a9cfeba2cbec4e6677a1bfca1788b578fee6fba
-SHA256: ac51371903cde4326d0163943ca8c6f68d9879d98e87360858094e943d897b1d
-Section: Tweaks
-Description: 在运营商文本或时间旁边添加图像或GIF！
-Author: Hitori
-Icon: https://axs66.github.io/repo/icon/zeppelinreborn.png
-Name: Zeppelin Reborn个性图标
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/zeppelinreborn/js.json
-Sponsor: Axs
-
 Package: com.Axs.zfk
 Version: 1.0.0
 Architecture: iphoneos-arm64
