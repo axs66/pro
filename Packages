@@ -1831,24 +1831,6 @@ Icon: https://axs66.github.io/repo/icon/dismissalert.png
 Name: DismissAlert屏蔽弹窗
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/dismissalert/js.json
 
-Package: com.Axs.dleasy
-Version: 2.14.8
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.Axs.dleasy_2.14.8_iphoneos-arm64.deb
-Size: 5554008
-MD5sum: 541a932773513ff72569bdd87e7e1ac8
-SHA1: 5e9f063658ed28b380cda9606658cc3111200ded
-SHA256: 796c3c46d81f18fe7944c230ff776aa6ba1e6f248f3958c1dc10d790ffd50e62
-Section: Tweaks
-Description: Download/Share images & videos from social apps easily!
-Author: AhmedBafkir
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/dleasy.png
-Name: DLEasy
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/dleasy/js.json
-
 Package: com.Axs.dockx
 Version: 2.6.2
 Architecture: iphoneos-arm64
