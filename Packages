@@ -7461,24 +7461,6 @@ Depiction: https://chariz.com/get/cask-3
 Icon: https://img.chariz.cloud/icon/cask-3/icon@3x.png
 Name: Cask 3
 
-Package: com.sergy.replyactions
-Version: 2.0.0
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.sergy.replyactions_2.0.0_iphoneos-arm64.deb
-Size: 161512
-MD5sum: 39d3dc78e5b3ef3d6e73029e6b695338
-SHA1: 5760b2a7346527102b283fa084ee83a3b91fd46d
-SHA256: e6d0a481e9391a33a218667de0220ca51a2f65243106fb7ea8810bc751a7328d
-Section: 系统增强
-Description: Send message the easy way
-Author: sergy
-Depiction: axs
-Icon: https://axs66.github.io/repo/icon/replyactions.png
-Name: ReplyActions
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
-
 Package: com.spark.libsparkapplist
 Version: 1.1.0
 Architecture: iphoneos-arm64e
