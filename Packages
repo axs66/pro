@@ -882,24 +882,6 @@ Icon: https://axs66.github.io/repo/icon/aimpro.png
 Name: AIM Pro
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
-Package: com.Axs.akara
-Version: 2.0.2
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport, com.muirey03.libimagepicker, firmware (>=15.0)
-Filename: ./debs/com.Axs.akara_2.0.2_iphoneos-arm64.deb
-Size: 613724
-MD5sum: cde1cb6b8dc70f66a9af78c61c80010f
-SHA1: 21110eb91927880818fab5f3ded431cbccc41920
-SHA256: 9843facc3bca2eaa94eaa7ed3dd741c4f65bcd88af13f2b241bf5cfae06e25ab
-Section: 控制中心
-Description: Minimal design without compromise控制中心美化
-Author: Tr1Fecta & Kennyroo
-Depiction: https://axs66.github.io/repo
-Icon: https://axs66.github.io/repo/icon/akara.png
-Name: Akara控制中心
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/akara/js.json
-
 Package: com.Axs.alwaysdark
 Version: 1.2.3
 Architecture: iphoneos-arm64
