@@ -1833,18 +1833,18 @@ Version: 4.3.2
 Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 2404
-Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11),  com.yourepo.trollstore.libnotifications, cm90.crossoveripc
+Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11),  com.axs.libnotifications, cm90.crossoveripc
 Filename: ./debs/com.Axs.cr4shed_4.3.2_iphoneos-arm64.deb
-Size: 198184
-MD5sum: 2a7bc065019e8b034206cbc7c07d4515
-SHA1: be5a4e1ed33e2499d4e64f9352edb07d668de756
-SHA256: 35f65c50041f78577f6b587271b160b83f4c53cf2d254df3c425ef06e27c0e90
+Size: 198392
+MD5sum: bd8ea6afa040ab261290546baad89f6d
+SHA1: 71d9f59dd5537524c51169dd15ca4db7c18f3921
+SHA256: dadb3671a4bda3212315d542a161e34ae7ea8aeb34a973e6a1c1d619152460c7
 Section: Tweaks
 Description: 查看崩溃日志，提交给Ai，让它告诉你问题出在哪里。安装此插件前，必须先安装Ldid插件，默认源就有，否则闪退。
 Author: Muirey03
-Icon: https://axs66.github.io/repo/icon/cr4shed.png
+Icon: https://axs66.github.io/pro/icon/cr4shed.png
 Name: Cr4shed 崩溃日志
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/cr4shed/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/cr4shed/js.json
 
 Package: com.Axs.crane
 Version: 1.3.16-4
