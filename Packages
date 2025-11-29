@@ -1574,23 +1574,6 @@ Icon: https://axs66.github.io/repo/icon/centerswitcherlabels.png
 Name: CenterSwitcherLabels 标题居中
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/centerswitcherlabels/js.json
 
-Package: com.Axs.centra
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: Axs <qiaozhani000@163.com>
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.Axs.centra_1.0_iphoneos-arm64.deb
-Size: 54572
-MD5sum: df2bb59822ff05e01bac456d5cdf172e
-SHA1: 07c13d8c0b4e9d0a084b3fddf53739cb779443e7
-SHA256: cbce4989d4cb9ef9f8283ccee9d9363573e4caa8ba980e468309035799614b36
-Section: 控制中心
-Description: 自定义控制中心中模块的大小，包括连接和其他模块。
-Author: Hitori <qiaozhani000@163.com>
-Icon: https://axs66.github.io/repo/icon/centra.png
-Name: Centra自定义控制中心
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/centra/js.json
-
 Package: com.Axs.chatgpt
 Version: 1.0.0
 Architecture: iphoneos-arm64
