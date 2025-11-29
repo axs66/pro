@@ -1063,24 +1063,6 @@ Name: Aria控制中心背景图
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/aria/js.json
 Sponsor: Axs
 
-Package: com.Axs.arise
-Version: 1.2.3
-Architecture: iphoneos-arm64
-Maintainer: EthanRDoesMC
-Installed-Size: 1492
-Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 13.0)
-Filename: ./debs/com.Axs.arise_1.2.3_iphoneos-arm64.deb
-Size: 823528
-MD5sum: 8e275cd002320d3e00d45c7759744685
-SHA1: b8f4f5f3661f8ee5d5464c0432b38871a6a746d4
-SHA256: 9c349f16fa7454e1857de13bf90f99b1317c271868412b7e568b60493e91980d
-Section: 系统增强
-Description: 自定义并自动化您的锁定屏幕。
-Author: EthanRDoesMC
-Icon: https://axs66.github.io/repo/icon/arise.png
-Name: Arise
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/arise/js.json
-
 Package: com.Axs.arizona
 Version: 0.9.2
 Architecture: iphoneos-arm64
