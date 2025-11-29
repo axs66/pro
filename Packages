@@ -7767,24 +7767,6 @@ Icon: https://axs66.github.io/repo/icon/replyactions.png
 Name: ReplyActions
 Sileodepiction: https://axs66.github.io/repo/sileodepiction/js.json
 
-Package: com.snail.autovpn.global
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 860
-Depends: mobilesubstrate (>= 0.9.5000),preferenceloader,com.opa334.altlist
-Filename: ./debs/com.snail.autovpn.global_1.0.0_iphoneos-arm64.deb
-Size: 215560
-MD5sum: 4e69091463e92a4c8f516b9626c9b971
-SHA1: 7c3d5815d337095ce4947431f4bbabb595aa047f
-SHA256: cf5f4da8db545b8fa9c497f7e70c7a924606d584ca2729b06029bcca69483d5a
-Section: 系统增强
-Description: 根据特定场景自动开启/关闭代理连接。
-Author: Snail
-Icon: https://axs66.github.io/repo/icon/autovpn.png
-Name: AutoVPN
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/autovpn/js.json
-
 Package: com.spark.libsparkapplist
 Version: 1.1.0
 Architecture: iphoneos-arm64e
