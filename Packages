@@ -562,17 +562,17 @@ Conflicts: MikotoHelper
 Replaces: MikotoHelper
 Provides: MikotoHelper
 Filename: ./debs/com.Axs.MikotoHelper_1.3.6_iphoneos-arm64.deb
-Size: 20912560
-MD5sum: 0ed12c9900ebe5829c50a052d8e9b6ff
-SHA1: 4829e2089484c5eb5954294e12953914064c37bf
-SHA256: 720ebbd12b78a34c256268ff7fe0a089d327a56cd8c5eb6049f153bd7ed11f1a
+Size: 20912528
+MD5sum: 8c42078ac54eb33a65c3ffb62b749ff0
+SHA1: 9b65f56791805f6b2be372c2ff828abd93444ca8
+SHA256: 0c6693c404ca359e299072249536cc182e447b58051ceb5db960a33d623f15db
 Section: 微信插件
 Priority: optional
 Description: 多功能微信插件，好友分组，群分组，自动抢红包，自动接收转账，图片套壳等。为Mikoto的免费无需授权的为爱发电版本。功能拓展：转发朋友圈，自动跟圈，布局修改，美化功能，视频套壳等。
 Author: Mikoto
-Icon: https://axs66.github.io/repo/icon/wechat.png
+Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: MikotoHelper破解版
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/MikotoHelper/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/MikotoHelper/js.json
 
 Package: com.Axs.MikotoHelper
 Version: 1.3.6-1
@@ -6712,10 +6712,10 @@ Maintainer: Axs
 Installed-Size: 48820
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.iface360.pandabeautyloader_1.2.0_iphoneos-arm64.deb
-Size: 20660328
-MD5sum: c759deb25d3f8fbc786a06038bbefed0
-SHA1: e118efd08d47317d5e2e3c1b983cc38baa2cc380
-SHA256: 626b37074d2a96ffb1fdcaaf3e90dd23d0b60232e894cdb9fa7f4a02eb386a7a
+Size: 20660296
+MD5sum: 4ba2be08be7c67db98fd86d84952843b
+SHA1: 4ea1a047cb0593313e8cec6b49950e3f1d9f77a6
+SHA256: e5eb3c70015a9bb384dd6d0246aa410f505431f10553156616ce470b9f016c54
 Section: 系统增强
 Homepage: Axs
 Description: 将视频美容效果添加到应用程序中！
@@ -6723,9 +6723,9 @@ Tag: purpose::extension
 Author: FinalStreamer
 Depiction: Axs
 Dev: finalstreamer
-Icon: https://axs66.github.io/repo/icon/pandabeautyloader.png
+Icon: https://axs66.github.io/pro/icon/pandabeautyloader.png
 Name: Panda Beauty Assistant(熊猫美颜助手)
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/pandabeautyloader/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/pandabeautyloader/js.json
 Sponsor: thebigboss.org
 
 Package: com.iosrxwy.heiheipay
