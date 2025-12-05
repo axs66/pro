@@ -7383,25 +7383,6 @@ Icon: https://img.chariz.cloud/icon/cask-3/icon@3x.png
 Name: Cask 3
 
 Package: com.spark.libsparkapplist
-Version: 1.1.0
-Architecture: iphoneos-arm64e
-Maintainer: Spark
-Installed-Size: 408
-Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./debs/com.spark.libsparkapplist_1.1.0_iphoneos-arm64e.deb
-Size: 26268
-MD5sum: 7f5379484f976bc982c7ff5a1ef35902
-SHA1: 32c22585856035c6989d108b1ceed03dbda6f2e7
-SHA256: 5b1d2c8b8dff2e1518e337f350379a587c6f0df6b2db59cf6661086ba4c0545e
-Section: Tweaks
-Description: AppList alternative
-Tag: role::developer
-Author: Spark
-Icon: https://axs66.github.io/pro/icon/libsparkapplist.png
-Name: libSparkAppList
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
-
-Package: com.spark.libsparkapplist
 Version: 1.1.0~rootless
 Architecture: iphoneos-arm64
 Maintainer: Spark
