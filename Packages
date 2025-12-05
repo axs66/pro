@@ -7388,11 +7388,11 @@ Architecture: iphoneos-arm64
 Maintainer: Spark
 Installed-Size: 408
 Filename: ./debs/com.spark.libsparkapplist_1.1.0~rootless_iphoneos-arm64.deb
-Size: 24928
-MD5sum: 29e344ff3439538cda2b8dd01ae78ffa
-SHA1: bc69480d43633dc30b5814d0278f2bce81a896ac
-SHA256: ed3c2fd2572100400eda178912aa7c458572ab5f539bce01a6ac4fb387d9b2e2
-Section: System
+Size: 24860
+MD5sum: 75de02b30e1dbdaf75f4022792555f42
+SHA1: 3d99af3e73a85d09a8ce53b09aa0061e562ed092
+SHA256: a8e211b5c310b9ef26fb4a67b375a272b5e2027b2aca87fd82631c87a440c598
+Section: Tweaks
 Description: AppList alternative
 Tag: role::developer
 Author: Spark
