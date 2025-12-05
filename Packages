@@ -4228,27 +4228,6 @@ Icon: https://axs6.github.io/repo/sileodepiction/sixls/sixls.png
 Name: ios6经典锁屏及声音
 Sileodepiction: https://axs6.github.io/repo/sileodepiction/sixls/js.json
 
-Package: com.Axs.sleipnizer5
-Version: 12.0.1
-Architecture: iphoneos-arm64
-Maintainer: r_plus <anasthasia.r+sleipnizer@gmail.com>
-Installed-Size: 1652
-Depends: mobilesubstrate (>= 0.9.6100), preferenceloader (>= 2.2.3), firmware (>= 15.0)
-Conflicts: jp.r-plus.sleipnizerlite, jp.r-plus.sleipnizerforsafari, jp.r-plus.sleipnizer, jp.r-plus.sleipnizer3, jp.r-plus.sleipnizer4
-Filename: ./debs/com.Axs.sleipnizer5_12.0.1_iphoneos-arm64.deb
-Size: 226044
-MD5sum: dae037b9eeeb3308cab7c9c2d8233f6c
-SHA1: c5d542192bc84c9c8280b35ab28e5a0a1e0256ac
-SHA256: 27231cfaeeadcb594f5ca9bad9979e082007f1858d70d7009fca0ca3e84744ab
-Section: Tweaks
-Priority: optional
-Description: convenient faster browsing with gestures
-Tag: cydia::commercial, purpose::extension
-Author: r_plus <anasthasia.r+sleipnizer@gmail.com>
-Dev: rplus
-Icon: file:///var/jb/Library/PreferenceBundles/SleipnizerSettings.bundle/Sleipnizer@2x.png
-Name: Sleipnizer for Safari (iOS 15-16)
-
 Package: com.Axs.smallbanners
 Version: 1.2-8
 Architecture: iphoneos-arm64
