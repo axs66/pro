@@ -619,6 +619,28 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: MikotoHelper
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/MikotoHelper/js.json
 
+Package: com.Axs.MikotoHelper
+Version: 1.3.6-7
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Mikoto
+Depends: mobilesubstrate
+Conflicts: MikotoHelper
+Replaces: MikotoHelper
+Provides: MikotoHelper
+Filename: ./debs/com.Axs.MikotoHelper_1.3.6-7_iphoneos-arm64.deb
+Size: 19259888
+MD5sum: 2603e0647ab0e4580fbb73150eb4f900
+SHA1: d91eb43f051841c60c0af88275f10998558ae2bc
+SHA256: 0d84ac46cfcbeb4aa5d76e4973be3a0b2530cf3d0e305c75c66c619e2ab9ef63
+Section: 微信插件
+Priority: optional
+Description: MikotoHelper
+Author: Mikoto
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: MikotoHelper
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/MikotoHelper/js.json
+
 Package: com.Axs.SwitchPro
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -5935,6 +5957,23 @@ Author: HuangBai
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 黄白助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechatHelper/js.json
+
+Package: com.HBWechatHelper.ailun
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: HuangBai
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_2.0.1_iphoneos-arm64.deb
+Size: 12841468
+MD5sum: 60b13922a3c9be73a794539d1f3e98b6
+SHA1: b9e3fdca5bfc7605550cd7c2ef480f14a4d2d394
+SHA256: c9f8912b57a7dd064801cf9142f2c9e7b4a2fc5a8b0c5fe09f694e65ecb800a9
+Section: 微信插件
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 黄白助手
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechat/js.json
 
 Package: com.anthopak.quickprefs-rootless
 Version: 1.3.3
