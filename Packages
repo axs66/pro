@@ -6261,6 +6261,35 @@ Icon: https://axs66.github.io/pro/images/cjms.png
 Name: Sileo越狱源介绍
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/sileo/js.json
 
+Package: com.axs.wechatenhancer
+Version: 1.0.0-30
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 520
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.axs.wechatenhancer_1.0.0-30_iphoneos-arm64.deb
+Size: 93090
+MD5sum: 68fe9f0f4816ad1bcf59570bfb20875d
+SHA1: d390f50b0e979a968bbf0de40357739854fad569
+SHA256: 97c3aa57f6a4dd0f8713b799bd642bab78797092db4204acb3ca515ec9035af8
+Section: 微信插件
+Description: 一个简单的微信插件。功能介绍：
+    *   1.钱途无限：支持群聊和私聊红包自动接收，可配置延迟和黑名单。
+    *   2.消息拦截：拦截并显示被撤回的消息内容，屏蔽指定群聊或联系人的消息。
+    *   3.游戏作弊：支持石头剪刀布和骰子游戏作弊。
+    *   4.步数修改：修改微信运动步数。
+    *   5.虚拟定位：修改朋友圈定位位置。
+    *   6.插件修改：自定义修改插件名称及版本。
+    *   7.其他功能：
+    *   7.1绕过越狱检测：绕过微信的越狱检测。
+    *   7.2自动登录：多设备登录自动确认。
+    *   7.3广告屏蔽：屏蔽朋友圈、小程序等广告。
+    *   7.4动态背景：开启后聊天界面呈现效果。
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatEnhancer
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechatenhancer/js.json
+
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
 Architecture: iphoneos-arm64
