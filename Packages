@@ -6326,6 +6326,35 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WeChatEnhancer
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/wechatenhancer/js.json
 
+Package: com.axs.wechatenhancer
+Version: 1.0.0-45
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 540
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.axs.wechatenhancer_1.0.0-45_iphoneos-arm64.deb
+Size: 96106
+MD5sum: 406f972de0d6ca327e2a0a09be790aa4
+SHA1: c7fe9c034b59093d85d19a7eb9bd02f4bf0b7ba4
+SHA256: 13cb98ffc29a7abddf716709748265557c04be424159dc73226dff80f9b18319
+Section: 微信插件
+Description: 一个简单的微信插件。功能介绍：
+    *   1.钱途无限：支持群聊和私聊红包自动接收，可配置延迟和黑名单。
+    *   2.消息拦截：拦截并显示被撤回的消息内容，屏蔽指定群聊或联系人的消息。
+    *   3.游戏作弊：支持石头剪刀布和骰子游戏作弊。
+    *   4.步数修改：修改微信运动步数。
+    *   5.虚拟定位：修改朋友圈定位位置。
+    *   6.插件修改：自定义修改插件名称及版本。
+    *   7.其他功能：
+    *      7.1绕过越狱检测：绕过微信的越狱检测。
+    *      7.2自动登录：多设备登录自动确认。
+    *      7.3广告屏蔽：屏蔽朋友圈、小程序等广告。
+    *      7.4动态背景：开启后聊天界面呈现效果。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: WeChatEnhancer
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/wechatenhancer/js.json
+
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -8070,6 +8099,25 @@ Size: 4775868
 MD5sum: eebd124ab223e5ca8f2bb26d3df2319f
 SHA1: 2980e929331177136111665fc28476359a2d5f23
 SHA256: 919bdc42831c3bac4f461c673bda9709c221123928b28b13015803de2c2974fe
+Section: 分屏插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://axs66.github.io/pro
+Icon: https://axs66.github.io/pro/icon/o2pro.png
+Name: o2Pro
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
+
+Package: xc.lzsxcl.o2pro
+Version: 18.0-Beta1-2
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 30636
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_18.0-Beta1-2_iphoneos-arm64.deb
+Size: 12619080
+MD5sum: 3e0348fe3c88ac72448a0934a4a96443
+SHA1: 0a487be017b61826bb7dabca20eb4b08513ffc31
+SHA256: 538ae798c3c98a00aa699872e710e1b38229a29d52b3fa095de1f73e7dc6a813
 Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
