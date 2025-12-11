@@ -3995,6 +3995,24 @@ Icon: https://axs66.github.io/pro/icon/qsyy.png
 Name: 汽水音乐
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/qsyy/js.json
 
+Package: com.Axs.qsyy
+Version: 1.2
+Architecture: iphoneos-arm64
+Maintainer: liwhs
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.qsyy_1.2_iphoneos-arm64.deb
+Size: 21836
+MD5sum: 593cd2c7a27cd1d72c98103732c4644a
+SHA1: 892f4b13ed5d064367ac8c3ff6b99b9c183d50f0
+SHA256: 58118741c0795a1aa4408315c33dd740a421d167f7f396908ea3ea33887e5558
+Section: Tweaks
+Description: 禁止开屏广告、秒过激励式视频
+Author: Starry6
+Icon: https://axs66.github.io/pro/icon/qsyy.png
+Name: 汽水音乐
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/qsyy/js.json
+
 Package: com.Axs.qzkwechat
 Version: 4.0-1
 Architecture: iphoneos-arm64
