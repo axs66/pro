@@ -1875,6 +1875,24 @@ Icon: https://axs66.github.io/pro/icon/dockx.png
 Name: DockX
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/dockx/js.json
 
+Package: com.Axs.dtzst
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 204
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.dtzst_1.0.0_iphoneos-arm64.deb
+Size: 19292
+MD5sum: 83af8a13c33e1e6bfd5c32e5ea6b8701
+SHA1: 7ca25a268e405d910f9e718c92bc41c95d47eb44
+SHA256: 9b6c4e7437d7f1ceb3ca845aed9a3136f5ed5899964e30dc98e25bd08044917f
+Section: 微信插件
+Description: 动态圆角动态装饰图!
+Author: liuf
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 圆角动态装饰图
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
 Package: com.Axs.dynamicislandanimation
 Version: 1.1.8
 Architecture: iphoneos-arm64
@@ -6268,10 +6286,10 @@ Maintainer: Axs
 Installed-Size: 520
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.axs.wechatenhancer_1.0.0-30_iphoneos-arm64.deb
-Size: 93090
-MD5sum: 68fe9f0f4816ad1bcf59570bfb20875d
-SHA1: d390f50b0e979a968bbf0de40357739854fad569
-SHA256: 97c3aa57f6a4dd0f8713b799bd642bab78797092db4204acb3ca515ec9035af8
+Size: 93184
+MD5sum: 813b6f20e6004e00157923184b22faf0
+SHA1: f2bea1912fd87821c226b5d70d75d4f0d2a89df9
+SHA256: f1167a91da9b359147181edc962578a1f37cc82a61cd9975ecc876c8a1284826
 Section: 微信插件
 Description: 一个简单的微信插件。功能介绍：
     *   1.钱途无限：支持群聊和私聊红包自动接收，可配置延迟和黑名单。
@@ -6286,9 +6304,9 @@ Description: 一个简单的微信插件。功能介绍：
     *   7.3广告屏蔽：屏蔽朋友圈、小程序等广告。
     *   7.4动态背景：开启后聊天界面呈现效果。
 Author: Axs
-Icon: https://axs66.github.io/repo/icon/wechat.png
+Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WeChatEnhancer
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechatenhancer/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/wechatenhancer/js.json
 
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
