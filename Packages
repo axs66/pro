@@ -5910,6 +5910,24 @@ Icon: https://axs66.github.io/pro/icon/zfk.png
 Name: 主副卡自定义图片
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/zfk/js.json
 
+Package: com.Axs.zgnyyh
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 2072
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.zgnyyh_0.0.1_iphoneos-arm64.deb
+Size: 360768
+MD5sum: 5417e64b48cf6f0fea19b3871ddc4e24
+SHA1: f61435ed82e889f6e3c70b018acf220a163409a2
+SHA256: 09edec95ea074f2f992b938884908f5b908a1451a4b6063bd1769ca0c82d42c0
+Section: Tweaks
+Description: 关闭任何屏蔽、安装即用、测试支持10.2.1版本！
+Author: 🄷🅆
+Icon: https://axs66.github.io/pro/icon/zgnyyh.png
+Name: 农行屏蔽
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/zgnyyh/js.json
+
 Package: com.Axs.zhedie
 Version: 1.0.0-196
 Architecture: iphoneos-arm64
