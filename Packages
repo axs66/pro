@@ -6058,10 +6058,10 @@ Maintainer: Axs
 Installed-Size: 996
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.axs.newfeature.core_5.2.0-118_iphoneos-arm64.deb
-Size: 206712
-MD5sum: 3b3251bf7d8280ab95146b32577a21c7
-SHA1: 2603165995f2443854c381135865220b156f8aaf
-SHA256: 443e9db046693b5ab664be4123734d68fcacd1908b9c3d1d72441c291f618234
+Size: 207964
+MD5sum: 45b28269e44dbd23a6fcd4a9f5f31394
+SHA1: 30ee3ba387c2eb16fda7a396e69ab296c456e70b
+SHA256: e3f8f0d4a0dd5d8bbe0615dd59f59fc54a867614cdbd2d1ada5b9babd6c818a8
 Section: 微信插件
 Description: 一个简单的微信插件。功能介绍：
     *   1.账号信息：用户信息、应用信息、签名信息。
@@ -6077,9 +6077,9 @@ Description: 一个简单的微信插件。功能介绍：
     *   6.5时间背景（支持PNG/GIF素材自定义）、SVG图标随机颜色。
     *   7.其他功能：微信输入法隐藏Logo、隐藏我的二维码、图片边缘点击关闭、图片信息扩展、微信去广告、绕过越狱检测、自动登录、朋友圈消息尾巴、动态背景。
 Author: Axs
-Icon: https://axs66.github.io/repo/icon/wechat.png
+Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: NewFeature
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/newfeature/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/newfeature/js.json
 
 Package: com.axs.rma
 Version: 1.0
