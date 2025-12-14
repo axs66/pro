@@ -6051,6 +6051,36 @@ Icon: https://axs66.github.io/pro/icon/lockplayer.png
 Name: LockPlayer 锁屏迷你播放器
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/lockplayer/js.json
 
+Package: com.axs.newfeature.core
+Version: 5.2.0-118
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 996
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.axs.newfeature.core_5.2.0-118_iphoneos-arm64.deb
+Size: 206472
+MD5sum: 6a4fd0c0b5902dbc6ce21755adbf3c4f
+SHA1: 31684ee1b689abe52d180bc810d140d1d8221885
+SHA256: 3051c277e800bf9a12125fc1ef459edbf454103ef429a8b898f6db606de042ab
+Section: 微信插件
+Description: 一个简单的微信插件。功能介绍：
+    *   1.账号信息：用户信息、应用信息、签名信息。
+    *   2.内测功能：微信各版本灰度功能提前享用。
+    *   3.输入窗口：聊天界面输入框美化及增强功能。
+    *   4.实用功能：抢红包、游戏作弊、步数修改、虚拟定位、消息防撤回、消息屏蔽、消息引用、引用消息点击跳转、全屏三击截图、全屏返回手势、首页列表长按预览、隐藏微信号、朋友圈显示详细时间。
+    *   5.附件布局：聊天功能面板 2x5布局(可自定义排序）。
+    *   6.美化功能（SVIP群享受）：
+    *   6.1微信头像-自定义主页和聊天界面的微信头像位置，即在线状态，头像周边自定义特效。
+    *   6.2微信铭牌-支持微信群聊界面，昵称后面显示铭牌（支持png/gif素材）。
+    *   6.3首页+号背景、消息长按菜单背景、底部背景、底栏背景、顶栏背景等均支持png、gif、mp4、mov素材。
+    *   6.4底栏背景：隐藏系统图标文字、背景、分割线、点击特效、图标偏移等。
+    *   6.5时间背景（支持PNG/GIF素材自定义）、SVG图标随机颜色。
+    *   7.其他功能：微信输入法隐藏Logo、隐藏我的二维码、图片边缘点击关闭、图片信息扩展、微信去广告、绕过越狱检测、自动登录、朋友圈消息尾巴、动态背景。
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: NewFeature (核心功能版)
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/newfeature/js.json
+
 Package: com.axs.rma
 Version: 1.0
 Architecture: iphoneos-arm64
