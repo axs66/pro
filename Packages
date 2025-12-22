@@ -7463,6 +7463,23 @@ Icon: https://axs66.github.io/pro/icon/snowboard.png
 Name: SnowBoard
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.spark.snowboard.dock
+Version: 1.1.3~Beta4-rootless
+Architecture: iphoneos-arm64
+Maintainer: Spark
+Installed-Size: 440
+Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
+Filename: ./debs/com.spark.snowboard.dock_1.1.3~Beta4-rootless_iphoneos-arm64.deb
+Size: 32048
+MD5sum: 336a60364a3e0a165252d903114c10ee
+SHA1: 76520ab84a7462c01b61a872af942679e22e8374
+SHA256: afcbac02aea69669d1d52f38b05b34352fcbfc1deccb4f4bb36403ee2c352a90
+Section: SnowBoard Extensions
+Description: Dock for SnowBoard
+Author: Spark
+Icon: https://axs66.github.io/pro/icon/snowboard.png
+Name: SnowBoard Dock Extension
+
 Package: com.spark.snowboard.effects
 Version: 1.2.2-Beta2-rootless
 Architecture: iphoneos-arm64
