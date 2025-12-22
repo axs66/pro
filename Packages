@@ -7470,11 +7470,11 @@ Maintainer: Spark
 Installed-Size: 440
 Depends: mobilesubstrate, com.spark.snowboard (>= 1.2.100)
 Filename: ./debs/com.spark.snowboard.dock_1.1.3~Beta4-rootless_iphoneos-arm64.deb
-Size: 32048
-MD5sum: 336a60364a3e0a165252d903114c10ee
-SHA1: 76520ab84a7462c01b61a872af942679e22e8374
-SHA256: afcbac02aea69669d1d52f38b05b34352fcbfc1deccb4f4bb36403ee2c352a90
-Section: SnowBoard Extensions
+Size: 32216
+MD5sum: 21afc4cb2c1eedd980f0c902e80555c2
+SHA1: bd27b75686f846b08b2aca52aecf18c25e2dd352
+SHA256: 7b63ff09c06ba7fdc095810f2ba9f2374f29a9e2e5b9db176b6bc7b6dbad853e
+Section: 滑雪板
 Description: Dock for SnowBoard
 Author: Spark
 Icon: https://axs66.github.io/pro/icon/snowboard.png
