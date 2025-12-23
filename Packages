@@ -2247,6 +2247,24 @@ Icon: https://axs66.github.io/pro/icon/filza.png
 Name: Filza Crack
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.Axs.filzacrack
+Version: 1.1-9
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: com.netskao.filzacrack, netskao.filzacrack-rootless
+Filename: ./debs/com.Axs.filzacrack_1.1-9_iphoneos-arm64.deb
+Size: 28804
+MD5sum: 030a1ddf372f6b822550d3a6e4cdcb6f
+SHA1: fbf227feb99602035f38a996af035a7d9936fd48
+SHA256: 260dce95397f44f06a756a6f8740a17024f2b7c8d4f541ca280652363da0aac0
+Section: Tweaks
+Description: Filza解锁全部功能，请在官方源安装Filza。Netskao新更的版本，上架备份。
+Author: Netskao
+Icon: https://axs66.github.io/pro/icon/filza.png
+Name: Filza Crack
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/filzacrack/js.json
+
 Package: com.Axs.filzaswipeselect
 Version: 0.0.2
 Architecture: iphoneos-arm64
@@ -4113,6 +4131,24 @@ Icon: https://axs66.github.io/pro/icon/ShowMyTouches.png
 Name: ShowMyTouches触摸轨迹
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.Axs.singlevpn
+Version: 2.1-2
+Architecture: iphoneos-arm64
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 404
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.Axs.singlevpn_2.1-2_iphoneos-arm64.deb
+Size: 34632
+MD5sum: 0483db2dd8b695e91d8b90b26b4b5048
+SHA1: 37e340b3d51ab4c4d4010e5b92375d2ce8c07053
+SHA256: 04edfd10214cbe5db69ad374ec05e0b3418e4e2948d06eb7b554f31ac7413fb0
+Section: Tweaks
+Description: Combine VPN state and wireless state into one icon.
+Author: 82Flex
+Icon: https://axs66.github.io/pro/icon/singlevpn.png
+Name: Single VPN
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/singlevpn/js.json
+
 Package: com.Axs.sixls
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -5210,6 +5246,24 @@ Size: 21996
 MD5sum: 5c64317e2a72fcef68394b25b8fd14a9
 SHA1: 28e6c0d19725d01f2cebfc6fdd11ff346e4cf97a
 SHA256: 1d67972109c61ea9e2b86c908f813df1dcbaf9522ebbb448b3b0f64cb5a3539f
+Section: 微信插件
+Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
+Author: be-huge
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: WeChatPopVC返回手势
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/wechat-pop-vc/js.json
+
+Package: com.Axs.wechat-pop-vc
+Version: 0.0.5
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 232
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.Axs.wechat-pop-vc_0.0.5_iphoneos-arm64.deb
+Size: 22080
+MD5sum: 773a0e8fd55d8745a468225c7b83b9c2
+SHA1: 0cbe90e6bfb2e683a7420d90471a044e5189fa6c
+SHA256: 8bedf6cef8124900886aa46c0376741d8efcf473f1a3b9993fbfe1cd97b1ca51
 Section: 微信插件
 Description: 微信全局右滑手势，弥补官方只能屏幕侧边返回上一页局限性，提高用户体验。
 Author: be-huge
