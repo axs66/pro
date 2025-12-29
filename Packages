@@ -3496,63 +3496,6 @@ Name: HideSerialNumber
 Sponsor: Axs
 
 Package: com.Axs.o2pro
-Version: 18.0-Beta1-13
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 30572
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/com.Axs.o2pro_18.0-Beta1-13_iphoneos-arm64.deb
-Size: 12602176
-MD5sum: eb5f34d74fc27a3992d9206d2befcd37
-SHA1: 78e5f33d963a8d2734c18c50fe713f4403bef425
-SHA256: 60f4fb035cbd0e7cd420b5692200826f7eb68e537d837a0d60659f5b8d12332d
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/pro
-Icon: https://axs66.github.io/pro/icon/o2pro.png
-Name: o2Pro（17.0专版）
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
-
-Package: com.Axs.o2pro
-Version: 18.0-Beta3-1
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 30764
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/com.Axs.o2pro_18.0-Beta3-1_iphoneos-arm64.deb
-Size: 12689768
-MD5sum: 47593134acafdb66d53eedb77d817a71
-SHA1: b172ece7e46070a74b1885f3da12c824652681d1
-SHA256: 84faf868249ea039657bc3ade004b6b21aac9e2da8fa47e957d85795fbdb967a
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/pro
-Icon: https://axs66.github.io/pro/icon/o2pro.png
-Name: o2Pro（17.0专版）
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
-
-Package: com.Axs.o2pro
-Version: 18.0-Beta3-17
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 30908
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/com.Axs.o2pro_18.0-Beta3-17_iphoneos-arm64.deb
-Size: 12748348
-MD5sum: 8188aa43f787d79c9d3d9458bcd59620
-SHA1: 5e98efe6343771bc9bbfaf8ec0e623d9c245544a
-SHA256: 8b76058dcce0d0923fffabfb726fb3d49e91f4f07d223f2bfaa426410c9966cd
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/pro
-Icon: https://axs66.github.io/pro/icon/o2pro.png
-Name: o2Pro（17.0专版）
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
-
-Package: com.Axs.o2pro
 Version: 18.0-Beta4-7
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
