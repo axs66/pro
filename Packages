@@ -1123,6 +1123,24 @@ Icon: https://axs66.github.io/pro/icon/arizona.png
 Name: Arizona 锁屏美化
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/arizona/js.json
 
+Package: com.Axs.autolockscreen
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.autolockscreen_1.0.0_iphoneos-arm64.deb
+Size: 3700
+MD5sum: e9886a97ae2694ced65bfb33ccfff450
+SHA1: 5f12bb50eb97a4eb3b013cf1a0dd8b192de8e88d
+SHA256: d09eea9f33d6b4543dfad8ddadcb57f4b97e412e5c72a368376f6fb24214fd92
+Section: Tweaks
+Description: Screen facing down, automatically locks.
+Author: A
+Icon: https://axs66.github.io/pro/icon/autolockscreen.png
+Name: Auto LockScreen
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/autolockscreen/js.json
+
 Package: com.Axs.autoscroll
 Version: 1.0.5
 Architecture: iphoneos-arm64
@@ -1340,6 +1358,25 @@ Author: PoomSmart <qiaozhani000@163.com>
 Icon: https://axs66.github.io/pro/icon/blurrybadges.png
 Name: BlurryBadges角标颜色自适应
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
+Package: com.Axs.boardswipe
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1036
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.boardswipe_1.0.0_iphoneos-arm64.deb
+Size: 486888
+MD5sum: 0e58cf129e15bb35447d0684f12e7bd6
+SHA1: 4082e39fbe62d0419a286bce83d4b221dd9f32af
+SHA256: a931bfced4ce1745c9b3f60426edd40347e8831066543ede6ee10436f4dae908
+Section: Tweaks
+Description: Swipe down to dismiss keyboard, swipe up to switch keyboards。向下滑动可关闭键盘，向上滑动可切换键盘。
+Author: Anubis
+Depiction: https://axs66.github.io/pro
+Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/icons/boardswipe/icon.png
+Name: BoardSwipe 滑动键盘
+Sileodepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/boardswipe/boardswipe.json
 
 Package: com.Axs.bounceit
 Version: 1.0.4
@@ -1559,6 +1596,24 @@ Author: 🐶
 Icon: https://axs66.github.io/pro/icon/ccuiplayer.png
 Name: CCUIPlayer 控制中心音频背景
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ccuiplayer/js.json
+
+Package: com.Axs.ccweathermodule
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: simon
+Installed-Size: 380
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.Axs.ccweathermodule_1.0.0_iphoneos-arm64.deb
+Size: 87096
+MD5sum: 87dbd696417eb6c00e7e890eca4c5019
+SHA1: b8c7655ec6eee03aa4fff02560149f81c028f82e
+SHA256: 02c72b739aa49297e21f4562b40c2c032906796d3668279a0f3059f56fba135a
+Section: 控制中心
+Description: 控制中心的天气模块。 显示当前天气、温度和每小时预报。
+Author: simon
+Icon: https://axs66.github.io/pro/icon/ccweathermodule.png
+Name: CCWeather Module
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ccweathermodule/js.json
 
 Package: com.Axs.cellbadge
 Version: 1.0.0
@@ -2793,6 +2848,24 @@ Description:
 Author: waruhachi
 Icon: https://axs66.github.io/pro/icon/jikan.png
 Name: 锁屏显示充电剩余时间
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/jikan/js.json
+
+Package: com.Axs.jikan
+Version: 2.2-1+debug
+Architecture: iphoneos-arm64
+Maintainer: waruhachi
+Installed-Size: 528
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.jikan_2.2-1+debug_iphoneos-arm64.deb
+Size: 48464
+MD5sum: 3a1458bdde31e1525889804ded2df5e8
+SHA1: d7f89474cb2cad88b5384a32586ddd682ec79797
+SHA256: 7729dd2bf4d75b001f3aef558e336ebd867efc8c22b2924c315f21f89981792f
+Section: Tweaks
+Description: Show estimate time left to full charge on your lock screen
+Author: waruhachi
+Icon: https://axs66.github.io/pro/icon/jikan.png
+Name: Jikan 锁屏显示充电剩余时间
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/jikan/js.json
 
 Package: com.Axs.jptext
