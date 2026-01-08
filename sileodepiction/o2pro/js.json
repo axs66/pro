@@ -98,17 +98,17 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "18.0-Beta6-5",
+                    "text": "18.5-1",
                     "title": "插件版本"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "iOS 14 - iOS 17.0",
+                    "text": "iOS 15 - iOS 17.0",
                     "title": "支持系统"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2025 年 12 月 29 日",
+                    "text": "2026 年 1 月 9 日",
                     "title": "最后更新"
                 }
             ]
@@ -117,6 +117,13 @@
             "class": "DepictionStackView",
             "tabname": "更新",
             "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "### 18.5-1\n1.新增小折叠/URL 分屏/导播台预览。\n2.此版本对内测用户支持了悬浮键盘功能，iOS15/16/17都支持。",
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
                 {
                     "class": "DepictionMarkdownView",
                     "markdown": "### 18.0-Beta6-5\n1.新增小折叠功能（内部独享）。\n2.修复侧栏。\n3.此版本ios16/17.0均可使用。",
