@@ -3568,25 +3568,6 @@ Author: ichitaso
 Name: HideSerialNumber
 Sponsor: Axs
 
-Package: com.Axs.o2pro
-Version: 18.0-Beta4-7
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 31472
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/com.Axs.o2pro_18.0-Beta4-7_iphoneos-arm64.deb
-Size: 13192968
-MD5sum: 42bc08b813c4e83e1c8c7b280c791a36
-SHA1: f40836103e6e8c37aeb2b77038466fa591384d47
-SHA256: 07f0a70d031f30f5f06a896b8a118709367fc26c6c662ef7e14b33785aaf736c
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/pro
-Icon: https://axs66.github.io/pro/icon/o2pro.png
-Name: o2Pro（17.0专版）
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
-
 Package: com.Axs.ocd5
 Version: 5.4.1.1
 Architecture: iphoneos-arm64
@@ -8270,6 +8251,25 @@ Size: 13332728
 MD5sum: f8d317901d4440cbdbfed04cb8c7b573
 SHA1: 90ccd900ef0de59411d007fb01c8fca58bb00192
 SHA256: 9766c4bdd68fa9992c00f3c54f2910929904a6e286c4372a3f68de7c3c6abb1a
+Section: 分屏插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://axs66.github.io/pro
+Icon: https://axs66.github.io/pro/icon/o2pro.png
+Name: o2Pro
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
+
+Package: xc.lzsxcl.o2pro
+Version: 18.5-1
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 32064
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_18.5-1_iphoneos-arm64.deb
+Size: 13499884
+MD5sum: 76acd011747acab0ec8450cff424429f
+SHA1: 50e93705cdd43415e83cf27e273835b292c80f09
+SHA256: 7862090d210784eca3894b1e0f10a5e297c36fca053e2f8d8a84b69c14166ffe
 Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
