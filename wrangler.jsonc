@@ -1,0 +1,5 @@
+{
+  "name": "pro",
+  "compatibility_date": "2026-01-09",
+  "main": "src/index.ts"
+}
