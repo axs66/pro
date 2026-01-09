@@ -6342,6 +6342,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WeChatEnhancer
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/wechatenhancer/js.json
 
+Package: com.axs.wechatsong
+Version: 5.2.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 340
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.axs.wechatsong_5.2.0_iphoneos-arm64.deb
+Size: 50492
+MD5sum: aa36e17ce15e896cc28e7e8b1971427a
+SHA1: f38e21514aab0a20d6e3a47ad9e3ffeb3597de68
+SHA256: 2cca650b90d430e633c22700484c44b92352768556a837d4fe30481ccd247fa6
+Section: 微信插件
+Description: 一个简单的微信插件。
+Author: Axs
+Icon: https://axs66.github.io/repo/icon/wechat.png
+Name: WeChatSong
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/wechatsong/js.json
+
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
 Architecture: iphoneos-arm64
