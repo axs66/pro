@@ -34,6 +34,7 @@ Codename: axs
 Architectures: iphoneos-arm64 iphoneos-arm64e iphoneos-arm
 Components: main
 Description: 自用插件分享，有问题请卸载！！！
+Icon: https://apt.138686.xyz/CydiaIcon.png
 EOF
 
 echo "✅ Repository metadata generated successfully."
