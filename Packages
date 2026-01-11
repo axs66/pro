@@ -3784,6 +3784,24 @@ Icon: https://axs66.github.io/pro/icon/prokeys.png
 Name: ProKeys键盘特效
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/prokeys/js.json
 
+Package: com.Axs.qishui
+Version: 1.0.0-129
+Architecture: iphoneos-arm64
+Maintainer: 黑猫
+Installed-Size: 568
+Depends: firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.Axs.qishui_1.0.0-129_iphoneos-arm64.deb
+Size: 58004
+MD5sum: 47edb5946c12e8d38a49679d78030e1c
+SHA1: a754e8d0ef8ce43c2aea3d8d1ea5cf52b90005cf
+SHA256: d33be8094e927825c8d5dc719d5a485faf5090591408ff4c64db3bd0ee38f34a
+Section: Tweaks
+Description: 实时显示汽水音乐的歌词到屏幕上，歌词可自由拖动，支持自定义歌词颜色、样式和伪音量柱状图，不支持mv，退出汽水音乐后10秒内会自动隐藏歌词显示
+Author: 黑猫
+Icon: https://axs66.github.io/pro/icon/qsyy.png
+Name: 汽水歌词
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/qsyy/js.json
+
 Package: com.Axs.qnsmw
 Version: 1.0.0-8
 Architecture: iphoneos-arm64
