@@ -1727,6 +1727,24 @@ Icon: https://axs66.github.io/pro/icon/cilizhai.png
 Name: 磁力宅播放器vip
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/cilizhai/js.json
 
+Package: com.Axs.classdumptweak
+Version: 3.7.0-1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1284
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.Axs.classdumptweak_3.7.0-1_iphoneos-arm64.deb
+Size: 251460
+MD5sum: 6b4e2d8113813f3564ad54dbc9233052
+SHA1: bbbf4a832d7630e3b83e31a59b001b23e50f5f3a
+SHA256: e156e2e72ec671ad974ab3ab748c23b1a6defbaa7ea1f03c288805f50e9c54dd
+Section: Tweaks
+Description: 运行时类导出工具，带悬浮球界面。支持 rootless 越狱
+Author: A
+Icon: https://axs66.github.io/pro/icon/classdumptweak.png
+Name: ClassDumpTweak
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/classdumptweak/js.json
+
 Package: com.Axs.classicfolders
 Version: 3.0.6
 Architecture: iphoneos-arm64
@@ -2465,6 +2483,24 @@ Size: 50836
 MD5sum: f3ceb28dabb055ac5454ff8c7a49c6bc
 SHA1: 4d2eb3cef6d695eae64dab7d1936f4350fc51788
 SHA256: de474bbe7dc8408beceae688009bcf6b4a473c7f9ecc845303edba5ed358cf6a
+Section: Tweaks
+Description: 悬浮歌词显示插件 - 在屏幕上实时显示当前播放的歌词，支持苹果音乐，汽水音乐，qq音乐等等。
+Author: xwzios
+Icon: https://axs66.github.io/pro/icon/floatlyrics.png
+Name: FloatLyrics 悬浮歌词
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/floatlyrics/js.json
+
+Package: com.Axs.floatlyrics
+Version: 1.0.0-14+debug
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 548
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.floatlyrics_1.0.0-14+debug_iphoneos-arm64.deb
+Size: 47040
+MD5sum: d13a9aa532c2a43b51eaee26076f7f7f
+SHA1: 98d13720081cc0746840e7bcfeba5d1e72068db8
+SHA256: 0b32aabac1415e557b275c6402bbef797e1e403b060cb3ff259e2044bd1a8ad5
 Section: Tweaks
 Description: 悬浮歌词显示插件 - 在屏幕上实时显示当前播放的歌词，支持苹果音乐，汽水音乐，qq音乐等等。
 Author: xwzios
