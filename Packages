@@ -3248,6 +3248,24 @@ Icon: https://axs66.github.io/pro/icon/llswitch.png
 Name: 笑脸开关
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/llswitch/js.json
 
+Package: com.Axs.lockbuttonx
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Nightwind
+Installed-Size: 216
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.4)
+Filename: ./debs/com.Axs.lockbuttonx_0.0.1_iphoneos-arm64.deb
+Size: 22840
+MD5sum: f729c4c829e2aef16488ae99c3e5ec65
+SHA1: 9ad986243585599e7fc4b2bcc22f9ec3eff32a29
+SHA256: 689e12345aa514efba1ffe559e04dac891043de8d5d74cc28fef70cebdeed8d6
+Section: Tweaks
+Description: 长按电源键呼出电源菜单，无设置，安装生效。
+Author: Nightwind
+Icon: https://axs66.github.io/pro/icon/lockbuttonx.png
+Name: LockButtonX
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/lockbuttonx/js.json
+
 Package: com.Axs.lockmusic
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -8452,4 +8470,23 @@ Depiction: https://axs66.github.io/pro
 Icon: https://axs66.github.io/pro/icon/o2pro.png
 Name: o2Pro
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
+
+Package: xc.lzsxcl.o2pro
+Version: 18.7-1
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 32200
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_18.7-1_iphoneos-arm64.deb
+Size: 13591720
+MD5sum: 11b49bf835a0fdf34b12640bf8c2791a
+SHA1: cbd0da6a78a026fcad6fcf2e386b1ebaf105085a
+SHA256: 8e33dd717471960f67def5c540735348fe812e30c259c46f9a951bc1b385acdf
+Section: 分屏插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://axs66.github.io/pro
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: o2Pro
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
