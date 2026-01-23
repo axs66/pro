@@ -894,6 +894,28 @@ Icon: https://axs66.github.io/pro/icon/trollopen.png
 Name: Trollopen联动Aerial
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopen/js.json
 
+Package: com.Axs.afc2d
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 343
+Depends: cy+cpu.arm64, mobilesubstrate, firmware (>= 11.0)
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2, com.cannathea.afc2d-arm64
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Provides: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2
+Filename: ./debs/com.Axs.afc2d_1.2.1_iphoneos-arm64.deb
+Size: 12460
+MD5sum: 1f101e7d499298a60e6ab059639f055c
+SHA1: 141f63e2cb237b54cb28309b6597119af114a69c
+SHA256: 00c7ddc7dd842a37b19801202a00eb266282113b9133bf13a97a32ae4f34d04c
+Section: 系统增强
+Description: 允许设备通过USB访问完整的文件系统，对iOS11及更高版本的设备特别有用。
+Author: Saurik, Cannathea
+Icon: https://axs66.github.io/pro/icon/afc2d.png
+Name: AppleFileConduit2电脑访问手机文件
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/afc2d/js.json
+Sponsor: Axs
+
 Package: com.Axs.afhook
 Version: 3.5.0
 Architecture: iphoneos-arm64
@@ -3820,6 +3842,26 @@ Icon: https://axs66.github.io/pro/icon/pogr.png
 Name: PodsGrant耳机弹窗
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/pogr/js.json
 
+Package: com.Axs.pogr
+Version: 0.5.2
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Conflicts: com.lns.pogr
+Filename: ./debs/com.Axs.pogr_0.5.2_iphoneos-arm64.deb
+Size: 74996
+MD5sum: ce2678fa84e18159d96a4e1d8cd98718
+SHA1: 194371ecbd3534bfde1ca941219b9bc96af2f6d2
+SHA256: 28f57ba046ffce02dbadcfc9f80ec1630460025e94a5cb25e772151f7e8b830b
+Section: AirPods
+Description: 提高低系统与新 AirPods 兼容性
+ * Tweak for better AirPods compatibility on old devices
+Author: Ruphane
+Icon: https://axs66.github.io/pro/icon/pogr.png
+Name: AirPods PodsGrant
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/pogr/js.json
+
 Package: com.Axs.primalfolder2
 Version: 0.1.2
 Architecture: iphoneos-arm64
@@ -5099,6 +5141,24 @@ Name: Visionos 仿iOS26主题
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/visionos/js.json
 Sponsor: 百度主题源
 
+Package: com.Axs.voiceclone
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 4688
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.voiceclone_0.0.1_iphoneos-arm64.deb
+Size: 1698816
+MD5sum: ecaefea9c4012bc7b43840556bd49771
+SHA1: 49c50e15934d871fcbcd9841076867d7cb01106c
+SHA256: e13311d53870f139cc6b3835e06bf254624e73f2b324c6ab2a921eec6da47ae0
+Section: 微信插件
+Description: Voice Clone Tweak for WeChat
+Author: Apibug
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: ApibugVoiceClone
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/voiceclone/js.json
+
 Package: com.Axs.volume-manager
 Version: 1.0.3
 Architecture: iphoneos-arm64
@@ -5894,6 +5954,22 @@ Author: Brend0n <qiaozhani000@163.com>
 Icon: https://axs66.github.io/pro/icon/settings.png
 Name: 注销不锁屏
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
+Package: com.CBZ.82crack
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: CBZ
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.CBZ.82crack_0.0.2_iphoneos-arm64.deb
+Size: 30952
+MD5sum: 1a45d88b9613cb5bc1d1b2de82dd9f0e
+SHA1: 0003f72a293607fa40f61cbe648496c173a6d748
+SHA256: e9c1a71fbb7d6ba52a20d51ab10d186f3010da40195137e479394f567f8b4533
+Section: 插件破解
+Description: ColorfulWallPaperX, Touch-Viz,Write.
+Author: CBZ
+Depiction: https://t.me/wxfx8
+Name: 82Crack
 
 Package: com.Doki.kbstyle
 Version: 1.1
