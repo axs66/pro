@@ -8596,3 +8596,22 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: o2Pro
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: xc.lzsxcl.o2pro
+Version: 18.8-1
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 32236
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_18.8-1_iphoneos-arm64.deb
+Size: 13576392
+MD5sum: b5f923ddb195905d61207147c8e60521
+SHA1: 5f99bee1378b09d3e6a926d352502f2c1ed1eda0
+SHA256: c354f99e4d8e6bcc1a0461c4d5181169ca003926f7d058c0cc900a740ca17c99
+Section: 分屏插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://axs66.github.io/pro
+Icon: https://axs66.github.io/pro/icon/o2pro.png
+Name: o2Pro
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
+
