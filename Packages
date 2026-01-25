@@ -3850,11 +3850,11 @@ Installed-Size: 480
 Depends: mobilesubstrate (>= 0.9.5000)
 Conflicts: com.lns.pogr
 Filename: ./debs/com.Axs.pogr_0.5.2_iphoneos-arm64.deb
-Size: 74996
-MD5sum: ce2678fa84e18159d96a4e1d8cd98718
-SHA1: 194371ecbd3534bfde1ca941219b9bc96af2f6d2
-SHA256: 28f57ba046ffce02dbadcfc9f80ec1630460025e94a5cb25e772151f7e8b830b
-Section: AirPods
+Size: 75004
+MD5sum: fbf18b0ccf618191028ae1e83113a889
+SHA1: a7c7a55953bf42e54b44704a3bfa4f91126102b8
+SHA256: 397c5cb35475f7769ddbd2ea7060685d99bc8e6a5d8e231d2f6ed57aefc61c9c
+Section: Tweaks
 Description: 提高低系统与新 AirPods 兼容性
  * Tweak for better AirPods compatibility on old devices
 Author: Ruphane
@@ -4981,6 +4981,24 @@ Icon: https://axs66.github.io/pro/icon/trollleds.png
 Name: TrollLEDs手电筒
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.Axs.trollopenextension
+Version: 0.3.2-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.Axs.trollopenextension_0.3.2-1+debug_iphoneos-arm64.deb
+Size: 49492
+MD5sum: 460a9c3f51843079b78f8b624fd04bcb
+SHA1: f6e9214ac02d2002d5176457c1561689f9b393b4
+SHA256: 81395821bbdf61f4e347d2338c1b2128535fbf80e38b26c91ef6cdff792804cb
+Section: Tweaks
+Description: 这是 TrollOpen 的越狱扩展插件，并不能单独生效，主体是trollopen的ipa程序。
+Author: Charlie Leung
+Icon: https://axs66.github.io/pro/icon/trollopen.png
+Name: TrollOpen扩展插件
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopen/js.json
+
 Package: com.Axs.trollpad
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -5154,6 +5172,24 @@ SHA1: 49c50e15934d871fcbcd9841076867d7cb01106c
 SHA256: e13311d53870f139cc6b3835e06bf254624e73f2b324c6ab2a921eec6da47ae0
 Section: 微信插件
 Description: Voice Clone Tweak for WeChat
+Author: Apibug
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: ApibugVoiceClone
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/voiceclone/js.json
+
+Package: com.Axs.voiceclone
+Version: 1.0.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 4040
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.voiceclone_1.0.3_iphoneos-arm64.deb
+Size: 1442608
+MD5sum: f2f3efad135ef3b280a6c67278869393
+SHA1: f7b8f98cafaabbc0818398062bb64b29864c42c1
+SHA256: ca29977d3c7d69c8a4d0da74d82268bdf0573bebf8ae7dab3a487217f3cdc560
+Section: 微信插件
+Description: 微信聊天界面中将文本转换为自定义语音
 Author: Apibug
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: ApibugVoiceClone
@@ -5961,11 +5997,11 @@ Architecture: iphoneos-arm64
 Maintainer: CBZ
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.CBZ.82crack_0.0.2_iphoneos-arm64.deb
-Size: 30952
-MD5sum: 1a45d88b9613cb5bc1d1b2de82dd9f0e
-SHA1: 0003f72a293607fa40f61cbe648496c173a6d748
-SHA256: e9c1a71fbb7d6ba52a20d51ab10d186f3010da40195137e479394f567f8b4533
-Section: 插件破解
+Size: 31024
+MD5sum: 8471a773d6d8b53bad6431e67bb867f9
+SHA1: 01b3b898cc4be16914a843b5df78b23198ad6a71
+SHA256: 31fba4105ac063d479ec1c797ad46d1ccd4d41263cca44863da61726cc7e2d53
+Section: 破解插件
 Description: ColorfulWallPaperX, Touch-Viz,Write.
 Author: CBZ
 Depiction: https://t.me/wxfx8
