@@ -242,6 +242,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 微信助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/miyou/js.json
 
+Package: com.25mao.miyou.rootless
+Version: 3.9-0
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.9-0_iphoneos-arm64.deb
+Size: 5142324
+MD5sum: cc5bb8c6d738fd698f70a950dab3f961
+SHA1: 4793ebfc45068c66346388ea2d9374a4931d8f9a
+SHA256: aefee3ecfdeb0cb928bcd63369ca93e73f978fb0f30abd72a50c7e27937ee000
+Section: 微信插件
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 微信助手
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/miyou/js.json
+
 Package: com.25mao.wepet
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -5190,6 +5208,24 @@ SHA1: f7b8f98cafaabbc0818398062bb64b29864c42c1
 SHA256: ca29977d3c7d69c8a4d0da74d82268bdf0573bebf8ae7dab3a487217f3cdc560
 Section: 微信插件
 Description: 微信聊天界面中将文本转换为自定义语音
+Author: Apibug
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: ApibugVoiceClone
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/voiceclone/js.json
+
+Package: com.Axs.voiceclone
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Apibug
+Installed-Size: 6504
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.voiceclone_1.0.4_iphoneos-arm64.deb
+Size: 2424676
+MD5sum: 12d8fde5eab5433097dcdbc22c91dca9
+SHA1: db7439dc5506508f39d4ac26569fdaba6bddd0bc
+SHA256: 54c575362898c4490728014898803480647f1996b8cd39e8fd947f353dc766ac
+Section: 微信插件
+Description: Voice Clone Tweak for WeChat
 Author: Apibug
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: ApibugVoiceClone
