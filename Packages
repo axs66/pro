@@ -243,15 +243,15 @@ Name: 微信助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/miyou/js.json
 
 Package: com.25mao.miyou.rootless
-Version: 3.9-0
+Version: 3.9-1
 Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
-Filename: ./debs/com.25mao.miyou.rootless_3.9-0_iphoneos-arm64.deb
-Size: 5142324
-MD5sum: cc5bb8c6d738fd698f70a950dab3f961
-SHA1: 4793ebfc45068c66346388ea2d9374a4931d8f9a
-SHA256: aefee3ecfdeb0cb928bcd63369ca93e73f978fb0f30abd72a50c7e27937ee000
+Filename: ./debs/com.25mao.miyou.rootless_3.9-1_iphoneos-arm64.deb
+Size: 5189220
+MD5sum: 261a2c0b5bf5d500b785e422f285d681
+SHA1: f707fca1d293bce55dcd0d1c2c68221862674352
+SHA256: 2c7ac4f6abd6d9f5a7b611e7051d4c94c90bd1b56320612b21113246cfe03145
 Section: 微信插件
 Priority: optional
 Description: 微信助手-Rootless版
