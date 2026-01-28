@@ -5017,6 +5017,27 @@ Icon: https://axs66.github.io/pro/icon/trollopen.png
 Name: TrollOpen扩展插件
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopen/js.json
 
+Package: com.Axs.trollopenextension
+Version: 0.4.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Charlie Leung
+Installed-Size: 508
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.Axs.trollopenextension_0.4.0-1+debug_iphoneos-arm64.deb
+Size: 66956
+MD5sum: b28a237623fb90b8b3f4f6055b27a5d7
+SHA1: 80352744a4e23a73a6fc104b688ea89e96450003
+SHA256: 05924ebc0805c89828876d1c34c2e2395564947a8c64be1285c575b99bff76f3
+Section: Tweaks
+Description: 这是TrollOpen 的越狱扩展插件，所有功能仅在 iOS 17.0 上通过测试。
+ 如果启用后遇到异常导致无法卸载，可手动修改
+ /var/jb/var/mobile/Library/Preferences/com.charlieleung.trollopenextensionprefs.plist，
+ 将 enable = NO，再注销一次即可正常卸载。
+Author: Charlie Leung
+Icon: https://axs66.github.io/pro/icon/trollopen.png
+Name: TrollOpenExtension
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopen/js.json
+
 Package: com.Axs.trollpad
 Version: 1.3
 Architecture: iphoneos-arm64
@@ -5217,13 +5238,13 @@ Package: com.Axs.voiceclone
 Version: 1.0.4
 Architecture: iphoneos-arm64
 Maintainer: Apibug
-Installed-Size: 6504
+Installed-Size: 6844
 Depends: mobilesubstrate
 Filename: ./debs/com.Axs.voiceclone_1.0.4_iphoneos-arm64.deb
-Size: 2424676
-MD5sum: 12d8fde5eab5433097dcdbc22c91dca9
-SHA1: db7439dc5506508f39d4ac26569fdaba6bddd0bc
-SHA256: 54c575362898c4490728014898803480647f1996b8cd39e8fd947f353dc766ac
+Size: 2571488
+MD5sum: bc6b151647c90c5b42f547f4111bc954
+SHA1: 8fabb0fc4b1cd76ac1b1915507c9a4cfe0462115
+SHA256: c6750f146768749997e585369adc7d78901a1d26db8803d2d53c11943c8d7794
 Section: 微信插件
 Description: Voice Clone Tweak for WeChat
 Author: Apibug
