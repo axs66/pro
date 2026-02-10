@@ -616,50 +616,6 @@ Name: MikotoHelper
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/MikotoHelper/js.json
 
 Package: com.Axs.MikotoHelper
-Version: 1.3.6-6
-Architecture: iphoneos-arm64
-Essential: no
-Maintainer: Mikoto
-Depends: mobilesubstrate
-Conflicts: MikotoHelper
-Replaces: MikotoHelper
-Provides: MikotoHelper
-Filename: ./debs/com.Axs.MikotoHelper_1.3.6-6_iphoneos-arm64.deb
-Size: 19229448
-MD5sum: acce92fe2d3d18a3f05638bae8bc578e
-SHA1: 6faa4d4faca2e05930d1697b62957416af00471d
-SHA256: 7bc0e686b765d63926bb3b90a467e6e3ee5cda84827613b6f74a0f49ab29cda9
-Section: 微信插件
-Priority: optional
-Description: MikotoHelper
-Author: Mikoto
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: MikotoHelper
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/MikotoHelper/js.json
-
-Package: com.Axs.MikotoHelper
-Version: 1.3.6-7
-Architecture: iphoneos-arm64
-Essential: no
-Maintainer: Mikoto
-Depends: mobilesubstrate
-Conflicts: MikotoHelper
-Replaces: MikotoHelper
-Provides: MikotoHelper
-Filename: ./debs/com.Axs.MikotoHelper_1.3.6-7_iphoneos-arm64.deb
-Size: 19259888
-MD5sum: 2603e0647ab0e4580fbb73150eb4f900
-SHA1: d91eb43f051841c60c0af88275f10998558ae2bc
-SHA256: 0d84ac46cfcbeb4aa5d76e4973be3a0b2530cf3d0e305c75c66c619e2ab9ef63
-Section: 微信插件
-Priority: optional
-Description: MikotoHelper
-Author: Mikoto
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: MikotoHelper
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/MikotoHelper/js.json
-
-Package: com.Axs.MikotoHelper
 Version: 1.3.6-8
 Architecture: iphoneos-arm64
 Essential: no
@@ -3020,6 +2976,24 @@ Author: mumu
 Icon: https://axs66.github.io/pro/icon/kawyibeauty.png
 Name: KawyiBeauty动画效果
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/kawyibeauty/js.json
+
+Package: com.Axs.kayoko
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 952
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.Axs.kayoko_3.0_iphoneos-arm64.deb
+Size: 131264
+MD5sum: 11a0d41b30c942791c8eafdf1afcd372
+SHA1: a38b6611afab19e459e83de4653687660631829d
+SHA256: 35b3cb962439fb71e4db693593aa278642ac9a471e878e5e43b4a314daf306e8
+Section: Tweaks
+Description: iOS版剪贴板管理器
+Author: Alexandra Aurora Göttlicher
+Icon: https://axs66.github.io/pro/icon/kayoko.png
+Name: Kayoko剪贴板
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/kayoko/js.json
 
 Package: com.Axs.kbapp
 Version: 1.5
@@ -6646,6 +6620,37 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: NewFeature
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/newfeature/js.json
 
+Package: com.axs.newfeature.core
+Version: 5.2.0-329
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 696
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.axs.newfeature.core_5.2.0-329_iphoneos-arm64.deb
+Size: 186240
+MD5sum: cca1d63efb4d9f930ccfa548df64ac7c
+SHA1: fe4b12eecab74b5a1146db1bf93aa8499fc9c10a
+SHA256: f679d11d0a56242730952bf8babd3e278e967cf601ab2cce40eaa8dd9065c9b9
+Section: 微信插件
+Description: 一个简单的微信插件。功能介绍：
+    *   1.账号信息：用户信息、应用信息、签名信息。
+    *   2.内测功能：微信各版本灰度功能提前享用。
+    *   3.输入窗口：聊天界面输入框美化及增强功能。
+    *   4.实用功能：抢红包、游戏作弊、步数修改、虚拟定位、消息防撤回、消息屏蔽、消息引用、引用消息点击跳转、全屏三击截图、全屏返回手势、后台保活、首页列表长按预览、隐藏微信号、朋友圈显示详细时间。
+    *   5.附件布局：聊天功能面板 2x5布局(可自定义排序)。
+    *   6.文件管理：支持文件管理、上传、分享、复制、移动、压缩、删除、重命名；数据存档及恢复、清理数据等。
+    *   7.美化功能(Svip群享受)：
+    *      7.1微信头像-自定义主页和聊天界面的微信头像位置，即在线状态，头像周边自定义特效。
+    *      7.2微信铭牌-支持微信群聊界面,昵称后面显示铭牌（支持png/gif素材）。
+    *      7.3首页+号背景、消息长按菜单背景、底部背景、底栏背景、顶栏背景等均支持png、gif、mp4、mov素材。
+    *      7.4底栏背景：隐藏系统图标文字、背景、分割线、点击特效、图标偏移等。
+    *      7.5时间背景（支持PNG/GIF素材自定义）、SVG图标随机颜色。
+    *   8.其他功能：微信输入法隐藏Logo、图片边缘点击关闭、图片信息扩展、微信去广告、绕过越狱检测、自动登录、朋友圈消息尾巴、动态背景。
+Author: Axs <qiaozhani00@163.com>
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: NewFeature
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/newfeature/js.json
+
 Package: com.axs.rma
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -7716,6 +7721,25 @@ Section: 系统增强
 Description: View & Manage Applications Data from your Home Screen
 Author: Fouad Raheb
 Icon: https://axs66.github.io/pro/icon/Appdata.png
+Name: AppData
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdata/js.json
+
+Package: com.netskao.appdata
+Version: 1.4.6
+Architecture: iphoneos-arm64
+Maintainer: Nets
+Installed-Size: 5140
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.netskao.appdata_1.4.6_iphoneos-arm64.deb
+Size: 1499836
+MD5sum: 9ae148f6d70b0ae95b1823885e15a3a4
+SHA1: 4fff0f8870a4dacaef04ff7d4e91f3eb2a83a4f4
+SHA256: 191f5443dad7eac5593e5eaf89b719596d6d789aa48cf6240ef8c161e3137836
+Section: Tweaks
+Description: View & Manage Applications Data from your Home Screen
+Author: Fouad Raheb
+Icon: https://axs66.github.io/pro/icon/Appdata.png
+Markdowndescription: View & Manage Applications Data from your Home Screen<br><br>• v1.4.6: Fix iOS15 crash issues<br><br>• v1.4.5: Modify the API interface for obtaining the downgraded version number of an application
 Name: AppData
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdata/js.json
 
