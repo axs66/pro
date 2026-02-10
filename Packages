@@ -6475,6 +6475,27 @@ Icon: https://axs66.github.io/pro/icon/lockplayer.png
 Name: LockPlayer 锁屏迷你播放器
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/lockplayer/js.json
 
+Package: com.axs.minifilza
+Version: 1.0.0-31
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 528
+Depends: firmware (>= 14.0), mobilesubstrate | ellekit, preferenceloader
+Filename: ./debs/com.axs.minifilza_1.0.0-31_iphoneos-arm64.deb
+Size: 67036
+MD5sum: 6aa4382f5ab9b0c591ad05fcb7ddee2d
+SHA1: e05b61c2a7f2bfe84f2fb7a0019d09d61c751999
+SHA256: 6f113f58e03374dbfc930aa848003415d0e713c432cff5a608ba3abf9d729395
+Section: Tweaks
+Description: 功能介绍：悬浮窗文件管理与存档操作
+    1. 越狱安装每个app打开都会有一个悬浮图标,点击打开功能菜单,长按会隐藏,三指双击可恢复显示。
+    2. 巨魔注入或者自签安装,即可实现独立app启用该悬浮文件管理。
+    3. 操作指南：点击悬浮图标打开功能菜单,长按会隐藏,三指双击可恢复显示
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/minifilza.png
+Name: MiniFilza
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/minifilza/js.json
+
 Package: com.axs.newfeature.core
 Version: 5.2.0-119
 Architecture: iphoneos-arm64
