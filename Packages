@@ -8551,24 +8551,6 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WeChatEnhance微信增强
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/enhance/js.json
 
-Package: eg.anubistweaks.translux
-Version: 1.1.0
-Architecture: iphoneos-arm64
-Maintainer: anubistweaks
-Depends: gzip, mobilesubstrate, firmware (>= 15.0), preferenceloader, com.opa334.altlist (>= 1.0.4)
-Filename: ./debs/eg.anubistweaks.translux_1.1.0_iphoneos-arm64.deb
-Size: 374500
-MD5sum: dc4523ea58133e4c2f163de98ce3f15e
-SHA1: 8eb2c98872184c166da49962e5ce56c4ea2a7e2a
-SHA256: b5659d7e052421b01d7dfd856d020e97ad73009baaeeb00330af1a94dd380793
-Section: Tweaks
-Description: iOS高级翻译集成，支持OCR（调试BUILD，增强日志记录）。在所有应用程序的文本选择菜单中添加翻译按钮。包括Snapper 3集成，用于图像OCR和翻译。支持谷歌、百度、ModernMT、微软翻译引擎和有道、Yandex OCR引擎。具有可定制的UI、应用程序白名单。🔥由Axs源汉化🔥
-Author: AnubisTweaks
-Depiction: https://axs66.github.io/pro
-Icon: https://axs66.github.io/pro/icon/translux.png
-Name: TransLux 翻译
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/translux/js.json
-
 Package: jp.akusio.milkyway4
 Version: 0.1.1
 Architecture: iphoneos-arm64
