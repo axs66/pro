@@ -3571,6 +3571,24 @@ Name: MashPlayer 音乐波浪
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/mshfplayer/js.json
 Sponsor: Axs
 
+Package: com.Axs.mterminal
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: D.F (MTAC)
+Installed-Size: 272
+Depends: coreutils, firmware (>= 11.0), system-cmds, zsh
+Filename: ./debs/com.Axs.mterminal_1.6_iphoneos-arm64.deb
+Size: 86416
+MD5sum: fb67d213c8815cd80766e9337d5f90cd
+SHA1: b5edc390475548f407ae329f6ca3dcd519a1e64e
+SHA256: cbba409afcbaea402ae7c91dde0e2cb31ba1f1798370ba6cce4e221993f42b26
+Section: Tweaks
+Description: 终端应用程序
+Author: lordscotland
+Icon: https://axs66.github.io/pro/icon/mterminal.png
+Name: MTerminal终端
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/mterminal/js.json
+
 Package: com.Axs.musiclizi
 Version: 1.1.8
 Architecture: iphoneos-arm64
