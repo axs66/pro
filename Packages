@@ -5907,23 +5907,6 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/xxuegao/js.json
 
 Package: com.Axs.yuanjiao
 Version: 1.8.6
-Architecture: iphoneos-arm
-Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), preferenceloader (>= 2.2.3)
-Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm.deb
-Size: 650932
-MD5sum: bc302946d62899c77a05558816777a71
-SHA1: 2a5e74c5c81a22143a47d2afe68c04d535050ea6
-SHA256: 0a214acbb857cabc075a9918625cc266323e3559250972079df77266282640f1
-Section: 微信插件
-Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
-Author: A
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: 全局圆角
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/yuanjiao/js.json
-
-Package: com.Axs.yuanjiao
-Version: 1.8.6
 Architecture: iphoneos-arm64e
 Maintainer: Axs
 Depends: mobilesubstrate (>= 0.9.5000)
@@ -5940,15 +5923,15 @@ Name: 全局圆角
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/yuanjiao/js.json
 
 Package: com.Axs.yuanjiao
-Version: 1.8.6-END
-Architecture: iphoneos-arm64
+Version: 1.8.6
+Architecture: iphoneos-arm
 Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
-Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm64.deb
-Size: 642592
-MD5sum: 096eed8af93aa4890fa8625deb1879bd
-SHA1: e16890382181664f76f8173cb59ca582870b7623
-SHA256: 015b4b1f4c32813c39ee795605d244c03322283604227f3cf4d69e6b04885e9d
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), preferenceloader (>= 2.2.3)
+Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm.deb
+Size: 650932
+MD5sum: bc302946d62899c77a05558816777a71
+SHA1: 2a5e74c5c81a22143a47d2afe68c04d535050ea6
+SHA256: 0a214acbb857cabc075a9918625cc266323e3559250972079df77266282640f1
 Section: 微信插件
 Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
 Author: A
@@ -5966,6 +5949,23 @@ Size: 642280
 MD5sum: 69b380f85cf2e104398bce37a6b63cef
 SHA1: a6c558f3bc3f7204eba099d376307744b322cb61
 SHA256: 83cd7cf7a44f2776dae8086833b276b7dd45420e6384b5f9d5ba1696776a8c03
+Section: 微信插件
+Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
+Author: A
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 全局圆角
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/yuanjiao/js.json
+
+Package: com.Axs.yuanjiao
+Version: 1.8.6-END
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm64.deb
+Size: 642592
+MD5sum: 096eed8af93aa4890fa8625deb1879bd
+SHA1: e16890382181664f76f8173cb59ca582870b7623
+SHA256: 015b4b1f4c32813c39ee795605d244c03322283604227f3cf4d69e6b04885e9d
 Section: 微信插件
 Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
 Author: A
@@ -6216,6 +6216,23 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 黄白助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechat/js.json
 
+Package: com.HBWechatHelper.ailun
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: HuangBai
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_2.0.3_iphoneos-arm64.deb
+Size: 13177208
+MD5sum: 5b71e8b1d5574c3bcec093307e9cd697
+SHA1: f4e4dc88f74df480712717a055b65c177728a2b2
+SHA256: 319c52e168b4311995a9af49299a57962c0ad59a5e6204edbb8540a84959ea24
+Section: 微信插件
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 黄白助手
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechat/js.json
+
 Package: com.anthopak.quickprefs-rootless
 Version: 1.3.3
 Architecture: iphoneos-arm64
@@ -6403,15 +6420,15 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/immortalizerjailed/js
 
 Package: com.axs.lockplayer
 Version: 3.22
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 1464
 Depends: firmware (>= 15.0)
-Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64e.deb
-Size: 463868
-MD5sum: 68d979f053adae3e403eff50f4d221d7
-SHA1: 6c225b74ee7bec0d35708458a7c19ccdcd538e34
-SHA256: aa8c9f69ffb57ad24968af9f90c6cc402c17978342787222c85a10a43e91cb43
+Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64.deb
+Size: 463768
+MD5sum: 7582db7684bc74fb83f74f63decc6a9d
+SHA1: 2e34f344c48c758d88737efcb6e269f925c81cb6
+SHA256: fa2296258c5c821b334c08bf5bb75ab4ecc1a4cd97aa07bd5e5dffbf2a32ca9d
 Section: Tweaks
 Description:
  lockplayer锁屏播放器，功能介绍：
@@ -6427,15 +6444,15 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/lockplayer/js.json
 
 Package: com.axs.lockplayer
 Version: 3.22
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Axs
 Installed-Size: 1464
 Depends: firmware (>= 15.0)
-Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64.deb
-Size: 463768
-MD5sum: 7582db7684bc74fb83f74f63decc6a9d
-SHA1: 2e34f344c48c758d88737efcb6e269f925c81cb6
-SHA256: fa2296258c5c821b334c08bf5bb75ab4ecc1a4cd97aa07bd5e5dffbf2a32ca9d
+Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64e.deb
+Size: 463868
+MD5sum: 68d979f053adae3e403eff50f4d221d7
+SHA1: 6c225b74ee7bec0d35708458a7c19ccdcd538e34
+SHA256: aa8c9f69ffb57ad24968af9f90c6cc402c17978342787222c85a10a43e91cb43
 Section: Tweaks
 Description:
  lockplayer锁屏播放器，功能介绍：
@@ -6783,24 +6800,6 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/tie-gesture/js.json
 Package: com.brend0n.qqmusicdesktoplyrics
 Version: 0.3.9~b1
 Architecture: iphoneos-arm64
-Maintainer: Brend0n <brendonjkding@126.com>
-Installed-Size: 2748
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
-Filename: ./debs/com.brend0n.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64 .deb
-Size: 623216
-MD5sum: 03b3e99b8dc65ee598a7fb0745d433ca
-SHA1: c1a5049aa428aa0bd647bcf06e12979ab88624e5
-SHA256: 25c7d063e1a75c78d2b4dd7f8ee252dbe0616a54f40ef7be2ccc43299fa026c2
-Section: Tweaks
-Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify，放心玩吧！
-Author: Brend0n <brendonjkding@126.com>
-Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicdesktoplyrics
-Name: DesktopLyrics
-Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
-
-Package: com.brend0n.qqmusicdesktoplyrics
-Version: 0.3.9~b1
-Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 2748
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
@@ -6816,6 +6815,24 @@ Depiction: https://axs66.github.io/pro
 Icon: https://axs66.github.io/pro/icon/qqmusicdesktoplyrics.png
 Name: DesktopLyrics 桌面歌词
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/qqmusicdesktoplyrics/js.json
+
+Package: com.brend0n.qqmusicdesktoplyrics
+Version: 0.3.9~b1
+Architecture: iphoneos-arm64
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 2748
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.brend0n.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64 .deb
+Size: 623216
+MD5sum: 03b3e99b8dc65ee598a7fb0745d433ca
+SHA1: c1a5049aa428aa0bd647bcf06e12979ab88624e5
+SHA256: 25c7d063e1a75c78d2b4dd7f8ee252dbe0616a54f40ef7be2ccc43299fa026c2
+Section: Tweaks
+Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify，放心玩吧！
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicdesktoplyrics
+Name: DesktopLyrics
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
 
 Package: com.creaturecoding.shuffle
 Version: 1.6.2
