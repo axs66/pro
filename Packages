@@ -4639,22 +4639,40 @@ Name: Stheno 分屏
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/stheno/js.json
 
 Package: com.Axs.stheno
-Version: 77.1.4.7
+Version: 77.1.4.6
 Architecture: iphoneos-arm64
 Maintainer: Axs
-Installed-Size: 1912
+Installed-Size: 1928
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
-Filename: ./debs/com.Axs.stheno_77.1.4.7_iphoneos-arm64.deb
-Size: 221636
-MD5sum: 9f3221cf5204e1445e27161432bd9f45
-SHA1: 96776d41db7a2e53d0b38a9eacf19ad43c73c2f9
-SHA256: d64cd5909bf4c6bad00565b3ce4cce3b95485864851d6d4ca1be3db20dbc2b75
+Filename: ./debs/com.Axs.stheno_77.1.4.6_iphoneos-arm64.deb
+Size: 362956
+MD5sum: 7ee356f2b9af88d0560fc1a689a79f9b
+SHA1: 93bc4a983624e2c3503fec9bdf3571f34d43a839
+SHA256: 5445b8cbee238e05d0df4c923c39718e59d663f5a2d4bc032b1102fade4f7b7a
 Section: 分屏插件
 Description: stheno分屏插件。无设置项，安装即生效。插件里面有使用方法。
 Author: Crassna
-Icon: https://axs66.github.io/pro/icon/stheno.png
-Name: Stheno 分屏
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/stheno/js.json
+Icon: https://axs66.github.io/repo/icon/stheno.png
+Name: Stheno奥利奥分屏
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/stheno/js.json
+
+Package: com.Axs.stheno
+Version: 77.1.4.7
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 1928
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 16.1)
+Filename: ./debs/com.Axs.stheno_77.1.4.7_iphoneos-arm64.deb
+Size: 362952
+MD5sum: 25b025d2a31502ac7cf1e81ce1158c9d
+SHA1: 95baa0d35c73073195784434e3b3cda097b461bd
+SHA256: 83ca5365d3e7e02fb1c2e09bee14d3e10b32968e66cf80463954d66a8df966ce
+Section: 分屏插件
+Description: Medusa!
+Author: Crassna
+Icon: https://axs66.github.io/repo/icon/stheno.png
+Name: Stheno奥利奥分屏
+Sileodepiction: https://axs66.github.io/repo/sileodepiction/stheno/js.json
 
 Package: com.Axs.stheno
 Version: 77.1.4.8
