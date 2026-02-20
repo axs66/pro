@@ -890,24 +890,6 @@ Icon: https://axs66.github.io/pro/icon/adguard.png
 Name: AdGuard 解锁会员
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/adguard/js.json
 
-Package: com.Axs.aerialbridge
-Version: 0.1.0-2+debug
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 168
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.Axs.aerialbridge_0.1.0-2+debug_iphoneos-arm64.deb
-Size: 4852
-MD5sum: f8bba8bd93f7c5cd7456e6319d1c14fe
-SHA1: c1ee370c96d3253e7f7db837eb872f606e0a2dcb
-SHA256: 62c0f5db2ad4b2216e7accc825176f0dec319207fc51e54014f6bfc1f21ede7a
-Section: 分屏插件
-Description: 让小日子的Aerial分屏插件结合Trollopen软件，可以达到用arc手势呼出的效果。
-Author: 兔子坦克
-Icon: https://axs66.github.io/pro/icon/trollopen.png
-Name: Trollopen联动Aerial
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopen/js.json
-
 Package: com.Axs.afc2d
 Version: 1.2.1
 Architecture: iphoneos-arm64
