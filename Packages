@@ -5087,42 +5087,25 @@ Name: TrollLEDs手电筒
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.Axs.trollopenextension
-Version: 0.3.2-1+debug
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 480
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
-Filename: ./debs/com.Axs.trollopenextension_0.3.2-1+debug_iphoneos-arm64.deb
-Size: 49492
-MD5sum: 460a9c3f51843079b78f8b624fd04bcb
-SHA1: f6e9214ac02d2002d5176457c1561689f9b393b4
-SHA256: 81395821bbdf61f4e347d2338c1b2128535fbf80e38b26c91ef6cdff792804cb
-Section: Tweaks
-Description: 这是 TrollOpen 的越狱扩展插件，并不能单独生效，主体是trollopen的ipa程序。
-Author: Charlie Leung
-Icon: https://axs66.github.io/pro/icon/trollopen.png
-Name: TrollOpen扩展插件
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopen/js.json
-
-Package: com.Axs.trollopenextension
 Version: 0.4.0-1+debug
 Architecture: iphoneos-arm64
 Maintainer: Charlie Leung
 Installed-Size: 508
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/com.Axs.trollopenextension_0.4.0-1+debug_iphoneos-arm64.deb
-Size: 66956
-MD5sum: b28a237623fb90b8b3f4f6055b27a5d7
-SHA1: 80352744a4e23a73a6fc104b688ea89e96450003
-SHA256: 05924ebc0805c89828876d1c34c2e2395564947a8c64be1285c575b99bff76f3
+Size: 66988
+MD5sum: c84ac69703208a8be7fa0fc5b58ec502
+SHA1: e3dddb29caa80ba1883c8018f74999d59a82b7fe
+SHA256: 7619c6d52dad5b605551487328318fa87b955593dae7ef13beb4e0712b5f501c
 Section: Tweaks
 Description: 这是TrollOpen 的越狱扩展插件，所有功能仅在 iOS 17.0 上通过测试。
  如果启用后遇到异常导致无法卸载，可手动修改
  /var/jb/var/mobile/Library/Preferences/com.charlieleung.trollopenextensionprefs.plist，
  将 enable = NO，再注销一次即可正常卸载。
+  让小日子的Aerial分屏插件结合Trollopen软件，可以达到用arc手势呼出的效果。
 Author: Charlie Leung
 Icon: https://axs66.github.io/pro/icon/trollopen.png
-Name: TrollOpenExtension
+Name: TrollOpen扩展
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopen/js.json
 
 Package: com.Axs.trollpad
@@ -5980,23 +5963,6 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/xxuegao/js.json
 
 Package: com.Axs.yuanjiao
 Version: 1.8.6
-Architecture: iphoneos-arm64e
-Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
-Size: 635632
-MD5sum: dc267e44b3b13e81d4d99be76c742bae
-SHA1: a6f5ba94787749532d6428d582ef2c057dc07f8b
-SHA256: 6672e38c4802329f3c30b977345fa7ae2c25d15bcf946fdd7063720179ed92e1
-Section: 微信插件
-Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
-Author: A
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: 全局圆角
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/yuanjiao/js.json
-
-Package: com.Axs.yuanjiao
-Version: 1.8.6
 Architecture: iphoneos-arm
 Maintainer: Axs
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), preferenceloader (>= 2.2.3)
@@ -6013,15 +5979,15 @@ Name: 全局圆角
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/yuanjiao/js.json
 
 Package: com.Axs.yuanjiao
-Version: 1.8.6-END
-Architecture: iphoneos-arm64
+Version: 1.8.6
+Architecture: iphoneos-arm64e
 Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
-Filename: ./debs/com.Axs.yuanjiao_1.8.6-END_iphoneos-arm64.deb
-Size: 642280
-MD5sum: 69b380f85cf2e104398bce37a6b63cef
-SHA1: a6c558f3bc3f7204eba099d376307744b322cb61
-SHA256: 83cd7cf7a44f2776dae8086833b276b7dd45420e6384b5f9d5ba1696776a8c03
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
+Size: 635632
+MD5sum: dc267e44b3b13e81d4d99be76c742bae
+SHA1: a6f5ba94787749532d6428d582ef2c057dc07f8b
+SHA256: 6672e38c4802329f3c30b977345fa7ae2c25d15bcf946fdd7063720179ed92e1
 Section: 微信插件
 Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
 Author: A
@@ -6039,6 +6005,23 @@ Size: 642592
 MD5sum: 096eed8af93aa4890fa8625deb1879bd
 SHA1: e16890382181664f76f8173cb59ca582870b7623
 SHA256: 015b4b1f4c32813c39ee795605d244c03322283604227f3cf4d69e6b04885e9d
+Section: 微信插件
+Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
+Author: A
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 全局圆角
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/yuanjiao/js.json
+
+Package: com.Axs.yuanjiao
+Version: 1.8.6-END
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.Axs.yuanjiao_1.8.6-END_iphoneos-arm64.deb
+Size: 642280
+MD5sum: 69b380f85cf2e104398bce37a6b63cef
+SHA1: a6c558f3bc3f7204eba099d376307744b322cb61
+SHA256: 83cd7cf7a44f2776dae8086833b276b7dd45420e6384b5f9d5ba1696776a8c03
 Section: 微信插件
 Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
 Author: A
@@ -6493,15 +6476,15 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/immortalizerjailed/js
 
 Package: com.axs.lockplayer
 Version: 3.22
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Axs
 Installed-Size: 1464
 Depends: firmware (>= 15.0)
-Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64.deb
-Size: 463768
-MD5sum: 7582db7684bc74fb83f74f63decc6a9d
-SHA1: 2e34f344c48c758d88737efcb6e269f925c81cb6
-SHA256: fa2296258c5c821b334c08bf5bb75ab4ecc1a4cd97aa07bd5e5dffbf2a32ca9d
+Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64e.deb
+Size: 463868
+MD5sum: 68d979f053adae3e403eff50f4d221d7
+SHA1: 6c225b74ee7bec0d35708458a7c19ccdcd538e34
+SHA256: aa8c9f69ffb57ad24968af9f90c6cc402c17978342787222c85a10a43e91cb43
 Section: Tweaks
 Description:
  lockplayer锁屏播放器，功能介绍：
@@ -6517,15 +6500,15 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/lockplayer/js.json
 
 Package: com.axs.lockplayer
 Version: 3.22
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 1464
 Depends: firmware (>= 15.0)
-Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64e.deb
-Size: 463868
-MD5sum: 68d979f053adae3e403eff50f4d221d7
-SHA1: 6c225b74ee7bec0d35708458a7c19ccdcd538e34
-SHA256: aa8c9f69ffb57ad24968af9f90c6cc402c17978342787222c85a10a43e91cb43
+Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64.deb
+Size: 463768
+MD5sum: 7582db7684bc74fb83f74f63decc6a9d
+SHA1: 2e34f344c48c758d88737efcb6e269f925c81cb6
+SHA256: fa2296258c5c821b334c08bf5bb75ab4ecc1a4cd97aa07bd5e5dffbf2a32ca9d
 Section: Tweaks
 Description:
  lockplayer锁屏播放器，功能介绍：
@@ -6873,6 +6856,24 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/tie-gesture/js.json
 Package: com.brend0n.qqmusicdesktoplyrics
 Version: 0.3.9~b1
 Architecture: iphoneos-arm64
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 2748
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.brend0n.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64 .deb
+Size: 623216
+MD5sum: 03b3e99b8dc65ee598a7fb0745d433ca
+SHA1: c1a5049aa428aa0bd647bcf06e12979ab88624e5
+SHA256: 25c7d063e1a75c78d2b4dd7f8ee252dbe0616a54f40ef7be2ccc43299fa026c2
+Section: Tweaks
+Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify，放心玩吧！
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicdesktoplyrics
+Name: DesktopLyrics
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
+
+Package: com.brend0n.qqmusicdesktoplyrics
+Version: 0.3.9~b1
+Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 2748
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
@@ -6888,24 +6889,6 @@ Depiction: https://axs66.github.io/pro
 Icon: https://axs66.github.io/pro/icon/qqmusicdesktoplyrics.png
 Name: DesktopLyrics 桌面歌词
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/qqmusicdesktoplyrics/js.json
-
-Package: com.brend0n.qqmusicdesktoplyrics
-Version: 0.3.9~b1
-Architecture: iphoneos-arm64
-Maintainer: Brend0n <brendonjkding@126.com>
-Installed-Size: 2748
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
-Filename: ./debs/com.brend0n.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64 .deb
-Size: 623216
-MD5sum: 03b3e99b8dc65ee598a7fb0745d433ca
-SHA1: c1a5049aa428aa0bd647bcf06e12979ab88624e5
-SHA256: 25c7d063e1a75c78d2b4dd7f8ee252dbe0616a54f40ef7be2ccc43299fa026c2
-Section: Tweaks
-Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify，放心玩吧！
-Author: Brend0n <brendonjkding@126.com>
-Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicdesktoplyrics
-Name: DesktopLyrics
-Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
 
 Package: com.creaturecoding.shuffle
 Version: 1.6.2
@@ -8873,177 +8856,6 @@ Name: o2Pro
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
 
 Package: xc.lzsxcl.o2pro
-Version: 17.26.7
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 30588
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.26.7_iphoneos-arm64.deb
-Size: 12609012
-MD5sum: 71a4c6f68b7f1a3bb240190415f93c64
-SHA1: 34a51e0e16ba1c4cd8c950a6891e61bd45c9722f
-SHA256: cdc2d6e0855b3fda560794ea9c3d72bfe1239900cdc16567dfffcf1110e5000f
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/pro
-Icon: https://axs66.github.io/pro/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.8.8
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 13552
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.8.8_iphoneos-arm64.deb
-Size: 4767940
-MD5sum: 630b6900c6f59b6446c9d0d6edfc1fc3
-SHA1: 63d24f2ea8372875cbdcec808af4a789c96bfc42
-SHA256: 291efba73f328d8a47b9a284b0574bdb18a593e3d856ed07a2a64df9c0dfe02d
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/pro
-Icon: https://axs66.github.io/pro/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 17.9.2
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 13752
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_17.9.2_iphoneos-arm64.deb
-Size: 4775868
-MD5sum: eebd124ab223e5ca8f2bb26d3df2319f
-SHA1: 2980e929331177136111665fc28476359a2d5f23
-SHA256: 919bdc42831c3bac4f461c673bda9709c221123928b28b13015803de2c2974fe
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/pro
-Icon: https://axs66.github.io/pro/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 18.0-Beta6-5
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 31656
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_18.0-Beta6-5_iphoneos-arm64.deb
-Size: 13333656
-MD5sum: f9b6f6d691ffd2e405c716a5d75d5894
-SHA1: 0569f31068bdefea28c8151c40130bf85856a7f1
-SHA256: a04efaa2b2637815649694848caa6b34295691d5d017bda4ea396c33a8d8f121
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/pro
-Icon: https://axs66.github.io/pro/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 18.1-14
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 31628
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_18.1-14_iphoneos-arm64.deb
-Size: 13324644
-MD5sum: ac0b1184320903c8e0470213f8df559b
-SHA1: a5615496d601fbf7d4f32b8b46f45aacee676aa8
-SHA256: 2f754a0d677f034ce153fe0044640a371ddef16a77ee8808ff2e2f0511fbc043
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/pro
-Icon: https://axs66.github.io/pro/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 18.2-1
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 31660
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_18.2-1_iphoneos-arm64.deb
-Size: 13332728
-MD5sum: f8d317901d4440cbdbfed04cb8c7b573
-SHA1: 90ccd900ef0de59411d007fb01c8fca58bb00192
-SHA256: 9766c4bdd68fa9992c00f3c54f2910929904a6e286c4372a3f68de7c3c6abb1a
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/pro
-Icon: https://axs66.github.io/pro/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 18.5-1
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 32064
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_18.5-1_iphoneos-arm64.deb
-Size: 13499884
-MD5sum: 76acd011747acab0ec8450cff424429f
-SHA1: 50e93705cdd43415e83cf27e273835b292c80f09
-SHA256: 7862090d210784eca3894b1e0f10a5e297c36fca053e2f8d8a84b69c14166ffe
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/pro
-Icon: https://axs66.github.io/pro/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 18.7-1
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 32200
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_18.7-1_iphoneos-arm64.deb
-Size: 13591720
-MD5sum: 11b49bf835a0fdf34b12640bf8c2791a
-SHA1: cbd0da6a78a026fcad6fcf2e386b1ebaf105085a
-SHA256: 8e33dd717471960f67def5c540735348fe812e30c259c46f9a951bc1b385acdf
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/pro
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 18.8-1
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 32236
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_18.8-1_iphoneos-arm64.deb
-Size: 13576392
-MD5sum: b5f923ddb195905d61207147c8e60521
-SHA1: 5f99bee1378b09d3e6a926d352502f2c1ed1eda0
-SHA256: c354f99e4d8e6bcc1a0461c4d5181169ca003926f7d058c0cc900a740ca17c99
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/pro
-Icon: https://axs66.github.io/pro/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
 Version: 18.9.12-1
 Architecture: iphoneos-arm64
 Maintainer: lzsxcl
@@ -9058,25 +8870,6 @@ Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
 Depiction: https://axs.yourepo.com/
-Icon: https://axs66.github.io/pro/icon/o2pro.png
-Name: o2Pro
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
-
-Package: xc.lzsxcl.o2pro
-Version: 18.9.9-1
-Architecture: iphoneos-arm64
-Maintainer: lzsxcl
-Installed-Size: 32696
-Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Filename: ./debs/xc.lzsxcl.o2pro_18.9.9-1_iphoneos-arm64.deb
-Size: 13742472
-MD5sum: bbc61efb9a62ff972889278162890662
-SHA1: fe7dd903393e989cfe9ddf0fd7863ebe5a20be28
-SHA256: 47ad0c14a9c4f25208792e9ac294a52f32c74df8c068e968e0d359d83dcd228b
-Section: 分屏插件
-Description: 注重设计与用户体验的优雅产品。
-Author: lzsxcl
-Depiction: https://axs66.github.io/pro
 Icon: https://axs66.github.io/pro/icon/o2pro.png
 Name: o2Pro
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
