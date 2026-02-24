@@ -260,6 +260,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 微信助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/miyou/js.json
 
+Package: com.25mao.miyou.rootless
+Version: 3.9-2
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.9-2_iphoneos-arm64.deb
+Size: 4122380
+MD5sum: bbab0caceb32f1f481fe36651deb5402
+SHA1: a163eb686098c6f4f0ff5ddb436b33506c65a8f5
+SHA256: b4c2cb156f27c9151e61091263951200aba37dbd4dbb5b338a95c1e616da1703
+Section: 微信插件
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 微信助手
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/miyou/js.json
+
 Package: com.25mao.wepet
 Version: 1.0-1
 Architecture: iphoneos-arm64
