@@ -3985,6 +3985,25 @@ Icon: https://axs66.github.io/pro/icon/pogr.png
 Name: AirPods PodsGrant
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/pogr/js.json
 
+Package: com.Axs.popoutbuttons
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000), com.mrgcgamer.libgcuniversal, preferenceloader
+Filename: ./debs/com.Axs.popoutbuttons_1.0.2_iphoneos-arm64.deb
+Size: 56552
+MD5sum: fec4f484333524c26184073bfe935cf1
+SHA1: 24d964dc005b2b1e506ea6f1187ab7f47bbaf7b3
+SHA256: 30ae9e75a05b433d926ac93e1fc26d381651e827c6ff31d8acabce5eac594da1
+Section: Tweaks
+Description: 让你的音量键和电源键每按一次，在手机屏幕里显示动画效果，这是模仿iOS18的一个功能，还可以自定义按钮动画的大小！
+Author: tesla_man
+Icon: https://axs66.github.io/pro/icon/popoutbuttons.png
+Name: PopOutButtons按钮动画
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/popoutbuttons/js.json
+Sponsor: Axs
+
 Package: com.Axs.primalfolder2
 Version: 0.1.2
 Architecture: iphoneos-arm64
