@@ -872,6 +872,25 @@ Icon: https://axs66.github.io/pro/icon/a-font.png
 Name: A-Font
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/a-font/js.json
 
+Package: com.Axs.accode
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Crassna
+Installed-Size: 204
+Depends: firmware (>= 16.1) | org.swift.libswift (>= 5.0)
+Filename: ./debs/com.Axs.accode_1.0_iphoneos-arm64.deb
+Size: 19616
+MD5sum: 3816ac0fcaec86ed622e557b2dce8dd0
+SHA1: 379705f5d2a3d17e078560ab6438a8a977529c99
+SHA256: 51e6d362543db8b52642c53eec5b44354c9ece0fa4505ebf2af3e44230317b61
+Section: System
+Description: 为奥利奥分屏生成激活码的插件，安装之后去Filza找到/usr/bin/vm_stat点击运行，并输入stheno+udid，回车即可获得16位激活码。在https://axs66.github.io/pro源里面先安装77.1.4.7版本，根据插件描述呼出页面输入激活码，激活成功后再安装77.1.4.8最终版本。
+Tag: role::hacker
+Author: Crassna
+Icon: https://axs66.github.io/pro/icon/stheno.png
+Name: stheno 奥利奥分屏激活码生成器
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/stheno/js.json
+
 Package: com.Axs.actionbar
 Version: 1.1-2
 Architecture: iphoneos-arm64
