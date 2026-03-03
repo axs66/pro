@@ -879,11 +879,11 @@ Maintainer: Crassna
 Installed-Size: 204
 Depends: firmware (>= 16.1) | org.swift.libswift (>= 5.0)
 Filename: ./debs/com.Axs.accode_1.0_iphoneos-arm64.deb
-Size: 19616
-MD5sum: 3816ac0fcaec86ed622e557b2dce8dd0
-SHA1: 379705f5d2a3d17e078560ab6438a8a977529c99
-SHA256: 51e6d362543db8b52642c53eec5b44354c9ece0fa4505ebf2af3e44230317b61
-Section: System
+Size: 19608
+MD5sum: 6d02f0b7a52539eb82c5b30e122645a6
+SHA1: 26ee87aa4e11aa9c2b99cf552b790fbe0cff6869
+SHA256: b2b428411a199c6706b1dfdaf2296d623491d263e00505d5bcd79b7a49c561a8
+Section: 分屏插件
 Description: 为奥利奥分屏生成激活码的插件，安装之后去Filza找到/usr/bin/vm_stat点击运行，并输入stheno+udid，回车即可获得16位激活码。在https://axs66.github.io/pro源里面先安装77.1.4.7版本，根据插件描述呼出页面输入激活码，激活成功后再安装77.1.4.8最终版本。
 Tag: role::hacker
 Author: Crassna
@@ -6862,6 +6862,38 @@ Size: 203708
 MD5sum: de265f0b24b81b430d4d38ccf23399a1
 SHA1: b1babc04a7667c5dc804a40df3f1a40965d4db49
 SHA256: 4038b08a886f0f6ff9897752e181dbe4c477d08a95d9eba8da20cae6858fc6cf
+Section: 微信插件
+Priority: optional
+Description: 一个简单的微信插件。功能介绍：
+ * 1.账号信息：用户信息、应用信息、签名信息。
+ * 2.内测功能：微信各版本灰度功能提前享用。
+ * 3.输入窗口：聊天界面输入框美化及增强功能。
+ * 4.实用功能：抢红包、游戏作弊、步数修改、虚拟定位、消息防撤回、消息屏蔽、消息引用、引用消息点击跳转、全屏三击截图、全屏返回手势、后台保活、首页列表长按预览、隐藏微信号、朋友圈显示详细时间。
+ * 5.附件布局：聊天功能面板 2x5布局(可自定义排序)。
+ * 6.文件管理：支持文件管理、上传、分享、复制、移动、压缩、删除、重命名；数据存档及恢复、清理数据等。
+ * 7.美化功能(Svip群享受)：
+    7.1 微信头像-自定义位置，状态，特效。
+    7.2 微信铭牌-群聊昵称铭牌。
+    7.3 首页背景、菜单背景等支持多媒体。
+    7.4 底栏背景：隐藏图标文字、特效等。
+    7.5 时间背景、SVG图标随机颜色。
+ * 8.其他功能：输入法隐藏Logo、图片边缘点击关闭、图片信息扩展、微信去广告、绕过越狱检测、自动登录、朋友圈消息尾巴、动态背景。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: NewFeature
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/newfeature/js.json
+
+Package: com.axs.newfeature.core
+Version: 5.2.0-396
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 760
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.axs.newfeature.core_5.2.0-396_iphoneos-arm64.deb
+Size: 203572
+MD5sum: 1bc48b8fb53a2a3314760abda25479c6
+SHA1: fca71ab2ef1356b170bbe49f4452d0653a551506
+SHA256: c07e6f2f8c1d273631f5f8742ce5d1e82a1e82f61fe42885cef42b6f3972dfb6
 Section: 微信插件
 Priority: optional
 Description: 一个简单的微信插件。功能介绍：
