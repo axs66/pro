@@ -8891,16 +8891,16 @@ Maintainer: Axs
 Installed-Size: 1196
 Depends: mobilesubstrate
 Filename: ./debs/com.wechat.enhance_1.6-5_iphoneos-arm64.deb
-Size: 343072
-MD5sum: c34ee8a5e6afb4019a9690133512edf2
-SHA1: 4907be85db65a4eb158d4d09c42819902395a7fc
-SHA256: 88ef8198d9ff4f7b13d66562c8eb5a781a1123c9ea8c0742c39bbd2b4fda5279
+Size: 343168
+MD5sum: 12b7958e03fe337e24d5a351e620b2b3
+SHA1: f64476fe26e82f406ef90cbbefe464d8ca27faf0
+SHA256: 908798ef89841a489a0d63b9c87b5a011adcbe4d8e41e47bccf4c1ff9da5f4f8
 Section: 微信插件
 Description: 一个简单的微信插件，无需关注公众号。
 Author: A
-Icon: https://axs66.github.io/repo/icon/wechat.png
+Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WeChatEnhance微信增强
-Sileodepiction: https://axs66.github.io/repo/sileodepiction/enhance/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/WeChatEnhance/js.json
 
 Package: jp.akusio.milkyway4
 Version: 0.1.1
