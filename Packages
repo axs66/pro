@@ -3661,6 +3661,25 @@ Name: 消息屏蔽助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/msgfilt/js.json
 Sponsor: admin@25mao.com
 
+Package: com.Axs.msgfilt.rootless
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.Axs.msgfilt.rootless_1.0-6_iphoneos-arm64.deb
+Size: 133512
+MD5sum: 6b5e12e63a474e246be81f3ccb93027b
+SHA1: 7232df369a8cee33141cd79c706e11a957b09a9d
+SHA256: 8db95a15c8c21d7a0f9d89903fda9fd2e13519d51ba4a462934b3913bc3384bf
+Section: 微信插件
+Priority: optional
+Description: 消息屏蔽助手
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 消息屏蔽助手
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/msgfilt/js.json
+Sponsor: Axs
+
 Package: com.Axs.mshfplayer
 Version: 0.0.1
 Architecture: iphoneos-arm64
