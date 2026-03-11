@@ -731,6 +731,28 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: SwitchPro微信开关美化
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/SwitchPro/js.json
 
+Package: com.Axs.ThemePro
+Version: 4.5.4
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Shelby
+Depends: mobilesubstrate
+Conflicts: ThemePro
+Replaces: ThemePro
+Provides: ThemePro
+Filename: ./debs/com.Axs.ThemePro_4.5.4_iphoneos-arm64.deb
+Size: 6548672
+MD5sum: af7bcd0ce02fd356d75dba3f87f4aee6
+SHA1: fe599eae00cb0ade43eba6d8332f36424114a682
+SHA256: c7d320c3f06448fe901b3327bc780839ebd9beb0bb1b14c44470ba82cf2ba564
+Section: 微信插件
+Priority: optional
+Description: 由ThemePro团队开发,用于加载微信美化主题,安装完成重启微信生效!
+Author: Shelby
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: ThemePro-4.5.4-Rootless
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/themepro/js.json
+
 Package: com.Axs.WCEhance
 Version: 1.1-9
 Architecture: iphoneos-arm64
@@ -8767,6 +8789,25 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 酸果
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/sutuplus/js.json
 
+Package: com.sutuplus.releasefugu15
+Version: 6.1.0-1
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 2052
+Depends: mobilesubstrate
+Filename: ./debs/com.sutuplus.releasefugu15_6.1.0-1_iphoneos-arm64.deb
+Size: 592476
+MD5sum: 46759919e7309757336cf05862e367d0
+SHA1: 5a715183a320bde01ac19052fa181e9ac14cc46d
+SHA256: 4b1bb6a59fe4088c4111d1e1c10c99ab03a7e998cd15a49bcdd2ddfbbdf8500f
+Section: 微信插件
+Description: 本插件安装包来自苏兔源
+Author: 苏兔
+Depiction: https://axs.yourepo.com/
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 酸果
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/sutuplus/js.json
+
 Package: com.tencent.themebox
 Version: 1.0.1-1
 Architecture: iphoneos-arm64
@@ -9237,6 +9278,25 @@ Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
 Depiction: https://axs.yourepo.com/
+Icon: https://axs66.github.io/pro/icon/o2pro.png
+Name: o2Pro
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
+
+Package: xc.lzsxcl.o2pro
+Version: 18.9.17-4
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 32108
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_18.9.17-4_iphoneos-arm64.deb
+Size: 13287428
+MD5sum: 7b6a8cf5fdd55db5d572b1536c51a4de
+SHA1: 8e16d02708cc6c08c99fe0b6c87ca7885caeacee
+SHA256: faf5df3d074f68ac6331040683c7c362301778fd604966a791ca83187e094666
+Section: 分屏插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://axs66.github.io/pro
 Icon: https://axs66.github.io/pro/icon/o2pro.png
 Name: o2Pro
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
