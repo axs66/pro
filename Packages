@@ -192,10 +192,10 @@ Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: firmware (>= 5.0)
 Filename: ./debs/com.25mao.doutu.rootless_3.1-8_iphoneos-arm64.deb
-Size: 790096
-MD5sum: a2b7ef8343408d1b68201d52fcba45f9
-SHA1: e0a1b18d0fad962db90108787e09fd519040929a
-SHA256: 2fdc0576818f77e0c761edaaa118df409ff73647eee5ce17b3efb17686f20c69
+Size: 786588
+MD5sum: b3b9fd55e9900a80ad81525a792aa0c9
+SHA1: 1af07194eb91b7fb3f69c176feca5a038cd1e0c3
+SHA256: 2a4308eac6ded00dabc6021c7f8095e27370dcfb378cff146b0bbcdd95368b92
 Section: 微信插件
 Priority: optional
 Description: 微信斗图助手
@@ -8822,6 +8822,25 @@ Section: 微信插件
 Description: 本插件安装包来自苏兔源
 Author: 苏兔
 Depiction: https://axs.yourepo.com/
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 酸果
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/sutuplus/js.json
+
+Package: com.sutuplus.releasefugu15
+Version: 6.1.1-2
+Architecture: iphoneos-arm64
+Maintainer: Carby
+Installed-Size: 2084
+Depends: mobilesubstrate
+Filename: ./debs/com.sutuplus.releasefugu15_6.1.1-2_iphoneos-arm64.deb
+Size: 605992
+MD5sum: 13e231e6f0e23180314a881d9db1bd69
+SHA1: 818df254b1f0ea07acd411a9859c68e8cd71cf12
+SHA256: 871962acfaf6804dfbafb890f69b5989a852be7a48fcbd1eac3f869c8cbaa3ca
+Section: 微信插件
+Description: 本插件安装包来自苏兔源
+Author: 苏兔
+Depiction: https://axs66.github.io/pro
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 酸果
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/sutuplus/js.json
