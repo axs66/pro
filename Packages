@@ -186,6 +186,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 斗图助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/doutu/js.json
 
+Package: com.25mao.doutu.rootless
+Version: 3.1-8
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.doutu.rootless_3.1-8_iphoneos-arm64.deb
+Size: 790096
+MD5sum: a2b7ef8343408d1b68201d52fcba45f9
+SHA1: e0a1b18d0fad962db90108787e09fd519040929a
+SHA256: 2fdc0576818f77e0c761edaaa118df409ff73647eee5ce17b3efb17686f20c69
+Section: 微信插件
+Priority: optional
+Description: 微信斗图助手
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 斗图助手
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/doutu/js.json
+
 Package: com.25mao.leftpan.rootless
 Version: 1.0-6
 Architecture: iphoneos-arm64
