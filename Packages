@@ -332,6 +332,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 微信助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/miyou/js.json
 
+Package: com.25mao.miyou.rootless
+Version: 3.9-4
+Architecture: iphoneos-arm64
+Maintainer: https://axs66.github.io/pro
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.25mao.miyou.rootless_3.9-4_iphoneos-arm64.deb
+Size: 5082416
+MD5sum: 92262e521353d7ad67ef6dcbfc1d4f16
+SHA1: 0feba436829db3badbc5257761b199e6d65263d1
+SHA256: 7a484002f5eae947070e95394d28a416cb40c6ad1bab82cfed201a1c55caa1f1
+Section: 微信插件
+Priority: optional
+Description: 微信助手-Rootless版
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 微信助手
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/miyou/js.json
+
 Package: com.25mao.wepet
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -8992,6 +9010,23 @@ Size: 5022988
 MD5sum: 08fbbbaf272dda2a953a40844e67dc9f
 SHA1: 7f50eb5fff97aeab3252b4fd233dd74725dd3829
 SHA256: fae5a1da8cba984a5b2849c84d3d2ae73fd4183943b79853a0b4beed27f0cf27
+Section: 微信插件
+Description: 微信主题盒子
+Author: WeChat
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/themebox/js.json
+
+Package: com.tencent.themebox
+Version: 2.2.6
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.6_iphoneos-arm64.deb
+Size: 5192160
+MD5sum: c5aafd36a87bf6121c1c761978e2e6a9
+SHA1: 18a6bd6aec7ca986f9cad114a1b69cbb1b4f1929
+SHA256: 80ee49f4008715ff0b2fabe70d68decfd24bd6b255c4b1a41711b8a1c69b6575
 Section: 微信插件
 Description: 微信主题盒子
 Author: WeChat
