@@ -8622,6 +8622,23 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 虚拟视频
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/pingfan/js.json
 
+Package: com.pingfan.wechat
+Version: 2.2-8
+Architecture: iphoneos-arm64
+Maintainer: 平凡
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.pingfan.wechat_2.2-8_iphoneos-arm64.deb
+Size: 1694284
+MD5sum: aee82281c61732e7058f44e5d24d982e
+SHA1: 3ce7fa1c29f0bbac11de4fc2217e72c629012140
+SHA256: 8f490cdc85c527fceacacac4a20974ca49ecc51aa58d27762cd1833bd09d8496
+Section: 微信插件
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,等;修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏新增朋友圈转发、修改聊天时间等。
+Author: 平凡
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 虚拟视频
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/pingfan/js.json
+
 Package: com.pkgfiles.harlemshakereborn
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -9045,6 +9062,23 @@ Size: 5192160
 MD5sum: c5aafd36a87bf6121c1c761978e2e6a9
 SHA1: 18a6bd6aec7ca986f9cad114a1b69cbb1b4f1929
 SHA256: 80ee49f4008715ff0b2fabe70d68decfd24bd6b255c4b1a41711b8a1c69b6575
+Section: 微信插件
+Description: 微信主题盒子
+Author: WeChat
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/themebox/js.json
+
+Package: com.tencent.themebox
+Version: 2.2.7
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.2.7_iphoneos-arm64.deb
+Size: 5301444
+MD5sum: f150b05b4cf83b84ad31ab3014af1ee0
+SHA1: a85b0c9ea7f89bde4a49ab27b52fda0581cdeb7c
+SHA256: 999d768f8258e456e5d8bd18f2e5d0c30fc8fc3001191f3c3d0a1dc57f583d3d
 Section: 微信插件
 Description: 微信主题盒子
 Author: WeChat
