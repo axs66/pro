@@ -1218,6 +1218,24 @@ Icon: https://axs66.github.io/pro/icon/anuisance.png
 Name: Anuisance
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.Axs.appdata
+Version: 1.8.8
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Conflicts: com.netskao.appdatas, com.netskao.appdata, cn.zqbb.appdata, com.fouadraheb.appdata
+Filename: ./debs/com.Axs.appdata_1.8.8_iphoneos-arm64.deb
+Size: 170092
+MD5sum: 2eecdd2e8b455933b4f475ea9d96453d
+SHA1: a1d6bc7fe28c4ed543df6e2cdebc52f2e4317572
+SHA256: 0e14136da04b12644a92569cb95d8f4183f88366ea10a8f7f2eeb59ab724e6b0
+Section: Tweaks
+Description: 从主屏幕查看和管理应用数据，隐根用户不要转换安装。
+Author: Fouad Raheb
+Icon: https://axs66.github.io/pro/icon/Appdata.png
+Name: AppData
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdata/js.json
+
 Package: com.Axs.appstoretroller
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -2465,6 +2483,24 @@ Homepage: https://alist.138686.xyz
 Description: 微信自动发卡1.1.5，本地发卡，api发卡。1.0.5版本才是免费版本。
 Author: xuegao
 Depiction: https://axs66.github.io/pro
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 自动发卡
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/faka/js.json
+
+Package: com.Axs.faka
+Version: 1.2-5
+Architecture: iphoneos-arm64
+Maintainer: xuegao
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.Axs.faka_1.2-5_iphoneos-arm64.deb
+Size: 618296
+MD5sum: 8eabebfe841e3a8761d6d1b20383ef21
+SHA1: 1c3a612d7c2da08add8af6d4cb35df41e3ae9e94
+SHA256: 2f574309b22fbca84647629769027032c9ce07e66a0ebb52c69c5d3b987b6831
+Section: 微信插件
+Priority: optional
+Description: 微信自动发卡1.2-5，本地发卡，api发卡...
+Author: xuegao
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 自动发卡
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/faka/js.json
@@ -6627,6 +6663,23 @@ Size: 13454600
 MD5sum: 4ed6294903e71c464d362ae61efb4594
 SHA1: 21e4c051bd291d8186522dabf0fb44a86508bbe9
 SHA256: adac8e5ebfd35027af56026a0bbca867b54bd86c29af03f668dae9263369eed0
+Section: 微信插件
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 黄白助手
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechat/js.json
+
+Package: com.HBWechatHelper.ailun
+Version: 2.0.8
+Architecture: iphoneos-arm64
+Maintainer: HuangBai
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_2.0.8_iphoneos-arm64.deb
+Size: 13979440
+MD5sum: 2e228ffa25f6d0e72d02b29d4b4301a5
+SHA1: 37f58db9a637e35cf1d49a65bbaefa2a9a2265de
+SHA256: dc6e95ddccce3635c6d58a8277539a0f9a7c4e3a9b43f37fe4a16731eedfe1d1
 Section: 微信插件
 Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
 Author: HuangBai
