@@ -6259,23 +6259,6 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/xxuegao/js.json
 
 Package: com.Axs.yuanjiao
 Version: 1.8.6
-Architecture: iphoneos-arm64e
-Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
-Size: 635632
-MD5sum: dc267e44b3b13e81d4d99be76c742bae
-SHA1: a6f5ba94787749532d6428d582ef2c057dc07f8b
-SHA256: 6672e38c4802329f3c30b977345fa7ae2c25d15bcf946fdd7063720179ed92e1
-Section: 微信插件
-Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
-Author: A
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: 全局圆角
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/yuanjiao/js.json
-
-Package: com.Axs.yuanjiao
-Version: 1.8.6
 Architecture: iphoneos-arm
 Maintainer: Axs
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), preferenceloader (>= 2.2.3)
@@ -6292,15 +6275,15 @@ Name: 全局圆角
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/yuanjiao/js.json
 
 Package: com.Axs.yuanjiao
-Version: 1.8.6-END
-Architecture: iphoneos-arm64
+Version: 1.8.6
+Architecture: iphoneos-arm64e
 Maintainer: Axs
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
-Filename: ./debs/com.Axs.yuanjiao_1.8.6-END_iphoneos-arm64.deb
-Size: 642280
-MD5sum: 69b380f85cf2e104398bce37a6b63cef
-SHA1: a6c558f3bc3f7204eba099d376307744b322cb61
-SHA256: 83cd7cf7a44f2776dae8086833b276b7dd45420e6384b5f9d5ba1696776a8c03
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.yuanjiao_1.8.6_iphoneos-arm64e.deb
+Size: 635632
+MD5sum: dc267e44b3b13e81d4d99be76c742bae
+SHA1: a6f5ba94787749532d6428d582ef2c057dc07f8b
+SHA256: 6672e38c4802329f3c30b977345fa7ae2c25d15bcf946fdd7063720179ed92e1
 Section: 微信插件
 Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
 Author: A
@@ -6318,6 +6301,23 @@ Size: 642592
 MD5sum: 096eed8af93aa4890fa8625deb1879bd
 SHA1: e16890382181664f76f8173cb59ca582870b7623
 SHA256: 015b4b1f4c32813c39ee795605d244c03322283604227f3cf4d69e6b04885e9d
+Section: 微信插件
+Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
+Author: A
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 全局圆角
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/yuanjiao/js.json
+
+Package: com.Axs.yuanjiao
+Version: 1.8.6-END
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.Axs.yuanjiao_1.8.6-END_iphoneos-arm64.deb
+Size: 642280
+MD5sum: 69b380f85cf2e104398bce37a6b63cef
+SHA1: a6c558f3bc3f7204eba099d376307744b322cb61
+SHA256: 83cd7cf7a44f2776dae8086833b276b7dd45420e6384b5f9d5ba1696776a8c03
 Section: 微信插件
 Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
 Author: A
@@ -7254,6 +7254,42 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: NewFeature
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/newfeature/js.json
 
+Package: com.axs.newfeature.core
+Version: 5.2.0-495
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 784
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.axs.newfeature.core_5.2.0-495_iphoneos-arm64.deb
+Size: 213524
+MD5sum: aceb910b6cc06eca44d73f55ff2555ec
+SHA1: 1b8cc6fa3a22eca98af07c0730cbfc8275dc5023
+SHA256: 956fcde454613179a8730a074246907a9d8ed7cfe2e4ca3cfc398238b90e3ff6
+Section: 微信插件
+Priority: optional
+Description: 一个简单的微信插件。功能介绍：
+ * 1.账号信息：用户信息、应用信息、签名信息。
+ * 2.内测功能：微信各版本灰度功能提前享用。
+ * 3.输入窗口：聊天界面输入框美化及增强功能。
+ * 4.实用功能：抢红包、游戏作弊、步数修改、虚拟定位、消息防撤回、消息屏蔽、消息引用、引用消息点击跳转、全屏三击截图、全屏返回手势、后台保活、首页列表长按预览、隐藏微信号、朋友圈显示详细时间。
+ * 5.附件布局：聊天功能面板 2x5布局(可自定义排序)。
+ * 6.信息时间：聊天界面消息时间自定义。
+ * 7.触摸轨迹：微信内置触摸轨迹自定义。
+ * 8.头像设置：微信头像的圆角、个人页头像旋转、聊天界面隐藏头像等功能。
+ * 9.字体加载：在微信内置字体，支持ttf或otf格式。
+ * 10.文件管理：支持文件管理、上传、分享、复制、移动、压缩、删除、重命名；数据存档及恢复、清理数据等。
+ * 11.美化功能(Svip群享受)：
+    11.1 微信头像-自定义位置，状态，特效。
+    11.2 微信铭牌-群聊昵称铭牌。
+    11.3 首页背景、菜单背景等支持多媒体。
+    11.4 底栏背景：隐藏图标文字、特效等。
+    11.5 时间背景、SVG图标随机颜色。
+ * 12.其他功能：输入法隐藏Logo、图片边缘点击关闭、图片信息扩展、微信去广告、绕过越狱检测、自动登录、朋友圈消息尾巴、动态背景。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: NewFeature
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/newfeature/js.json
+
 Package: com.axs.rma
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -7386,6 +7422,24 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/tie-gesture/js.json
 Package: com.brend0n.qqmusicdesktoplyrics
 Version: 0.3.9~b1
 Architecture: iphoneos-arm64
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 2748
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.brend0n.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64 .deb
+Size: 623216
+MD5sum: 03b3e99b8dc65ee598a7fb0745d433ca
+SHA1: c1a5049aa428aa0bd647bcf06e12979ab88624e5
+SHA256: 25c7d063e1a75c78d2b4dd7f8ee252dbe0616a54f40ef7be2ccc43299fa026c2
+Section: Tweaks
+Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify，放心玩吧！
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicdesktoplyrics
+Name: DesktopLyrics
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
+
+Package: com.brend0n.qqmusicdesktoplyrics
+Version: 0.3.9~b1
+Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 2748
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
@@ -7401,24 +7455,6 @@ Depiction: https://axs66.github.io/pro
 Icon: https://axs66.github.io/pro/icon/qqmusicdesktoplyrics.png
 Name: DesktopLyrics 桌面歌词
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/qqmusicdesktoplyrics/js.json
-
-Package: com.brend0n.qqmusicdesktoplyrics
-Version: 0.3.9~b1
-Architecture: iphoneos-arm64
-Maintainer: Brend0n <brendonjkding@126.com>
-Installed-Size: 2748
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
-Filename: ./debs/com.brend0n.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64 .deb
-Size: 623216
-MD5sum: 03b3e99b8dc65ee598a7fb0745d433ca
-SHA1: c1a5049aa428aa0bd647bcf06e12979ab88624e5
-SHA256: 25c7d063e1a75c78d2b4dd7f8ee252dbe0616a54f40ef7be2ccc43299fa026c2
-Section: Tweaks
-Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify，放心玩吧！
-Author: Brend0n <brendonjkding@126.com>
-Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicdesktoplyrics
-Name: DesktopLyrics
-Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
 
 Package: com.creaturecoding.shuffle
 Version: 1.6.2
