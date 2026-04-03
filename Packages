@@ -7948,6 +7948,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 微信小底栏
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.go.mango
+Version: 0.0.2-1
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 852
+Depends: mobilesubstrate
+Filename: ./debs/com.go.mango_0.0.2-1_iphoneos-arm64.deb
+Size: 245444
+MD5sum: 7428ff113041a21ff5e5adae40c98b92
+SHA1: b4e973827cd0ff708fc49b6a4e924422121d6d79
+SHA256: f880761b7205ad6286ee4096b94ecefefe9caf8852f8d9e856f1c369d5f0f915
+Section: 分屏插件
+Description: 芒果，轻量分屏，舒适，顺手。
+Author: go
+Icon: https://axs66.github.io/pro/icon/mango.png
+Name: mango 芒果分屏
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
+
 Package: com.hk.rootless.cc
 Version: 2.0.5.5
 Architecture: iphoneos-arm64
