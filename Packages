@@ -7390,15 +7390,16 @@ Maintainer: Axs
 Installed-Size: 444
 Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.axs.notifyisland_1.1.0_iphoneos-arm64.deb
-Size: 53404
-MD5sum: 8317e2f9d736136beaca840a3ce1df5b
-SHA1: 194eb17607145a5180a0314f0b8ec2aea517e370
-SHA256: d952dc6baa4d8b3e0f93921c5adca43867191946b3836cd96e1deb16b0e5798a
+Size: 53464
+MD5sum: 376410c0c13c27d7ffe107ec3ee60ff2
+SHA1: f6a772992e260cfa7ee7b8b0d7de33e1e8d2e7ed
+SHA256: dd9b855d0b7b079725b36106ab070ab0bfb34d2f92376d561e3db4ec46070141
 Section: 灵动岛
 Description: 灵动通知，功能介绍:
   * 1.在灵动岛上显示精美的消息通知；
-  * 2.支持自定义尺寸、字体及垂直偏移；
-  * 3.支持点击岛上消息跳转app。
+  * 2.支持自定义背景（视频、图片、纯代码格式）；
+  * 3.支持自定义尺寸、字体及垂直偏移；
+  * 4.支持点击岛上消息跳转app。
 Author: Axs
 Icon: https://axs66.github.io/pro/icon/notifyisland.png
 Name: NotifyIsland
