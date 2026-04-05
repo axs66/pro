@@ -7383,6 +7383,27 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: NewFeature
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/newfeature/js.json
 
+Package: com.axs.notifyisland
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 444
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.notifyisland_1.1.0_iphoneos-arm64.deb
+Size: 53404
+MD5sum: 8317e2f9d736136beaca840a3ce1df5b
+SHA1: 194eb17607145a5180a0314f0b8ec2aea517e370
+SHA256: d952dc6baa4d8b3e0f93921c5adca43867191946b3836cd96e1deb16b0e5798a
+Section: 灵动岛
+Description: 灵动通知，功能介绍:
+  * 1.在灵动岛上显示精美的消息通知；
+  * 2.支持自定义尺寸、字体及垂直偏移；
+  * 3.支持点击岛上消息跳转app。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/notifyisland.png
+Name: NotifyIsland
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/notifyisland/js.json
+
 Package: com.axs.rma
 Version: 1.0
 Architecture: iphoneos-arm64
