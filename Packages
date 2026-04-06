@@ -4303,6 +4303,24 @@ Icon: https://axs66.github.io/pro/icon/prokeys.png
 Name: ProKeys键盘特效
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/prokeys/js.json
 
+Package: com.Axs.proknockout
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1836
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.proknockout_0.0.1_iphoneos-arm64.deb
+Size: 377020
+MD5sum: d3ee0c0b0cfe8a8e2b9fdee9809fca6c
+SHA1: 045966df67e1549690632b1a56e9b68566ee758d
+SHA256: e385366419a72307c6b1b88836018366eb718f37797a542009b6732486917c34
+Section: 破解插件
+Description: 解锁VIP
+Author: 🅷🆆
+Icon: https://axs66.github.io/pro/icon/proknockout.png
+Name: ProKnockout
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/proknockout/js.json
+
 Package: com.Axs.qishui
 Version: 1.0.0-129
 Architecture: iphoneos-arm64
@@ -7892,6 +7910,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 锤子助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/dumpapp/js.json
 
+Package: com.dumpapp.wechat-rootless
+Version: 2.4.1
+Architecture: iphoneos-arm64
+Maintainer: DumpApp
+Installed-Size: 14436
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/com.dumpapp.wechat-rootless_2.4.1_iphoneos-arm64.deb
+Size: 5625536
+MD5sum: 13d0022af773520d2270022b48e9b818
+SHA1: 70f4dbcded304aba120e1cb1158583b0d2c0207c
+SHA256: b49737e7e4d9975052500727511945e87c9cd2e4e33f56f2dbc027d2ef0cbf21
+Section: 微信插件
+Description: 锤子助手
+Author: DumpApp
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 锤子助手
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/dumpapp/js.json
+
 Package: com.edge.siri
 Version: 3.1.1-9
 Architecture: iphoneos-arm64
@@ -7981,6 +8017,24 @@ Size: 245444
 MD5sum: 7428ff113041a21ff5e5adae40c98b92
 SHA1: b4e973827cd0ff708fc49b6a4e924422121d6d79
 SHA256: f880761b7205ad6286ee4096b94ecefefe9caf8852f8d9e856f1c369d5f0f915
+Section: 分屏插件
+Description: 芒果，轻量分屏，舒适，顺手。
+Author: go
+Icon: https://axs66.github.io/pro/icon/mango.png
+Name: mango 芒果分屏
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
+
+Package: com.go.mango
+Version: 0.0.3-1
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 900
+Depends: mobilesubstrate
+Filename: ./debs/com.go.mango_0.0.3-1_iphoneos-arm64.deb
+Size: 268720
+MD5sum: 73c1da7013ddb0290949dd524c3cecd2
+SHA1: 28f02a437bbf73a69cb681633facd40de41f039f
+SHA256: 54ffcdcb7e9b5fe00e97b46431fe2799035f9a67964a720a82d5408e5f37bff9
 Section: 分屏插件
 Description: 芒果，轻量分屏，舒适，顺手。
 Author: go
