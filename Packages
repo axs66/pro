@@ -4030,6 +4030,24 @@ Author: ichitaso
 Name: HideSerialNumber
 Sponsor: Axs
 
+Package: com.Axs.nowaveform
+Version: 1.0.2
+Architecture: iphoneos-arm64
+Maintainer: Nathan Senter
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.nowaveform_1.0.2_iphoneos-arm64.deb
+Size: 3556
+MD5sum: f399a2577f8d15bbe813a7fab60bb229
+SHA1: 7a472492709afe5bd63a31b615bf29d186d7a9bb
+SHA256: 2dd33a76c4464ce8142ee34882fb3e41de48f51280207bf2209bfdde404a229c
+Section: 灵动岛
+Description: 隐藏动态岛上右侧的音频波形，锁定屏幕音乐播放器！
+Author: Nathan Senter
+Icon: https://axs66.github.io/pro/icon/nowaveform.png
+Name: NoWaveForm
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/nowaveform/js.json
+
 Package: com.Axs.ocd5
 Version: 5.4.1.1
 Architecture: iphoneos-arm64
@@ -9555,6 +9573,25 @@ Author: A
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WeChatEnhance微信增强
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/WeChatEnhance/js.json
+
+Package: com.xybp888.perfectdynamiclsland
+Version: 1.2-30
+Architecture: iphoneos-arm64
+Maintainer: xybp888
+Depends: firmware (>= 16.0), preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.xybp888.perfectdynamiclsland_1.2-30_iphoneos-arm64.deb
+Size: 562900
+MD5sum: 56ebb1987b9a957413c91166c86c1976
+SHA1: 8ed07ff04a558287dc06238f8733d0fc987d58b7
+SHA256: 50afd70c5cccad155a60483a359c27f6a482d20867418d7f57c07a942a1d2659
+Section: System
+Priority: optional
+Description: 完美的使用原生灵动岛展示系统通知等...
+Author: xybp888
+Dev: xybp888
+Icon: https://axs66.github.io/pro/icon/perfectdynamiclsland.png
+Name: 灵动通知
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/perfectdynamiclsland/js.json
 
 Package: eg.anubistweaks.translux
 Version: 1.1.0
