@@ -6967,24 +6967,6 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/floatingtag/js.json
 
 Package: com.axs.immortalizerjailed
 Version: 2.2
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 156
-Depends: mobilesubstrate
-Filename: ./debs/com.axs.immortalizerjailed_2.2_iphoneos-arm64.deb
-Size: 38696
-MD5sum: b3c891571509daf7d043f09402c4b3ab
-SHA1: 8479afae57ca0c738585a0662c30402f5fc1fb1b
-SHA256: faded307a2786b88f26edbe004400ca70aa87dde9a34dac3d025a2fd5e998e5c
-Section: 微信插件
-Description: A tweak that keeps apps alive，这个插件的作用可以让你的app即使在后台，也能无限期地运行在前台！无需越狱或TrollStore，您只需将插件注入您想要使用的 IPA 即可。会有一个可以拖动的浮动按钮，你可以点击它来切换 Immortalizer 的状态。
-Author: A
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: ImmortalizerJailed真后台
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/immortalizerjailed/js.json
-
-Package: com.axs.immortalizerjailed
-Version: 2.2
 Architecture: iphoneos-arm64e
 Maintainer: Axs
 Installed-Size: 156
@@ -7001,17 +6983,35 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: ImmortalizerJailed真后台
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/immortalizerjailed/js.json
 
+Package: com.axs.immortalizerjailed
+Version: 2.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 156
+Depends: mobilesubstrate
+Filename: ./debs/com.axs.immortalizerjailed_2.2_iphoneos-arm64.deb
+Size: 38696
+MD5sum: b3c891571509daf7d043f09402c4b3ab
+SHA1: 8479afae57ca0c738585a0662c30402f5fc1fb1b
+SHA256: faded307a2786b88f26edbe004400ca70aa87dde9a34dac3d025a2fd5e998e5c
+Section: 微信插件
+Description: A tweak that keeps apps alive，这个插件的作用可以让你的app即使在后台，也能无限期地运行在前台！无需越狱或TrollStore，您只需将插件注入您想要使用的 IPA 即可。会有一个可以拖动的浮动按钮，你可以点击它来切换 Immortalizer 的状态。
+Author: A
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: ImmortalizerJailed真后台
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/immortalizerjailed/js.json
+
 Package: com.axs.lockplayer
 Version: 3.22
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Axs
 Installed-Size: 1464
 Depends: firmware (>= 15.0)
-Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64.deb
-Size: 463768
-MD5sum: 7582db7684bc74fb83f74f63decc6a9d
-SHA1: 2e34f344c48c758d88737efcb6e269f925c81cb6
-SHA256: fa2296258c5c821b334c08bf5bb75ab4ecc1a4cd97aa07bd5e5dffbf2a32ca9d
+Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64e.deb
+Size: 463868
+MD5sum: 68d979f053adae3e403eff50f4d221d7
+SHA1: 6c225b74ee7bec0d35708458a7c19ccdcd538e34
+SHA256: aa8c9f69ffb57ad24968af9f90c6cc402c17978342787222c85a10a43e91cb43
 Section: Tweaks
 Description:
  lockplayer锁屏播放器，功能介绍：
@@ -7027,15 +7027,15 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/lockplayer/js.json
 
 Package: com.axs.lockplayer
 Version: 3.22
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 1464
 Depends: firmware (>= 15.0)
-Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64e.deb
-Size: 463868
-MD5sum: 68d979f053adae3e403eff50f4d221d7
-SHA1: 6c225b74ee7bec0d35708458a7c19ccdcd538e34
-SHA256: aa8c9f69ffb57ad24968af9f90c6cc402c17978342787222c85a10a43e91cb43
+Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64.deb
+Size: 463768
+MD5sum: 7582db7684bc74fb83f74f63decc6a9d
+SHA1: 2e34f344c48c758d88737efcb6e269f925c81cb6
+SHA256: fa2296258c5c821b334c08bf5bb75ab4ecc1a4cd97aa07bd5e5dffbf2a32ca9d
 Section: Tweaks
 Description:
  lockplayer锁屏播放器，功能介绍：
@@ -8053,6 +8053,24 @@ Size: 268720
 MD5sum: 73c1da7013ddb0290949dd524c3cecd2
 SHA1: 28f02a437bbf73a69cb681633facd40de41f039f
 SHA256: 54ffcdcb7e9b5fe00e97b46431fe2799035f9a67964a720a82d5408e5f37bff9
+Section: 分屏插件
+Description: 芒果，轻量分屏，舒适，顺手。
+Author: go
+Icon: https://axs66.github.io/pro/icon/mango.png
+Name: mango 芒果分屏
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
+
+Package: com.go.mango
+Version: 0.0.4-1
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 916
+Depends: mobilesubstrate
+Filename: ./debs/com.go.mango_0.0.4-1_iphoneos-arm64.deb
+Size: 266968
+MD5sum: 8f277b3598fe73a7223f312948b218bd
+SHA1: 0141a9b3599b19c34878f60c6e37a4c50fa426b6
+SHA256: bef382eeb54a86384d9dd8a9f0a45ac67660420399d000e0100587ece6e197e7
 Section: 分屏插件
 Description: 芒果，轻量分屏，舒适，顺手。
 Author: go
