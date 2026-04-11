@@ -7001,6 +7001,29 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: ImmortalizerJailed真后台
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/immortalizerjailed/js.json
 
+Package: com.axs.ios16dao
+Version: 5.2.0-244
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 704
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.axs.ios16dao_5.2.0-244_iphoneos-arm64.deb
+Size: 123658
+MD5sum: b9c3b1048d37633f72251742ea26cf03
+SHA1: 2346b7fe0455da96d9964e1ca13d1d7329233c14
+SHA256: ef0c333e3c1ef94d64331ec1acda7ba363c8e980bb4b1198b6e131a0d39bd151
+Section: 灵动岛
+Description: 一款市面上最优秀、功能最完整、最稳定的灵动岛插件。集成授权校验联系:VCR66T
+ * 1. 动态岛自定义背景，支持 PNG/JPG/GIF/MP4。
+ * 2. 录屏的时候，可以隐藏原生岛黑色区域，让效果更美观。
+ * 3. 内置纯代码灵动光圈（如彩虹环、彩虹流星、舞台灯、跑马灯、纯色线框）、漂亮的七彩随机光圈阴影等特效。
+ * 4. 灵动岛左右两侧自定义png图片帧率动画（如写轮眼、跳舞等玩法）。
+ * 5. 本插件无需任何依赖、支持手势录屏触发，已经达到极致水平。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/dynamicnotland.png
+Name: ios16~17动态岛
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
+
 Package: com.axs.lockplayer
 Version: 3.22
 Architecture: iphoneos-arm64e
