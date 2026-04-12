@@ -2061,6 +2061,24 @@ Icon: https://axs66.github.io/pro/icon/collection.png
 Name: Collection
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/collection/js.json
 
+Package: com.Axs.controlcenterlayout
+Version: 2.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 620
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.controlcenterlayout_2.1_iphoneos-arm64.deb
+Size: 90644
+MD5sum: 2cca39d3a74f3e687f48a81c18d52103
+SHA1: 1fa947f6523a3a16e7b70ca200f1e3878c3e6654
+SHA256: 1fb1fd084c5eb1a5b0ab93feaae8388c8d35548d5ba3d6ad25cb0d25a0b77686
+Section: 控制中心
+Description: 用于部分自用控制中心模块2x1布局以及素材替换，半越狱不再卑微。
+Author: Simon
+Icon: https://axs66.github.io/pro/icon/controlcenterlayout.png
+Name: 控制中心模块
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/controlcenterlayout/js.json
+
 Package: com.Axs.copylog
 Version: 1.7.1
 Architecture: iphoneos-arm64
