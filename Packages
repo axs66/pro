@@ -3529,6 +3529,24 @@ Icon: file:///var/jb/Library/IconRepo/phattrienn1.png
 Name: libnotifications
 Sponsor: Axs
 
+Package: com.Axs.lightisle
+Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: 旧约
+Installed-Size: 1304
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.1)
+Filename: ./debs/com.Axs.lightisle_1.0.0-2_iphoneos-arm64.deb
+Size: 953728
+MD5sum: d7de10d50519f18e14bb4e6b5efd2e87
+SHA1: bbd326c180d35cca12a18e61b62752d6efa04e11
+SHA256: 1f557d12f5aeb88024eaf1a92cd8af9f7d5f1ed1497df69ecd4dd94fbcd0c268
+Section: 灵动岛
+Description: 为iOS16添加灵岛手电筒控制
+Author: 旧约
+Icon: https://axs66.github.io/pro/icon/lightisle.png
+Name: LightIsle手电筒
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/lightisle/js.json
+
 Package: com.Axs.limneoscrack-rootless
 Version: 1.1-3
 Architecture: iphoneos-arm64
@@ -9679,13 +9697,13 @@ Architecture: iphoneos-arm64
 Maintainer: xybp888
 Depends: firmware (>= 16.0), preferenceloader, com.opa334.libsandy
 Filename: ./debs/com.xybp888.perfectdynamiclsland_1.2-30_iphoneos-arm64.deb
-Size: 562900
-MD5sum: 56ebb1987b9a957413c91166c86c1976
-SHA1: 8ed07ff04a558287dc06238f8733d0fc987d58b7
-SHA256: 50afd70c5cccad155a60483a359c27f6a482d20867418d7f57c07a942a1d2659
-Section: System
+Size: 562736
+MD5sum: ef481edb23b635ddac99fffc140bdedb
+SHA1: 1e073ce326c66360e8047ba329682d5585b426a4
+SHA256: 561ffd9753c5e52e211bac4c585f9fe317335875de65a984b571e2784cf117c0
+Section: 灵动岛
 Priority: optional
-Description: 完美的使用原生灵动岛展示系统通知等...
+Description: 完美的使用原生灵动岛展示系统通知等
 Author: xybp888
 Dev: xybp888
 Icon: https://axs66.github.io/pro/icon/perfectdynamiclsland.png
