@@ -6925,6 +6925,25 @@ Icon: https://axs66.github.io/pro/icon/MilkyWay.png
 Name: MilkyWay4-iOS16Fix
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.axs.awemepro
+Version: 5.2.0-106
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1296
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.axs.awemepro_5.2.0-106_iphoneos-arm64.deb
+Size: 252684
+MD5sum: 4ad08057c6e3c1b9818d8205efd4e1b4
+SHA1: 7504ba784e0b167ec931bde68a0149134a92be62
+SHA256: c44db0cca3fcf5a52846870127b00ee290f775caf5c5183d3bebe31e2dc5d136
+Section: Axs-Tweaks
+Priority: optional
+Description: 一个简单的抖音自用插件，仅在37.9.0版本编译，无效请卸载!
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/dy.png
+Name: AwemePro
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/awemepro/js.json
+
 Package: com.axs.contactsfs
 Version: 1.0.1
 Architecture: iphoneos-arm64
