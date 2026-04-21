@@ -9,9 +9,9 @@
 			"package": "com.axs.sileo"
 		},
 		{
-			"url": "http://axs66.github.io/pro/images/ios6dao.png",
+			"url": "http://axs66.github.io/pro/images/ios16dao.png",
 			"title": "动态岛",
-			"package": "com.axs.ios6dao"
+			"package": "com.axs.ios16dao"
 		},
 		{
 			"url": "http://axs66.github.io/pro/images/screenshellpro.png",
@@ -41,7 +41,7 @@
 		{
 			"url": "http://axs66.github.io/pro/images/svp.png",
 			"title": "Stheno分屏",
-			"package": "com.nx.stheno"
+			"package": "com.axs.stheno"
 		}
 	]
 }
