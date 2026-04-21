@@ -3583,6 +3583,25 @@ Icon: https://axs66.github.io/pro/icon/lingdongdao.png
 Name: 灵动岛自定义
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/lingdongdao/js.json
 
+Package: com.Axs.liquidass
+Version: 7.alpha
+Architecture: iphoneos-arm64
+Maintainer: dylv
+Installed-Size: 1092
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Conflicts: dylv.liquidass
+Filename: ./debs/com.Axs.liquidass_7.alpha_iphoneos-arm64.deb
+Size: 218072
+MD5sum: 599b420d96bc1b20e9d909b2dee030cc
+SHA1: 6e0741099cb6085f9c850bf7f7b9e428fd6df39e
+SHA256: 65172da53ac47c1fc625e4fb8360fe4a73aefd758eda6a5451332a31c9ca0c16
+Section: Tweaks
+Description: 让你的旧设备体验 iOS 26 Liquid Glass 玻璃特效
+Author: dylv
+Icon: https://axs66.github.io/pro/icon/liquidass.png
+Name: Liquidass iOS 26 玻璃特效
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/liquidass/js.json
+
 Package: com.Axs.ljm
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -7020,6 +7039,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WeChatFloatingTag
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/floatingtag/js.json
 
+Package: com.axs.fps
+Version: 5.2.0-8
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 172
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.axs.fps_5.2.0-8_iphoneos-arm64.deb
+Size: 9480
+MD5sum: b069469c96181c48d8b01b403da4e5cf
+SHA1: f17e1e9dfdcd98056ea170ec19bf9c9f956a0e0c
+SHA256: ad3e2cfc9ac02b50879a0dcd1aec7acdb87c38fc5301ebc0df2dc0e6b7cd1e9f
+Section: Axs-Tweaks
+Description: 一个简单的FPS悬浮自用插件
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/fps.png
+Name: FPS悬浮显示
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/fps/js.json
+
 Package: com.axs.immortalizerjailed
 Version: 2.2
 Architecture: iphoneos-arm64e
@@ -7110,10 +7147,10 @@ Maintainer: Axs
 Installed-Size: 1464
 Depends: firmware (>= 15.0)
 Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64.deb
-Size: 464256
-MD5sum: 6714f0321e35d6469e11f4d94663bf3a
-SHA1: 3c706e416d0c499131b6b3268af484341a6ec9a1
-SHA256: 3e03dc46841713e64647761084194136875824e176776e9a71cd4b49717b5d12
+Size: 464012
+MD5sum: 8d393219e8bc21a7a6e52758c852a507
+SHA1: 48b158d4c0f081d4835960b92bf6ecf49bcfd715
+SHA256: 7800971793d9f2832222428ff1f7eb460e3837a67dace9a1007c34dedbbb1ed1
 Section: Axs-Tweaks
 Description:
  lockplayer锁屏播放器，功能介绍：
