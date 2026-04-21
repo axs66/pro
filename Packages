@@ -1885,11 +1885,11 @@ Maintainer: Axs
 Installed-Size: 432
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.Axs.cellbadge_1.0.1_iphoneos-arm64.deb
-Size: 36392
-MD5sum: 5ffbb711de614d6c2aa7376050cdb6b5
-SHA1: 796d1a9a3a19cccc3a43e84797aae1167107ff45
-SHA256: 299541444022a921c1b7e21ac6a4db7b0cfa6c3624bae17cd794c1d322f4721a
-Section: Tweaks
+Size: 36408
+MD5sum: b6933a8687ffef264cb29bb8798f563e
+SHA1: 3f750f1d5920694e0733e700d5ea8d59f484fec6
+SHA256: 9adf3434e1f82b3b139041c68ad5bc97781389c49b60f1d319bb64a0bc7897b6
+Section: Axs-Tweaks
 Priority: optional
 Description: 为设置列表中的项目添加自定义图标前缀，支持iOS 14.5+
 Author: Axs
@@ -2419,11 +2419,11 @@ Maintainer: Axs
 Installed-Size: 440
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.Axs.eneko_1.5.1_iphoneos-arm64.deb
-Size: 60636
-MD5sum: a9bd4d3c85644019542ac3d8360ace24
-SHA1: eded319082b79d4b16b6d49ba9ad6fe9f8e25917
-SHA256: cc91a1fe871e8829d370daeedc9fff4620e8bfd79b9e8eacb1dce69c29ceccff
-Section: Tweaks
+Size: 60684
+MD5sum: e0d3633e1399e64d2d2e7b944e1886ca
+SHA1: 05316aa7968aca827229462091d7fa8710840180
+SHA256: 99153dac29a40ee53a33cf2b0769ef4729482903e0fb509ad6a235b4702c7fa7
+Section: Axs-Tweaks
 Description: 壁纸插件，将你喜欢的视频设置成桌面或者锁屏壁纸，需要安装onesettings收纳插件，在本源里面搜索onesettings安装即可。
 Author: Traurige & Axs
 Icon: https://axs66.github.io/pro/icon/eneko.png
@@ -2938,13 +2938,13 @@ Maintainer: Axs
 Installed-Size: 532
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/com.Axs.gravitation_1.0.0_iphoneos-arm64.deb
-Size: 71444
-MD5sum: dac2602d5a92d7b50f84fac4d192f6ce
-SHA1: c96670aa6b1141e385d5e003fc17e5ec91e2cc11
-SHA256: f69f38b522fbb69bfbe1b429acd26300d534b2d6c5560e619b176187b7dc80df
-Section: Tweaks
+Size: 71448
+MD5sum: e6c0b985e86dbdec169fc42fafec3f94
+SHA1: 934ef92a2cde3dd46bc4b9dee6b3a6d5ee15d909
+SHA256: 0fe972057966e1fed980dfaa5fc542acd2334a55728ced4934d51728a7966cba
+Section: Axs-Tweaks
 Description: Shake the phone once on the desktop, and the app will start a gravity-sensing dance; shake the phone again to return to normal. Only supports iOS 15.0-16.6.1 systems
-Author: Kritanta & Axs
+Author: Axs
 Icon: https://axs66.github.io/pro/icon/gravitation.png
 Name: Gravitation 重力感应
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/gravitation/js.json
@@ -6462,13 +6462,13 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
 Filename: ./debs/com.Axs.yuanjiao_1.8.6-END_iphoneos-arm64.deb
-Size: 642280
-MD5sum: 69b380f85cf2e104398bce37a6b63cef
-SHA1: a6c558f3bc3f7204eba099d376307744b322cb61
-SHA256: 83cd7cf7a44f2776dae8086833b276b7dd45420e6384b5f9d5ba1696776a8c03
-Section: 微信插件
+Size: 643040
+MD5sum: 835e6688fa01e49e1bfe01b64e9c93f1
+SHA1: caf67db59c96ef1c9caa898e03d72957d6a96116
+SHA256: 7d2a97c2597f800322e572a47c991a6f38b1e34dd5591dd0c0ca451888d5b50a
+Section: Axs-Tweaks
 Description: 功能介绍：1.圆角位置包括：全局头像旋转、聊天界面(图片、视频、引用、长按消息、文件、红包、音乐、小程序、公众号、聊天记录、定位、名片、收藏、对话时间、群置顶等等)、消息列表界面（左滑、右滑），相册、会话、朋友圈、视频号等各种界面的圆角。2.横幅通知：粒子动画，视频特效等。 3.付费插件 9.9 授权，添加微信 VCR66T 授权。
-Author: A
+Author: Axs
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 全局圆角
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/yuanjiao/js.json
@@ -7063,12 +7063,12 @@ Maintainer: Axs
 Installed-Size: 704
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Filename: ./debs/com.axs.ios16dao_5.2.0-244_iphoneos-arm64.deb
-Size: 123658
-MD5sum: b9c3b1048d37633f72251742ea26cf03
-SHA1: 2346b7fe0455da96d9964e1ca13d1d7329233c14
-SHA256: ef0c333e3c1ef94d64331ec1acda7ba363c8e980bb4b1198b6e131a0d39bd151
-Section: 灵动岛
-Description: 一款市面上最优秀、功能最完整、最稳定的灵动岛插件。集成授权校验联系:VCR66T
+Size: 123892
+MD5sum: 17f0b87eff49517833396f2fa10a1903
+SHA1: 04ede7ffbe6875dbbd209f92d49fd696b0437170
+SHA256: b72db26bc9e0820c48ee1be58482759adfb163b9c5655089e506e7d5a88acf71
+Section: Axs-Tweaks
+Description: 一款市面上最优秀、功能最完整、最稳定的灵动岛插件。付费插件，150缘，授权校验联系:VCR66T
  * 1. 动态岛自定义背景，支持 PNG/JPG/GIF/MP4。
  * 2. 录屏的时候，可以隐藏原生岛黑色区域，让效果更美观。
  * 3. 内置纯代码灵动光圈（如彩虹环、彩虹流星、舞台灯、跑马灯、纯色线框）、漂亮的七彩随机光圈阴影等特效。
@@ -7110,11 +7110,11 @@ Maintainer: Axs
 Installed-Size: 1464
 Depends: firmware (>= 15.0)
 Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64.deb
-Size: 463768
-MD5sum: 7582db7684bc74fb83f74f63decc6a9d
-SHA1: 2e34f344c48c758d88737efcb6e269f925c81cb6
-SHA256: fa2296258c5c821b334c08bf5bb75ab4ecc1a4cd97aa07bd5e5dffbf2a32ca9d
-Section: Tweaks
+Size: 464256
+MD5sum: 6714f0321e35d6469e11f4d94663bf3a
+SHA1: 3c706e416d0c499131b6b3268af484341a6ec9a1
+SHA256: 3e03dc46841713e64647761084194136875824e176776e9a71cd4b49717b5d12
+Section: Axs-Tweaks
 Description:
  lockplayer锁屏播放器，功能介绍：
  	  *  1.点击专辑封面：跳转到当前播放 App。
@@ -7134,18 +7134,18 @@ Maintainer: Axs <qiaozhani000@163.com>
 Installed-Size: 528
 Depends: firmware (>= 14.0), mobilesubstrate | ellekit, preferenceloader
 Filename: ./debs/com.axs.minifilza_1.0.0-31_iphoneos-arm64.deb
-Size: 67036
-MD5sum: 6aa4382f5ab9b0c591ad05fcb7ddee2d
-SHA1: e05b61c2a7f2bfe84f2fb7a0019d09d61c751999
-SHA256: 6f113f58e03374dbfc930aa848003415d0e713c432cff5a608ba3abf9d729395
-Section: Tweaks
+Size: 66900
+MD5sum: f53ef804277a7f22fd2d3c05cf7ee84b
+SHA1: 5b07a88b59fd41afde3af80f3821cc734b36ad39
+SHA256: 73805126d3e9d72469ae3446ea8f3ddce6025e701016a702a6ad804335a5cdde
+Section: Axs-Tweaks
 Description: 功能介绍：悬浮窗文件管理与存档操作
     1. 越狱安装每个app打开都会有一个悬浮图标,点击打开功能菜单,长按会隐藏,三指双击可恢复显示。
     2. 巨魔注入或者自签安装,即可实现独立app启用该悬浮文件管理。
     3. 操作指南：点击悬浮图标打开功能菜单,长按会隐藏,三指双击可恢复显示
 Author: Axs <qiaozhani000@163.com>
 Icon: https://axs66.github.io/pro/icon/minifilza.png
-Name: MiniFilza
+Name: MiniFilza 悬浮文件管理
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/minifilza/js.json
 
 Package: com.axs.newfeature.core
@@ -7468,11 +7468,11 @@ Maintainer: Axs <qiaozhani000@163.com>
 Installed-Size: 784
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.axs.newfeature.core_5.2.0-495_iphoneos-arm64.deb
-Size: 213524
-MD5sum: aceb910b6cc06eca44d73f55ff2555ec
-SHA1: 1b8cc6fa3a22eca98af07c0730cbfc8275dc5023
-SHA256: 956fcde454613179a8730a074246907a9d8ed7cfe2e4ca3cfc398238b90e3ff6
-Section: 微信插件
+Size: 213720
+MD5sum: 67a7546d30636e279b42a7b6a3c2a951
+SHA1: 7ed3a3d980ff897b920d68232a0ab45e3abc762b
+SHA256: be17c979d3afaf9c4798559ce52cafed15c5de5c358a49964c35e70be9faed47
+Section: Axs-Tweaks
 Priority: optional
 Description: 一个简单的微信插件。功能介绍：
  * 1.账号信息：用户信息、应用信息、签名信息。
@@ -7504,11 +7504,11 @@ Maintainer: Axs
 Installed-Size: 444
 Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
 Filename: ./debs/com.axs.notifyisland_1.1.0_iphoneos-arm64.deb
-Size: 53464
-MD5sum: 376410c0c13c27d7ffe107ec3ee60ff2
-SHA1: f6a772992e260cfa7ee7b8b0d7de33e1e8d2e7ed
-SHA256: dd9b855d0b7b079725b36106ab070ab0bfb34d2f92376d561e3db4ec46070141
-Section: 灵动岛
+Size: 53412
+MD5sum: c17411f155de4563f5836ec2ec1ac6ab
+SHA1: 33f5c7c537b291329f62c8bc9380a8a419e24303
+SHA256: 1a1c1b35a3ab495a6c1b8d2664d847b3923c867ced226aa92b649df156638c79
+Section: Axs-Tweaks
 Description: 灵动通知，功能介绍:
   * 1.在灵动岛上显示精美的消息通知；
   * 2.支持自定义背景（视频、图片、纯代码格式）；
@@ -7516,7 +7516,7 @@ Description: 灵动通知，功能介绍:
   * 4.支持点击岛上消息跳转app。
 Author: Axs
 Icon: https://axs66.github.io/pro/icon/notifyisland.png
-Name: NotifyIsland
+Name: NotifyIsland 消息上岛
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/notifyisland/js.json
 
 Package: com.axs.rma
@@ -7544,19 +7544,19 @@ Maintainer: Axs
 Installed-Size: 540
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
 Filename: ./debs/com.axs.screenshellpro_5.2.0-61_iphoneos-arm64.deb
-Size: 67780
-MD5sum: a719f83fcb6502ba15526b7a8d2a40bb
-SHA1: afd3331f3999c9b40148efa5dc38de5fc3200230
-SHA256: fac17ab326ac327c575fa8f7b6590e47f1e8f638c564464c7fde6921bcb6d802
-Section: Tweaks
-Description: 专业的 iOS 全局水印&套壳『截屏.录屏』增强工具。插件需要授权才能使用。授权请联系微信：VCR66T
+Size: 67960
+MD5sum: 7645b774e177e88f6faaf0b2db544833
+SHA1: 8ed5c103a309136baaea7c008e1e458e65161580
+SHA256: 3d25f72857143c1ad3e48e9b43ff7bbba23cb6b9ea1ad46e90b1c7a1bf03b488
+Section: Axs-Tweaks
+Description: 专业的 iOS 全局水印&套壳『截屏.录屏』增强工具。付费插件，65缘。授权请联系微信：VCR66T
  * 1. 录屏套壳渲染极快。
  * 2. 渲染过程中手机不发烫。
  * 3. 插件不需要任何依赖。
  * 4. 本插件是目前市面上最好的录屏套壳渲染工具。
 Author: Axs
 Icon: https://axs66.github.io/pro/icon/screenshellpro.png
-Name: ScreenShell Pro
+Name: ScreenShell Pro 录屏套壳
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/screenshellpro/js.json
 
 Package: com.axs.sileo
