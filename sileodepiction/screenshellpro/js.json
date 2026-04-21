@@ -9,23 +9,23 @@
             "tabname": "描述",
             "views": [
                 {
-                    "text":"✈分享频道",
-                    "action":"https://t.me/wxfx8",
+                    "text": "✈分享频道",
+                    "action": "https://t.me/wxfx8",
                     "openExternal": 1,
-                    "class":"DepictionButtonView"
-                }, 
-               {
-                    "text":"✈交流群组",
-                    "action":"https://t.me/oncar2",
+                    "class": "DepictionButtonView"
+                },
+                {
+                    "text": "✈交流群组",
+                    "action": "https://t.me/oncar2",
                     "openExternal": 1,
-                    "class":"DepictionButtonView"
-                },      
-               {
+                    "class": "DepictionButtonView"
+                },
+                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "专业的 iOS 全局水印&套壳『截屏.录屏』增强工具。<br>1.录屏套壳渲染极快。。<br>2.渲染过程中手机不发烫。<br>3.插件不需要任何依赖。<br>4.本插件是目前市面上最好的录屏套壳渲染工具。<br>5.付费插件需授权，添加微信CIA239授权。",
+                    "markdown": "专业的 iOS 全局水印&套壳『截屏.录屏』增强工具。<br>1.录屏套壳渲染极快。<br>2.渲染过程中手机不发烫。<br>3.插件不需要任何依赖。<br>4.本插件是目前市面上最好的录屏套壳渲染工具。<br>5.付费插件，65缘，需要请联系微信VCR66T。",
                     "useRawFormat": true,
-                },      
-               {
+                },
+                {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 6,
                     "itemSize": "{150, 346}",
@@ -68,7 +68,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "CIA239",
+                    "text": "VCR66T",
                     "title": "微信"
                 },
                 {
@@ -86,18 +86,18 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
-               {
+                {
                     "class": "DepictionSubheaderView",
-                    "title": "5.2.0-30",
+                    "title": "5.2.0-61",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                        "markdown": "1.修复“录屏套壳”画布覆盖范围问题。<br> 2. 新增“录屏水印”功能。<br> 3. 优化一些代码。",
+                    "markdown": "1.新增录屏&截屏“横屏套壳”功能。<br> 2. 新增“录屏水印”功能。<br> 3. 优化一些代码。",
                     "useRawFormat": true
                 },
-               {
+                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-1",
                     "useBoldText": true,
@@ -105,7 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                        "markdown": "1. “录屏套壳”功能初始发布，画布计算尺寸存在问题，渲染速度超快，很丝滑。",
+                    "markdown": "1. “录屏套壳”功能初始发布，画布计算尺寸存在问题，渲染速度超快，很丝滑。",
                     "useRawFormat": true
                 }
             ]

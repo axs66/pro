@@ -9,6 +9,16 @@
 			"package": "com.axs.sileo"
 		},
 		{
+			"url": "http://axs66.github.io/pro/images/ios6dao.png",
+			"title": "动态岛",
+			"package": "com.axs.ios6dao"
+		},
+		{
+			"url": "http://axs66.github.io/pro/images/screenshellpro.png",
+			"title": "录屏套壳",
+			"package": "com.axs.screenshellpro"
+		},
+		{
 			"url": "http://axs66.github.io/pro/images/newfeature.png",
 			"title": "NewFeature",
 			"package": "com.axs.newfeature.core"
@@ -19,30 +29,19 @@
 			"package": "com.axs.yuanjiao"
 		},
 		{
-			"url": "http://axs66.github.io/pro/images/svp.png",
-			"title": "SVP分屏",
-			"package": "com.axs.split-view-pro"
-		},
-		{
-			"url": "http://axs66.github.io/pro/images/applecard.png",
-			"title": "App Lecard分屏",
-			"package": "com.nx.appcardlite"
-		},
-		{
 			"url": "http://axs66.github.io/pro/images/dy.png",
-			"title": "抖音净化",
-			"package": "com.axs.dytweak"
+			"title": "AwemePro",
+			"package": "com.axs.awemepro"
 		},
 		{
-			"url": "http://axs66.github.io/pro/images/musiclizi.png",
-			"title": "灵动岛背景动画",
-			"package": "com.axs.lddgifbg"
+			"url": "http://axs66.github.io/pro/images/notifyisland.png",
+			"title": "消息上岛",
+			"package": "com.axs.notifyisland"
 		},
 		{
-			"url": "http://axs66.github.io/pro/images/keyboardhook.png",
-			"title": "原生输入法美化",
-			"package": "com.axs.keyboardhook"
+			"url": "http://axs66.github.io/pro/images/svp.png",
+			"title": "Stheno分屏",
+			"package": "com.nx.stheno"
 		}
-
 	]
 }

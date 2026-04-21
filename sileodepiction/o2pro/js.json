@@ -9,16 +9,16 @@
             "tabname": "描述",
             "views": [
                 {
-                    "text":"✈分享频道",
-                    "action":"https://t.me/wxfx8",
+                    "text": "✈分享频道",
+                    "action": "https://t.me/wxfx8",
                     "openExternal": 1,
-                    "class":"DepictionButtonView"
+                    "class": "DepictionButtonView"
                 },
-               {
-                    "text":"✈交流群组",
-                    "action":"https://t.me/oncar2",
+                {
+                    "text": "✈交流群组",
+                    "action": "https://t.me/oncar2",
                     "openExternal": 1,
-                    "class":"DepictionButtonView"
+                    "class": "DepictionButtonView"
                 },
                 {
                     "markdown": "插件介绍：02Pro包含付费功能和免费功能，集中在同一个deb文件中。</br></br>一. 免费功能介绍：来电视频。</br>  1. 系统电话、微信CK语音均可生效。</br>  2. 设置位于插件底部实验室。</br>  3. 其他免费功能会逐步开放。</br></br>二. 付费功能介绍：包含多种分屏模式、极限模式（小窗）、灵动岛通知交互、ios18跑马灯等等。</br>1. 付费功能需提供udid绑定设备，一机一码。</br>2.付费功能很多，可能存在与其他插件冲突，导致安全模式，需要自行排查。</br></br>三. 其他说明：</br>1. 付费功能，用户根据自身需求自行考虑，可查看下方图片上的二维码联系作者本人，自行沟通。</br>2. 本源上传仅为个人备份使用。",
@@ -38,7 +38,7 @@
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
-               {
+                {
                     "class": "DepictionSpacerView",
                     "spacing": 8
                 },
@@ -85,12 +85,12 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "六六",
+                    "text": "A先生",
                     "title": "维护者"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "A66FBI",
+                    "text": "VCR66T",
                     "title": "微信"
                 },
                 {
@@ -108,7 +108,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 1 月 9 日",
+                    "text": "2026 年 4 月 9 日",
                     "title": "最后更新"
                 }
             ]
@@ -119,14 +119,7 @@
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "### 18.5-1\n1.新增小折叠/URL 分屏/导播台预览。\n2.此版本对内测用户支持了悬浮键盘功能，iOS15/16/17都支持。",
-                },
-                {
-                    "class": "DepictionSeparatorView"
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "### 18.0-Beta6-5\n1.新增小折叠功能（内部独享）。\n2.修复侧栏。\n3.此版本ios16/17.0均可使用。",
+                    "markdown": "### 18.9-17-4\n1.新增小折叠/URL 分屏/导播台预览。\n2.此版本对内测用户支持了悬浮键盘功能，iOS15/16/17都支持。",
                 },
                 {
                     "class": "DepictionSeparatorView"
