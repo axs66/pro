@@ -2208,6 +2208,23 @@ Icon: https://axs66.github.io/pro/icon/designer.png
 Name: Designer 锁屏美化
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/designer/js.json
 
+Package: com.Axs.designertheme
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader,com.axs.designer
+Filename: ./debs/com.Axs.designertheme_1.0_iphoneos-arm64.deb
+Size: 36056
+MD5sum: 97271a3b5bb3aec898a7e4fdc4f7eece
+SHA1: 2f5212510bf9dc3a32aa4834d838d3670c9617eb
+SHA256: 632a564b8db1faa462893ea4f4c562907f769613526514f0b1fb915e9dfbb30e
+Section: Tweaks
+Description: iOS26风格锁屏主题，字体来自威锋大佬，Powered by Designer
+Author: LF
+Icon: https://axs66.github.io/pro/icon/designertheme.png
+Name: Designer 锁屏大字时间
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/designertheme/js.json
+
 Package: com.Axs.dismissalert
 Version: 1.0.0
 Architecture: iphoneos-arm64
