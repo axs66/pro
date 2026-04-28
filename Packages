@@ -7834,6 +7834,42 @@ Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicd
 Name: DesktopLyrics
 Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
 
+Package: com.charlieleung.openmask
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: charlie
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.charlieleung.openmask_0.0.1_iphoneos-arm64.deb
+Size: 3968
+MD5sum: 380a98866918576cc641544dbd0cbe5d
+SHA1: 568bd33f862a65facb8fa66b1adf2d4a037fecef
+SHA256: dfd23f166c2f57c9cc1c0997718afcbd7a1bfa023882decf32cfd893b0167f01
+Section: 分屏插件
+Description: 将启动 fv 浮窗的接口转发给 open 越狱版。以实现某些手势的联动。
+Author: charlie
+Icon: https://axs66.github.io/pro/icon/trollopen.png
+Name: OpenMask 适配鱿鱼手势
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopenjb/js.json
+
+Package: com.charlieleung.trollopenjb
+Version: 1.3.6
+Architecture: iphoneos-arm64
+Maintainer: Charlie Leung
+Installed-Size: 6080
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.charlieleung.trollopenjb_1.3.6_iphoneos-arm64.deb
+Size: 1561564
+MD5sum: 1b2f3421663f596ca068be84197acc53
+SHA1: 4c9c50294b50caaada2f7d14c8e077de6c92d8ca
+SHA256: ca7383a4e16ed725e9c379c251bee63aa15ed8205082adbda2faa6b30d308c0b
+Section: 分屏插件
+Description: TrollOpen 的越狱版本，自带分屏功能，支持 ios16 及以上。
+Author: Charlie Leung
+Icon: https://axs66.github.io/pro/icon/trollopen.png
+Name: TrollOpen 分屏
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopenjb/js.json
+
 Package: com.charlieleung.trollopenjb
 Version: 1.3.7
 Architecture: iphoneos-arm64
@@ -7841,14 +7877,14 @@ Maintainer: Charlie Leung
 Installed-Size: 4460
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
 Filename: ./debs/com.charlieleung.trollopenjb_1.3.7_iphoneos-arm64.deb
-Size: 1121104
-MD5sum: 22d043eccc4e7b6be1f1f6c2bc9e01ef
-SHA1: 74e35b718713d731f056cd09542a5db7f5642128
-SHA256: b9d426ec709e2c2d733e4c75827797b80b4c5070c2e874011baedcc3f6bccd53
+Size: 1121588
+MD5sum: 46a549d88b3e6f1cf82942fa62ddf24f
+SHA1: d52eebbef26765dcd53065834d515baba20d1793
+SHA256: c69ea7527c5486d73d03e5638b55782b69ce70848c184e805a60da2d507102f0
 Section: 分屏插件
 Description: TrollOpen 的越狱版本，支持 ios16 及以上，免费公开版，无后续更新，不需要反馈 bug。QQ 群：1094778353，后续付费更新联系群主或群管理。小黑子闭嘴吧，看看什么是最强分屏！
 Author: Charlie Leung
-Icon: https://axs66.github.io/pro/icon/trollopenjb.png
+Icon: https://axs66.github.io/pro/icon/trollopen.png
 Name: TrollOpen 分屏
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopenjb/js.json
 
