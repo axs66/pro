@@ -8395,6 +8395,24 @@ Icon: https://axs66.github.io/pro/icon/mango.png
 Name: mango 芒果分屏
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
 
+Package: com.go.mango
+Version: 0.0.6-2
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 1048
+Depends: mobilesubstrate
+Filename: ./debs/com.go.mango_0.0.6-2_iphoneos-arm64.deb
+Size: 297560
+MD5sum: 9e4c54318c751be0f9f167a3b5191a6e
+SHA1: 6ea7a4888384fb8d3c89bb493e5923dfe00047d8
+SHA256: 834e353aca25a6c065a424ca0c2c4ec77160f772a12572a8dca32665be46eca0
+Section: 分屏插件
+Description: 芒果，轻量分屏，舒适，顺手。
+Author: go
+Icon: https://axs66.github.io/pro/icon/mango.png
+Name: mango 芒果分屏
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
+
 Package: com.hk.rootless.cc
 Version: 2.0.5.5
 Architecture: iphoneos-arm64
