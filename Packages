@@ -129,6 +129,24 @@ Icon: https://axs66.github.io/pro/icon/kayoko.png
 Name: Kayoko剪贴板
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/kayoko/js.json
 
+Package: com.25mao.BubbleBox
+Version: 1.0-2
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.BubbleBox_1.0-2_iphoneos-arm64.deb
+Size: 1419756
+MD5sum: d173b40200cc491f85f763382c4e3151
+SHA1: 78e5fd16da901ef916445612c8e5f8acfdee0959
+SHA256: 694544ce96de1c67760be25bb965eea2aadbd7405e6e6498459264bab37b657d
+Section: 微信插件
+Priority: optional
+Description: 气泡盒子
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: BubbleBox 气泡盒子
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/BubbleBox/js.json
+
 Package: com.25mao.doutu.rootless
 Version: 3.1-5
 Architecture: iphoneos-arm64
@@ -7016,6 +7034,25 @@ Icon: https://axs66.github.io/pro/icon/dy.png
 Name: AwemePro
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/awemepro/js.json
 
+Package: com.axs.awemepro
+Version: 5.2.0-127
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 2196
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.axs.awemepro_5.2.0-127_iphoneos-arm64.deb
+Size: 338508
+MD5sum: eb4162c573697301f110409a534aa590
+SHA1: afea34b144b56d42d891d4dffbff03c41ca0614a
+SHA256: efac286c32baaa9ff28ed4265e0626062ce91737532ca7a45f397a355deea1eb
+Section: Axs-Tweaks
+Priority: optional
+Description: 一个简单的抖音自用插件，仅在37.9.0版本编译，无效请卸载!
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/dy.png
+Name: AwemePro
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/awemepro/js.json
+
 Package: com.axs.contactsfs
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -8279,6 +8316,24 @@ Size: 274076
 MD5sum: 0aabffbe6586e3269c865c7834ac5bb8
 SHA1: 14b59bbfe04e5d06f78c2cb3cc9883f5e339b9b1
 SHA256: 33b652bebe38d0d8e3ab257d1ed2261d68631e60298f681714bc3c209d207d4b
+Section: 分屏插件
+Description: 芒果，轻量分屏，舒适，顺手。
+Author: go
+Icon: https://axs66.github.io/pro/icon/mango.png
+Name: mango 芒果分屏
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
+
+Package: com.go.mango
+Version: 0.0.6-1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1048
+Depends: mobilesubstrate
+Filename: ./debs/com.go.mango_0.0.6-1_iphoneos-arm64.deb
+Size: 296732
+MD5sum: fef33e78d206bd1f85c3f6a3454b3669
+SHA1: 6ec91311d6bab74eb7dd5df20276cbbdcdf1fd84
+SHA256: f49dc020e5c9a32689f82cca550e1920d382cba904af552bcf90fc0b6f3dfa7f
 Section: 分屏插件
 Description: 芒果，轻量分屏，舒适，顺手。
 Author: go
