@@ -2061,6 +2061,44 @@ Icon: https://axs66.github.io/pro/icon/classickeyboardxs.png
 Name: ClassicKeyboardXS 键盘高度调整
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/classickeyboardxs/js.json
 
+Package: com.Axs.cocoatop
+Version: 3.1.2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 840
+Filename: ./debs/com.Axs.cocoatop_3.1.2_iphoneos-arm64.deb
+Size: 183772
+MD5sum: 53f927338363699e23981bfb1d22350d
+SHA1: 323283e989a6ff257430a12f4d64ae456baac8e2
+SHA256: b27efcef04e0c91804ee2db517b77bd16fb9622016272622c96b7684202cf111
+Section: Tweaks
+Description: iOS GUI进程查看器,修复支持无根越狱，并增加一些小功能.
+ - 1.长按图标的插件针对APP更友好
+ - 2.此app更适合屏蔽进程类的注入
+ - 3.laileld要加的copy给加上(如果是/开头,使用filza打开)
+Author: Domo
+Icon: https://axs66.github.io/pro/icon/cocoatop.png
+Name: CocoaTop
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/cocoatop/js.json
+
+Package: com.Axs.cocoatophh
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 240
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.cocoatophh_1.0_iphoneos-arm64.deb
+Size: 19212
+MD5sum: fa7dd2800206f59c37f7943fc1a094e2
+SHA1: 16a3d7df73bba25216f4749f4e6cbfd02aa07eb3
+SHA256: 8f40398b3a4665eb7ec6953b2317c2d8f977fef67b5fc5fef9bb88d3946645d9
+Section: Tweaks
+Description: CocoaTop简易汉化，多巴胺专用。
+Author: A
+Icon: https://axs66.github.io/pro/icon/cocoatop.png
+Name: CocoaTop 汉化
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/cocoatop/js.json
+
 Package: com.Axs.collection
 Version: 1.0
 Architecture: iphoneos-arm64
