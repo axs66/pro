@@ -3832,6 +3832,28 @@ Icon: https://axs66.github.io/pro/icon/lyric.png
 Name: 桌面歌词
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.Axs.mikotohelper
+Version: 1.3.6-10
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: mikotohelper
+Replaces: mikotohelper
+Provides: mikotohelper
+Filename: ./debs/com.Axs.mikotohelper_1.3.6-10_iphoneos-arm64.deb
+Size: 20123036
+MD5sum: c26bab8640373ef26b7dbb519d277492
+SHA1: e29ace2dbf42702738148fae497537b73f7149b9
+SHA256: a1316a6829bc89f2d3ec479368c6c2b821f24721215faa0470ccb62787859538
+Section: 微信插件
+Priority: optional
+Description: Misaka
+Author: Misaka
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: MikotoHelper
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/MikotoHelper/js.json
+
 Package: com.Axs.mineland
 Version: 2.0-6+debug
 Architecture: iphoneos-arm64
@@ -4157,6 +4179,24 @@ Description: Hide Serial Number in Settings About page.在“设置关于”页�
 Author: ichitaso
 Name: HideSerialNumber
 Sponsor: Axs
+
+Package: com.Axs.notificationfilter
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Tune
+Installed-Size: 908
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.notificationfilter_1.0.1_iphoneos-arm64.deb
+Size: 216220
+MD5sum: bff60506e1a473f0319c22af9fb2d805
+SHA1: 9fdc5e335e316abe7970f4d05c5627688ed14587
+SHA256: 370e029d4508235bd297c8efaa5c0de3932c8da3e8db57b15612c430aa96889f
+Section: Tweaks
+Description: 为越狱的iOS提供强大的通知过滤功能
+Author: Tune
+Icon: https://axs66.github.io/pro/icon/notificationfilter.png
+Name: Notification Filter消息过滤
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/notificationfilter/js.json
 
 Package: com.Axs.nowaveform
 Version: 1.0.2
@@ -8431,6 +8471,24 @@ Size: 297560
 MD5sum: 9e4c54318c751be0f9f167a3b5191a6e
 SHA1: 6ea7a4888384fb8d3c89bb493e5923dfe00047d8
 SHA256: 834e353aca25a6c065a424ca0c2c4ec77160f772a12572a8dca32665be46eca0
+Section: 分屏插件
+Description: 芒果，轻量分屏，舒适，顺手。
+Author: go
+Icon: https://axs66.github.io/pro/icon/mango.png
+Name: mango 芒果分屏
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
+
+Package: com.go.mango
+Version: 0.0.7
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 1164
+Depends: mobilesubstrate
+Filename: ./debs/com.go.mango_0.0.7_iphoneos-arm64.deb
+Size: 330548
+MD5sum: 5f0187eb7b62ed14924e418bab3d9697
+SHA1: 02e5850bbc320279ffa84602a67f5c995353790f
+SHA256: e852b2302bfb83fd9c567f2a22d6c5c33e894a95df9b6269e53d8459208ff906
 Section: 分屏插件
 Description: 芒果，轻量分屏，舒适，顺手。
 Author: go
