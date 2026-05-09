@@ -5283,42 +5283,6 @@ Icon: https://axs66.github.io/pro/icon/switchtheme.png
 Name: 日月开关
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/switchtheme/js.json
 
-Package: com.Axs.switchtheme1
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 304
-Depends: mobilesubstrate
-Filename: ./debs/com.Axs.switchtheme1_1.0.0_iphoneos-arm64.deb
-Size: 43672
-MD5sum: 648929d4c6812ee670a8638fb4e914dd
-SHA1: 9a994dec50e2f8fcd770212e5f9be0cb62a05b51
-SHA256: 4fa691be6da09ab22f836d6f1d5f20a33325d828ae484ba4482cf2d7e374f85c
-Section: 系统增强
-Description: 这一款全新的开关主题，以半透的风格绘制的三勾玉写轮眼为核心设计，开启时勾玉缓缓旋转，带来极致是丝滑体验。
-Author: 白衣
-Icon: https://axs66.github.io/pro/icon/switchtheme1.png
-Name: 写轮眼开关(蓝）
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/switchtheme/js.json
-
-Package: com.Axs.switchtheme2
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 304
-Depends: mobilesubstrate
-Filename: ./debs/com.Axs.switchtheme2_1.0.0_iphoneos-arm64.deb
-Size: 43380
-MD5sum: 826416cfe8ee254d56bed1e2ec207bdb
-SHA1: b080bdddf532720f115f3c6af8f40ed62137c0e1
-SHA256: 321c0aad62b398ee1e1acd3d0d4ffa9df7453b87810840020c1ecdd2c6a881f4
-Section: 系统增强
-Description: 这一款全新的开关主题，以半透的风格绘制的三勾玉写轮眼为核心设计，开启时勾玉缓缓旋转，带来极致是丝滑体验。
-Author: 白衣
-Icon: https://axs66.github.io/pro/icon/switchtheme2.png
-Name: 写轮眼开关(红）
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/switchtheme/js.json
-
 Package: com.Axs.switchtheme3
 Version: 1.0.0
 Architecture: iphoneos-arm64
