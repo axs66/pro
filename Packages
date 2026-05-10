@@ -3413,6 +3413,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 去除misaka匿名艾特次数限制
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.Axs.mokeygg
+Version: 1.0.0-148
+Architecture: iphoneos-arm64
+Maintainer: mokey
+Installed-Size: 176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.mokeygg_1.0.0-148_iphoneos-arm64.deb
+Size: 14636
+MD5sum: 236c633c73c89ec451d6b0da9025a6b8
+SHA1: cd1e170763758c2be87e0192af0dea57030f514c
+SHA256: a0262dfdae60f329eeb45f7a88505cb8664a2aa0d99d5028dfac8f879275299a
+Section: 微信插件
+Description: mokeygg
+Author: mokey
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 微信语音跑马灯
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/mokeygg/js.json
+
 Package: com.Axs.moorebarx15
 Version: 1.0.0~beta1.0.5
 Architecture: iphoneos-arm64
@@ -4465,6 +4483,25 @@ Name: SVP分屏独立版
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/split-view-pro/js.json
 Ts: sp-sss
 
+Package: com.Axs.split-view-pro
+Version: 1.4.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 5624
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader, com.opa334.altlist
+Filename: ./debs/com.Axs.split-view-pro_1.4.1_iphoneos-arm64.deb
+Size: 1528096
+MD5sum: 3d6918fd8738675febd8a966c21d790e
+SHA1: 635598a2f551c9f1dd92e0f57b66493bd9340f7f
+SHA256: e830c9ba79f0fdc9e8f8d4c2c5c71806d578c2c2da87b85233651847c5c393ab
+Section: 分屏插件
+Description: 免费的分屏插件，不必太复杂，一切从简即可。
+Author: A
+Icon: https://axs66.github.io/pro/icon/svp.png
+Name: SVP分屏独立版
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/split-view-pro/js.json
+Ts: sp-sss
+
 Package: com.Axs.split-view-pro-helper
 Version: 999.1
 Architecture: iphoneos-arm64
@@ -4872,6 +4909,24 @@ Author: choco
 Icon: https://axs66.github.io/pro/icon/Telegram.png
 Name: Telegram增强
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/tgextras/js.json
+
+Package: com.Axs.themelab
+Version: 1.6.2
+Architecture: iphoneos-arm64
+Maintainer: duo
+Installed-Size: 3776
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.themelab_1.6.2_iphoneos-arm64.deb
+Size: 921664
+MD5sum: 7caff8df95d9850422a758c7a16b1c5a
+SHA1: 3ca3decf7a2c4d021b90f5cc8fa1470cac00463a
+SHA256: 6276ac0175b44cc39f4b0175159d4c7e6036fc3bd635e2455e7836a70ad9ac5a
+Section: 微信插件
+Description: 微信主题美化插件 - ThemeLab
+Author: duo
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: ThemeLab
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/themelab/js.json
 
 Package: com.Axs.thermalpatcher
 Version: 0.0.3-1
@@ -5715,6 +5770,23 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 微信URL扩展-Rootless
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 Sponsor: Axs
+
+Package: com.Axs.wzry
+Version: 1.6
+Architecture: iphoneos-arm64
+Maintainer: wzry
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.Axs.wzry_1.6_iphoneos-arm64.deb
+Size: 18032
+MD5sum: 5a087749ff7b40fae57bcf1b158a5724
+SHA1: 9709a9317f2ca809459feada9d3c22da9568c5c3
+SHA256: 4c9074487bc55bdb2fe1140a102b1c9dcc1531c071c1e1da067d99a6e6ef35d2
+Section: Tweaks
+Description: wzry
+Author: wzry
+Icon: https://axs66.github.io/pro/icon/wzry.png
+Name: wzry
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/wzry/js.json
 
 Package: com.Axs.xczs
 Version: 0.0.1
