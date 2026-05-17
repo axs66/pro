@@ -112,21 +112,21 @@ Name: Kayoko剪贴板
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/kayoko/js.json
 
 Package: com.25mao.BubbleBox
-Version: 1.0-2
+Version: 1.0-4
 Architecture: iphoneos-arm64
-Maintainer: admin@25mao.com
+Maintainer: Axs
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/com.25mao.BubbleBox_1.0-2_iphoneos-arm64.deb
-Size: 1419756
-MD5sum: d173b40200cc491f85f763382c4e3151
-SHA1: 78e5fd16da901ef916445612c8e5f8acfdee0959
-SHA256: 694544ce96de1c67760be25bb965eea2aadbd7405e6e6498459264bab37b657d
+Filename: ./debs/com.25mao.BubbleBox_1.0-4_iphoneos-arm64.deb
+Size: 1607056
+MD5sum: 0661a9327fdac12334437bcddb27c2a5
+SHA1: 058466186b067276a9bd0edee5e288f86bcd7fc8
+SHA256: f33d48538a8a601ddb7a89bd1245474286174ec60363e4c5cfe173b478bcf0bb
 Section: 微信插件
 Priority: optional
-Description: 气泡盒子
+Description: 美化插件
 Author: Mao
 Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: BubbleBox 气泡盒子
+Name: 气泡盒子
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/BubbleBox/js.json
 
 Package: com.25mao.doutu.rootless
@@ -1376,6 +1376,24 @@ Icon: https://axs66.github.io/pro/icon/cc18s.png
 Name: 仿ios18控制中心圆角
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/cc18s/js.json
 
+Package: com.Axs.ccaudioplay
+Version: 0.0.1-94+debug
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 29540
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.ccaudioplay_0.0.1-94+debug_iphoneos-arm64.deb
+Size: 25090852
+MD5sum: 6173a6c3780916fff1a046077ba38e14
+SHA1: 54d7c3fe28c733a900adff57dca21145d56383c0
+SHA256: ce49c801fbd504679d3797daa65af198abdae1067dc8631395d5de3f2e7e2d07
+Section: 控制中心
+Description: 播放器美化 不支IOS15
+Author: thefool
+Icon: https://axs66.github.io/pro/icon/ccaudioplay.png
+Name: CCAudioPlay控制中心播放器
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ccaudioplay/js.json
+
 Package: com.Axs.ccbadgeclear
 Version: 1.2-6
 Architecture: iphoneos-arm64
@@ -1503,6 +1521,24 @@ Author: simon
 Icon: https://axs66.github.io/pro/icon/ccweathermodule.png
 Name: CCWeather Module
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ccweathermodule/js.json
+
+Package: com.Axs.ccweathermodule
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 356
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.Axs.ccweathermodule_1.0.4_iphoneos-arm64.deb
+Size: 92732
+MD5sum: 09e4c1533416a2636626b2ff6d8eaa0a
+SHA1: 2b2429cbc3cc0aa84479a6193fdd973840bbb290
+SHA256: 7c927994f103e4bfd8b9285d20e6bc5e60b593b85c9230deaf834bf5892a7e7e
+Section: 控制中心
+Description: 控制中心的天气模块。 显示当前天气、温度和每小时预报。
+Author: simon
+Icon: https://axs66.github.io/pro/icon/ccweathermodule.png
+Name: 控制中心天气
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.Axs.cellbadge
 Version: 1.0.0
@@ -1981,6 +2017,24 @@ Author: Simon
 Icon: https://axs66.github.io/pro/icon/dynamicislandanimation.png
 Name: 灵动岛跳舞动画
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/dynamicislandanimation/js.json
+
+Package: com.Axs.dynamicislandring
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 428
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Filename: ./debs/com.Axs.dynamicislandring_1.1.0_iphoneos-arm64.deb
+Size: 46232
+MD5sum: 7eff7592176d044e4a28a26308a8032e
+SHA1: e772f5b50cbc0c02daa3c671e22336ba6f379fc1
+SHA256: 291a335a8553fdc27c20dd9a0aa1027ecc44e661c877723eb4f5bd0d18226f3f
+Section: 灵动岛
+Description: 灵动岛音乐进度环增强插件
+Author: 夜辰
+Icon: https://axs66.github.io/pro/icon/dynamicislandring.png
+Name: 灵动岛进度环
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/dynamicislandring/js.json
 
 Package: com.Axs.dynamicnotland
 Version: 1.2.4
@@ -2979,6 +3033,24 @@ Author: Mao <qiaozhani000@163.com>
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 快斗
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
+Package: com.Axs.kzmh
+Version: 1.0.8
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 392
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.Axs.kzmh_1.0.8_iphoneos-arm64.deb
+Size: 25672
+MD5sum: ea686e6c80e0f66c35ce8484728ba587
+SHA1: 36e5d65057a17c29df82b2f11bdcc31d1baa053f
+SHA256: bc313483a4e573d7da9903d276a3b31cf04cfdb2901545bdbfe71f4c2fb45d6c
+Section: 控制中心
+Description: 控制中心美化。
+Author: binglan
+Icon: https://axs66.github.io/pro/icon/kzmh.png
+Name: 控制中心美化
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/kzmh/js.json
 
 Package: com.Axs.laetus
 Version: 3.5.1
