@@ -6192,6 +6192,23 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 黄白助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechat/js.json
 
+Package: com.HBWechatHelper.ailun
+Version: 2.1.2
+Architecture: iphoneos-arm64
+Maintainer: HuangBai
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_2.1.2_iphoneos-arm64.deb
+Size: 11044832
+MD5sum: 48128389db4f3b24bde7ed7aea047f34
+SHA1: 49d85dfe620ed00b319bba07ecd862688c0ae971
+SHA256: 5743d9e6800d041c0501811fadfadc1e6f8dba629b9f3b3f674a228e49694665
+Section: 微信插件
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 黄白助手
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechat/js.json
+
 Package: com.anthopak.quickprefs-rootless
 Version: 1.3.5
 Architecture: iphoneos-arm64
@@ -6939,6 +6956,25 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: PKC
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/PKC/js.json
 
+Package: com.curtin.pkc.rootless
+Version: 0.9-6
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc.rootless_0.9-6_iphoneos-arm64.deb
+Size: 1367440
+MD5sum: 7b298763f71a4060db73ec9f5679665f
+SHA1: 4fed573522a42eb489dff79b7fd511e726783176
+SHA256: 6e6685ea97bbf475b162480b2de615981e61aa4bd9b1f1d612bc65e9759933fe
+Section: 微信插件
+Priority: optional
+Homepage: https://axs66.github.io/pro
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: PKC
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/PKC/js.json
+
 Package: com.developlab.appbadge
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -7190,6 +7226,24 @@ Size: 330548
 MD5sum: 5f0187eb7b62ed14924e418bab3d9697
 SHA1: 02e5850bbc320279ffa84602a67f5c995353790f
 SHA256: e852b2302bfb83fd9c567f2a22d6c5c33e894a95df9b6269e53d8459208ff906
+Section: 分屏插件
+Description: 芒果，轻量分屏，舒适，顺手。
+Author: go
+Icon: https://axs66.github.io/pro/icon/mango.png
+Name: mango 芒果分屏
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
+
+Package: com.go.mango
+Version: 0.0.8-1
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 1244
+Depends: mobilesubstrate
+Filename: ./debs/com.go.mango_0.0.8-1_iphoneos-arm64.deb
+Size: 358800
+MD5sum: be82a61961fab87295d3caa2ae17ce33
+SHA1: 2652f7c8b9c1dc59412d33de332a2ee7e3d1fa61
+SHA256: b94d1fb7563d31ced83a8f4b1aa1f70a3ea209a37368c263b7a865883ad99f94
 Section: 分屏插件
 Description: 芒果，轻量分屏，舒适，顺手。
 Author: go
