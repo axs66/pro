@@ -2464,6 +2464,29 @@ Icon: https://axs66.github.io/pro/icon/FLEXList.png
 Name: FLEXList 调试工具
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.Axs.floating-view
+Version: 1.6.0-6
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 2700
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.Axs.floating-view_1.6.0-6_iphoneos-arm64.deb
+Size: 652884
+MD5sum: 8b189bdfd446b1daf9e1faeaa2c9973b
+SHA1: 3f6981bfb23facfabba513b1d913dfb85a2a825c
+SHA256: f5b61f406f02a3769a8d25ce500ebccc9408a7730979047b17c6a711b2ceed4c
+Section: 分屏插件
+Description: 温馨提示:
+  * 1、仅供个人备份与学习研究使用。
+  * 2、本插件未经过大量设备测试，仅在 iPhone 14 Pro iOS 16.2、iPhone 14 Pro Max iOS 16.5 无根越狱环境下测试正常可用。
+  * 3、本版本仅处理授权验证逻辑，插件其他原有逻辑未作修改。若安装后无效、冲突或导致设备/应用异常，请自行卸载。
+  * 4、免责声明：安装和使用本插件所产生的一切风险由使用者自行承担。如因插件本身兼容性、原始代码逻辑或其他未知问题导致设备、系统、应用出现异常，请联系原插件作者处理。本人不承担因此产生的任何责任。
+  * 5、安全预警：鉴于越狱圈内部分特定人员（如Fv作者、苏苏、Wkk等）存在发布恶意格机代码、恶意抹黑及录制栽赃嫁祸视频的前科，需要用户自行甄别，从正确渠道下载插件。
+Author: be-huge
+Icon: https://axs66.github.io/pro/icon/svp.png
+Name: Fv分屏破解版
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/floating-view/js.json
+
 Package: com.Axs.floatlyrics
 Version: 1.0.0-14+debug
 Architecture: iphoneos-arm64
