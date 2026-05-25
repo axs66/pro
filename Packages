@@ -2541,6 +2541,27 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 微信去广告
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/fuckwechatads/js.json
 
+Package: com.Axs.fvicon
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: icon
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.fvicon_1.0.0_iphoneos-arm64.deb
+Size: 7448
+MD5sum: ec5ef3f4db1a63e64a42658aca98c3ea
+SHA1: 05d6550a128b230ba6355be6e6593541d5596aa9
+SHA256: f3ba8f61c5d755c20f30af76dbda6144bb2111341b3d525609a51617d14489ef
+Section: 分屏插件
+Description: 这款插件的作用是:工具栏图标映射
+  * 无根: /var/jb/var/mobile/Library/FloatingViewInfo/
+  * 隐根:[jbroot]/var/mobile/Library/FloatingViewInfo/
+  * 命名规则：与FV设置界面arc工具栏排序界面的名字为准。如：锁屏.png、截图.png、录屏.png
+Author: icon
+Icon: https://axs66.github.io/pro/icon/svp.png
+Name: FV分屏-工具图标美化
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/fvicon/js.json
+
 Package: com.Axs.geltouch
 Version: 5.2.0
 Architecture: iphoneos-arm64
@@ -7274,6 +7295,24 @@ Icon: https://axs66.github.io/pro/icon/mango.png
 Name: mango 芒果分屏
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
 
+Package: com.go.mango
+Version: 0.0.9-1
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 1344
+Depends: mobilesubstrate
+Filename: ./debs/com.go.mango_0.0.9-1_iphoneos-arm64.deb
+Size: 379928
+MD5sum: 50fead3efce4daddede9e7da1065892e
+SHA1: 50519743d48fa1fe96e7e6f4fc6773a4607ab666
+SHA256: 2231bf392f91706373c0caf4cda1a05f6e2cbb9b3d5af9e6fd6c89124fb8c67c
+Section: 分屏插件
+Description: 芒果，轻量分屏，舒适，顺手。
+Author: go
+Icon: https://axs66.github.io/pro/icon/mango.png
+Name: mango 芒果分屏
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
+
 Package: com.hk.rootless.cc
 Version: 2.0.5.5
 Architecture: iphoneos-arm64
@@ -8468,6 +8507,23 @@ Size: 5576240
 MD5sum: c51d1dd871b7bbfd06cd2c391fec3cba
 SHA1: 3cacde2a648293dcdd1a9de5d1ddf21029ecbb32
 SHA256: 16cdc5b70f3346ad4864610b050f3989d67b466c0dcd6708ebefc8c0b687ed62
+Section: 微信插件
+Description: 微信主题盒子
+Author: WeChat
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/themebox/js.json
+
+Package: com.tencent.themebox
+Version: 2.3.4
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_2.3.4_iphoneos-arm64.deb
+Size: 5835344
+MD5sum: cb3ef370e79487bc80fd6afa10d3b5db
+SHA1: 7a36b458288ddd809e9f7af84413dad66ba09470
+SHA256: eca45d626645a14c4b840ae6b7fef0df2a4174d5418d9c6f0b2c493b637796f1
 Section: 微信插件
 Description: 微信主题盒子
 Author: WeChat
