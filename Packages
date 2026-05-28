@@ -6776,6 +6776,35 @@ Icon: https://axs66.github.io/pro/images/cjms.png
 Name: Sileo越狱源介绍
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/sileo/js.json
 
+Package: com.axs.switchicon
+Version: 5.2.0-139
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 836
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.axs.switchicon_5.2.0-139_iphoneos-arm64.deb
+Size: 131544
+MD5sum: 96120f148b9bc67197c05c5d34ccdaed
+SHA1: 025cc798b4955f906630e2c07d8e7fe47ba46884
+SHA256: 4bcee64faade1910a653bc8a8e8f8b66253b9643cdbee47ce51191e92cdb55a2
+Section: Axs-Tweaks
+Description: 一个强大的全局 UISwitch 开关控件，让原生开关显示更有个性；付费插件65缘，需要请联系微信：VCR66T
+ * 一、纯代码开关组
+ * 1. 动态组：昼夜开关、血瞳开关、液态开关，支持流畅的过渡动画与动态视觉效果；
+ * 2. 静态组：日月开关、水滴开关、立体开关、温度开关、星月开关，覆盖多种精致静态样式；
+ * 3. 液态开关：复刻 iOS 26 风格，并支持开启状态颜色自定义；
+ * 4. 日月开关：支持太阳、云朵、月亮、星星颜色自定义，一个开关也能千变万化。
+ * 二、素材开关组
+ * 1. 素材开关：在指定路径放置 on.png/off.png 开关素材；
+ * 2. 支持创建多套，在插件面板自由切换。
+ * 三、温馨提示
+ * 1. 早买早享受，后续免费更新；
+ * 2. 后续增加新样式，新用户可能面临涨价。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/switchicon.png
+Name: Switch Icon
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/switchicon/js.json
+
 Package: com.axs.wechatenhancer
 Version: 1.0.0-30
 Architecture: iphoneos-arm64
