@@ -3458,6 +3458,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: MikotoHelper
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/MikotoHelper/js.json
 
+Package: com.Axs.milkyway
+Version: 5.2.0-1
+Architecture: iphoneos-arm64
+Maintainer: Reborn
+Installed-Size: 432
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.milkyway_5.2.0-1_iphoneos-arm64.deb
+Size: 54712
+MD5sum: 54382938d66629109408b2113be0db47
+SHA1: 888f28fec3093298c6f5d176b390ed191e911fd8
+SHA256: b9f28b71348c381d6cab822ef5ac13793f307311384387ef0e085e7d0124f2c0
+Section: 分屏插件
+Description: Windowed multitasking for iOS 17-18 and 26. A modern rewrite of MilkyWay2 by akusio.
+Author: Reborn
+Icon: https://axs66.github.io/pro/icon/MilkyWay.png
+Name: MilkyWay 分屏插件
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/MilkyWay/js.json
+
 Package: com.Axs.mineland
 Version: 2.0-6+debug
 Architecture: iphoneos-arm64
@@ -6289,23 +6307,6 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 爱锋助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/appku/js.json
 
-Package: com.ash.milkyway4-ios16fix
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: ash
-Depends: firmware (>= 15.0), mobilesubstrate, jp.akusio.milkyway4
-Filename: ./debs/com.ash.milkyway4-ios16fix_0.0.1_iphoneos-arm64.deb
-Size: 12768
-MD5sum: 390191547df213592bb18e8750c0c26e
-SHA1: 018c9f8a68e9e6dc5dc6271a0b5f5781467b7313
-SHA256: 2c4c54c22ff3938fcaf3363dbb57e1f51a82b590a11bf198454c8d3d2d43b16c
-Section: 分屏插件
-Description: An awesome MobileSubstrate tweak!
-Author: ash
-Icon: https://axs66.github.io/pro/icon/MilkyWay.png
-Name: MilkyWay4-iOS16Fix
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
-
 Package: com.axs.awemepro
 Version: 5.2.0-106
 Architecture: iphoneos-arm64
@@ -8724,25 +8725,6 @@ Depiction: https://axs66.github.io/pro
 Icon: https://axs66.github.io/pro/icon/translux.png
 Name: TransLux 翻译
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/translux/js.json
-
-Package: jp.akusio.milkyway4
-Version: 0.1.1
-Architecture: iphoneos-arm64
-Maintainer: @akusio_RR
-Installed-Size: 3464
-Depends: mobilesubstrate, com.opa334.altlist, preferenceloader
-Filename: ./debs/jp.akusio.milkyway4_0.1.1_iphoneos-arm64.deb
-Size: 1300224
-MD5sum: c4c50197a8f9469ff791e8eda3148f98
-SHA1: d22d867d50be2490e2303dc17fc6f2129158fc15
-SHA256: 59799bc3265a0a753b64539a2e9619135cfcf55f8f4cc7cff13fdfc2a8d8306b
-Section: 分屏插件
-Description: multitasking for iOS15 rootless.
-Author: @akusio_RR
-Depiction: https://akusio.github.io/descriptions/milkyway4/index.html
-Icon: https://axs66.github.io/pro/icon/MilkyWay.png
-Name: MilkyWay4-rootless
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: jp.dcsyhi.zetsu
 Version: 1.6.2
