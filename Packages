@@ -6973,6 +6973,22 @@ Icon: https://axs66.github.io/pro/icon/trollopen.png
 Name: TrollOpen 分屏
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopenjb/js.json
 
+Package: com.creaturecoding.libcspreferences
+Version: 1.5.8
+Architecture: iphoneos-arm64
+Maintainer: CreatureSurvive
+Installed-Size: 2332
+Pre-Depends: firmware (>= 8.0), com.ex.libsubstitute | mobilesubstrate
+Filename: ./debs/com.creaturecoding.libcspreferences_1.5.8_iphoneos-arm64.deb
+Size: 334332
+MD5sum: abc3d9b4609ede8f0f083fe3057a1087
+SHA1: 94057de382566e700536bca0155d843be774aba4
+SHA256: 2e25b7ae3e7d7365b6f6f171730f874968ce2a8bd63074ee33eb824d6971ddd6
+Section: Tweaks
+Description: A Preference Library that doesn't suck!
+Author: CreatureSurvive
+Name: libCSPreferences
+
 Package: com.creaturecoding.shuffle
 Version: 1.6.2
 Architecture: iphoneos-arm64
