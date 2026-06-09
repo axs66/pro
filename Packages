@@ -4109,6 +4109,25 @@ Icon: https://axs66.github.io/pro/icon/proknockout.png
 Name: ProKnockout
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/proknockout/js.json
 
+Package: com.Axs.promotion120
+Version: 1.0.0-76+debug
+Architecture: iphoneos-arm64
+Maintainer: Unknown
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.promotion120_1.0.0-76+debug_iphoneos-arm64.deb
+Size: 12548
+MD5sum: 7dc6c959804d35c278d431118e82d52c
+SHA1: b8e7e9b06925d7b9e4a65e070c82ce6d3ed8a8b8
+SHA256: 5727b756e2f7d14607a7a6962d8e069d7272236da2a2a0f014b756a884c780c4
+Section: Tweaks
+Description: 强制全局 120Hz ProMotion 刷新率，解除系统 80Hz 限制。仅支持 iPhone 13 Pro 及以上 ProMotion 设备。
+Tag: supports::roothide
+Author: Unknown
+Icon: https://axs66.github.io/pro/icon/promotion120.png
+Name: ProMotion 120Hz
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/promotion120/js.json
+
 Package: com.Axs.qishui
 Version: 1.0.0-129
 Architecture: iphoneos-arm64
@@ -4342,6 +4361,24 @@ Author: A
 Icon: https://axs66.github.io/pro/icon/redbookpure.png
 Name: RedBookpure
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/redbookpure/js.json
+
+Package: com.Axs.reverie
+Version: 1.0.1
+Architecture: iphoneos-arm64
+Maintainer: Paisseon
+Installed-Size: 832
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Filename: ./debs/com.Axs.reverie_1.0.1_iphoneos-arm64.deb
+Size: 121372
+MD5sum: a7717716c8d787b0fd97325d4b795bb1
+SHA1: 27a73f024300c5809931582edc885d3a82e63d58
+SHA256: 9128778227c64aa9340114c36521804347514126e3f631962299cd8f56e03d30
+Section: Tweaks
+Description: 自由的休眠设备来节省电量。
+Author: Paisseon
+Icon: https://axs66.github.io/pro/icon/reverie.png
+Name: Reverie
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/reverie/js.json
 
 Package: com.Axs.satella
 Version: 1.9.0
