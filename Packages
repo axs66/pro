@@ -1450,6 +1450,24 @@ Icon: https://axs66.github.io/pro/icon/togglow.png
 Name: 控制中心发光
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ccglow/js.json
 
+Package: com.Axs.ccglow
+Version: 2.0.3
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 384
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.ccglow_2.0.3_iphoneos-arm64.deb
+Size: 24228
+MD5sum: aec7eef03cc17ca6049907b12f9810e8
+SHA1: 2d41588cc6003bfaa941f528304abf05cf1db906
+SHA256: 5c278f708bec98090ddad48e158846ecf80fc72cd84b8860f7089f31793f98b4
+Section: 控制中心
+Description: 控制中心发光
+Author: Simon
+Icon: https://axs66.github.io/pro/icon/togglow.png
+Name: 控制中心发光
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ccglow/js.json
+
 Package: com.Axs.cclifttowake
 Version: 1.1-1
 Architecture: iphoneos-arm64
@@ -1479,6 +1497,24 @@ Size: 28716
 MD5sum: db546e92cdb02357a71d1ce9f25f4a9a
 SHA1: 5a6021f8d3e2ee59b9515e75fc68d0bba86c46ae
 SHA256: 55f9c4d05d38109f6229c8bbca43d75b102de167d4697dc6a7bb6d0b81ed64ec
+Section: 控制中心
+Description: 为控制中心的音乐模块添加动画
+Author: simon
+Icon: https://axs66.github.io/pro/icon/ccmusic.png
+Name: 控制中心音乐模块动画
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ccmusic/js.json
+
+Package: com.Axs.ccmusic
+Version: 2.4
+Architecture: iphoneos-arm64
+Maintainer: simon
+Installed-Size: 564
+Depends: mobilesubstrate, firmware (>= 13.0)
+Filename: ./debs/com.Axs.ccmusic_2.4_iphoneos-arm64.deb
+Size: 75616
+MD5sum: 568c044e5d14cecf325df3efd1a711f8
+SHA1: 77f03b2ac6f9012458b5d06502e263198495f426
+SHA256: 47b364cb97cb428b6bec942887229f3330ec58ffdc2f915cf9f46769629012a0
 Section: 控制中心
 Description: 为控制中心的音乐模块添加动画
 Author: simon
@@ -4128,6 +4164,25 @@ Icon: https://axs66.github.io/pro/icon/promotion120.png
 Name: ProMotion 120Hz
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/promotion120/js.json
 
+Package: com.Axs.promotion120
+Version: 1.0.6
+Architecture: iphoneos-arm64
+Maintainer: doimty
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.promotion120_1.0.6_iphoneos-arm64.deb
+Size: 26104
+MD5sum: b00e2583dc83074bd508c4c3d992f244
+SHA1: 905b8f9c9fe2945ae2428abdaec20c1cacd6196e
+SHA256: 4329cac701a851eaca46b07edf4cbaea5413ffa4db14be69b6cf1c73b7a5c33e
+Section: Tweaks
+Description: 强制全局 120Hz ProMotion 刷新率，解除系统 80Hz 限制。仅支持 iPhone 13 Pro 及以上。
+Tag: supports::roothide
+Author: doimty
+Icon: https://axs66.github.io/pro/icon/promotion.png
+Name: ProMotion 120Hz
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/promotion/js.json
+
 Package: com.Axs.qishui
 Version: 1.0.0-129
 Architecture: iphoneos-arm64
@@ -5923,6 +5978,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 微信通知详情
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/wxhook/js.json
 
+Package: com.Axs.wxkeyboarduihook
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: TiaoTiao
+Installed-Size: 480
+Depends: mobilesubstrate, firmware (>= 14.0)
+Filename: ./debs/com.Axs.wxkeyboarduihook_2.0_iphoneos-arm64.deb
+Size: 106924
+MD5sum: 1d69e38fdbc8ff6406d6041ca96e1f32
+SHA1: ac530597aeec7e8f8c53caa4967bc5c717e0a7e2
+SHA256: 6c01f0e51eda7e30eaff3b72fff791d55b66d2a92aaa808c7e2f37e3b1327113
+Section: Tweaks
+Description: 微信键盘虚线
+Author: TiaoTiao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 微信键盘虚线
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/wxkeyboarduihook/js.json
+
 Package: com.Axs.wxurlexpand
 Version: 0.2-0
 Architecture: iphoneos-arm64
@@ -7125,6 +7198,25 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: PKC
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/PKC/js.json
 
+Package: com.curtin.pkc.rootless
+Version: 0.9-7
+Architecture: iphoneos-arm64
+Maintainer: curtinlv@126.com
+Depends: firmware (>= 5.0)
+Filename: ./debs/com.curtin.pkc.rootless_0.9-7_iphoneos-arm64.deb
+Size: 1367212
+MD5sum: e3318fafee3d5437d811d218fdc507ab
+SHA1: 84b60477114e758cf22b7311f6c4fec4b72a16fc
+SHA256: 582919de232635e09886bc9a5ea10d10c5583306dce34f874a897fd22b190bee
+Section: 微信插件
+Priority: optional
+Homepage: https://alist.138686.xyz
+Description: AI对话、AI聊天分析、AI朋友圈分析、AI图像生成、AI视频生成、群管理Pro、标签Pro、显示群友真名字、群管标识、艾特提醒、动态群昵称、自定义API(图、文本、视频)、消息统计、加密对话、Bark消息推送、定时问候、JD自动签到、好友分析、会话分析、每天60s新闻快报、防撤回、退群监控、步数定时修改、朋友圈特别关注、自动更新微信状态、长头像、消息二次确认、拍一拍二次确认、艾特列表置顶群管理、按群员查找列表置顶群管理、群性别统计、关键词自动回复、转账自动收款、收款自动回复、批量退群、批量修改群昵称、自动通过好友请求、自动互删好友、id加好友、匿名艾特等 【提示: 本项目旨在学习 iOS 逆向的一点实践，不可使用于商业和个人其他意图。若使用不当，均由个人承担。如有侵权，请联系本人删除。】
+Author: Curtin
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: PKC
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/PKC/js.json
+
 Package: com.developlab.appbadge
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -7646,6 +7738,23 @@ SHA256: 3547c5cc4e6ba49ffb995bbd809b5e3a8410b15ecb1543d902e4754bd2f32fd1
 Section: 微信插件
 Description: WCPulse
 Author: huami
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: WCPulse
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCPulse/js.json
+
+Package: com.huami.WCPulse
+Version: 1.6-3
+Architecture: iphoneos-arm64
+Maintainer: 小学生
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.6-3_iphoneos-arm64.deb
+Size: 4261020
+MD5sum: 955a8a69617393d34eca4368ab6d00c4
+SHA1: d12cf60f67224317b133f4012deae88e2fd74ac9
+SHA256: ec81ecfaad475c68ea8de63207f84da9857eee85cb81373586722e8d978e8c0c
+Section: 微信插件
+Description: WCPulse
+Author: 小学生
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WCPulse
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCPulse/js.json
