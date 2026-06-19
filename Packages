@@ -129,6 +129,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 气泡盒子
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/BubbleBox/js.json
 
+Package: com.25mao.BubbleBox
+Version: 1.0-7
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.25mao.BubbleBox_1.0-7_iphoneos-arm64.deb
+Size: 1837732
+MD5sum: fd0b7fa106034405a62a074058519f5f
+SHA1: f4bc6763f4dcadbe89bb9b562bb16e10e1fcbf28
+SHA256: f8df9a38ac3e3e6da79c5e1095e8e834f1f842b48c513a2995333397b8d4345c
+Section: 微信插件
+Priority: optional
+Description: 微信气泡插件
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 气泡盒子
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/BubbleBox/js.json
+
 Package: com.25mao.doutu.rootless
 Version: 3.1-8
 Architecture: iphoneos-arm64
@@ -5154,6 +5172,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: ThemeLab
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/themelab/js.json
 
+Package: com.Axs.themelab
+Version: 1.6.6
+Architecture: iphoneos-arm64
+Maintainer: duo
+Installed-Size: 5380
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.themelab_1.6.6_iphoneos-arm64.deb
+Size: 1296200
+MD5sum: e5a12d963e88f628df90caa8bfe84030
+SHA1: 662b10b6585598e8f8bdc719be9938c3a01e1341
+SHA256: a949690518ec1172548dbe96e22b433bc0c71e201c7fba7359d427f1d78b7920
+Section: 微信插件
+Description: 微信主题美化插件 - ThemeLab
+Author: duo
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: ThemeLab
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/themelab/js.json
+
 Package: com.Axs.thermalpatcher
 Version: 0.0.3-1
 Architecture: iphoneos-arm64
@@ -6119,6 +6155,24 @@ Icon: https://axs66.github.io/pro/icon/xos.png
 Name: XOS
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/xos/js.json
 
+Package: com.Axs.xos
+Version: 1.4.7
+Architecture: iphoneos-arm64
+Maintainer: XOS
+Installed-Size: 2772
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.xos_1.4.7_iphoneos-arm64.deb
+Size: 837396
+MD5sum: 63b4ac7b96cbfff3ec8090e780bac8fb
+SHA1: 4d6a55b9de34cee60c87a26499b6aa410f64d0de
+SHA256: c925d33012b86e7782f62b6b0dfa045ff5ba3f6e6c27c7fbac0877bad18d3acf
+Section: 微信插件
+Description: An awesome MobileSubstrate tweak!!
+Author: XOS
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: XOS
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/xos/js.json
+
 Package: com.Axs.xxhook
 Version: 1.0.4
 Architecture: iphoneos-arm64
@@ -6637,16 +6691,16 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
 
 Package: com.axs.lockplayer
 Version: 3.22
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 1464
 Depends: firmware (>= 15.0)
-Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64e.deb
-Size: 463868
-MD5sum: 68d979f053adae3e403eff50f4d221d7
-SHA1: 6c225b74ee7bec0d35708458a7c19ccdcd538e34
-SHA256: aa8c9f69ffb57ad24968af9f90c6cc402c17978342787222c85a10a43e91cb43
-Section: Tweaks
+Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64.deb
+Size: 464012
+MD5sum: 8d393219e8bc21a7a6e52758c852a507
+SHA1: 48b158d4c0f081d4835960b92bf6ecf49bcfd715
+SHA256: 7800971793d9f2832222428ff1f7eb460e3837a67dace9a1007c34dedbbb1ed1
+Section: Axs-Tweaks
 Description:
  lockplayer锁屏播放器，功能介绍：
  	  *  1.点击专辑封面：跳转到当前播放 App。
@@ -6661,16 +6715,16 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/lockplayer/js.json
 
 Package: com.axs.lockplayer
 Version: 3.22
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Axs
 Installed-Size: 1464
 Depends: firmware (>= 15.0)
-Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64.deb
-Size: 464012
-MD5sum: 8d393219e8bc21a7a6e52758c852a507
-SHA1: 48b158d4c0f081d4835960b92bf6ecf49bcfd715
-SHA256: 7800971793d9f2832222428ff1f7eb460e3837a67dace9a1007c34dedbbb1ed1
-Section: Axs-Tweaks
+Filename: ./debs/com.axs.lockplayer_3.22_iphoneos-arm64e.deb
+Size: 463868
+MD5sum: 68d979f053adae3e403eff50f4d221d7
+SHA1: 6c225b74ee7bec0d35708458a7c19ccdcd538e34
+SHA256: aa8c9f69ffb57ad24968af9f90c6cc402c17978342787222c85a10a43e91cb43
+Section: Tweaks
 Description:
  lockplayer锁屏播放器，功能介绍：
  	  *  1.点击专辑封面：跳转到当前播放 App。
@@ -9075,6 +9129,25 @@ Section: 分屏插件
 Description: 注重设计与用户体验的优雅产品。
 Author: lzsxcl
 Depiction: hhttps://axs66.github.io/pro
+Icon: https://axs66.github.io/pro/icon/o2pro.png
+Name: o2Pro
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
+
+Package: xc.lzsxcl.o2pro
+Version: 18.9.17-6
+Architecture: iphoneos-arm64
+Maintainer: lzsxcl
+Installed-Size: 32212
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Filename: ./debs/xc.lzsxcl.o2pro_18.9.17-6_iphoneos-arm64.deb
+Size: 13311940
+MD5sum: f05ea4174d69ee1593300d6363df5ee9
+SHA1: be7286aa276181ddcb6def720bd167c2c55f9396
+SHA256: a39b50f1b72e43363745a4f87bd1dfd5a167edf08a8f7702a489529941172a58
+Section: 分屏插件
+Description: 注重设计与用户体验的优雅产品。
+Author: lzsxcl
+Depiction: https://axs66.github.io/pro
 Icon: https://axs66.github.io/pro/icon/o2pro.png
 Name: o2Pro
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/o2pro/js.json
