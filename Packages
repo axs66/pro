@@ -635,6 +635,25 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WCElite 微信优化
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCElite/js.json
 
+Package: com.Axs.WCRefine
+Version: 1.4-7
+Architecture: iphoneos-arm64
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.Axs.WCRefine_1.4-7_iphoneos-arm64.deb
+Size: 6670540
+MD5sum: c0006c6cd00564b19c9332f8d5f65e2e
+SHA1: 3159aaddeabf86edc8f394432b3224bbfc2ada58
+SHA256: ba9a7a71bd56d9e8cb118b62f48962c8b292555d395963674c1e4ccca7d2dea2
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版，基于微信8.0.64+版本制作。
+Author: 热心网友
+Dev: 君临
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: WCRefine
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCRefine/js.json
+
 Package: com.Axs.WCThemes
 Version: 1.0-3
 Architecture: iphoneos-arm64
@@ -5624,6 +5643,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 微信增强
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/wcehance/js.json
 
+Package: com.Axs.wcgg
+Version: 0.1.6
+Architecture: iphoneos-arm64
+Maintainer: mumu
+Installed-Size: 928
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.wcgg_0.1.6_iphoneos-arm64.deb
+Size: 250112
+MD5sum: 93fd0b837112cedd94b9da7a9b91f974
+SHA1: 373eddff8af0da3b8d209ef03953b638d66cd851
+SHA256: 5706ac0a75356701f08c67efddf316e99d93a5ec51d46a9728ad45725c4fe8c8
+Section: 微信插件
+Description: 不一样的分组插件
+Author: mumu
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: WCGG 微信分组
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/wcgg/js.json
+
 Package: com.Axs.wchook
 Version: 1.0-2
 Architecture: iphoneos-arm64
@@ -5935,6 +5972,24 @@ Icon: https://axs66.github.io/pro/icon/weifeng.png
 Name: 解锁威锋vip
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/weifeng/js.json
 Sponsor: Axs
+
+Package: com.Axs.wetypecolorgoogle
+Version: 1.1.4
+Architecture: iphoneos-arm64
+Maintainer: colorblack
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.wetypecolorgoogle_1.1.4_iphoneos-arm64.deb
+Size: 29096
+MD5sum: c6fefa6a1ae860cea06fcba9034dd9eb
+SHA1: 407c7e6821f2adb637688db2368f9e71fbff6dfc
+SHA256: 49c1a1883923e19def721735bf30cb8946af7a26aa760b81199fbe243023e061
+Section: 微信插件
+Description: 微信输入法 Google 风格毛玻璃键盘配色，适配深色、浅色模式；测试输入法版本 3.5.0。
+Author: colorblack
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 微信输入法_Google配色
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/wetypecolorgoogle/js.json
 
 Package: com.Axs.whiteccborders
 Version: 1.0.0
