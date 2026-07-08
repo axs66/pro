@@ -6646,6 +6646,30 @@ Icon: https://axs66.github.io/pro/icon/bigtime.png
 Name: BigTime
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
 
+Package: com.axs.clipboard
+Version: 5.2.0-98
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 824
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.clipboard_5.2.0-98_iphoneos-arm64.deb
+Size: 90976
+MD5sum: ae195181012eb57fd13299243b91d219
+SHA1: 5005e0f956ab84c5ff2c07a071bc029f95b7978b
+SHA256: cc6422f43d6d9187e265199ffcb41fc28f9579c89320eae4704c37e0fedf723a
+Section: Axs-Tweaks
+Description: 剪贴板管理器，支持自动保存文本和图片记录。
+ 1. 支持自动粘贴，面板内一键复制/粘贴；
+ 2. 支持多种激活方式：键盘预测栏、听写键、第三方手势插件；
+ 3. 支持一键清空剪贴板；
+ 4. 支持显示保存时间；
+ 5. 支持收藏内容可以自定义排序；
+ 6. 支持屏蔽iOS16+"粘贴自"横幅提示。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/clipboard.png
+Name: Clipboard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clipboard/js.json
+
 Package: com.axs.contactsfs
 Version: 1.0.1
 Architecture: iphoneos-arm64
