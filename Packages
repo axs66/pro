@@ -93,24 +93,6 @@ Author: Dynastic
 Name: libflora插件依赖-Rootless
 Sponsor: Axs
 
-Package: codes.aurora.kayoko
-Version: 2.9
-Architecture: iphoneos-arm64
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 952
-Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/codes.aurora.kayoko_2.9_iphoneos-arm64.deb
-Size: 128580
-MD5sum: b36fde2f65df99e43b12bd9030bf91ad
-SHA1: 82dc4b4c23ed1deb89358bb4ef990276da6d6632
-SHA256: 09fe25dc5b4b5b3a2cbf2146483d2a0de419f368d7121b2b6fc99d1f7dd0b9ed
-Section: 系统增强
-Description: Clipboard manager for iOS.
-Author: Alexandra Aurora Göttlicher
-Icon: https://axs66.github.io/pro/icon/kayoko.png
-Name: Kayoko剪贴板
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/kayoko/js.json
-
 Package: com.25mao.BubbleBox
 Version: 1.0-4
 Architecture: iphoneos-arm64
