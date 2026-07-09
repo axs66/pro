@@ -7580,6 +7580,24 @@ Name: 微信小底栏
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.go.mango
+Version: 0.0.17-1
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 2004
+Depends: mobilesubstrate
+Filename: ./debs/com.go.mango_0.0.17-1_iphoneos-arm64.deb
+Size: 528656
+MD5sum: 3780b1ba49493453047bab009d3e37a2
+SHA1: 3cff1252ea4d322ad54dd95e3106f2c367d4ce0a
+SHA256: 35b1ed664b0f312a70a27b6eea67e94cb8b2b1f4d9dad8106a31897c2c889715
+Section: 分屏插件
+Description: 液态玻璃风格分屏。付费插件，仅做自用备份。
+Author: go
+Icon: https://axs66.github.io/pro/icon/mango.png
+Name: mango芒果分屏
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
+
+Package: com.go.mango
 Version: 0.0.2-1
 Architecture: iphoneos-arm64
 Maintainer: go
