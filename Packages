@@ -6543,6 +6543,21 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 爱锋助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/appku/js.json
 
+Package: com.axs.appdata
+Version: 5.2.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.appdata_5.2.0_16_iphoneos-arm64.deb
+Size: 298724
+MD5sum: 5b1cac34cecc897b2391495420d36715
+SHA1: 746065b87fef28fa1a209e2d1b620f9be03fc195
+SHA256: a0571489f2a03299c2b0fecd95dfdbdaab1d2234d8a554bbd088c3a7c304c436
+Section: Tweaks
+Description: 从主屏幕查看和管理应用数据
+Author: Axs
+Name: AppData
+
 Package: com.axs.awemepro
 Version: 5.2.0-106
 Architecture: iphoneos-arm64
@@ -6857,6 +6872,31 @@ Author: Ethan Whited & lhh & Axs
 Icon: https://axs66.github.io/pro/icon/lockplayer.png
 Name: LockPlayer 锁屏迷你播放器
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/lockplayer/js.json
+
+Package: com.axs.mediafloater
+Version: 5.2.0-7
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 208
+Depends: firmware (>= 14.0)
+Filename: ./debs/com.axs.mediafloater_5.2.0-7_iphoneos-arm64.deb
+Size: 23656
+MD5sum: edc6a6f48eacd2f6c30490f1eccd7f0d
+SHA1: 0775bee9ac4eb601932529af5a14acafd3ce03e1
+SHA256: 03fc928223ea07cb48a41fea9047d569a1a3cd733eb9eefaf248837e0a3ab306
+Section: Axs-Tweaks
+Description: 这是一个简单的音乐悬浮球插件，支持手势快捷控制，支持iOS15~16系统。
+ * 1. 单击：播放/暂停
+ * 2. 左滑：上一首
+ * 3. 右滑：下一首
+ * 4. 上滑：音量调整
+ * 5. 下滑：封面旋转速度调整
+ * 6. 长按：拖动悬浮球位置
+ * 7. 双击：隐藏悬浮球，隐藏之后需要重启音乐app才会再次出现。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/mediafloater.png
+Name: 音乐悬浮球
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/awemepro/js.json
 
 Package: com.axs.minifilza
 Version: 1.0.0-31
