@@ -7799,6 +7799,22 @@ Icon: https://axs66.github.io/pro/icon/mango.png
 Name: mango 芒果分屏
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
 
+Package: com.gou.systembox
+Version: 1.0-3-1
+Architecture: iphoneos-arm64
+Maintainer: 🐶
+Installed-Size: 688
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.gou.systembox_1.0-3-1_iphoneos-arm64.deb
+Size: 106012
+MD5sum: 95b180af6bed73e66fb2f0f2bb8a6712
+SHA1: a540a9770918dceb515da8057c5fe1df66f29292
+SHA256: a359cf81b25cc0d36bb77260662a3304c9c2dcd4a24348fb74af87efd7e63e8d
+Section: Tweaks
+Description: cool
+Author: 🐶
+Name: SystemX
+
 Package: com.hk.rootless.cc
 Version: 2.0.5.5
 Architecture: iphoneos-arm64
