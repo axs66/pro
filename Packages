@@ -813,6 +813,24 @@ Name: 改个应用
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/afhook/js.json
 Sponsor: thebigboss.org
 
+Package: com.Axs.afn
+Version: 3.4.6
+Architecture: iphoneos-arm64
+Maintainer: AFN Team
+Installed-Size: 5448
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.Axs.afn_3.4.6_iphoneos-arm64.deb
+Size: 2235192
+MD5sum: f9f2597ac30fc549996700eabaffbe77
+SHA1: 25d7c18ff4f3db3e7384856bfc38e2f1e4f6bf88
+SHA256: 9bd22671b7bd59084a2a8a00c6957de034ebaba6560552522ba02b936affc4a4
+Section: 微信插件
+Description: AFN是一款微信插件。
+Author: AFN Team
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: AFN
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/afn/js.json
+
 Package: com.Axs.aimpro
 Version: 1.1.2
 Architecture: iphoneos-arm64
@@ -5755,6 +5773,24 @@ Author: ylr
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WCSimplify
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/wcsimplify/js.json
+
+Package: com.Axs.wcsurfacetrim
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 272
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.Axs.wcsurfacetrim_1.0_iphoneos-arm64.deb
+Size: 62636
+MD5sum: d005711c1aa9833827d4729c2d2f858c
+SHA1: fed9225598c26cf71b35476c4fe687c7df065a73
+SHA256: c2e5fde855f4f57068ebb8f97759fec294b700f097be040611a215e9f8ca7548
+Section: 微信插件
+Description: 禁广告，无效请卸载
+Author: ylr
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 微信去广告（新）
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/wcsurfacetrim/js.json
 
 Package: com.Axs.wctextcolor
 Version: 1.5
