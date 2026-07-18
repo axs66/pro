@@ -7256,6 +7256,27 @@ Icon: https://axs66.github.io/pro/icon/switchicon.png
 Name: Switch Icon
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/switchicon/js.json
 
+Package: com.axs.touchtrail
+Version: 5.2.0-45
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 484
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.touchtrail_5.2.0-45_iphoneos-arm64.deb
+Size: 42906
+MD5sum: 6da9d9d8f47d830327735bcfe270b4d6
+SHA1: 131b41d03cd69accc1ae9e305e80b22ad3228698
+SHA256: 1062525c26f41a43265aaf313801e671c631dc3301c3a5190b62998953940383
+Section: Axs-Tweaks
+Description: 全局触摸轨迹显示插件：在屏幕任意位置触摸时，实时显示手指触点和拖尾残影动画。
+ * 1.适配录屏、演示、教程录制等场景，可设置仅录屏时显示。
+ * 2.支持多指模式，参数可调（大小、透明度、动画时长等）。
+ * 3.支持三种触点样式（颜色/图片/表情）。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/touchtrail.png
+Name: TouchTrail
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/touchtrail/js.json
+
 Package: com.axs.wechatenhancer
 Version: 1.0.0-30
 Architecture: iphoneos-arm64
