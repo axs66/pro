@@ -1670,6 +1670,24 @@ Icon: https://axs66.github.io/pro/icon/centerswitcherlabels.png
 Name: CenterSwitcherLabels 标题居中
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/centerswitcherlabels/js.json
 
+Package: com.Axs.chatcapture
+Version: 1.0-6
+Architecture: iphoneos-arm64
+Maintainer: HM
+Installed-Size: 1176
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.chatcapture_1.0-6_iphoneos-arm64.deb
+Size: 253360
+MD5sum: e2b985db4d7d50ab5a6537abdeaf2b4f
+SHA1: bb22904fd458925c9a35b448b2d4d06a4c4ab6b7
+SHA256: abe3da2ec92b60a19d1ea8ac4d94a4d11ae987806387e63551222a7bc156beee
+Section: 微信插件
+Description: 群聊/私聊 多选消息(长)截图插件，默认生效，多选消息后点击「更多」→ 截图 / 截图(打码)；齿轮图标进入设置。
+Author: HM
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: ChatCapture
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/chatcapture/js.json
+
 Package: com.Axs.chatgpt
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -4000,6 +4018,24 @@ Icon: https://axs66.github.io/pro/icon/picsew.png
 Name: Picsew长截图 vip
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.Axs.pictapro
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: A
+Installed-Size: 180
+Depends: mobilesubstrate, com.jontelang.snapper3 (>= 1.1.1)
+Filename: ./debs/com.Axs.pictapro_1.0.0_iphoneos-arm64.deb
+Size: 31544
+MD5sum: 5fae1aea41b2d443e15f97bacc68db8f
+SHA1: eca9c53f225bc032156ab75a07dd8f9f7ec6c9f7
+SHA256: 259d9f070be8f8cc13b9265b1004a604a46534277b3db2b9f3d4c768a01a64a2
+Section: Tweaks
+Description: Pictapro适配 Snapper3 的插件
+Author: A
+Icon: https://axs66.github.io/pro/icon/pictapro.png
+Name: Sn3添加开关
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/pictapro/js.json
+
 Package: com.Axs.picturemodule
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -5661,6 +5697,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 微信增强
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/wcehance/js.json
 
+Package: com.Axs.wcfloatsplit
+Version: 3.0-2
+Architecture: iphoneos-arm64
+Maintainer: ylr
+Installed-Size: 4568
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.Axs.wcfloatsplit_3.0-2_iphoneos-arm64.deb
+Size: 1547796
+MD5sum: a44d0e5407b68f33256a8ca163c10b59
+SHA1: bbafbbf042a54d79be57159d896930ab8a3f05c2
+SHA256: a2fd240af7f6b3cf55f6d5310c6e3d3ee83badca2b533223a0082494358957da
+Section: 微信插件
+Description: WeChatOrbit
+Author: ylr
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: WeChatOrbit
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/wcfloatsplit/js.json
+
 Package: com.Axs.wcgg
 Version: 0.1.6
 Architecture: iphoneos-arm64
@@ -6596,6 +6650,23 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 黄白助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechat/js.json
 
+Package: com.HBWechatHelper.ailun
+Version: 2.1.4
+Architecture: iphoneos-arm64
+Maintainer: HuangBai
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_2.1.4_iphoneos-arm64.deb
+Size: 10442852
+MD5sum: e095279779ee391670ff5d07b9dd6f9d
+SHA1: 542796362389cda932484ae160cb74d13df66847
+SHA256: 566fe3fc71c0ece1d79ef522b33276a858e7bfcfcc92fd709e121e768e93f0ce
+Section: 微信插件
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 黄白助手
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechat/js.json
+
 Package: com.anthopak.quickprefs-rootless
 Version: 1.3.5
 Architecture: iphoneos-arm64
@@ -6646,6 +6717,46 @@ Section: Tweaks
 Description: 从主屏幕查看和管理应用数据
 Author: Axs
 Name: AppData
+
+Package: com.axs.appguard
+Version: 5.2.0-1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 696
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.appguard_5.2.0-1_iphoneos-arm64.deb
+Size: 71696
+MD5sum: f010cc3e87f7108d2263773246c87665
+SHA1: 87cc903c9b62e1c3e3edb531ec3a1a861d4010f6
+SHA256: b368e6312924bbe98cbaae8d093bd55f32011d1ac90260a8da6a497239f76d0a
+Section: Axs-Tweaks
+Description: 这是一款app进程守护与性能优化工具。
+  * 1. 支持针对每个进程独立设置活跃/非活跃内存限制、Jetsam 优先级、CPU Nice 调度优先级。
+  * 2. 可剥离系统托管标记阻止内核自动覆盖配置。
+  * 3. 内置后台守护进程实时监控进程状态，。
+  * 4. 支持iOS 14-17 越狱环境。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/appguard.png
+Name: AppGuard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appguard/js.json
+
+Package: com.axs.appselect
+Version: 5.2.0-11
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 464
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.appselect_5.2.0-11_iphoneos-arm64.deb
+Size: 51244
+MD5sum: 6cae553a9de99dc66b78d50332ac9be8
+SHA1: 48a38dbdd8aca84d6cdea64b0ae1e139bc853f58
+SHA256: 301f630a7624e6cdd4f2afe60c33b0cb832e43aed6fc8f6d07e15615ac0e2810
+Section: Axs-Tweaks
+Description: App跳转拦截重定向选择器
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/appselect.png
+Name: AppSelect
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appselect/js.json
 
 Package: com.axs.awemepro
 Version: 5.2.0-106
@@ -6770,6 +6881,33 @@ Description: 剪贴板管理器，支持自动保存文本和图片记录。
  5. 支持一键清空剪贴板；
  6. 支持显示保存时间；收藏内容可以自定义排序；
  7. 支持屏蔽iOS16+"粘贴自"横幅提示。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/clipboard.png
+Name: Clipboard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clipboard/js.json
+
+Package: com.axs.clipboard
+Version: 5.2.0-172
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1136
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.clipboard_5.2.0-172_iphoneos-arm64.deb
+Size: 144198
+MD5sum: 03dd68b5f32bef85e0d0be2e69d159d5
+SHA1: 440a67f55ce7e273dcc90aa55e9282f3411f7337
+SHA256: f09ea0d8d1dfb39a2edf6549afc02cc9ed168d68285469faa8ead44afd71da4c
+Section: Axs-Tweaks
+Description: 剪贴板管理器，支持自动保存文本和图片记录。
+ 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
+ 2. 支持长按文字条目分词选取，独立复制选中词块；
+ 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
+ 4. 支持历史条数与内容预览行数设置；
+ 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
+ 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
+ 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
+ 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
+ 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
 Author: Axs <qiaozhani000@163.com>
 Icon: https://axs66.github.io/pro/icon/clipboard.png
 Name: Clipboard
