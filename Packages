@@ -831,6 +831,25 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: AFN
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/afn/js.json
 
+Package: com.Axs.afn
+Version: 3.4.9
+Architecture: iphoneos-arm64
+Maintainer: AFN Team
+Installed-Size: 4708
+Depends: firmware (>= 15.0)
+Conflicts: com.tencent.xin.dkhelper, com.dkjone.dkhelper, com.afn.helper, com.xiaoxin.helper
+Filename: ./debs/com.Axs.afn_3.4.9_iphoneos-arm64.deb
+Size: 1405696
+MD5sum: a13b8fb2027e232f67ab302cdaa6bf71
+SHA1: 54a6110177fd702ce71bc55c99515edbfa3dd328
+SHA256: 14c0bd0c88b6c385283155c74e111833401e508a05fa595a466e4bb76ee0ecb3
+Section: 微信插件
+Description: AFN是一款微信插件。
+Author: AFN Team
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: AFN
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/afn/js.json
+
 Package: com.Axs.aimpro
 Version: 1.1.2
 Architecture: iphoneos-arm64
