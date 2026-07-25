@@ -1707,6 +1707,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: ChatCapture
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/chatcapture/js.json
 
+Package: com.Axs.chatcapture
+Version: 1.0-7
+Architecture: iphoneos-arm64
+Maintainer: HM
+Installed-Size: 1760
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.chatcapture_1.0-7_iphoneos-arm64.deb
+Size: 423688
+MD5sum: b75c7a46b3487786d8a1e947329beb8f
+SHA1: afb15cd5e97bd4d1c7f5539e2b92b757f23cdfd0
+SHA256: bc5509f4f55306c11b0d168bd1401adfdaa1e602871202a56d0d55a68ce7e0e1
+Section: 微信插件
+Description: 群聊/私聊 多选消息(长)截图插件，默认生效，多选消息后点击「更多」→ 截图 / 截图(打码)；齿轮图标进入设置。
+Author: HM
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: ChatCapture
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/chatcapture/js.json
+
 Package: com.Axs.chatgpt
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -5282,6 +5300,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: ThemeLab
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/themelab/js.json
 
+Package: com.Axs.themelab
+Version: 1.7.0-2
+Architecture: iphoneos-arm64
+Maintainer: duo
+Installed-Size: 6868
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.themelab_1.7.0-2_iphoneos-arm64.deb
+Size: 1682324
+MD5sum: c3bc1aa56b6a04b36e6896bd515419ca
+SHA1: e95aa0d4f6f28ea79097cb7573562337d6194dfa
+SHA256: 102553067b1cef4cdb8ae21772d21dd6ad506ab170ffb2c91ee54233a7913985
+Section: 微信插件
+Description: 微信主题美化插件 - ThemeLab
+Author: duo
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: ThemeLab
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/themelab/js.json
+
 Package: com.Axs.thermalpatcher
 Version: 0.0.3-1
 Architecture: iphoneos-arm64
@@ -6532,6 +6568,23 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 折叠栏动画
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/zhedie/js.json
 
+Package: com.Axs.zhutiduihuan
+Version: 3.4
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./debs/com.Axs.zhutiduihuan_3.4_iphoneos-arm64.deb
+Size: 57508
+MD5sum: c441baf012abfc3631c9f2f7aba9e528
+SHA1: f55f25281a40920b6fd3a1044f75b8618859d577
+SHA256: 96c0cbe28a3bd412e141063a94fa039e95edf77c87b19bb1bb660d2c26f07e2a
+Section: 微信插件
+Description: 主题兑换
+Author: A
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 主题兑换
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/zhutiduihuan/js.json
+
 Package: com.Axs.zxbsp
 Version: 0.0.3
 Architecture: iphoneos-arm64
@@ -6916,6 +6969,33 @@ Size: 144198
 MD5sum: 03dd68b5f32bef85e0d0be2e69d159d5
 SHA1: 440a67f55ce7e273dcc90aa55e9282f3411f7337
 SHA256: f09ea0d8d1dfb39a2edf6549afc02cc9ed168d68285469faa8ead44afd71da4c
+Section: Axs-Tweaks
+Description: 剪贴板管理器，支持自动保存文本和图片记录。
+ 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
+ 2. 支持长按文字条目分词选取，独立复制选中词块；
+ 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
+ 4. 支持历史条数与内容预览行数设置；
+ 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
+ 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
+ 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
+ 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
+ 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/clipboard.png
+Name: Clipboard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clipboard/js.json
+
+Package: com.axs.clipboard
+Version: 5.2.0-175
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1136
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.clipboard_5.2.0-175_iphoneos-arm64.deb
+Size: 144470
+MD5sum: c9d3053d3cf746c39b5ba467bb0496e9
+SHA1: c8abe9dda627836a4793aec269d59ff91b832203
+SHA256: b56ad5ac080b936ef2c0fbe8bb023287cc49c4bc718a8bcc142855f9457fff2b
 Section: Axs-Tweaks
 Description: 剪贴板管理器，支持自动保存文本和图片记录。
  1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
@@ -7424,6 +7504,27 @@ Size: 42906
 MD5sum: 6da9d9d8f47d830327735bcfe270b4d6
 SHA1: 131b41d03cd69accc1ae9e305e80b22ad3228698
 SHA256: 1062525c26f41a43265aaf313801e671c631dc3301c3a5190b62998953940383
+Section: Axs-Tweaks
+Description: 全局触摸轨迹显示插件：在屏幕任意位置触摸时，实时显示手指触点和拖尾残影动画。
+ * 1.适配录屏、演示、教程录制等场景，可设置仅录屏时显示。
+ * 2.支持多指模式，参数可调（大小、透明度、动画时长等）。
+ * 3.支持三种触点样式（颜色/图片/表情）。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/touchtrail.png
+Name: TouchTrail
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/touchtrail/js.json
+
+Package: com.axs.touchtrail
+Version: 5.2.0-55
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 500
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.touchtrail_5.2.0-55_iphoneos-arm64.deb
+Size: 46748
+MD5sum: bf32520fe74eb799da5d48c60b7a82c2
+SHA1: 7559ff4bee57f9a7b20bee70f48ba6393a8d7710
+SHA256: ad16fefc84e10912aaf75f038f0cbc40ed2260ef5cc3d066b2e03fd291a1f8a6
 Section: Axs-Tweaks
 Description: 全局触摸轨迹显示插件：在屏幕任意位置触摸时，实时显示手指触点和拖尾残影动画。
  * 1.适配录屏、演示、教程录制等场景，可设置仅录屏时显示。
