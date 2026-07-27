@@ -671,6 +671,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WCToolGesture输入框内嵌
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCToolGesture/js.json
 
+Package: com.Axs.WCallRecorder
+Version: 1.0-8
+Architecture: iphoneos-arm64
+Maintainer: HM
+Installed-Size: 11964
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.WCallRecorder_1.0-8_iphoneos-arm64.deb
+Size: 3269976
+MD5sum: 02b5c16543440caaf54dc73d8885e5f2
+SHA1: 3a3364bd0576d3f0889c1e11f08151f13d6fc261
+SHA256: 8de8288cb68b0cb76aeed4da05948fc006e497aff0e40cf66484f355cd9f4c4a
+Section: 微信插件
+Description: 独立的微信通话录音机
+Author: HM
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 微信通话录音
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCallRecorder/js.json
+
 Package: com.Axs.a-font
 Version: 1.10.2
 Architecture: iphoneos-arm64
@@ -863,6 +881,24 @@ SHA1: 4caf739391b3dedd936b46a4daf417674da7f193
 SHA256: cbe06a1b4de747ac6606ffc3f5e134d8ffc8fab7c93028ba040263ec7df0cd0f
 Section: Tweaks
 Description: AFN是一款微信插件。
+Author: AFN Team
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: AFN
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/afn/js.json
+
+Package: com.Axs.afn
+Version: 3.5.1
+Architecture: iphoneos-arm64
+Maintainer: AFN Team
+Installed-Size: 5068
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.Axs.afn_3.5.1_iphoneos-arm64.deb
+Size: 1509316
+MD5sum: e12046b2bcb1ddbb2eaf5734ee3367ed
+SHA1: 353e7b2a0e5acdd8b089f8e894bcc9b25648397e
+SHA256: 3376517edfdb8f4a56c7fc7def6a4eebf179d3a5875723f00520fe99102bf0b1
+Section: 微信插件
+Description: AFN是一个微信插件。
 Author: AFN Team
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: AFN
