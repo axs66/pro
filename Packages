@@ -850,6 +850,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: AFN
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/afn/js.json
 
+Package: com.Axs.afn
+Version: 3.5.0
+Architecture: iphoneos-arm64
+Maintainer: AFN Team
+Installed-Size: 4872
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.Axs.afn_3.5.0_iphoneos-arm64.deb
+Size: 1455748
+MD5sum: 0f0b6a135968c0408a9cc30913134fad
+SHA1: 4caf739391b3dedd936b46a4daf417674da7f193
+SHA256: cbe06a1b4de747ac6606ffc3f5e134d8ffc8fab7c93028ba040263ec7df0cd0f
+Section: Tweaks
+Description: AFN是一款微信插件。
+Author: AFN Team
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: AFN
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/afn/js.json
+
 Package: com.Axs.aimpro
 Version: 1.1.2
 Architecture: iphoneos-arm64
@@ -5919,6 +5937,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WCTextColor
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/wctextcolor/js.json
 
+Package: com.Axs.wcvoice
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: Meo
+Installed-Size: 340
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.wcvoice_1.0.0_iphoneos-arm64.deb
+Size: 56624
+MD5sum: a03171ec1b9ab31af63610398f97bc4c
+SHA1: b758fa38db7cf6d1a7f9555c4dd2527c4db3af3b
+SHA256: 072e94c5247256d7ac5eed42c20528b5c2a117dc0c58f23c291bf8d3b99423b0
+Section: 微信插件
+Description: 独立语音包管理插件，路径：Library/Preferences/WCVoice/自定义文件夹
+Author: Meo
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: WCVoice
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/wcvoice/js.json
+
 Package: com.Axs.wechat
 Version: 1.1.5
 Architecture: iphoneos-arm64
@@ -9428,6 +9464,23 @@ Size: 5874668
 MD5sum: d4ae7902ce7faf58b6f221e00f72b9ea
 SHA1: cf2204ab45468f8ebd83393a69ec8542d26cd4ec
 SHA256: 757874b481030523020eddfe837eaf3fa1375101458df870a956e88b88fd4b07
+Section: 微信插件
+Description: 微信主题盒子
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/themebox/js.json
+
+Package: com.tencent.themebox
+Version: 3.0.1
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_3.0.1_iphoneos-arm64.deb
+Size: 7284256
+MD5sum: e8170df52b2a27dba11a9053bc31c92a
+SHA1: 31178be9e3cb09deadf9d74082b9ce00f0eaeb9c
+SHA256: 80d799ba2194cc6c159c492e6263dee0860af90dcf360f88a61175a65fc479c6
 Section: 微信插件
 Description: 微信主题盒子
 Author: Mao
