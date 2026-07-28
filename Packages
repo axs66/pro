@@ -7738,6 +7738,24 @@ Icon: https://axs66.github.io/pro/icon/trollopen.png
 Name: OpenMask 适配鱿鱼手势
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopenjb/js.json
 
+Package: com.charlieleung.snapvision
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Charlie Leung
+Installed-Size: 1032
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.charlieleung.snapvision_0.0.1_iphoneos-arm64e.deb
+Size: 175484
+MD5sum: 2bda58cf001eb1907de9c4cbd567f428
+SHA1: 70ffda39993fe73ace005be9b3b60a59bf0dadcf
+SHA256: c6f620a908d223d83841ad5c0d9708c8dc82ded425d6e35fee47bc4dca671e1f
+Section: Tweaks
+Description: 这是一款长截图插件，支持鱿鱼手势，支持openjb分屏手势。快捷url：Prefs:root=long-screenshot
+Author: Charlie Leung
+Icon: https://axs66.github.io/pro/icon/snapvision.png
+Name: SnapVision长截图
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapvision/js.json
+
 Package: com.charlieleung.trollopenjb
 Version: 1.3.6
 Architecture: iphoneos-arm64
