@@ -7740,6 +7740,24 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopenjb/js.json
 
 Package: com.charlieleung.snapvision
 Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Charlie Leung
+Installed-Size: 1032
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.charlieleung.snapvision_0.0.1_iphoneos-arm64.deb
+Size: 175320
+MD5sum: 54f995d18bd2b3f179da8b4a08a81d1c
+SHA1: 06a29b9f2ee64f62ab0722a67e7a809313e6aa57
+SHA256: b1dedc05b3b0875bea892914dd0d612e83052a5f88f1b3515dce9f31e5c9be98
+Section: Tweaks
+Description: 这是一款长截图插件，支持鱿鱼手势，支持openjb分屏手势
+Author: Charlie Leung
+Icon: https://axs66.github.io/pro/icon/snapvision.png
+Name: SnapVision长截图
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapvision/js.json
+
+Package: com.charlieleung.snapvision
+Version: 0.0.1
 Architecture: iphoneos-arm64e
 Maintainer: Charlie Leung
 Installed-Size: 1032
