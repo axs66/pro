@@ -7744,14 +7744,16 @@ Maintainer: Axs
 Installed-Size: 648
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.axs.wechatpro_5.2.0-100_iphoneos-arm64.deb
-Size: 93890
-MD5sum: b60d16b22c182024b3baa600c068050b
-SHA1: 85044c5f0b1e0a7c1f60120e81149664076c2d9f
-SHA256: 9a1bed855bb2596204da6497eb06528cbf622158afd538115b4e349468f7193b
-Section: Tweaks
-Description: Reusable WeChat official-account follow gate template
+Size: 86828
+MD5sum: af6ebd188c95af587f8d6ddd624d909a
+SHA1: 5441db217ee2609b7c1209c0614690d73ab82a96
+SHA256: 09cd8fea7bfb9409b89b5977d871b5c33e54dd0e9facbfa00144f0a218f30821
+Section: Axs-Tweaks
+Description: 一款自用的微信插件，功能很简单:全局cell列表圆角+背景颜色+左右边距+聊天页面长按头像弹窗功能。
 Author: Axs
+Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: Axs
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/wechatpro/js.json
 
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
