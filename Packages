@@ -904,6 +904,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: AFN
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/afn/js.json
 
+Package: com.Axs.afn
+Version: 3.5.2
+Architecture: iphoneos-arm64
+Maintainer: AFN Team
+Installed-Size: 5168
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.Axs.afn_3.5.2_iphoneos-arm64.deb
+Size: 1541148
+MD5sum: 95d08710e2d970680be07cf3e23ec48d
+SHA1: 94081635ac832dc79dc29cf5466ec2045a2f3d4b
+SHA256: 60cbff288082e7f1e3b347e923f93e02d2d3dca8932902517067a41fbb39409b
+Section: 微信插件
+Description: AFN是一个微信插件。
+Author: AFN Team
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: AFN
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/afn/js.json
+
 Package: com.Axs.aimpro
 Version: 1.1.2
 Architecture: iphoneos-arm64
@@ -4018,6 +4036,24 @@ Icon: https://axs66.github.io/pro/icon/ocd.png
 Name: OCD5
 Sileodepiction: https://xiangfeidexiaohuo.github.io/sileodepiction/ocd5/js.json
 
+Package: com.Axs.ocr
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: SS
+Installed-Size: 600
+Depends: mobilesubstrate, preferenceloader, com.jontelang.snapper3 (>= 1.1.1)
+Filename: ./debs/com.Axs.ocr_1.0.4_iphoneos-arm64.deb
+Size: 120980
+MD5sum: 0600016610ca40ae11bfc05f2a7a785f
+SHA1: 028406c5c333c2830e8c87483a8f16f4028992f1
+SHA256: 01210d3a16f01d47c737004e2c91456334a383c549d60152c91953cd8d0cae69
+Section: Tweaks
+Description: 百度OCR识别提取文字，百度翻译，需要自备API，需要安装正版Snapper3插件。
+Author: SS
+Icon: https://axs66.github.io/pro/icon/ocr.png
+Name: 翻译与识别
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ocr/js.json
+
 Package: com.Axs.pancake
 Version: 2.2
 Architecture: iphoneos-arm64
@@ -6862,6 +6898,42 @@ Description: 从主屏幕查看和管理应用数据
 Author: Axs
 Name: AppData
 
+Package: com.axs.appdata
+Version: 5.2.0-48
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 968
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.appdata_5.2.0-48_iphoneos-arm64.deb
+Size: 143686
+MD5sum: 16b7ad4586709009fcbd33ae6de92ad4
+SHA1: 920cfadee5daa645ca51108f5435d91890b146fd
+SHA256: 4eec5f3e174738e264ed34aca26559ff8c3ee781b96e52411fd8b1067a964340
+Section: Axs-Tweaks
+Description: 从主屏幕查看和管理应用数据
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/appdata.png
+Name: AppData
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdata/js.json
+
+Package: com.axs.appdowngrade
+Version: 5.2.0-19
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 252
+Depends: mobilesubstrate
+Filename: ./debs/com.axs.appdowngrade_5.2.0-19_iphoneos-arm64.deb
+Size: 52026
+MD5sum: d310ceaa55375a27596012192adc47f2
+SHA1: 1c1157ee77714c20e6d76362fa8b62f8acb9fe9a
+SHA256: 75e43dfded0b1553060be2eeac5d278295ba2b9a7e705779a2f2f60d2437b8c3
+Section: Axs-Tweaks
+Description: 这是一款应用程序降级工具，桌面app版。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/appdowngrade.png
+Name: Appdowngrade
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdowngrade/js.json
+
 Package: com.axs.appguard
 Version: 5.2.0-1
 Architecture: iphoneos-arm64
@@ -7664,6 +7736,22 @@ Author: Axs
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WeChatEnhancer
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/wechatenhancer/js.json
+
+Package: com.axs.wechatpro
+Version: 5.2.0-100
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 648
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.axs.wechatpro_5.2.0-100_iphoneos-arm64.deb
+Size: 93890
+MD5sum: b60d16b22c182024b3baa600c068050b
+SHA1: 85044c5f0b1e0a7c1f60120e81149664076c2d9f
+SHA256: 9a1bed855bb2596204da6497eb06528cbf622158afd538115b4e349468f7193b
+Section: Tweaks
+Description: Reusable WeChat official-account follow gate template
+Author: Axs
+Name: Axs
 
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
