@@ -3243,6 +3243,24 @@ Name: 强制使用第三方键盘
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 Sponsor: Axs
 
+Package: com.Axs.kongzhidiy
+Version: 2.3.3-end
+Architecture: iphoneos-arm64
+Maintainer: binglan
+Installed-Size: 3028
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.Axs.kongzhidiy_2.3.3-end_iphoneos-arm64.deb
+Size: 674492
+MD5sum: b45e8be240fcbb02074a08dc0d4971bb
+SHA1: aab8f698c1207223ff4d31d07380c4692cb57d33
+SHA256: 9e36ba4a548d9ed02142560755077e51f32a5cd54a84cfe1e9020300f2488704
+Section: 控制中心
+Description: 这是一个简单的控制中心美化插件。
+Author: binglan
+Icon: https://axs66.github.io/pro/icon/kongzhidiy.png
+Name: 控制中心美化
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/kongzhidiy/js.json
+
 Package: com.Axs.ksctzs
 Version: 1.0.0-7
 Architecture: iphoneos-arm64
