@@ -1675,12 +1675,12 @@ Maintainer: Rascal
 Installed-Size: 280
 Depends: firmware (>= 15.0), mobilesubstrate | ellekit
 Filename: ./debs/com.Axs.ccvideo_0.0.1_iphoneos-arm64.deb
-Size: 40936
-MD5sum: a40ebd65d4dc0028a8ae20febfa46adc
-SHA1: dd624c0e7965ff1af7dee409d48d42fc5bdb328c
-SHA256: fb8dafcd6af75d71e92d1607137e20434ea610d73546ca766652d8ee3879877d
-Section: Tweaks
-Description: 神秘功能
+Size: 41032
+MD5sum: eca9a5ea20890ea0f5947ab1e7df86dd
+SHA1: c4b50acdbaf718b01306b2255d8e530e8b3ff228
+SHA256: 8d148610f6f4ce039f11460b299cb3c000863ea8bce219e34a1570bb9797b219
+Section: 控制中心
+Description: 在手机设置，控制中心里面添加模块设置。
 Author: Rascal
 Icon: https://axs66.github.io/pro/icon/ccvideo.png
 Name: 控制中心视频
