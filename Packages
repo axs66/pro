@@ -1668,6 +1668,24 @@ Icon: https://axs66.github.io/pro/icon/ccuiplayer.png
 Name: CCUIPlayer 控制中心音频背景
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ccuiplayer/js.json
 
+Package: com.Axs.ccvideo
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Rascal
+Installed-Size: 280
+Depends: firmware (>= 15.0), mobilesubstrate | ellekit
+Filename: ./debs/com.Axs.ccvideo_0.0.1_iphoneos-arm64.deb
+Size: 40936
+MD5sum: a40ebd65d4dc0028a8ae20febfa46adc
+SHA1: dd624c0e7965ff1af7dee409d48d42fc5bdb328c
+SHA256: fb8dafcd6af75d71e92d1607137e20434ea610d73546ca766652d8ee3879877d
+Section: Tweaks
+Description: 神秘功能
+Author: Rascal
+Icon: https://axs66.github.io/pro/icon/ccvideo.png
+Name: 控制中心视频
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ccvideo/js.json
+
 Package: com.Axs.ccweathermodule
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -9661,6 +9679,23 @@ Size: 7284256
 MD5sum: e8170df52b2a27dba11a9053bc31c92a
 SHA1: 31178be9e3cb09deadf9d74082b9ce00f0eaeb9c
 SHA256: 80d799ba2194cc6c159c492e6263dee0860af90dcf360f88a61175a65fc479c6
+Section: 微信插件
+Description: 微信主题盒子
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/themebox/js.json
+
+Package: com.tencent.themebox
+Version: 3.0.2
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_3.0.2_iphoneos-arm64.deb
+Size: 8874904
+MD5sum: a13ebfd37ad4dbfe6981b10875fde539
+SHA1: 2d7279dd49c371bad7fee328890de806e7dff824
+SHA256: 68fbe6c349feaf239468a2a18bcfdfff7b71450b98d0f78d16005c03a782c9b7
 Section: 微信插件
 Description: 微信主题盒子
 Author: Mao
