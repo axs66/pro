@@ -1050,23 +1050,6 @@ Icon: https://axs66.github.io/pro/icon/anuisance.png
 Name: Anuisance
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
-Package: com.Axs.appdata
-Version: 2.0.1
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.Axs.appdata_2.0.1_iphoneos-arm64.deb
-Size: 226544
-MD5sum: ae464daa244d5de8dc2e33a036b89b9c
-SHA1: 729c5a8df8f0ee0478d008744cdabcdccf06de5d
-SHA256: ade5981f9fd5b6b159604cb56b02208f0ee99736d4e8ac884310ade58278ec4f
-Section: Tweaks
-Description: 从主屏幕查看和管理应用数据
-Author: Fouad Raheb
-Icon: https://axs66.github.io/pro/icon/Appdata.png
-Name: AppData
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdata/js.json
-
 Package: com.Axs.appstoretroller
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -6938,21 +6921,6 @@ Name: 爱锋助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/appku/js.json
 
 Package: com.axs.appdata
-Version: 5.2.0
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
-Filename: ./debs/com.axs.appdata_5.2.0_16_iphoneos-arm64.deb
-Size: 298724
-MD5sum: 5b1cac34cecc897b2391495420d36715
-SHA1: 746065b87fef28fa1a209e2d1b620f9be03fc195
-SHA256: a0571489f2a03299c2b0fecd95dfdbdaab1d2234d8a554bbd088c3a7c304c436
-Section: Tweaks
-Description: 从主屏幕查看和管理应用数据
-Author: Axs
-Name: AppData
-
-Package: com.axs.appdata
 Version: 5.2.0-48
 Architecture: iphoneos-arm64
 Maintainer: Axs
@@ -6965,6 +6933,24 @@ SHA1: 920cfadee5daa645ca51108f5435d91890b146fd
 SHA256: 4eec5f3e174738e264ed34aca26559ff8c3ee781b96e52411fd8b1067a964340
 Section: Axs-Tweaks
 Description: 从主屏幕查看和管理应用数据
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/appdata.png
+Name: AppData
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdata/js.json
+
+Package: com.axs.appdata
+Version: 5.2.0-72
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 972
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.appdata_5.2.0-72_iphoneos-arm64.deb
+Size: 148372
+MD5sum: f1ba3335098bab2d5fa6b0bd30295dd4
+SHA1: d4bfd901efeb64603061a5584d96b527945ff4d4
+SHA256: e73b4336709d283ae3490add3bf88869721e7ca0d32f85d4ee3fbbc138fe9c49
+Section: Axs-Tweaks
+Description: 从主屏幕查看和管理应用数据，持续扩展附加功能。
 Author: Axs
 Icon: https://axs66.github.io/pro/icon/appdata.png
 Name: AppData
@@ -7010,6 +6996,22 @@ Icon: https://axs66.github.io/pro/icon/appguard.png
 Name: AppGuard
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/appguard/js.json
 
+Package: com.axs.appguard
+Version: 5.2.0-2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 688
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.appguard_5.2.0-2_iphoneos-arm64.deb
+Size: 62868
+MD5sum: 8e2f6d6311358a6aef866d3f8e968514
+SHA1: 2a944e53a257c2253345e022d7bee6ee08ce84fa
+SHA256: 7a928c2e2ba051e1df0fe67ac60c6612220f66bf362f0c33aa655408eed4fed7
+Section: Tweaks
+Description: iOS 14-17 进程守护与性能优化工具，支持针对每个进程独立设置活跃/非活跃内存限制、Jetsam 优先级、CPU Nice 调度优先级，并可剥离系统托管标记阻止内核自动覆盖配置。内置后台守护进程实时监控进程状态，支持有根/无根/隐藏越狱三种环境。
+Author: Axs
+Name: AppGuard
+
 Package: com.axs.appselect
 Version: 5.2.0-11
 Architecture: iphoneos-arm64
@@ -7022,6 +7024,24 @@ MD5sum: 6cae553a9de99dc66b78d50332ac9be8
 SHA1: 48a38dbdd8aca84d6cdea64b0ae1e139bc853f58
 SHA256: 301f630a7624e6cdd4f2afe60c33b0cb832e43aed6fc8f6d07e15615ac0e2810
 Section: Axs-Tweaks
+Description: App跳转拦截重定向选择器
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/appselect.png
+Name: AppSelect
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appselect/js.json
+
+Package: com.axs.appselect
+Version: 5.2.0-12
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 456
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.appselect_5.2.0-12_iphoneos-arm64.deb
+Size: 43516
+MD5sum: 04e7d924b41db3a87928394e45e1cefe
+SHA1: 89243235b19f3ff6280fb221653cdcf0eea2202e
+SHA256: 637866898afdd36706ed869e7723cab2bb23c907682c8ff992f940606aafc76a
+Section: Tweaks
 Description: App跳转拦截重定向选择器
 Author: Axs
 Icon: https://axs66.github.io/pro/icon/appselect.png
@@ -7194,6 +7214,33 @@ Size: 144470
 MD5sum: c9d3053d3cf746c39b5ba467bb0496e9
 SHA1: c8abe9dda627836a4793aec269d59ff91b832203
 SHA256: b56ad5ac080b936ef2c0fbe8bb023287cc49c4bc718a8bcc142855f9457fff2b
+Section: Axs-Tweaks
+Description: 剪贴板管理器，支持自动保存文本和图片记录。
+ 1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
+ 2. 支持长按文字条目分词选取，独立复制选中词块；
+ 3. 支持复制/粘贴音效反馈与触感反馈（可分别控制开关）；
+ 4. 支持历史条数与内容预览行数设置；
+ 5. 支持 4 种激活方式：听写键、编辑菜单、长按地球键、系统键盘上滑；
+ 6. 支持内容过滤（全部/文本/链接/图片）、收藏夹拖拽排序、面板内容快捷搜索；
+ 7. 支持显示保存时间和来源 App 图标，图片条目展示缩略图；
+ 8. 支持深色/浅色模式自适应、全屏/抽屉切换、横屏全屏适配；
+ 9. 支持屏蔽 iOS 16+ 粘贴横幅提示。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/clipboard.png
+Name: Clipboard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clipboard/js.json
+
+Package: com.axs.clipboard
+Version: 5.2.0-178
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1136
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.clipboard_5.2.0-178_iphoneos-arm64.deb
+Size: 145096
+MD5sum: 6d3fd5a19530b532daa41e3d6873d563
+SHA1: 68544d35ad3942fbde1ed723b2bc1d75c779644c
+SHA256: 9dce9c27a60506e200f4beac1c57fe61f5f444b577bdc6de4ada608de3ea7479
 Section: Axs-Tweaks
 Description: 剪贴板管理器，支持自动保存文本和图片记录。
  1. 支持自动粘贴与自动提升模式，面板内一键复制/粘贴；
@@ -7605,6 +7652,28 @@ Icon: https://axs66.github.io/pro/icon/notifyisland.png
 Name: NotifyIsland 消息上岛
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/notifyisland/js.json
 
+Package: com.axs.notifyisland
+Version: 5.2.0-3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 468
+Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.notifyisland_5.2.0-3_iphoneos-arm64.deb
+Size: 46446
+MD5sum: 5f9bf48a23cab7dca0b9df5593b9104f
+SHA1: 2506ee7fc6e8583c3e0111a8c98cefd38c9bb0d6
+SHA256: 2886727271606be3b343eab9a122d5efaa544531f85374be3e78182453e529db
+Section: Axs-Tweaks
+Description: 灵动通知，功能介绍:
+ * 1. 在灵动岛上显示精美的消息通知；
+ * 2. 支持自定义背景（视频、图片、纯代码格式）；
+ * 3. 支持自定义尺寸、字体及垂直偏移；
+ * 4. 支持点击岛上消息跳转app。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/notifyisland.png
+Name: NotifyIsland
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/notifyisland/js.json
+
 Package: com.axs.rma
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -7723,6 +7792,27 @@ Size: 46748
 MD5sum: bf32520fe74eb799da5d48c60b7a82c2
 SHA1: 7559ff4bee57f9a7b20bee70f48ba6393a8d7710
 SHA256: ad16fefc84e10912aaf75f038f0cbc40ed2260ef5cc3d066b2e03fd291a1f8a6
+Section: Axs-Tweaks
+Description: 全局触摸轨迹显示插件：在屏幕任意位置触摸时，实时显示手指触点和拖尾残影动画。
+ * 1.适配录屏、演示、教程录制等场景，可设置仅录屏时显示。
+ * 2.支持多指模式，参数可调（大小、透明度、动画时长等）。
+ * 3.支持三种触点样式（颜色/图片/表情）。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/touchtrail.png
+Name: TouchTrail
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/touchtrail/js.json
+
+Package: com.axs.touchtrail
+Version: 5.2.0-56
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 516
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.touchtrail_5.2.0-56_iphoneos-arm64.deb
+Size: 46446
+MD5sum: 641f0ffea3dc27723f616f7231258b80
+SHA1: 1749ebe707e8c3762500481329047086b844c133
+SHA256: 8d382117c6479c27b1189cc8ca819b965e0d403a611bb6f589e95588af075c8d
 Section: Axs-Tweaks
 Description: 全局触摸轨迹显示插件：在屏幕任意位置触摸时，实时显示手指触点和拖尾残影动画。
  * 1.适配录屏、演示、教程录制等场景，可设置仅录屏时显示。
