@@ -1086,6 +1086,24 @@ Icon: https://axs66.github.io/pro/icon/appstore.png
 Name: AppStoreTroller
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/appstoretroller/js.json
 
+Package: com.Axs.appstoretroller
+Version: 0.1.3
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 212
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.appstoretroller_0.1.3_iphoneos-arm64.deb
+Size: 14284
+MD5sum: f503a4f36f01f68107c1fbd9f3deab30
+SHA1: 443823d673b9198116648d12f9026bff36aac829
+SHA256: ddf2c7f00268516f9feb2dfe7c47929a26b55f5339e7ac995b25da4721f4dc5d
+Section: Tweaks
+Description: 将设置移至桌面AppStore长按快捷菜单
+Author: Mineek
+Icon: https://axs66.github.io/pro/icon/appstore.png
+Name: AppStoreTroller
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appstore/js.json
+
 Package: com.Axs.aptv
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -4091,6 +4109,24 @@ Icon: https://axs66.github.io/pro/icon/ocr.png
 Name: 翻译与识别
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ocr/js.json
 
+Package: com.Axs.ocr
+Version: 1.0.5
+Architecture: iphoneos-arm64
+Maintainer: SS
+Installed-Size: 600
+Depends: mobilesubstrate, preferenceloader, com.jontelang.snapper3 (>= 1.1.1)
+Filename: ./debs/com.Axs.ocr_1.0.5_iphoneos-arm64.deb
+Size: 122516
+MD5sum: c675012fe4543e92ff83342f6c8c40aa
+SHA1: 508df04f09bf3f387c33d76aaec3921c71e6639b
+SHA256: c58976b164644f4b6f4cfc4f6b2c9a06f4232a72ee926eb3a861a3f50b913a99
+Section: Tweaks
+Description: 百度OCR识别提取文字，百度翻译，需要自备API,需要安装正版Snapper3插件。
+Author: SS
+Icon: https://axs66.github.io/pro/icon/ocr.png
+Name: 翻译与识别
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ocr/js.json
+
 Package: com.Axs.pancake
 Version: 2.2
 Architecture: iphoneos-arm64
@@ -4419,6 +4455,27 @@ Author: doimty
 Icon: https://axs66.github.io/pro/icon/promotion.png
 Name: ProMotion 120Hz
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/promotion/js.json
+
+Package: com.Axs.promotion120hz
+Version: 1.0.0-76
+Architecture: iphoneos-arm64
+Maintainer: 小白
+Installed-Size: 180
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.promotion120hz_1.0.0-76_iphoneos-arm64.deb
+Size: 12564
+MD5sum: dfc05ae6c90f066118f6b1daf36280c4
+SHA1: 7123347724fa891cf90320392c25063838e220ae
+SHA256: 95b8aa671cf42e07c483fc8a43fe7de0797e19fd952fb18e6e5d92b15a62cb40
+Section: Tweaks
+Description: 强制全局 120Hz ProMotion 刷新率，解除系统 80Hz 限制
+ * 支持 Rootless、RootHide 越狱
+ * 支持 NathanLR、BootStrap 半越狱
+ * 支持 iPhone 13 Pro 及以上 ProMotion 设备
+Author: 小白
+Icon: https://axs66.github.io/pro/icon/promotion120.png
+Name: ProMotion 120Hz
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/promotion120hz/js.json
 
 Package: com.Axs.qishui
 Version: 1.0.0-129
