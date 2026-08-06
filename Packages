@@ -7162,6 +7162,30 @@ Icon: https://axs66.github.io/pro/icon/dy.png
 Name: AwemePro
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/awemepro/js.json
 
+Package: com.axs.axon
+Version: 5.2.0-55
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 552
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/com.axs.axon_5.2.0-55_iphoneos-arm64.deb
+Size: 65554
+MD5sum: 27f3f4317ae065545f8e5468a9efac01
+SHA1: 3ea4413b6c3c6845bc60fa3d01a8e5330fb3faf2
+SHA256: fe2a3e43e8d8555e0b8e13c24ec87c984575a30353903add7a34bb474252a025
+Section: Axs-Tweaks
+Description: Priority Hub for iOS 16 - 将锁屏通知按应用智能分组。
+ * 1.按应用分组管理通知，一目了然
+ * 2.支持水平/垂直布局、多种图标样式
+ * 3.触觉反馈、深色模式、角标数量显示
+ * 4.按时间/应用名/通知数量排序
+ * 5.自定义间距、对齐方式、位置
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/axon.png
+Name: Axon
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/axon/js.json
+
 Package: com.axs.bigtime
 Version: 5.2.0-34
 Architecture: iphoneos-arm64
