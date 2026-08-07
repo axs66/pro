@@ -689,24 +689,6 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 微信通话录音
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCallRecorder/js.json
 
-Package: com.Axs.a-font
-Version: 1.10.2
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 2476
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.Axs.a-font_1.10.2_iphoneos-arm64.deb
-Size: 493424
-MD5sum: f98c1a1feeb99d5e427991cdae1efcc7
-SHA1: d610c94f089541e252382998214c170905ab0c5d
-SHA256: 6444ef83632c41f71e75125e304fddcf50176122b9271747e7858addfe4073f2
-Section: 系统增强
-Description: 更改您的字体！只需使用A-Font更改设备上的字体即可。a-font会自动从/库/a-font/加载字体。您也可以使用配置文件加载字体。这种调整包含naver的纳米正方形圆形字体。
-Author: Baw Appie
-Icon: https://axs66.github.io/pro/icon/a-font.png
-Name: A-Font
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/a-font/js.json
-
 Package: com.Axs.accode
 Version: 1.0
 Architecture: iphoneos-arm64
@@ -7168,6 +7150,24 @@ Icon: https://axs66.github.io/pro/icon/axon.png
 Name: Axon
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/axon/js.json
 
+Package: com.axs.axsfont
+Version: 5.2.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 420
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.axsfont_5.2.0_iphoneos-arm64.deb
+Size: 29632
+MD5sum: ffcaf388712664f3b262ec4b707f8309
+SHA1: 76108e169b7c9ba7daa441ebbfe87b2bbfcef5f7
+SHA256: 0125beb5fa403db2d26fff293455a13e1b48083aac571f1c05e4f93c5c243a5c
+Section: Axs-Tweaks
+Description: 免挂载修改系统字体，支持iOS14-17.3.1
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/axsfont.png
+Name: AxsFont
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/a-font/js.json
+
 Package: com.axs.bigtime
 Version: 5.2.0-34
 Architecture: iphoneos-arm64
@@ -8037,24 +8037,6 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopenjb/js.json
 
 Package: com.charlieleung.snapvision
 Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: Charlie Leung
-Installed-Size: 1032
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.charlieleung.snapvision_0.0.1_iphoneos-arm64.deb
-Size: 175320
-MD5sum: 54f995d18bd2b3f179da8b4a08a81d1c
-SHA1: 06a29b9f2ee64f62ab0722a67e7a809313e6aa57
-SHA256: b1dedc05b3b0875bea892914dd0d612e83052a5f88f1b3515dce9f31e5c9be98
-Section: Tweaks
-Description: 这是一款长截图插件，支持鱿鱼手势，支持openjb分屏手势
-Author: Charlie Leung
-Icon: https://axs66.github.io/pro/icon/snapvision.png
-Name: SnapVision长截图
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapvision/js.json
-
-Package: com.charlieleung.snapvision
-Version: 0.0.1
 Architecture: iphoneos-arm64e
 Maintainer: Charlie Leung
 Installed-Size: 1032
@@ -8066,6 +8048,24 @@ SHA1: 70ffda39993fe73ace005be9b3b60a59bf0dadcf
 SHA256: c6f620a908d223d83841ad5c0d9708c8dc82ded425d6e35fee47bc4dca671e1f
 Section: Tweaks
 Description: 这是一款长截图插件，支持鱿鱼手势，支持openjb分屏手势。快捷url：Prefs:root=long-screenshot
+Author: Charlie Leung
+Icon: https://axs66.github.io/pro/icon/snapvision.png
+Name: SnapVision长截图
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapvision/js.json
+
+Package: com.charlieleung.snapvision
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: Charlie Leung
+Installed-Size: 1032
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.charlieleung.snapvision_0.0.1_iphoneos-arm64.deb
+Size: 175320
+MD5sum: 54f995d18bd2b3f179da8b4a08a81d1c
+SHA1: 06a29b9f2ee64f62ab0722a67e7a809313e6aa57
+SHA256: b1dedc05b3b0875bea892914dd0d612e83052a5f88f1b3515dce9f31e5c9be98
+Section: Tweaks
+Description: 这是一款长截图插件，支持鱿鱼手势，支持openjb分屏手势
 Author: Charlie Leung
 Icon: https://axs66.github.io/pro/icon/snapvision.png
 Name: SnapVision长截图
