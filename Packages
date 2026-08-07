@@ -7157,14 +7157,14 @@ Maintainer: Axs
 Installed-Size: 420
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.axs.axsfont_5.2.0_iphoneos-arm64.deb
-Size: 29632
-MD5sum: ffcaf388712664f3b262ec4b707f8309
-SHA1: 76108e169b7c9ba7daa441ebbfe87b2bbfcef5f7
-SHA256: 0125beb5fa403db2d26fff293455a13e1b48083aac571f1c05e4f93c5c243a5c
+Size: 29780
+MD5sum: dde4e3f35e567747facb338ee19e782b
+SHA1: 49c9d7ac9cfa788f4f8bca7f99dc9cf149bdb5d8
+SHA256: aabf60e5a6ef17683eb04b70c8ce30e4c4345f44057bd4ef63b29cdafe1edc7f
 Section: Axs-Tweaks
-Description: 免挂载修改系统字体，支持iOS14-17.3.1
+Description: 全局加载系统字体，直接插件面板导入字体，设置后，注销生效。省去烦人的挂载操作。
 Author: Axs
-Icon: https://axs66.github.io/pro/icon/axsfont.png
+Icon: https://axs66.github.io/pro/icon/a-font.png
 Name: AxsFont
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/a-font/js.json
 
@@ -8037,24 +8037,6 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopenjb/js.json
 
 Package: com.charlieleung.snapvision
 Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: Charlie Leung
-Installed-Size: 1032
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.charlieleung.snapvision_0.0.1_iphoneos-arm64e.deb
-Size: 175484
-MD5sum: 2bda58cf001eb1907de9c4cbd567f428
-SHA1: 70ffda39993fe73ace005be9b3b60a59bf0dadcf
-SHA256: c6f620a908d223d83841ad5c0d9708c8dc82ded425d6e35fee47bc4dca671e1f
-Section: Tweaks
-Description: 这是一款长截图插件，支持鱿鱼手势，支持openjb分屏手势。快捷url：Prefs:root=long-screenshot
-Author: Charlie Leung
-Icon: https://axs66.github.io/pro/icon/snapvision.png
-Name: SnapVision长截图
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapvision/js.json
-
-Package: com.charlieleung.snapvision
-Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: Charlie Leung
 Installed-Size: 1032
@@ -8066,6 +8048,24 @@ SHA1: 06a29b9f2ee64f62ab0722a67e7a809313e6aa57
 SHA256: b1dedc05b3b0875bea892914dd0d612e83052a5f88f1b3515dce9f31e5c9be98
 Section: Tweaks
 Description: 这是一款长截图插件，支持鱿鱼手势，支持openjb分屏手势
+Author: Charlie Leung
+Icon: https://axs66.github.io/pro/icon/snapvision.png
+Name: SnapVision长截图
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapvision/js.json
+
+Package: com.charlieleung.snapvision
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Charlie Leung
+Installed-Size: 1032
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.charlieleung.snapvision_0.0.1_iphoneos-arm64e.deb
+Size: 175484
+MD5sum: 2bda58cf001eb1907de9c4cbd567f428
+SHA1: 70ffda39993fe73ace005be9b3b60a59bf0dadcf
+SHA256: c6f620a908d223d83841ad5c0d9708c8dc82ded425d6e35fee47bc4dca671e1f
+Section: Tweaks
+Description: 这是一款长截图插件，支持鱿鱼手势，支持openjb分屏手势。快捷url：Prefs:root=long-screenshot
 Author: Charlie Leung
 Icon: https://axs66.github.io/pro/icon/snapvision.png
 Name: SnapVision长截图
