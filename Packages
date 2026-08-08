@@ -8055,24 +8055,6 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/trollopenjb/js.json
 
 Package: com.charlieleung.snapvision
 Version: 0.0.1
-Architecture: iphoneos-arm64e
-Maintainer: Charlie Leung
-Installed-Size: 1032
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: ./debs/com.charlieleung.snapvision_0.0.1_iphoneos-arm64e.deb
-Size: 175484
-MD5sum: 2bda58cf001eb1907de9c4cbd567f428
-SHA1: 70ffda39993fe73ace005be9b3b60a59bf0dadcf
-SHA256: c6f620a908d223d83841ad5c0d9708c8dc82ded425d6e35fee47bc4dca671e1f
-Section: Tweaks
-Description: 这是一款长截图插件，支持鱿鱼手势，支持openjb分屏手势。快捷url：Prefs:root=long-screenshot
-Author: Charlie Leung
-Icon: https://axs66.github.io/pro/icon/snapvision.png
-Name: SnapVision长截图
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapvision/js.json
-
-Package: com.charlieleung.snapvision
-Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: Charlie Leung
 Installed-Size: 1032
@@ -8084,6 +8066,24 @@ SHA1: 06a29b9f2ee64f62ab0722a67e7a809313e6aa57
 SHA256: b1dedc05b3b0875bea892914dd0d612e83052a5f88f1b3515dce9f31e5c9be98
 Section: Tweaks
 Description: 这是一款长截图插件，支持鱿鱼手势，支持openjb分屏手势
+Author: Charlie Leung
+Icon: https://axs66.github.io/pro/icon/snapvision.png
+Name: SnapVision长截图
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapvision/js.json
+
+Package: com.charlieleung.snapvision
+Version: 0.0.1
+Architecture: iphoneos-arm64e
+Maintainer: Charlie Leung
+Installed-Size: 1032
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Filename: ./debs/com.charlieleung.snapvision_0.0.1_iphoneos-arm64e.deb
+Size: 175484
+MD5sum: 2bda58cf001eb1907de9c4cbd567f428
+SHA1: 70ffda39993fe73ace005be9b3b60a59bf0dadcf
+SHA256: c6f620a908d223d83841ad5c0d9708c8dc82ded425d6e35fee47bc4dca671e1f
+Section: Tweaks
+Description: 这是一款长截图插件，支持鱿鱼手势，支持openjb分屏手势。快捷url：Prefs:root=long-screenshot
 Author: Charlie Leung
 Icon: https://axs66.github.io/pro/icon/snapvision.png
 Name: SnapVision长截图
@@ -9885,6 +9885,23 @@ Size: 8874904
 MD5sum: a13ebfd37ad4dbfe6981b10875fde539
 SHA1: 2d7279dd49c371bad7fee328890de806e7dff824
 SHA256: 68fbe6c349feaf239468a2a18bcfdfff7b71450b98d0f78d16005c03a782c9b7
+Section: 微信插件
+Description: 微信主题盒子
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/themebox/js.json
+
+Package: com.tencent.themebox
+Version: 3.0.3
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_3.0.3_iphoneos-arm64.deb
+Size: 9178508
+MD5sum: 7c33ccc23efec6895695ce662dd0adc1
+SHA1: 2e77b99dee3ff46110021498b273e9887f957706
+SHA256: 402d5656316d30faa725aab5ecd4297461759495cdf409cc9be4e7eba08e7c6e
 Section: 微信插件
 Description: 微信主题盒子
 Author: Mao
