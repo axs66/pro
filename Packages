@@ -171,15 +171,15 @@ Architecture: iphoneos-arm64
 Maintainer: admin@25mao.com
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
 Filename: ./debs/com.25mao.leftpan.rootless_2.0_iphoneos-arm64.deb
-Size: 32584
-MD5sum: 5727cdf2d6771fff82e3409b9232898f
-SHA1: 3529dd0a75a3620bbdf47d3d4bf1392d477a09b6
-SHA256: b0041384ed72de5a6b0843708b4cad2acb367217b2aa63b7cb9a490f72898826
-Section: 微信插件
+Size: 32548
+MD5sum: 319da982768fb515598f0232e39663ce
+SHA1: dc8d745b1f4272f23fbe0c3d6571c759d312ea73
+SHA256: 3abadaa0417d110444698c50ca2643338894cfa37ad3845a2e15a9026014db5f
+Section: Tweaks
 Priority: optional
 Description: 左滑返回上一页面
 Author: Mao
-Icon: https://axs66.github.io/pro/icon/wechat.png
+Icon: https://axs66.github.io/pro/icon/zuohua.png
 Name: 左滑返回
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
