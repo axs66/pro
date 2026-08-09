@@ -57,6 +57,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 猪咪主题ThemeManager
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/themepro/js.json
 
+Package: cn.Axs.biaoji
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: 来了老弟
+Installed-Size: 96
+Depends: mobilesubstrate
+Filename: ./debs/cn.Axs.biaoji_1.0_iphoneos-arm64.deb
+Size: 15960
+MD5sum: 138d1f76f852dd96e8f8fcfdfbc58efe
+SHA1: 8df35d2e28d8f5d28757fa67290a928c7d6224ea
+SHA256: 30d02f3559b040fc1298560e8153a3f5250bded98eb76d771cd4f5f5eae6dc23
+Section: Tweaks
+Description: 给Snapper3 截图插件增加标记功能，快速对图进行箭头，打码，复制，保存等，免去了装第三方软件，或者跳转程序的繁琐。
+Author: 来了老弟
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 截图标记
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper/js.json
+
 Package: cn.llld.wxx
 Version: 1.0.6
 Architecture: iphoneos-arm64
@@ -9072,6 +9090,23 @@ Author: Jonathan Winger-lang
 Icon: https://axs66.github.io/pro/icon/Snapper3.png
 Name: Snapper 3
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/Snapper/js.json
+
+Package: com.jontelang.snapper3
+Version: 1.2.1
+Architecture: iphoneos-arm64
+Maintainer: Jonathan Winger-lang
+Installed-Size: 4148
+Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
+Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/com.jontelang.snapper3_1.2.1_iphoneos-arm64.deb
+Size: 1218684
+MD5sum: ef5395bf7b85cee095eab95ea3402461
+SHA1: 17187c71b72c634bd98d174a9c9425887c1e71fd
+SHA256: 81009b7a6106c025f2eeb302834c1a5aebd67ad3c29e5ff8f24892623d8a3b33
+Section: Tweaks
+Description: 将截图钉在屏幕上，此为正版，仅做备份使用，内置透光图标。
+Author: Jonathan Winger-lang
+Name: Snapper 3
 
 Package: com.ketty.meowtimemachine
 Version: 0.0.1-106+debug
