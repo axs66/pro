@@ -9099,14 +9099,16 @@ Installed-Size: 4148
 Depends: mobilesubstrate, firmware(>=14.0), preferenceloader
 Conflicts: com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
 Filename: ./debs/com.jontelang.snapper3_1.2.1_iphoneos-arm64.deb
-Size: 1218684
-MD5sum: ef5395bf7b85cee095eab95ea3402461
-SHA1: 17187c71b72c634bd98d174a9c9425887c1e71fd
-SHA256: 81009b7a6106c025f2eeb302834c1a5aebd67ad3c29e5ff8f24892623d8a3b33
+Size: 1218728
+MD5sum: 5b230dd766f89ba9689b5e401bedf0ad
+SHA1: 793cc1dab3c22b6dd011050afa7e0371a23bd209
+SHA256: fb416ca9a7e5f67d8d33db98cd31da99435418012f8c4d9d3b75e44a84f73241
 Section: Tweaks
 Description: 将截图钉在屏幕上，此为正版，仅做备份使用，内置透光图标。
 Author: Jonathan Winger-lang
+Icon: https://axs66.github.io/pro/icon/snapper.png
 Name: Snapper 3
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper/js.json
 
 Package: com.ketty.meowtimemachine
 Version: 0.0.1-106+debug
