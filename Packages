@@ -7198,6 +7198,25 @@ Icon: https://axs66.github.io/pro/icon/dy.png
 Name: AwemePro
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/awemepro/js.json
 
+Package: com.axs.awemepro
+Version: 5.2.0-131
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 2444
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/com.axs.awemepro_5.2.0-131_iphoneos-arm64.deb
+Size: 392338
+MD5sum: 13bd65659da6e4633c94a121d6b09f3e
+SHA1: 49f29478d0f5d11bc764fcf381d2b27298fc6dc9
+SHA256: e65f13289cb1ce60a0ef48e8cf83219257bca874a7078149e9813eec0aeca936
+Section: Axs-Tweaks
+Priority: optional
+Description: 一个简单的抖音自用插件，仅在37.9.0版本编译，无效请卸载!
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/dy.png
+Name: AwemePro
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/awemepro/js.json
+
 Package: com.axs.axon
 Version: 5.2.0-55
 Architecture: iphoneos-arm64
