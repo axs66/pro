@@ -165,6 +165,24 @@ Icon: https://axs66.github.io/pro/icon/zuohua.png
 Name: 左滑返回-Rootless
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.25mao.leftpan.rootless
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.4)
+Filename: ./debs/com.25mao.leftpan.rootless_2.0_iphoneos-arm64.deb
+Size: 32584
+MD5sum: 5727cdf2d6771fff82e3409b9232898f
+SHA1: 3529dd0a75a3620bbdf47d3d4bf1392d477a09b6
+SHA256: b0041384ed72de5a6b0843708b4cad2acb367217b2aa63b7cb9a490f72898826
+Section: 微信插件
+Priority: optional
+Description: 左滑返回上一页面
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 左滑返回
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
 Package: com.25mao.miyou.rootless
 Version: 3.9-5
 Architecture: iphoneos-arm64
@@ -5774,6 +5792,24 @@ Name: Visionos 仿iOS26主题
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/visionos/js.json
 Sponsor: 百度主题源
 
+Package: com.Axs.vivostyle
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: huy
+Installed-Size: 412
+Depends: ellekit, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.Axs.vivostyle_1.0.0_iphoneos-arm64.deb
+Size: 30408
+MD5sum: 39890289330e61f1030d13d577aa09b0
+SHA1: d4aab91cfa69140cf2b4994a3a10234c6a19d944
+SHA256: 01794e825524830fa43f03db8e3d45e749c65f8db320f0b8cd1373a7d22dc659
+Section: Tweaks
+Description: vivo OriginOS 风格的陀螺仪 "翻转卡 "锁屏壁纸--通过倾斜在自己的照片之间交叉渐变，具有视差深度。可在 "设置 "中配置。
+Author: huy
+Icon: https://axs66.github.io/pro/icon/vivostyle.png
+Name: VivoStyle光栅壁纸
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/vivostyle/js.json
+
 Package: com.Axs.voiceclone
 Version: 1.0.4
 Architecture: iphoneos-arm64
@@ -5845,6 +5881,24 @@ Icon: https://axs66.github.io/pro/icon/waqt.png
 Name: 状态栏日期时间自定义
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/waqt/js.json
 Sponsor: Axs
+
+Package: com.Axs.watched
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Little 34306
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/com.Axs.watched_2.0_iphoneos-arm64.deb
+Size: 5788
+MD5sum: 343a73c279b8d4441e0b649bdb25869c
+SHA1: 96f35bc2cd7f50fa6b8eb0ebda57f521b8c5794d
+SHA256: 590b6b6e14a764cf28d160f7abb3b55e961dd155532d055d974005189dc83499
+Section: Tweaks
+Description: 在iOS 支持的 watchOS 更新的系统上配对 Apple Watch
+Author: 34306
+Icon: https://axs66.github.io/pro/icon/watched.png
+Name: watched
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.Axs.wcabtestvoicerecordview
 Version: 1.1-1
@@ -6977,6 +7031,24 @@ Icon: https://axs66.github.io/pro/icon/appdata.png
 Name: AppData
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdata/js.json
 
+Package: com.axs.appdata
+Version: 5.2.0-81
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1020
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.appdata_5.2.0-81_iphoneos-arm64.deb
+Size: 158224
+MD5sum: 8fd274a4e88400ff8995875de34ba7cc
+SHA1: fd0b8c4b9cdef96273b7e99cb86e30cfcbe62fd5
+SHA256: 08c4060b63667d833b25c02f16d7f456e6c50b4895df80319285f96080b5c2bf
+Section: Axs-Tweaks
+Description: 从主屏幕查看和管理应用数据，持续扩展附加功能中，目前包含：应用静音、120Hz、真后台等。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/appdata.png
+Name: AppData
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdata/js.json
+
 Package: com.axs.appdowngrade
 Version: 5.2.0-19
 Architecture: iphoneos-arm64
@@ -7024,11 +7096,11 @@ Maintainer: Axs
 Installed-Size: 688
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.axs.appguard_5.2.0-2_iphoneos-arm64.deb
-Size: 62868
-MD5sum: 8e2f6d6311358a6aef866d3f8e968514
-SHA1: 2a944e53a257c2253345e022d7bee6ee08ce84fa
-SHA256: 7a928c2e2ba051e1df0fe67ac60c6612220f66bf362f0c33aa655408eed4fed7
-Section: Tweaks
+Size: 62836
+MD5sum: 13db071396541fef1a424acd9a3da00f
+SHA1: 19847436d959b35a4923fb668017c72a143a8617
+SHA256: a689eac955c469142d548fcc56db05493071c2fbc6bf8dfeb45ea2af7c10d0b6
+Section: Axs-Tweaks
 Description: iOS 14-17 进程守护与性能优化工具，支持针对每个进程独立设置活跃/非活跃内存限制、Jetsam 优先级、CPU Nice 调度优先级，并可剥离系统托管标记阻止内核自动覆盖配置。内置后台守护进程实时监控进程状态，支持有根/无根/隐藏越狱三种环境。
 Author: Axs
 Name: AppGuard
@@ -7058,11 +7130,11 @@ Maintainer: Axs
 Installed-Size: 456
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.axs.appselect_5.2.0-12_iphoneos-arm64.deb
-Size: 43516
-MD5sum: 04e7d924b41db3a87928394e45e1cefe
-SHA1: 89243235b19f3ff6280fb221653cdcf0eea2202e
-SHA256: 637866898afdd36706ed869e7723cab2bb23c907682c8ff992f940606aafc76a
-Section: Tweaks
+Size: 43596
+MD5sum: 39dc55caa276dda32d43d3534b8edda6
+SHA1: 1e553d67adcb5e5e999acc6dc6d79da50647e901
+SHA256: eb912267574f49b99727077511635b8b224f9b58cf9a4c885b1bd82df52f63b3
+Section: Axs-Tweaks
 Description: App跳转拦截重定向选择器
 Author: Axs
 Icon: https://axs66.github.io/pro/icon/appselect.png
