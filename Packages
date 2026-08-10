@@ -57,24 +57,6 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 猪咪主题ThemeManager
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/themepro/js.json
 
-Package: cn.Axs.biaoji
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: 来了老弟
-Installed-Size: 96
-Depends: mobilesubstrate
-Filename: ./debs/cn.Axs.biaoji_1.0_iphoneos-arm64.deb
-Size: 15960
-MD5sum: 138d1f76f852dd96e8f8fcfdfbc58efe
-SHA1: 8df35d2e28d8f5d28757fa67290a928c7d6224ea
-SHA256: 30d02f3559b040fc1298560e8153a3f5250bded98eb76d771cd4f5f5eae6dc23
-Section: Tweaks
-Description: 给Snapper3 截图插件增加标记功能，快速对图进行箭头，打码，复制，保存等，免去了装第三方软件，或者跳转程序的繁琐。
-Author: 来了老弟
-Icon: https://axs66.github.io/pro/icon/snapper.png
-Name: Snapper 截图标记
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper/js.json
-
 Package: cn.llld.wxx
 Version: 1.0.6
 Architecture: iphoneos-arm64
