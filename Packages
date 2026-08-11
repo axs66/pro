@@ -7929,6 +7929,32 @@ Icon: https://axs66.github.io/pro/icon/snapper.png
 Name: Snapper3Tag
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3tag/js.json
 
+Package: com.axs.snapper3tag
+Version: 5.2.0-18
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 240
+Depends: mobilesubstrate
+Filename: ./debs/com.axs.snapper3tag_5.2.0-18_iphoneos-arm64.deb
+Size: 27828
+MD5sum: 7fd64aea5cf62be282bd3e734586d9aa
+SHA1: 2cbf851e77dbcd2732ec4f9a55f818fb3bc98916
+SHA256: 49a35fb42b7a4196343280c2ad642271bffe6468080f99b53218d25db519167b
+Section: Axs-Tweaks
+Description: Snapper3 截图标记扩展插件。
+ * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
+ * 箭头标记：手指拖拽绘制方向箭头；
+ * 自由画线：手指跟随绘制任意曲线；
+ * 矩形图标：点1次是矩形框选、点2次是矩形填充；
+ * 撤回操作：一键撤销上一步标注；
+ * 保存相册：渲染并写入系统相册；
+ * 复制剪贴板：一键复制标注后截图；
+ * 自定义图标：创建"/var/mobile/Axs/Snapper3图标/"文件夹，自己准备tag.png / tag_menu.png 素材放入"Snapper3图标"文件夹即可替换。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper3Tag
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3tag/js.json
+
 Package: com.axs.switchicon
 Version: 5.2.0-139
 Architecture: iphoneos-arm64
