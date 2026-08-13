@@ -88,6 +88,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-153",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1. 优化OCR别和翻译面板，滑动选中英文文本复制、粘贴时缺少空格导致的瑕疵。<br>2.OCR模型升级。<br>3.OCR别和翻译结果，面板内容保留标点符号，按原文布局。",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-137",
                     "useBoldText": true,
                     "useBottomMargin": false
