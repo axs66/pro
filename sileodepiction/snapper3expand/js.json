@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 8 月 13 日",
+                    "text": "2026 年 8 月 14 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,6 +86,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-159",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1. OCR模型,支持选择。<br>2.标记增加线宽调节滑条。<br>3.标记增加椭圆标注、一键清除等功能。<br>4.面板布局改为两行，面板颜色凸显。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-153",
