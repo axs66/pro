@@ -7904,16 +7904,16 @@ Name: Sileo越狱源介绍
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/sileo/js.json
 
 Package: com.axs.snapper3tag
-Version: 5.2.0-153
+Version: 5.2.0-154
 Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 660
 Depends: mobilesubstrate
-Filename: ./debs/com.axs.snapper3tag_5.2.0-153_iphoneos-arm64.deb
-Size: 87676
-MD5sum: e3bc47d240ec5ddf043e94685ca88367
-SHA1: b2cf46d1bb4c4f7a14ce32362a98d8d43bbab912
-SHA256: 85e933163650219bf38f12e203f47eb72af9c117119ddaed6a24449638bb0aad
+Filename: ./debs/com.axs.snapper3tag_5.2.0-154_iphoneos-arm64.deb
+Size: 88210
+MD5sum: 38db13135f7a45dc3e1f3c97d1cf7df5
+SHA1: 853a4e01fc446015c7508eec6f554cb33c140bdc
+SHA256: 981675a985f2fe0d09a85239288646dd2e5250901a14d9074983176d5b498ec0
 Section: Axs-Tweaks
 Description: Snapper3 功能扩展，目前包含：截图标记 + 长截图 + OCR识别 + 翻译等，修复了原snapper3主体插件第7个图标遮挡一半的bug。
  * 一、【截图标记】
@@ -8163,24 +8163,6 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/tie-gesture/js.json
 Package: com.brend0n.qqmusicdesktoplyrics
 Version: 0.3.9~b1
 Architecture: iphoneos-arm64
-Maintainer: Brend0n <brendonjkding@126.com>
-Installed-Size: 2748
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
-Filename: ./debs/com.brend0n.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64 .deb
-Size: 623216
-MD5sum: 03b3e99b8dc65ee598a7fb0745d433ca
-SHA1: c1a5049aa428aa0bd647bcf06e12979ab88624e5
-SHA256: 25c7d063e1a75c78d2b4dd7f8ee252dbe0616a54f40ef7be2ccc43299fa026c2
-Section: Tweaks
-Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify，放心玩吧！
-Author: Brend0n <brendonjkding@126.com>
-Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicdesktoplyrics
-Name: DesktopLyrics
-Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
-
-Package: com.brend0n.qqmusicdesktoplyrics
-Version: 0.3.9~b1
-Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 2748
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
@@ -8196,6 +8178,24 @@ Depiction: https://axs66.github.io/pro
 Icon: https://axs66.github.io/pro/icon/qqmusicdesktoplyrics.png
 Name: DesktopLyrics 桌面歌词
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/qqmusicdesktoplyrics/js.json
+
+Package: com.brend0n.qqmusicdesktoplyrics
+Version: 0.3.9~b1
+Architecture: iphoneos-arm64
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 2748
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.brend0n.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64 .deb
+Size: 623216
+MD5sum: 03b3e99b8dc65ee598a7fb0745d433ca
+SHA1: c1a5049aa428aa0bd647bcf06e12979ab88624e5
+SHA256: 25c7d063e1a75c78d2b4dd7f8ee252dbe0616a54f40ef7be2ccc43299fa026c2
+Section: Tweaks
+Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify，放心玩吧！
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicdesktoplyrics
+Name: DesktopLyrics
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
 
 Package: com.charlieleung.openmask
 Version: 0.0.1
