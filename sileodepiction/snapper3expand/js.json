@@ -22,7 +22,7 @@
                 },      
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Snapper3 功能扩展，目前包含：<br>1.截图标记 + 长截图 + OCR识别 + AI互译 + AI问答。<br>2.修复了原snapper3主体插件第7个图标遮挡一半的bug。<br>3.将菜单工具栏最后一个“关闭”图标进行固定，增加滑动视觉效果。",
+                    "markdown": "Snapper3 功能扩展，目前包含：<br>1.截图标记 + 长截图 + OCR识别 + AI互译 + AI问答 + Sileo长按翻译。<br>2.修复了原snapper3主体插件第7个图标遮挡一半的bug。<br>3.将菜单工具栏最后一个“关闭”图标进行固定，增加滑动视觉效果。",
                     "useRawFormat": true,
                 },      
                {
@@ -86,6 +86,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-166",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.新增“Sileo”商店中的插件描述进行“长按翻译”功能。<br>2.新增“AI互译”结果面板可以滑动选词、原文布局显示",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-163",
