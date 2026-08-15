@@ -88,13 +88,24 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-179",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.新增全屏与区域截图独立标记。<br>2.更新“AI互译、AI问答”默认图标样式。<br>3.之前“AI 互译”弹窗面板标题是“AI 回答”，优化为“AI 互译”。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-166",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.新增“Sileo”商店中的插件描述进行“长按翻译”功能。<br>2.新增“AI互译”结果面板可以滑动选词、原文布局显示",
+                    "markdown": "1.新增“Sileo”商店中的插件描述进行“长按翻译”功能。<br>2.新增“AI互译”结果面板可以滑动选词、原文布局显示。",
                     "useRawFormat": true
                 },
                {
