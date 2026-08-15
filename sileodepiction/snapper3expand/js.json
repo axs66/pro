@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 8 月 15 日",
+                    "text": "2026 年 8 月 16 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,6 +86,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-185",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.新增“自动分词”控制开关。<br>2.修复“底部标记”在桌面、sileo、Dopamine等场景不生效的bug，注意：snapper3设置里面的触发方式选择“ios原生截图”，第三方手势选择“snapper3冻结模式”。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-179",
