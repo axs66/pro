@@ -88,6 +88,28 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-203",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.新增“固定七标”控制开关。<br>2.新增“横屏模式”控制开关。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-192",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.新增面板“自动分词”开关，可随意切换。<br>2.优化原文支持选段复制。<br>3.优化面板上拉松手直接恢复原位高度。<br>4.优化“标记”中“颜色+粗细”持久化设置。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-185",
                     "useBoldText": true,
                     "useBottomMargin": false
