@@ -8239,6 +8239,59 @@ Icon: https://axs66.github.io/pro/icon/snapper.png
 Name: Snapper3 Expand
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.json
 
+Package: com.axs.snapper3tag
+Version: 5.2.0-203
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 800
+Depends: mobilesubstrate
+Filename: ./debs/com.axs.snapper3tag_5.2.0-203_iphoneos-arm64.deb
+Size: 122868
+MD5sum: 603b70bf5dffb3a1f48cbba7dfc6f4f5
+SHA1: e8696355b5369368d86863401195c9f0b276ea6b
+SHA256: 4dad2d34e0454d6a5bba5c9a45885826fc242e4b33e50e3e4e77a3ea20e50479
+Section: Axs-Tweaks
+Description: Snapper3 功能扩展，目前包含：截图标记 + 长截图 + OCR识别 + 翻译 + AI互译 + AI问答 + Sileo长按翻译，修复了原snapper3主体插件第7个图标遮挡一半的bug；将菜单工具栏最后一个“关闭”图标进行固定，增加滑动视觉效果。
+ * 一、【截图标记】
+ * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
+ * 箭头标记：手指拖拽绘制方向箭头；
+ * 自由画线：手指跟随绘制任意曲线；
+ * 矩形图标：矩形框选+矩形填充；
+ * 圆形图标：圆形框选+圆形填充；
+ * 撤回操作：一键撤销上一步标注；
+ * 删除操作：一键删除所有标注；
+ * 保存相册：渲染并写入系统相册；
+ * 复制剪贴板：一键复制标注后截图；
+ * 二、【长截图 Pro】
+ * 点击长截图图标一键截长图；
+ * 智能帧匹配，自动拼接；
+ * 支持保存到相册、复制到剪贴板；
+ * 三、【OCR识别】
+ * 使用 PaddleOCR模型识别截图文字；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备API Token。
+ * 四、【翻译】
+ * 百度翻译 API，自动检测语言双向翻译；
+ * 支持图片翻译和文本翻译两种通道；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备百度开发者信息中的 AppID 和 密钥。
+ * 五、【Ai互译+问答】
+ * 支持中英文互译和中文问答；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备阿里云 API Key。
+ * 六、【自定义图标】
+ * 创建 "/var/mobile/Axs/Snapper3图标/" 文件夹，放入以下对应素材，即可替换默认图标：
+ *   截图标记：tag.png / tag_menu.png
+ *   长截图  ：long.png / long_menu.png
+ *   ocr识别 ：ocr.png / ocr_menu.png
+ *   翻译    ：trans.png / trans_menu.png
+ *   Ai互译  ：huyi.png / huyi_menu.png
+ *   Ai回答  ：wenda.png / wenda_menu.png
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper3 Expand
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.json
+
 Package: com.axs.switchicon
 Version: 5.2.0-139
 Architecture: iphoneos-arm64
