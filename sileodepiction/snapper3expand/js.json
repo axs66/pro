@@ -70,10 +70,10 @@
                     "class": "DepictionTableTextView",
                     "text": "VCR66T",
                     "title": "微信"
-                },e:\wechat缓存\xwechat_files\wangyouqiang1987_bfc3\temp\RWTemp\2026-08\9e20f478899dc29eb19741386f9343c8\c406c8c00d141b6422f84577f586cabc.jpg
+                },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 8 月 18 日",
+                    "text": "2026 年 8 月 21 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,6 +86,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-216",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "重构“长截图”功能。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-206",
