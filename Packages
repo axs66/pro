@@ -6905,6 +6905,24 @@ Name: 爱锋助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/appku/js.json
 
 Package: com.axs.appdata
+Version: 5.2.0-104
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1072
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.appdata_5.2.0-104_iphoneos-arm64.deb
+Size: 173174
+MD5sum: 01db1410ac5e5496dc54ab75693a1ae1
+SHA1: 64c3a1691a7f0a0e07922d70d1c1bb6400ac1d1c
+SHA256: 773c4ccaf10be8a5744bb34caeea8c582488b559b78ef04611a65a9ff32e1fbc
+Section: Axs-Tweaks
+Description: 从主屏幕查看和管理应用数据，持续扩展附加功能中，目前包含：应用静音、120Hz、真后台、CPU、FPS等。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/appdata.png
+Name: AppData
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdata/js.json
+
+Package: com.axs.appdata
 Version: 5.2.0-48
 Architecture: iphoneos-arm64
 Maintainer: Axs
