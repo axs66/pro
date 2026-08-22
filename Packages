@@ -654,6 +654,24 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WCRefine
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCRefine/js.json
 
+Package: com.Axs.WCRefine
+Version: 2.1-1
+Architecture: iphoneos-arm64
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.Axs.WCRefine_2.1-1_iphoneos-arm64.deb
+Size: 9858744
+MD5sum: 22a52ebc7b106472152a241de3379772
+SHA1: 6fe76ad241f9b31b8b233c33939a96e969e3783b
+SHA256: 8f1ea3a245dc0939592c0dba94e46ac537eefa8e6e5e0d13e722440e53556588
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版，基于微信8.0.64+版本制作。
+Author: 热心网友
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: WCRefine
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCRefine/js.json
+
 Package: com.Axs.WCThemes
 Version: 1.0-3
 Architecture: iphoneos-arm64
@@ -842,6 +860,23 @@ Size: 1605372
 MD5sum: a17d774e95bd08376fde2349b7017de0
 SHA1: 481bbff5d6ce75fa4b99fced0da05d659561d445
 SHA256: e3c85f4fe822482511b99cc2a6a96e8771b5e2346a36878e76c66ee3c29d0861
+Section: 微信插件
+Description: AFN是一个微信插件
+Author: AFN Team
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: AFN
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/afn/js.json
+
+Package: com.Axs.afn
+Version: 3.5.9
+Architecture: iphoneos-arm64
+Maintainer: AFN Team
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.Axs.afn_3.5.9_iphoneos-arm64.deb
+Size: 2692272
+MD5sum: f78c27f9e02d46e7cfea779611067507
+SHA1: 84c2a92593ddd4663df0fdf5c72e434f26181086
+SHA256: a4e3573d3d22603c2c791a5a04ebcbffd3d5b4596a927268323dcd600fbe895b
 Section: 微信插件
 Description: AFN是一个微信插件
 Author: AFN Team
@@ -6868,6 +6903,23 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 黄白助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechat/js.json
 
+Package: com.HBWechatHelper.ailun
+Version: 2.1.5
+Architecture: iphoneos-arm64
+Maintainer: HuangBai
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_2.1.5_iphoneos-arm64.deb
+Size: 6881744
+MD5sum: cd78a4d2cbdfe14009da71b707081986
+SHA1: 9c27e1ec746508b5c178879ce8a61017a8c11cf0
+SHA256: 16261084bc0699ff958635901540be1cf585e11ec2394d8958ab5d1b45a98a5b
+Section: 微信插件
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 黄白助手
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechat/js.json
+
 Package: com.anthopak.quickprefs-rootless
 Version: 1.3.5
 Architecture: iphoneos-arm64
@@ -8310,6 +8362,59 @@ Size: 139682
 MD5sum: 4cd4d8afa784c0e10d93427a4ab006eb
 SHA1: b56ac74c0d8a1e5f6247a6cd6b0024b448074bd2
 SHA256: 3b0caa883eeb2f37040c690683ef2350971a34f69bd06ed80832da5bd72f64d7
+Section: Axs-Tweaks
+Description: Snapper3 功能扩展，目前包含：截图标记 + 长截图 + OCR识别 + 翻译 + AI互译 + AI问答 + Sileo长按翻译，修复了原snapper3主体插件第7个图标遮挡一半的bug；将菜单工具栏最后一个“关闭”图标进行固定，增加滑动视觉效果。
+ * 一、【截图标记】
+ * 颜色选择：红/黄/蓝/绿/白/黑等6种颜色；
+ * 箭头标记：手指拖拽绘制方向箭头；
+ * 自由画线：手指跟随绘制任意曲线；
+ * 矩形图标：矩形框选+矩形填充；
+ * 圆形图标：圆形框选+圆形填充；
+ * 撤回操作：一键撤销上一步标注；
+ * 删除操作：一键删除所有标注；
+ * 保存相册：渲染并写入系统相册；
+ * 复制剪贴板：一键复制标注后截图；
+ * 二、【长截图 Pro】
+ * 点击长截图图标一键截长图；
+ * 智能帧匹配，自动拼接；
+ * 支持保存到相册、复制到剪贴板；
+ * 三、【OCR识别】
+ * 使用 PaddleOCR模型识别截图文字；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备API Token。
+ * 四、【翻译】
+ * 百度翻译 API，自动检测语言双向翻译；
+ * 支持图片翻译和文本翻译两种通道；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备百度开发者信息中的 AppID 和 密钥。
+ * 五、【Ai互译+问答】
+ * 支持中英文互译和中文问答；
+ * 半屏浮层展示，支持涂抹选择、一键复制；
+ * 需自备阿里云 API Key。
+ * 六、【自定义图标】
+ * 创建 "/var/mobile/Axs/Snapper3图标/自定义文件夹" ，放入以下对应素材，即可替换默认图标：
+ *   截图标记：tag.png / tag_menu.png
+ *   长截图  ：long.png / long_menu.png
+ *   ocr识别 ：ocr.png / ocr_menu.png
+ *   翻译    ：trans.png / trans_menu.png
+ *   Ai互译  ：huyi.png / huyi_menu.png
+ *   Ai回答  ：wenda.png / wenda_menu.png
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper3 Expand
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.json
+
+Package: com.axs.snapper3tag
+Version: 5.2.0-237
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 884
+Depends: mobilesubstrate
+Filename: ./debs/com.axs.snapper3tag_5.2.0-237_iphoneos-arm64.deb
+Size: 139764
+MD5sum: ee608424aa89975643c5096f6ececc20
+SHA1: 2fc8edc25855ed92c2c715ec0381180bf7abd547
+SHA256: 9665ae2f72a27829e4f4fe55380684ebbff638c437a7dc411fa98bdd8c6cb77c
 Section: Axs-Tweaks
 Description: Snapper3 功能扩展，目前包含：截图标记 + 长截图 + OCR识别 + 翻译 + AI互译 + AI问答 + Sileo长按翻译，修复了原snapper3主体插件第7个图标遮挡一半的bug；将菜单工具栏最后一个“关闭”图标进行固定，增加滑动视觉效果。
  * 一、【截图标记】
