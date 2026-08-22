@@ -105,7 +105,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "附加功能：1.新增“启用真后台”功能；<br>2.新增“启用120HZ”功能；<br>3.新增“启用静音”功能。<br>4.以上两个功能是app单独控制。。",
+                    "markdown": "附加功能：1.新增“启用真后台”功能；<br>2.新增“启用120HZ”功能；<br>3.新增“启用静音”功能。<br>4.以上两个功能是app单独控制。",
                     "useRawFormat": true
                 }
             ]

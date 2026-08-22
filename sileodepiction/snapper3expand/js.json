@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 8 月 21 日",
+                    "text": "2026 年 8 月 22 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,6 +86,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-256",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.优化超长截图，拼接完成时黑色图片的bug；<br>2.优化“长截图”执行时的内存压力；<br>3.优化“长截图”右上角预览窗口的显示动画；<br>4.优化“长截图”清晰度自主选择，注意看插件面板上的说明。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-225",
