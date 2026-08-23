@@ -88,6 +88,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-269",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.新增“文字标注”功能，文字可以即时放大缩小，可以移动；<br>2.键盘完美弹出，一次性搞定。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-256",
                     "useBoldText": true,
                     "useBottomMargin": false
