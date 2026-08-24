@@ -88,6 +88,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-280",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.长截图方式回归，插件面板选一；<br>2.采纳群友提的一些优化建议（如:编辑界面点保存或复制后，自动关闭窗口，增加轻微震动反馈）。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-269",
                     "useBoldText": true,
                     "useBottomMargin": false
