@@ -3034,6 +3034,24 @@ Icon: https://axs66.github.io/pro/icon/iossecuritysuite.png
 Name: iOSSecuritySuite屏蔽越狱检测
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/iossecuritysuite/js.json
 
+Package: com.Axs.ips
+Version: 1.5.1
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 872
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.ips_1.5.1_iphoneos-arm64.deb
+Size: 230248
+MD5sum: 024e9ca73d62dcd6b86233d3bac24568
+SHA1: 9f1902ec623659e9c3420cecfc4b18c4ca2c2c43
+SHA256: 70011dd73351bbbfb3cccd70efe845d76b955254c5fe3602a1d23f01984cea88
+Section: Tweaks
+Description: 分析数据快速分享、清理、搜索、过滤!
+Author: zqbb
+Icon: https://axs66.github.io/pro/icon/ips.png
+Name: IPS 崩溃日志
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ips/js.json
+
 Package: com.Axs.jikan
 Version: 1.0-1
 Architecture: iphoneos-arm64
@@ -9285,6 +9303,24 @@ SHA1: 50519743d48fa1fe96e7e6f4fc6773a4607ab666
 SHA256: 2231bf392f91706373c0caf4cda1a05f6e2cbb9b3d5af9e6fd6c89124fb8c67c
 Section: 分屏插件
 Description: 芒果，轻量分屏，舒适，顺手。
+Author: go
+Icon: https://axs66.github.io/pro/icon/mango.png
+Name: mango 芒果分屏
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
+
+Package: com.go.mango
+Version: 1.0-Beta1-2
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 2816
+Depends: mobilesubstrate
+Filename: ./debs/com.go.mango_1.0-Beta1-2_iphoneos-arm64.deb
+Size: 723984
+MD5sum: 8fa9892724a4250cdea275f9447cd20c
+SHA1: 01062e228afdd56ac93ff38076c1d31958d6907f
+SHA256: 95faf8155fcba05faadffeb356b9ca9017560a8e2686827661eae670ed61c253
+Section: 分屏插件
+Description: 分屏，真液态玻璃，视频壁纸等一些实用功能。
 Author: go
 Icon: https://axs66.github.io/pro/icon/mango.png
 Name: mango 芒果分屏
