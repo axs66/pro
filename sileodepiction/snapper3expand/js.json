@@ -88,6 +88,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-295",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.新增“马赛克”标注；<br>2.新增“高亮”标注，点击1次图标是高亮款选，点击2次图标是半透明填充；<br>3.原矩形框选、矩形填充图标，合并为1个占位，点击1次是框选、点击2次是填充；<br>4.原圆形框选、圆形填充图标，合并为1个占位，点击1次是框选、点击2次是填充。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-280",
                     "useBoldText": true,
                     "useBottomMargin": false
