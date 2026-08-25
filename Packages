@@ -7698,16 +7698,16 @@ Name: Snapper3 Expand
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.json
 
 Package: com.axs.snapper3tag
-Version: 5.2.0-301
+Version: 5.2.0-302
 Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhini000@163.com>
 Installed-Size: 1000
 Depends: mobilesubstrate
-Filename: ./debs/com.axs.snapper3tag_5.2.0-301_iphoneos-arm64.deb
-Size: 165982
-MD5sum: 4597fc08139a4302fdc6c561f4e0c6c3
-SHA1: 800936888ff071a718d60c178ce8845291566585
-SHA256: cf36a7cd5473264805ba5e7599aaa9128efe5d6df95b117a6e096ecea45f106f
+Filename: ./debs/com.axs.snapper3tag_5.2.0-302_iphoneos-arm64.deb
+Size: 165294
+MD5sum: 395bf112e8c0a86ee46d20beae756463
+SHA1: 4219bd6c9199954371f3bae928d12bf605027b81
+SHA256: 367d68f96796cd594cb349fe7e657d6a4e82473659b53ad22a9ab99f10375256
 Section: Axs-Tweaks
 Description: Snapper3 功能扩展，目前包含：截图标记 + 长截图 + OCR识别 + 翻译 + AI互译 + AI问答 + Sileo长按翻译，修复了原snapper3主体插件第7个图标遮挡一半的bug；将菜单工具栏最后一个“关闭”图标进行固定，增加滑动视觉效果。
  * 一、【自定义图标】
