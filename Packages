@@ -6298,6 +6298,22 @@ Icon: https://axs66.github.io/pro/icon/appdowngrade.png
 Name: Appdowngrade
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdowngrade/js.json
 
+Package: com.axs.appguard
+Version: 5.2.0-2
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 688
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.appguard_5.2.0-2_iphoneos-arm64.deb
+Size: 62868
+MD5sum: 8e2f6d6311358a6aef866d3f8e968514
+SHA1: 2a944e53a257c2253345e022d7bee6ee08ce84fa
+SHA256: 7a928c2e2ba051e1df0fe67ac60c6612220f66bf362f0c33aa655408eed4fed7
+Section: Tweaks
+Description: iOS 14-17 进程守护与性能优化工具，支持针对每个进程独立设置活跃/非活跃内存限制、Jetsam 优先级、CPU Nice 调度优先级，并可剥离系统托管标记阻止内核自动覆盖配置。内置后台守护进程实时监控进程状态，支持有根/无根/隐藏越狱三种环境。
+Author: Axs
+Name: AppGuard
+
 Package: com.axs.appselect
 Version: 5.2.0-12
 Architecture: iphoneos-arm64
