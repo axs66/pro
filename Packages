@@ -488,6 +488,24 @@ Name: WCRefine
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCRefine/js.json
 
 Package: com.Axs.WCRefine
+Version: 2.0-6beta2
+Architecture: iphoneos-arm64
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.Axs.WCRefine_2.0-6beta2_iphoneos-arm64.deb
+Size: 9222248
+MD5sum: 9518954362fc6943d2d6a6f2cd4291f0
+SHA1: 05133a4d28084807e5cf2fc48b57dad2608f8764
+SHA256: 58c1ff46bf1a083520673eae61d99c792171867272f6f58a5713216536325a09
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版，基于微信8.0.64+版本制作。
+Author: 热心网友
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: WCRefine 破解版
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCRefine/js.json
+
+Package: com.Axs.WCRefine
 Version: 2.1-1
 Architecture: iphoneos-arm64
 Maintainer: 热心网友
@@ -1959,6 +1977,24 @@ Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需
 Author: Simon
 Icon: https://axs66.github.io/pro/icon/dynamicislandanimation.png
 Name: 灵动岛跳舞动画
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/dynamicislandanimation/js.json
+
+Package: com.Axs.dynamicislandanimation
+Version: 2.4
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 560
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.dynamicislandanimation_2.4_iphoneos-arm64.deb
+Size: 80296
+MD5sum: d37b2b1040f96dc982b06e45e1104586
+SHA1: d022f11f4f058e5d497f23fbbb9a99ff484b01a3
+SHA256: 561691f94d46d9982b484ffa0627a4f0fa7a76d99f35762ef73b4dd5238ac7df
+Section: 灵动岛
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
+Author: Simon
+Icon: https://axs66.github.io/pro/icon/dynamicislandanimation.png
+Name: 灵动岛跳舞动画PLUS
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/dynamicislandanimation/js.json
 
 Package: com.Axs.dynamicislandring
