@@ -488,6 +488,24 @@ Name: WCRefine
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCRefine/js.json
 
 Package: com.Axs.WCRefine
+Version: 2.0-6beta2
+Architecture: iphoneos-arm64
+Maintainer: 热心网友
+Depends: firmware (>= 14.0), mobilesubstrate
+Filename: ./debs/com.Axs.WCRefine_2.0-6beta2_iphoneos-arm64.deb
+Size: 9222248
+MD5sum: 9518954362fc6943d2d6a6f2cd4291f0
+SHA1: 05133a4d28084807e5cf2fc48b57dad2608f8764
+SHA256: 58c1ff46bf1a083520673eae61d99c792171867272f6f58a5713216536325a09
+Section: 微信插件
+Priority: optional
+Description: 微信优化的重制版，基于微信8.0.64+版本制作。
+Author: 热心网友
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: WCRefine 破解版
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCRefine/js.json
+
+Package: com.Axs.WCRefine
 Version: 2.1-1
 Architecture: iphoneos-arm64
 Maintainer: 热心网友
@@ -1959,6 +1977,24 @@ Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需
 Author: Simon
 Icon: https://axs66.github.io/pro/icon/dynamicislandanimation.png
 Name: 灵动岛跳舞动画
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/dynamicislandanimation/js.json
+
+Package: com.Axs.dynamicislandanimation
+Version: 2.4
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 560
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.dynamicislandanimation_2.4_iphoneos-arm64.deb
+Size: 80296
+MD5sum: d37b2b1040f96dc982b06e45e1104586
+SHA1: d022f11f4f058e5d497f23fbbb9a99ff484b01a3
+SHA256: 561691f94d46d9982b484ffa0627a4f0fa7a76d99f35762ef73b4dd5238ac7df
+Section: 灵动岛
+Description: 用于灵动岛专辑及屏幕录制动态跳舞动画整合 无需挂载不再卑微！
+Author: Simon
+Icon: https://axs66.github.io/pro/icon/dynamicislandanimation.png
+Name: 灵动岛跳舞动画PLUS
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/dynamicislandanimation/js.json
 
 Package: com.Axs.dynamicislandring
@@ -7698,16 +7734,16 @@ Name: Snapper3 Expand
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.json
 
 Package: com.axs.snapper3tag
-Version: 5.2.0-301
+Version: 5.2.0-302
 Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhini000@163.com>
 Installed-Size: 1000
 Depends: mobilesubstrate
-Filename: ./debs/com.axs.snapper3tag_5.2.0-301_iphoneos-arm64.deb
-Size: 165982
-MD5sum: 4597fc08139a4302fdc6c561f4e0c6c3
-SHA1: 800936888ff071a718d60c178ce8845291566585
-SHA256: cf36a7cd5473264805ba5e7599aaa9128efe5d6df95b117a6e096ecea45f106f
+Filename: ./debs/com.axs.snapper3tag_5.2.0-302_iphoneos-arm64.deb
+Size: 165294
+MD5sum: 395bf112e8c0a86ee46d20beae756463
+SHA1: 4219bd6c9199954371f3bae928d12bf605027b81
+SHA256: 367d68f96796cd594cb349fe7e657d6a4e82473659b53ad22a9ab99f10375256
 Section: Axs-Tweaks
 Description: Snapper3 功能扩展，目前包含：截图标记 + 长截图 + OCR识别 + 翻译 + AI互译 + AI问答 + Sileo长按翻译，修复了原snapper3主体插件第7个图标遮挡一半的bug；将菜单工具栏最后一个“关闭”图标进行固定，增加滑动视觉效果。
  * 一、【自定义图标】
