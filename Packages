@@ -6299,6 +6299,24 @@ Name: AppData
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdata/js.json
 
 Package: com.axs.appdata
+Version: 5.2.0-107
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1088
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.appdata_5.2.0-107_iphoneos-arm64.deb
+Size: 175290
+MD5sum: c28eb2de5b6f2044fd3002586b9e7114
+SHA1: 91a7f362728ded45411df79ed315d7bb832c086e
+SHA256: 921c5f87e10db9d6cc9c9c105df0cdbbfa038ca7e73ec5ee8a9daa12ca9f0ee5
+Section: Axs-Tweaks
+Description: 从主屏幕查看和管理应用数据，持续扩展附加功能中，目前包含：应用静音、120Hz、真后台、CPU、FPS等。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/appdata.png
+Name: AppData
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appdata/js.json
+
+Package: com.axs.appdata
 Version: 5.2.0-81
 Architecture: iphoneos-arm64
 Maintainer: Axs
