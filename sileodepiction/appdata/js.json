@@ -88,6 +88,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-107",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "附加功能：优化“120Hz”刷新逻辑。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-104",
                     "useBoldText": true,
                     "useBottomMargin": false
