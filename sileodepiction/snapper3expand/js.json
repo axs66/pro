@@ -88,13 +88,13 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
-                    "title": "5.2.0-314",
+                    "title": "5.2.0-318",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.高亮标注支持多次标记，并增加圆角轮廓；<br>2.“OCR、AI问答”等弹出结果面板后，点击非结果面板区域，执行自动关闭窗口。",
+                    "markdown": "1.高亮标注支持多次标记，并增加圆角轮廓。",
                     "useRawFormat": true
                 },
                {
