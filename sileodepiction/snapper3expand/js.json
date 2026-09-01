@@ -88,13 +88,13 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
-                    "title": "5.2.0-322",
+                    "title": "5.2.0-326",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.支持按住已绘制的标记，进行位置调整，在插件面板设有控制开关；<br>2.支持选中已绘制的标记，会弹出颜色面板进行改色，立即生效。",
+                    "markdown": "1.支持按住已绘制的标记，进行位置调整，在插件面板设有控制开关；<br>2.支持选中已绘制的标记，会弹出颜色面板进行改色或粗细，立即生效。",
                     "useRawFormat": true
                 },
                {
