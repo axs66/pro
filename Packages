@@ -1230,15 +1230,35 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Depends: firmware (>= 15.0), preferenceloader, com.opa334.libsandy
 Filename: ./debs/com.Axs.callassist16_2.3.1_iphoneos-arm64.deb
-Size: 3032280
-MD5sum: 58361de60b61c600b41ca413bb8a2bd2
-SHA1: e21d4b359e620d4d40873e96e1c80320ecf4b1bd
-SHA256: da7db2fc6b184e24682c594ab5632c02f645884460b4b240c9ee8a77b56944be
+Size: 3032472
+MD5sum: 26b216cd877d79d74d7a43c5bc1d909e
+SHA1: 749eb8b647833f4df92f9b5c82cbbf067bcced0b
+SHA256: fed6e5d5ad7616a07f6c80a7fb9984c3ab5b9e182f60bffe51c4feaedf7d6c64
 Section: Tweaks
-Description: 电话助手授权版本,通话录音,通话记录合并,T9双卡选卡拨号键盘,短信双卡选卡,来去电归属地,黑名单,骚扰拦截,状态栏图标替换,时间格式修改,常用小功能等强大插件
+Description: 电话助手授权版本,此版本仅限ios16系统，无根设备安装，仅用于个人备份。
 Author: xybp888
 Depiction: https://axs66.github.io/pro
-Name: 电话助手
+Icon: https://axs66.github.io/pro/icon/callassist.png
+Name: 电话助手iOS16-正式版 (Rootless)
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/callassist/js.json
+
+Package: com.Axs.callassist16
+Version: 2.3.9
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 15.0), preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.Axs.callassist16_2.3.9_iphoneos-arm64.deb
+Size: 3104644
+MD5sum: 3cfb7e64b8679a2da7fbe4f1504c0770
+SHA1: 7db4f2ded2d237be791973422ce2b2ed1892a4ca
+SHA256: c07f8e60884b25620ee671be1b8a0b73177e0c42c0356bac55d87ce02928edcb
+Section: Tweaks
+Description: 电话助手授权版本,此版本仅限ios16系统，无根设备安装，仅用于个人备份。
+Author: xybp888
+Depiction: https://axs66.github.io/pro
+Icon: https://axs66.github.io/pro/icon/callassist.png
+Name: 电话助手iOS16-正式版 (Rootless)
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/callassist/js.json
 
 Package: com.Axs.cc18
 Version: 1.1.0-1+debug
@@ -1442,24 +1462,6 @@ Author: 🐶
 Icon: https://axs66.github.io/pro/icon/ccuiplayer.png
 Name: CCUIPlayer 控制中心音频背景
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ccuiplayer/js.json
-
-Package: com.Axs.ccvideo
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: Rascal
-Installed-Size: 280
-Depends: firmware (>= 15.0), mobilesubstrate | ellekit
-Filename: ./debs/com.Axs.ccvideo_0.0.1_iphoneos-arm64.deb
-Size: 41032
-MD5sum: eca9a5ea20890ea0f5947ab1e7df86dd
-SHA1: c4b50acdbaf718b01306b2255d8e530e8b3ff228
-SHA256: 8d148610f6f4ce039f11460b299cb3c000863ea8bce219e34a1570bb9797b219
-Section: 控制中心
-Description: 在手机设置，控制中心里面添加模块设置。
-Author: Rascal
-Icon: https://axs66.github.io/pro/icon/ccvideo.png
-Name: 控制中心视频
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/ccvideo/js.json
 
 Package: com.Axs.ccweathermodule
 Version: 1.0.0
@@ -3838,24 +3840,6 @@ Icon: https://axs66.github.io/pro/icon/picsew.png
 Name: Picsew长截图 vip
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
-Package: com.Axs.pictapro
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: A
-Installed-Size: 180
-Depends: mobilesubstrate, com.jontelang.snapper3 (>= 1.1.1)
-Filename: ./debs/com.Axs.pictapro_1.0.0_iphoneos-arm64.deb
-Size: 31544
-MD5sum: 5fae1aea41b2d443e15f97bacc68db8f
-SHA1: eca9c53f225bc032156ab75a07dd8f9f7ec6c9f7
-SHA256: 259d9f070be8f8cc13b9265b1004a604a46534277b3db2b9f3d4c768a01a64a2
-Section: Tweaks
-Description: Pictapro适配 Snapper3 的插件
-Author: A
-Icon: https://axs66.github.io/pro/icon/pictapro.png
-Name: Sn3添加开关
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/pictapro/js.json
-
 Package: com.Axs.picturemodule
 Version: 1.2
 Architecture: iphoneos-arm64
@@ -5393,24 +5377,6 @@ Icon: https://axs66.github.io/pro/icon/visionos.png
 Name: Visionos 仿iOS26主题
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/visionos/js.json
 Sponsor: 百度主题源
-
-Package: com.Axs.vivostyle
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: huy
-Installed-Size: 412
-Depends: ellekit, preferenceloader, firmware (>= 15.0)
-Filename: ./debs/com.Axs.vivostyle_1.0.0_iphoneos-arm64.deb
-Size: 30408
-MD5sum: 39890289330e61f1030d13d577aa09b0
-SHA1: d4aab91cfa69140cf2b4994a3a10234c6a19d944
-SHA256: 01794e825524830fa43f03db8e3d45e749c65f8db320f0b8cd1373a7d22dc659
-Section: Tweaks
-Description: vivo OriginOS 风格的陀螺仪 "翻转卡 "锁屏壁纸--通过倾斜在自己的照片之间交叉渐变，具有视差深度。可在 "设置 "中配置。
-Author: huy
-Icon: https://axs66.github.io/pro/icon/vivostyle.png
-Name: VivoStyle光栅壁纸
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/vivostyle/js.json
 
 Package: com.Axs.volume-manager
 Version: 1.0.3
