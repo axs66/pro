@@ -88,6 +88,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-26",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.修复隐根包安装无法加载图标的bug；<br>2.修复长按音量减，不立即生效的bug。<br>3.优化url链接复制面板。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-19",
                     "useBoldText": true,
                     "useBottomMargin": false
