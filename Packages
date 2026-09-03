@@ -7831,17 +7831,53 @@ Name: Snapper3 Expand
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.json
 
 Package: com.axs.snapper4
-Version: 5.2.0-19
-Architecture: iphoneos-arm64
+Version: 5.2.0-26
+Architecture: iphoneos-arm64e
 Maintainer: Axs <qiaozhini000@163.com>
-Installed-Size: 1408
+Installed-Size: 1440
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
 Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
-Filename: ./debs/com.axs.snapper4_5.2.0-19_iphoneos-arm64.deb
-Size: 308314
-MD5sum: e8c18540ee88a724faba0b5f03a191af
-SHA1: 9b3004366f1649cc4c044f63de10ea0b18e523dd
-SHA256: 529e4082f99c8600bbda49b1d0504a1c2225247c4274d264d5c0147b9aa07343
+Filename: ./debs/com.axs.snapper4_5.2.0-26_iphoneos-arm64e.deb
+Size: 311440
+MD5sum: 33c7e57197bf0d00c921b581f91ce0ef
+SHA1: efb1e97d1c63f8f413903fe879defcc90228d620
+SHA256: 82e33feb09d017ecdcf0e829b29856de33e0125ec8b5778415765948ecb1ee05
+Section: Axs-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、移动标记：开启后标注内容可拖动调整位置；
+ * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
+ * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
+ * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
+ * 五、扩展功能
+ * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
+ * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 4
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
+
+Package: com.axs.snapper4
+Version: 5.2.0-26
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 1440
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
+Filename: ./debs/com.axs.snapper4_5.2.0-26_iphoneos-arm64.deb
+Size: 312004
+MD5sum: 10d2a6c0a46e5f1b7c3676b0179afa56
+SHA1: 33b30f3c610537479a7f471de3815ee78ec4aa63
+SHA256: a4a5b7048767182c6fd15e2cb8cd42bb819f2c3b9de2b4eb11fbef24e3021809
 Section: Axs-Tweaks
 Description: 这是一款截图工具。
  * 一、基本设置
