@@ -3823,6 +3823,24 @@ Icon: https://axs66.github.io/pro/icon/passby.png
 Name: Passby智能化面容
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.Axs.photonoautoalbums
+Version: 3.0
+Architecture: iphoneos-arm64
+Maintainer: Mallin
+Installed-Size: 440
+Depends: mobilesubstrate, firmware (>= 15.0)
+Filename: ./debs/com.Axs.photonoautoalbums_3.0_iphoneos-arm64.deb
+Size: 44344
+MD5sum: 09f4104bd75f2e3f2b4d6c2441e7249d
+SHA1: 2e1a7fc227ec2a83485833837da0fa6287c40449
+SHA256: 182f160de6f499a08ad919fcc05a41903713fe152ed8cf66305f52aa3521fd73
+Section: Tweaks
+Description: 禁止APP在照片内自动新建相册。
+Author: Mallin
+Icon: https://axs66.github.io/pro/icon/photonoautoalbums.png
+Name: PhotoNoAutoAlbums
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/photonoautoalbums/js.json
+
 Package: com.Axs.picsewvip
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -8892,6 +8910,23 @@ Name: Panda Beauty Assistant(熊猫美颜助手)
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/pandabeautyloader/js.json
 Sponsor: thebigboss.org
 
+Package: com.iosdump.shellx
+Version: 5.2.0
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 8040
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/com.iosdump.shellx_5.2.0_iphoneos-arm64.deb
+Size: 3911800
+MD5sum: 0103fd4063fe14bdb6c5324ff1ed4777
+SHA1: 88936af3accd0e255ae9cf266cb337eb9cc932c5
+SHA256: fa271ee7146ce5e7e52e47c2927f18511ec30d84b4e7f356307d1e00c686cc69
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
 Package: com.iosrxwy.heiheipay
 Version: 0.1-1
 Architecture: iphoneos-arm64
@@ -9562,6 +9597,23 @@ Size: 9178508
 MD5sum: 7c33ccc23efec6895695ce662dd0adc1
 SHA1: 2e77b99dee3ff46110021498b273e9887f957706
 SHA256: 402d5656316d30faa725aab5ecd4297461759495cdf409cc9be4e7eba08e7c6e
+Section: 微信插件
+Description: 微信主题盒子
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/themebox/js.json
+
+Package: com.tencent.themebox
+Version: 3.0.4
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_3.0.4_iphoneos-arm64.deb
+Size: 9149444
+MD5sum: 52064a766a03fd3f105ba533e9c4bed7
+SHA1: 16cbc9f64086025c3b8eafb6cb09339a4318c673
+SHA256: c257a52b4889c1fa288a60cbefc05cbc868828f2d4e3403e4f1a83f033796c66
 Section: 微信插件
 Description: 微信主题盒子
 Author: Mao
