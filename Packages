@@ -8127,24 +8127,6 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/tie-gesture/js.json
 Package: com.brend0n.qqmusicdesktoplyrics
 Version: 0.3.9~b1
 Architecture: iphoneos-arm64
-Maintainer: Brend0n <brendonjkding@126.com>
-Installed-Size: 2748
-Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
-Filename: ./debs/com.brend0n.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64 .deb
-Size: 623216
-MD5sum: 03b3e99b8dc65ee598a7fb0745d433ca
-SHA1: c1a5049aa428aa0bd647bcf06e12979ab88624e5
-SHA256: 25c7d063e1a75c78d2b4dd7f8ee252dbe0616a54f40ef7be2ccc43299fa026c2
-Section: Tweaks
-Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify，放心玩吧！
-Author: Brend0n <brendonjkding@126.com>
-Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicdesktoplyrics
-Name: DesktopLyrics
-Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
-
-Package: com.brend0n.qqmusicdesktoplyrics
-Version: 0.3.9~b1
-Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 2748
 Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
@@ -8160,6 +8142,24 @@ Depiction: https://axs66.github.io/pro
 Icon: https://axs66.github.io/pro/icon/qqmusicdesktoplyrics.png
 Name: DesktopLyrics 桌面歌词
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/qqmusicdesktoplyrics/js.json
+
+Package: com.brend0n.qqmusicdesktoplyrics
+Version: 0.3.9~b1
+Architecture: iphoneos-arm64
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 2748
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap (>= 1.1.0) | firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.brend0n.qqmusicdesktoplyrics_0.3.9~b1_iphoneos-arm64 .deb
+Size: 623216
+MD5sum: 03b3e99b8dc65ee598a7fb0745d433ca
+SHA1: c1a5049aa428aa0bd647bcf06e12979ab88624e5
+SHA256: 25c7d063e1a75c78d2b4dd7f8ee252dbe0616a54f40ef7be2ccc43299fa026c2
+Section: Tweaks
+Description: 桌面歌词，任意位置显示，支持QQ、网易云、酷狗、酷我、咪咕，可能支持Spotify，放心玩吧！
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.qqmusicdesktoplyrics
+Name: DesktopLyrics
+Sileodepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.qqmusicdesktoplyrics/depiction.json
 
 Package: com.charlieleung.openmask
 Version: 0.0.1
@@ -8930,16 +8930,33 @@ Sponsor: thebigboss.org
 
 Package: com.iosdump.shellx
 Version: 5.2.0
+Architecture: iphoneos-arm64e
+Maintainer: iosdump
+Installed-Size: 7596
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/com.iosdump.shellx_5.2.0_iphoneos-arm64e.deb
+Size: 3501128
+MD5sum: 2a545b712b43206148383aff4b526ad7
+SHA1: d0bf0472845551d202e9733f809fae070e4b8f29
+SHA256: f380d69c7becf60d817be4c46040904fe44e0f82fa6a48637804664d7717f11e
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 5.2.0
 Architecture: iphoneos-arm64
 Maintainer: iosdump
-Installed-Size: 8040
+Installed-Size: 7628
 Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
 Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
 Filename: ./debs/com.iosdump.shellx_5.2.0_iphoneos-arm64.deb
-Size: 3911800
-MD5sum: 0103fd4063fe14bdb6c5324ff1ed4777
-SHA1: 88936af3accd0e255ae9cf266cb337eb9cc932c5
-SHA256: fa271ee7146ce5e7e52e47c2927f18511ec30d84b4e7f356307d1e00c686cc69
+Size: 3502240
+MD5sum: d767bd91279a88424a80f816ad2c15b8
+SHA1: 2419b198d8c515dd7299988b8a1a7b14035ca299
+SHA256: ab6b57534b26b6fd40817f75bc61e948f55830393b12fafa4775c80d9823cf65
 Section: Tweaks
 Description: 支持录屏/截图套壳，水印以及区域截图、长截图等，兼容iOS14-17所有越狱
 Author: iosdump
