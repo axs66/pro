@@ -4080,6 +4080,31 @@ Icon: https://axs66.github.io/pro/icon/promotion120.png
 Name: ProMotion 120Hz
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/promotion120hz/js.json
 
+Package: com.Axs.pulloverx
+Version: 1.7.1
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader
+Conflicts: com.dao.pulloverpro, com.c1d3r.pulloverpro
+Replaces: com.dao.pulloverpro, com.c1d3r.pulloverpro
+Filename: ./debs/com.Axs.pulloverx_1.7.1_iphoneos-arm64.deb
+Size: 256548
+MD5sum: e4788bd563fa8c1f2e9ba4250f25c46f
+SHA1: e0bd5a7c0085b78ad19c9b984ec74b9bf0bb5270
+SHA256: feebd6ac6536e04cabc55294c51a09f6eb4fe67727f2e3fc67c782c62b3097e1
+Section: 分屏插件
+Priority: optional
+Description: Pullover-X窗口调度版
+ 1、新增副窗口横幅控制栏，支持全屏、横竖屏切换、吸附边缘等。
+ 2、优化过场动画与卡片效果。
+ 3、优化副窗口弹出方式：长按收藏栏图标自动弹窗，副窗口与主卡运行不同 App。
+ 4、快捷操作：主卡双击收藏栏转全屏；长按 App 跳转副窗口；副窗口底部两角拖拽缩放；顶部多功能键快捷切换场景。
+ 5、本次插件开发暂告一段落。插件完全免费开放使用，如遇 BUG 或体验瑕疵，还请大家多多包涵。
+Author: kanuo
+Icon: https://axs66.github.io/pro/icon/pullover.png
+Name: Pullover-X窗口调度版
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/pullover/js.json
+
 Package: com.Axs.qishui
 Version: 1.0.0-129
 Architecture: iphoneos-arm64
@@ -8670,6 +8695,24 @@ Size: 824444
 MD5sum: 5d5160f403f89401ed77eb2f84301377
 SHA1: ff4134f60a07c0695678c13d658092e9bd81b3e9
 SHA256: ea54ba0b2ac7b415ab8d28157a2e672ef423567d3b8da65f4a4bab2092142ff1
+Section: 分屏插件
+Description: 分屏，真液态玻璃，视频壁纸等一些实用功能。
+Author: go
+Icon: https://axs66.github.io/pro/icon/mango.png
+Name: mango芒果分屏
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
+
+Package: com.go.mango
+Version: 1.0-Beta6-1
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 3236
+Depends: mobilesubstrate
+Filename: ./debs/com.go.mango_1.0-Beta6-1_iphoneos-arm64.deb
+Size: 841788
+MD5sum: 8cef2876c1b4b1b26051da1fc37cbc8b
+SHA1: 0fae36ae028127327adcb4279c5a1898996b9406
+SHA256: 54dc56f1c5117b8a081c43a0b9aff8e00826f2015e9173f1405a34d8c3fffd08
 Section: 分屏插件
 Description: 分屏，真液态玻璃，视频壁纸等一些实用功能。
 Author: go
