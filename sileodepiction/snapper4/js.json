@@ -88,6 +88,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-32",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.底部工具栏中“截图”恢复为系统截图，可进行图中图了；<br>2.当插件内置图标清空的时候，均采用汉字显示。<br>3.优化区域截图工具栏中的“套壳”功能，区域截图支持横屏、竖屏自适应套壳。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-26",
                     "useBoldText": true,
                     "useBottomMargin": false
