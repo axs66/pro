@@ -7945,6 +7945,78 @@ Icon: https://axs66.github.io/pro/icon/snapper.png
 Name: Snapper 4
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
 
+Package: com.axs.snapper4
+Version: 5.2.0-32
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 1428
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
+Filename: ./debs/com.axs.snapper4_5.2.0-32_iphoneos-arm64e.deb
+Size: 299548
+MD5sum: 736d38d336b0c401547ee92c0f4bf89f
+SHA1: 9c01ab90623138decefc218850615e916c3d26a3
+SHA256: 0cf481d23a8146fa08a7672b971581ba6517b765df050cd3f936e8ef3b6b299c
+Section: Axs-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、移动标记：开启后标注内容可拖动调整位置；
+ * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
+ * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
+ * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
+ * 五、扩展功能
+ * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
+ * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 4
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
+
+Package: com.axs.snapper4
+Version: 5.2.0-32
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 1428
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
+Filename: ./debs/com.axs.snapper4_5.2.0-32_iphoneos-arm64.deb
+Size: 300172
+MD5sum: 40be5e64b6a3606588f2258486fb6270
+SHA1: c47b61fa46174b2b0eba0d5aea1507fdb389029c
+SHA256: 83ccfbbf08cac594462b9710e833b76f8e60c2a2764102fa9f12145bb2fa2238
+Section: Axs-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、移动标记：开启后标注内容可拖动调整位置；
+ * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
+ * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
+ * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
+ * 五、扩展功能
+ * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
+ * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 4
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
+
 Package: com.axs.switchicon
 Version: 5.2.0-139
 Architecture: iphoneos-arm64
