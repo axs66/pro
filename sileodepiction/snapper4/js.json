@@ -94,18 +94,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "兼容各种截图方式，解决用户截图模式搭配的迷茫。",
-                    "useRawFormat": true
-                },
-               {
-                    "class": "DepictionSubheaderView",
-                    "title": "5.2.0-37",
-                    "useBoldText": true,
-                    "useBottomMargin": false
-                },
-                {
-                    "class": "DepictionMarkdownView",
-                    "markdown": "修复“扫码”功能。",
+                    "markdown": "1.兼容各种截图方式，解决用户截图模式搭配的迷茫；<br>2.修复“扫码”功能。",
                     "useRawFormat": true
                 },
                {
