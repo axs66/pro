@@ -6601,39 +6601,16 @@ Name: AxsFont
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/axsfont/js.json
 
 Package: com.axs.bigtime
-Version: 5.2.0-34
-Architecture: iphoneos-arm64
-Maintainer: AXS
-Installed-Size: 1096
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Filename: ./debs/com.axs.bigtime_5.2.0-34_iphoneos-arm64.deb
-Size: 195188
-MD5sum: b72e7980e25f48309688068a148bf197
-SHA1: 75606e2383187f23bfec4874ba61b12411f21c80
-SHA256: cd934c76bdf780d908b3cb60dbbe28376fd245361e17f7a606eae7c62eb4ad0b
-Section: Axs-Tweaks
-Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
- * 1.锁屏大字时钟玻璃效果;
- * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
- * 3.支持玻璃边缘、模糊、厚度、折射、高光和壁纸采样质量调节;
- * 4.支持浅色/深色染色强度与深浅模式覆盖;
- * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
-Author: AXS
-Icon: https://axs66.github.io/pro/icon/bigtime.png
-Name: BigTime
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
-
-Package: com.axs.bigtime
-Version: 5.2.0-52
+Version: 5.2.0-57
 Architecture: iphoneos-arm64
 Maintainer: Axs
-Installed-Size: 1380
+Installed-Size: 1032
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Filename: ./debs/com.axs.bigtime_5.2.0-52_iphoneos-arm64.deb
-Size: 220514
-MD5sum: 3c666979203bdca8a60439151d7d30d1
-SHA1: c4ca8d8b407ca4301b39b27028e043d220111e1d
-SHA256: 7c42bfdb1a70934792391c1a11d00a407d52faca8558c905b55715eb9cd4553c
+Filename: ./debs/com.axs.bigtime_5.2.0-57_iphoneos-arm64.deb
+Size: 157216
+MD5sum: 82ad2b0d0539cdb43053e577dfbb07c4
+SHA1: 68a659fc32e4e1e278a7fd61ec4a1a71b17f92f6
+SHA256: a12fc060e8dd1e3ed5add2a37870f9f79722e6087e498f43ba3b70c37ebbb448
 Section: Axs-Tweaks
 Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
  * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
@@ -6647,16 +6624,16 @@ Name: BigTime
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
 
 Package: com.axs.bigtime
-Version: 5.2.0-57
+Version: 5.2.0-59
 Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 1032
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Filename: ./debs/com.axs.bigtime_5.2.0-57_iphoneos-arm64.deb
-Size: 157216
-MD5sum: 82ad2b0d0539cdb43053e577dfbb07c4
-SHA1: 68a659fc32e4e1e278a7fd61ec4a1a71b17f92f6
-SHA256: a12fc060e8dd1e3ed5add2a37870f9f79722e6087e498f43ba3b70c37ebbb448
+Filename: ./debs/com.axs.bigtime_5.2.0-59_iphoneos-arm64.deb
+Size: 158026
+MD5sum: de6c8425002b2323d742a1765ea3cfcb
+SHA1: 2de6216c480119bbb73d28e6c3e3e700afe9585c
+SHA256: a9cf4e12c6758e41e6f9c86e7e5eb09bcb10e9b98dd9f27418c4b94302d5cab0
 Section: Axs-Tweaks
 Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
  * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
