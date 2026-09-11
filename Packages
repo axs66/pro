@@ -6604,6 +6604,27 @@ Name: AxsFont
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/axsfont/js.json
 
 Package: com.axs.axsfont
+Version: 5.2.0-26
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 436
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.axsfont_5.2.0-26_iphoneos-arm64.deb
+Size: 32942
+MD5sum: e3523ea74ba3f1188e13157ac42c39ca
+SHA1: aaa52ec91bfc1811659bb7ddfe23965c6c70d68a
+SHA256: 1fc5bc08c9c52d732076a4a11d65ac9471c4c94492dc50ce4d6812996fec5280
+Section: Axs-Tweaks
+Description: 全局加载系统字体，直接插件面板导入字体，设置后，部分用户需注销2次生效。
+ * 1. 省去烦人的挂载操作
+ * 2. 兼容BigTime锁屏大时间
+ * 3. 插件面板"启用状态栏"关闭的时候，可兼容电话助手在状态栏添加的自定义时间布局不被打乱
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/a-font.png
+Name: AxsFont
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/axsfont/js.json
+
+Package: com.axs.axsfont
 Version: 5.2.0-9
 Architecture: iphoneos-arm64
 Maintainer: Axs
@@ -8926,6 +8947,24 @@ SHA1: 0fae36ae028127327adcb4279c5a1898996b9406
 SHA256: 54dc56f1c5117b8a081c43a0b9aff8e00826f2015e9173f1405a34d8c3fffd08
 Section: 分屏插件
 Description: 分屏，真液态玻璃，视频壁纸等一些实用功能。
+Author: go
+Icon: https://axs66.github.io/pro/icon/mango.png
+Name: mango芒果分屏
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/mango/js.json
+
+Package: com.go.mango
+Version: 1.0-Beta7-1
+Architecture: iphoneos-arm64
+Maintainer: go
+Installed-Size: 3888
+Depends: mobilesubstrate
+Filename: ./debs/com.go.mango_1.0-Beta7-1_iphoneos-arm64.deb
+Size: 962492
+MD5sum: b3f36bd02adf7b219f6a64bd07079778
+SHA1: ba8db3ac12450e2211e6542c6155d42c50b45dbf
+SHA256: 31c33a8c03fb24ee1b889902098613785c0e4208bff2a165841aef7a27a06e96
+Section: 分屏插件
+Description: 分屏，微信小液，真液态玻璃，视频壁纸等一些实用功能。
 Author: go
 Icon: https://axs66.github.io/pro/icon/mango.png
 Name: mango芒果分屏
