@@ -469,59 +469,21 @@ Name: WCElite 微信优化
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCElite/js.json
 
 Package: com.Axs.WCRefine
-Version: 1.4-7
+Version: 2.1-5
 Architecture: iphoneos-arm64
-Maintainer: 热心网友
+Maintainer: Axs
 Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/com.Axs.WCRefine_1.4-7_iphoneos-arm64.deb
-Size: 6670540
-MD5sum: c0006c6cd00564b19c9332f8d5f65e2e
-SHA1: 3159aaddeabf86edc8f394432b3224bbfc2ada58
-SHA256: ba9a7a71bd56d9e8cb118b62f48962c8b292555d395963674c1e4ccca7d2dea2
+Filename: ./debs/com.Axs.WCRefine_2.1-5_iphoneos-arm64.deb
+Size: 9311420
+MD5sum: fa0168e9ac6e8b792c0939557f9e090c
+SHA1: d309684a05c1650248155df59a7ba5c9a1b10466
+SHA256: 0a1de7777ec555ce8db8d187d2eaffcf97ddf69f1946d4e7aa32cb5216799ad8
 Section: 微信插件
-Priority: optional
 Description: 微信优化的重制版，基于微信8.0.64+版本制作。
-Author: 热心网友
-Dev: 君临
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: WCRefine
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCRefine/js.json
-
-Package: com.Axs.WCRefine
-Version: 2.0-6beta2
-Architecture: iphoneos-arm64
-Maintainer: 热心网友
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/com.Axs.WCRefine_2.0-6beta2_iphoneos-arm64.deb
-Size: 9222248
-MD5sum: 9518954362fc6943d2d6a6f2cd4291f0
-SHA1: 05133a4d28084807e5cf2fc48b57dad2608f8764
-SHA256: 58c1ff46bf1a083520673eae61d99c792171867272f6f58a5713216536325a09
-Section: 微信插件
-Priority: optional
-Description: 微信优化的重制版，基于微信8.0.64+版本制作。
-Author: 热心网友
+Author: 傻网友
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WCRefine 破解版
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCRefine/js.json
-
-Package: com.Axs.WCRefine
-Version: 2.1-1
-Architecture: iphoneos-arm64
-Maintainer: 热心网友
-Depends: firmware (>= 14.0), mobilesubstrate
-Filename: ./debs/com.Axs.WCRefine_2.1-1_iphoneos-arm64.deb
-Size: 9858744
-MD5sum: 22a52ebc7b106472152a241de3379772
-SHA1: 6fe76ad241f9b31b8b233c33939a96e969e3783b
-SHA256: 8f1ea3a245dc0939592c0dba94e46ac537eefa8e6e5e0d13e722440e53556588
-Section: 微信插件
-Priority: optional
-Description: 微信优化的重制版，基于微信8.0.64+版本制作。
-Author: 热心网友
-Icon: https://axs66.github.io/pro/icon/wechat.png
-Name: WCRefine
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCRefine/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.Axs.WCToolGesture
 Version: 1.0
@@ -8315,6 +8277,30 @@ Icon: https://axs66.github.io/pro/icon/touchtrail.png
 Name: TouchTrail
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/touchtrail/js.json
 
+Package: com.axs.tweakshub
+Version: 5.2.0-58
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 352
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.nightwind.onesettings, com.creaturecoding.shuffle, com.sop.settingsrevamp, com.hk.settingsrevamp, com.dao.settingsrevamp, byg.iosios.net.settingsrevamp
+Filename: ./debs/com.axs.tweakshub_5.2.0-58_iphoneos-arm64.deb
+Size: 20876
+MD5sum: fb3d870c860f60f220433681d40c2244
+SHA1: e3c77c43293f4616c21ff386097c18e9ded707e5
+SHA256: 2874b6a4b9c36dcfa570f998e34ea86de522f70d717538df595b1f42e760ae98
+Section: Axs-Tweaks
+Description: 集中收纳统一管理越狱插件与第三方 App 设置，一处直达。
+ * 设置首页同组并排两个入口：越狱插件 + 应用软件
+ * 自动隐藏其他插件的首页独立入口，整组收纳系统第三方 App 设置
+ * 越狱插件面板递归聚合所有已装插件设置
+ * 应用软件面板收录第三方 App 设置入口（点击仍进原生设置页）
+ * 支持 Prefs:root=TWEAKS_CELL / TWEAKS_APPS_CELL 深链直达
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/tweakshub.png
+Name: TweaksHub
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/tweakshub/js.json
+
 Package: com.axs.wcplugins.rootless
 Version: 0.1-7
 Architecture: iphoneos-arm64
@@ -9988,6 +9974,23 @@ Size: 9149444
 MD5sum: 52064a766a03fd3f105ba533e9c4bed7
 SHA1: 16cbc9f64086025c3b8eafb6cb09339a4318c673
 SHA256: c257a52b4889c1fa288a60cbefc05cbc868828f2d4e3403e4f1a83f033796c66
+Section: 微信插件
+Description: 微信主题盒子
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/themebox/js.json
+
+Package: com.tencent.themebox
+Version: 3.0.5
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_3.0.5_iphoneos-arm64.deb
+Size: 9401964
+MD5sum: 906c15744596174e2120b3b5e7e01cb7
+SHA1: fe283e216a682a4f1cb9cd277b894d2203060072
+SHA256: fedf671a09935295527b8252eb23fcb94cc809a88da0569d34a331bc7fd34887
 Section: 微信插件
 Description: 微信主题盒子
 Author: Mao
