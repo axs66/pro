@@ -6958,6 +6958,27 @@ Icon: https://axs66.github.io/pro/icon/contactsfs.png
 Name: ContactsFS 来电全屏显示头像
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/contactsfs/js.json
 
+Package: com.axs.duostatus
+Version: 5.2.0-19
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 464
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.duostatus_5.2.0-19_iphoneos-arm64.deb
+Size: 40600
+MD5sum: c7ff7b3a2ddf56a4265ce61813e1aaea
+SHA1: a121c65cac4f3848996ad5c037749c80756e0842
+SHA256: 2d89bfd693eff79b120bb791a1d816676b554544a6b0e5445548ed419bf6a813
+Section: Axs-Tweaks
+Description: 状态栏信号/网络/电量三合一圆环图标。
+ * 1.圆环=电量、底部圆点=信号、环内=WiFi 或 5G/4G 制式
+ * 2.全部取自系统真实数据，实时刷新（充电闪电、低电量、飞行模式、无服务）
+ * 3.尺寸/位移/线宽/配色可调，改动即时生效，控制中心开合自动刷新
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/duostatus.png
+Name: DuoStatus
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/duostatus/js.json
+
 Package: com.axs.floatingtag
 Version: 1.0.0
 Architecture: iphoneos-arm64
