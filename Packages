@@ -6604,6 +6604,24 @@ Icon: https://axs66.github.io/pro/icon/a-font.png
 Name: AxsFont
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/axsfont/js.json
 
+Package: com.axs.axswidget
+Version: 5.2.0-11
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 348
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.axswidget_5.2.0-11_iphoneos-arm64.deb
+Size: 14192
+MD5sum: e9264ef80b94de2995b7aa0b0a366419
+SHA1: 4005e485c17628990a3178efcf963c6eb8ddae81
+SHA256: 185b597582cbc61fb458fc4e16e72b3038727e169ad9e13d3d0206e54c668c53
+Section: Axs-Tweaks
+Description: 这是一款锁屏小组件移动位置的插件。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/axswidget.png
+Name: AxsWidget
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/axswidget/js.json
+
 Package: com.axs.bigtime
 Version: 5.2.0-57
 Architecture: iphoneos-arm64
