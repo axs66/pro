@@ -6983,6 +6983,28 @@ Icon: https://axs66.github.io/pro/icon/duostatus.png
 Name: DuoStatus
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/duostatus/js.json
 
+Package: com.axs.duostatus
+Version: 5.2.0-62
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 480
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.duostatus_5.2.0-62_iphoneos-arm64.deb
+Size: 47430
+MD5sum: 7262dcd4f8f0c9d994a34300b2515052
+SHA1: 375428667fa02ad93d00388e7e70cf68112b0fa6
+SHA256: 1d6fec1948c1f4efde6ded0470abfcecf787573a0d2f05f5e8268623c19d2604
+Section: Axs-Tweaks
+Description: 状态栏信号/网络/电量三合一圆环图标。
+ * 1.圆环=电量、底部圆点=信号、环内=WiFi 或 5G/4G 制式
+ * 2.全部取自系统真实数据，实时刷新（充电闪电、低电量、飞行模式、无服务）
+ * 3.点按图标可展开系统原生图标，保持 3 秒后自动收回，期间再点按即续期
+ * 4.前景色取系统样式对象（与原生图标同色），尺寸/位移/线宽/配色可调，改动即时生效
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/duostatus.png
+Name: DuoStatus
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/duostatus/js.json
+
 Package: com.axs.floatingtag
 Version: 1.0.0
 Architecture: iphoneos-arm64
