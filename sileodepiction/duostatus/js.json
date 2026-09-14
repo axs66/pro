@@ -84,6 +84,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-75",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.根据『电话助手-大叔』提供的长按电池逻辑，彻底解决点击和长按兼容问题；<br>2.支持17系统隐藏状态栏电池；<br>3.感谢大叔帮忙。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-71",
                     "useBoldText": true,
                     "useBottomMargin": false
