@@ -1,0 +1,110 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://axs66.github.io/pro/images/Axslogo.png",
+    "tintColor": "#00BFFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "text":"✈分享频道",
+                    "action":"https://t.me/wxfx8",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                }, 
+               {
+                    "text":"✈交流群组",
+                    "action":"https://t.me/oncar2",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },      
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "状态栏信号/网络/电量三合一圆环图标。<br>1.圆环=电量、底部圆点=信号、环内=WiFi 或 5G/4G 制式；<br>2.部取自系统真实数据，实时刷新（充电闪电、低电量、飞行模式、无服务）；<br>3.点按图标可展开系统原生图标，保持 2 秒后自动收回，期间再点按即续期;<br>4.前景色取系统样式对象（与原生图标同色），尺寸/位移/线宽/配色可调，改动即时生效。",
+                    "useRawFormat": true,
+                },      
+               {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{150, 346}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/pro/sileodepiction/duostatus/Screenshot_01.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "A先生",
+                    "title": "维护者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "VCR66T",
+                    "title": "微信"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2026 年 9 月 14 日",
+                    "title": "最后更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-62",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.支持双卡，仅显示最强信号；<br>2.控制中心收回时播放收回动画；<br>3.兼容电话助手长按；<br>4.兼容横屏模式。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-58",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.修复深浅模式自适应颜色问题；<br>2.增加剩余电量显示，可以调节大小；<br>3.优化三合一图标布局，与真duo相似。",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ]
+}
