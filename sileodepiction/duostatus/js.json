@@ -84,13 +84,13 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
-                    "title": "5.2.0-68",
+                    "title": "5.2.0-71",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.优化下拉控制中心返回时的过渡动画；<br>2.优化因之前为了解决电话助手长按，采用穿透逻辑，导致的电池残影；<br>3.新增“兼容电话助手”控制开关(面板查看作用)。",
+                    "markdown": "1.优化下拉控制中心返回时的过渡动画；<br>2.优化因之前为了解决电话助手长按，采用穿透逻辑，导致的电池残影；<br>3.新增“兼容电话助手”控制开关(面板查看作用)；<br>4.优化“电量数字”调大之后的显示效果。",
                     "useRawFormat": true
                 },
                {
