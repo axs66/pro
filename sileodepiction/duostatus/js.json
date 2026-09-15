@@ -84,13 +84,13 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
-                    "title": "5.2.0-97",
+                    "title": "5.2.0-99",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "新增 VPN 连通时网络图标着色。",
+                    "markdown": "1.新增 VPN 连通时网络图标着色;<br>2.优化动画速度。",
                     "useRawFormat": true
                 },
                {
