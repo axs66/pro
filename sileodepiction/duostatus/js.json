@@ -22,7 +22,7 @@
                 },      
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "状态栏信号/网络/电量三合一圆环图标。<br>1.圆环=电量、底部圆点=信号、环内=WiFi 或 5G/4G 制式；<br>2.全部取自系统真实数据，实时刷新；<br>3.点按图标可展开系统原生图标，保持 2 秒后自动收回;<br>4.支持自定义元素的尺寸/位移/线宽/配色等参数，改动即时生效；<br>5.支持ios15.0~17.3.1系统；<br>6.兼容电话助手。",
+                    "markdown": "状态栏信号/网络/电量三合一圆环图标。<br>1.圆环=电量、底部圆点=信号、环内=WiFi 或 5G/4G 制式；<br>2.全部取自系统真实数据，实时刷新；<br>3.苹果官方Duo真正的动画特效;<br>4.支持自定义元素的尺寸/位移/线宽/配色等参数，改动即时生效；<br>5.支持ios15.0~17.3.1系统；<br>6.兼容电话助手。",
                     "useRawFormat": true,
                 },      
                {
@@ -82,6 +82,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-96",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "苹果官方Duo真正的动画特效,水平和垂直偏移建议保持默认的0，效果最佳。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-82",
