@@ -84,6 +84,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-101",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.新增充满电量剩余时间显示 ;<br>2.回归71版本后,点击系统状态栏不回弹。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-99",
                     "useBoldText": true,
                     "useBottomMargin": false
