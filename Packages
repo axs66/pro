@@ -1774,6 +1774,25 @@ Icon: https://axs66.github.io/pro/icon/copylog.png
 Name: CopyLog剪贴板
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/copylog/js.json
 
+Package: com.Axs.copyvault
+Version: 1.9.0-1
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 6868
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Conflicts: com.squidforce.copyvault,cn.octoforce.copyvault
+Filename: ./debs/com.Axs.copyvault_1.9.0-1_iphoneos-arm64.deb
+Size: 1851480
+MD5sum: addc3c9f68aaba62f8ddcf65d08be19a
+SHA1: 54c7197eec177512c06ae5e30225dabaad70643f
+SHA256: 3822f1c66dae2a23bff392d1f7d8f23c50349f3bf1ca9153d821eff825201559
+Section: Tweaks
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！ [本包已内嵌 CCrack：安装后自动生成离线授权，无需激活码。CCrack 仅注入 SpringBoard。]
+Author: SquidForce, Backup
+Icon: https://axs66.github.io/pro/icon/copyvault.png
+Name: CopyVault 鱿鱼剪贴板
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/copyvault/js.json
+
 Package: com.Axs.cozybadges
 Version: 2.1
 Architecture: iphoneos-arm64
@@ -1956,6 +1975,24 @@ Author: liuf
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 圆角动态装饰图
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
+Package: com.Axs.dynamicfx
+Version: 1.0.7
+Architecture: iphoneos-arm64
+Maintainer: 冰蓝
+Installed-Size: 772
+Depends: mobilesubstrate, preferenceloader, firmware (>= 15.0)
+Filename: ./debs/com.Axs.dynamicfx_1.0.7_iphoneos-arm64.deb
+Size: 73208
+MD5sum: 5211a1d5a80c4149161eff718ea2cc7a
+SHA1: ff570ce2197ceede3bcd535972cb64604cabe955
+SHA256: eb0a79af8992568338a2619ef87f80f638e050ef53517228b931237b63237cff
+Section: 灵动岛
+Description: 灵动岛背景
+Author: 冰蓝
+Icon: https://axs66.github.io/pro/icon/dynamicfx.png
+Name: DynamicFX
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/dynamicfx/js.json
 
 Package: com.Axs.dynamicislandanimation
 Version: 1.1.8
@@ -2912,6 +2949,24 @@ MD5sum: b45e8be240fcbb02074a08dc0d4971bb
 SHA1: aab8f698c1207223ff4d31d07380c4692cb57d33
 SHA256: 9e36ba4a548d9ed02142560755077e51f32a5cd54a84cfe1e9020300f2488704
 Section: 控制中心
+Description: 这是一个简单的控制中心美化插件。
+Author: binglan
+Icon: https://axs66.github.io/pro/icon/kongzhidiy.png
+Name: 控制中心美化
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/kongzhidiy/js.json
+
+Package: com.Axs.kongzhidiy
+Version: 2.3.6-end
+Architecture: iphoneos-arm64
+Maintainer: binglan
+Installed-Size: 8024
+Depends: mobilesubstrate, firmware (>= 15.0), com.opa334.ccsupport
+Filename: ./debs/com.Axs.kongzhidiy_2.3.6-end_iphoneos-arm64.deb
+Size: 3740264
+MD5sum: 968963b7da571f0aa0c6603bb50f0817
+SHA1: 4317c7d5f3121a778db011cb0841c92355ee393e
+SHA256: 112c81ec7986aed64dfea3999152529a4300f737cf8c8b4b926d2c8f9f21f098
+Section: Tweaks
 Description: 这是一个简单的控制中心美化插件。
 Author: binglan
 Icon: https://axs66.github.io/pro/icon/kongzhidiy.png
@@ -4302,6 +4357,24 @@ Icon: https://axs66.github.io/pro/icon/screencore.png
 Name: ScreenCore
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/screencore/js.json
 
+Package: com.Axs.screenshellpro
+Version: 4.1.6-end
+Architecture: iphoneos-arm64
+Maintainer: 冰蓝
+Installed-Size: 2496
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.screenshellpro_4.1.6-end_iphoneos-arm64.deb
+Size: 337044
+MD5sum: 086aa720e5b94f03356ecadb30e78732
+SHA1: 57107a581b8f2eac076ea8d092503a3f457c73b8
+SHA256: 835af4f73cbab16f958afa7e8cf54e5198a3aefd9d12a7c2ee5c5d820b4ccc30
+Section: Tweaks
+Description: 让简单截图，拥有更多可能。
+Author: 冰蓝
+Icon: https://axs66.github.io/pro/icon/screenshellpro.png
+Name: 全局水印Pro
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/screenshellpro/js.json
+
 Package: com.Axs.sentinel
 Version: 1.3.2
 Architecture: iphoneos-arm64
@@ -4630,6 +4703,43 @@ Author: CydiaGeek
 Icon: https://axs66.github.io/pro/icon/springanimations.png
 Name: SpringAnimations桌面动画
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/springanimations/js.json
+
+Package: com.Axs.squidextender
+Version: 3.7.4-2
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Conflicts: com.squidforce.squidextender,cn.octoforce.squidextender
+Filename: ./debs/com.Axs.squidextender_3.7.4-2_iphoneos-arm64.deb
+Size: 2623880
+MD5sum: 2842eb2484107c4d3d23d7559af8c8e1
+SHA1: c39eeec9490fc170f6e931b168d17a05e3b3a9ac
+SHA256: fc3c603c01aa9a7c9967b169ffb6919334bdbb3a677d6de153a8bfc98ce597ca
+Section: Tweaks
+Description: SquidExtender + PCrack 离线授权（本地生成合法授权，不改二进制）
+Author: SquidForce, Backup
+Icon: https://axs66.github.io/pro/icon/squidextender.png
+Name: SquidExtender 鱿鱼键盘
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/squidextender/js.json
+
+Package: com.Axs.squidgesturepro
+Version: 2.7.6-2
+Architecture: iphoneos-arm64
+Maintainer: SquidForce, Backup
+Installed-Size: 7347
+Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro,cn.octoforce.squidgesturepro
+Filename: ./debs/com.Axs.squidgesturepro_2.7.6-2_iphoneos-arm64.deb
+Size: 1932796
+MD5sum: 6ff7aca0fd748a6b9400a39da6b4e367
+SHA1: 0ccdfaf64a094a22a5224576ded46417cda80aa3
+SHA256: fc0a86397b1318190e9dabbc8eb79c5d6ddd967f3d12e567fe089f559710d32f
+Section: Tweaks
+Description: 内置 DCrack 离线授权（本地生成、绑定设备、无需激活服务器）。
+Author: SquidForce, Backup
+Icon: https://axs66.github.io/pro/icon/gesturepro.png
+Name: SquidGesturePro 鱿鱼手势
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/squidgesturepro/js.json
 
 Package: com.Axs.stageduo
 Version: 1.2
@@ -10114,6 +10224,23 @@ Icon: https://axs66.github.io/pro/icon/split.png
 Name: split-view-pro
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/split-view-pro/js.json
 Ts: sp-sss
+
+Package: com.susudear.screencore
+Version: 1.1.7
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 2828
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.susudear.screencore_1.1.7_iphoneos-arm64.deb
+Size: 441832
+MD5sum: 88524bca8b7fb5188975be771cb9acb8
+SHA1: bb473ff3bf3e2dc46e2c36e7fe59253968daabd6
+SHA256: fb9312fdf064f3724ea55b928533fb9dfbb160be063377ac853c1ddeb4239598
+Section: 分屏插件
+Description: 分屏而已
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/ScreenCore.png
+Name: ScreenCore
 
 Package: com.tencent.themebox
 Version: 1.0.1-1
