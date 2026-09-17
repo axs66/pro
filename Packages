@@ -4129,16 +4129,16 @@ Maintainer: 冰蓝
 Installed-Size: 2496
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.Axs.qjsy_4.1.6-end_iphoneos-arm64.deb
-Size: 336988
-MD5sum: b2b7f2a4ed2e4ff6f17ee5f4e018156d
-SHA1: d61502def2888a6be3de291ae517357910451671
-SHA256: b1518ea39a8866569e4c91a7ec9d581210bedc988de05b74ebb557781d702933
+Size: 336972
+MD5sum: 5c2dcf8897397584a70429899235348b
+SHA1: 31a0e16e29867856c33c34b79eb9d60dc93aa870
+SHA256: 997ddca7feea124e2d9571ad45acb392bc5bb7aa5c7b4d5108b8797a240b1200
 Section: Tweaks
 Description: 让简单截图，拥有更多可能。
 Author: 冰蓝
 Icon: https://axs66.github.io/pro/icon/screenshellpro.png
 Name: 全局水印Pro
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/screenshellpro/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
 Package: com.Axs.qnsmw
 Version: 1.0.0-8
