@@ -8708,6 +8708,27 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: Axs
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/wechatpro/js.json
 
+Package: com.axs.zzfilter
+Version: 5.2.0-8
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.axs.zzfilter_5.2.0-8_iphoneos-arm64.deb
+Size: 63778
+MD5sum: 392a4d7a772fd251206f2fabd853c3f5
+SHA1: 978f82fd672bb85c3e151567387cab4866f4db70
+SHA256: 2a646a8a325d06950b936af43eff2a7df1450afc86843675fd51a091aebdffe8
+Section: Axs-Tweaks
+Description: 转转筛选助手
+ * 1.先输入需要搜索的商品名称，进入页面后，长按悬浮球（或点面板「开始爬取」）自动抓取全数据
+ * 2.按机型/电池/系统版本/成色/内存筛选
+ * 3.支持单条复制链接、单条打开详情页与一键复制全部链接
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/zzfilter.png
+Name: ZZFilter
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/zzfilter/js.json
+
 Package: com.be-huge.tie-gesture
 Version: 1.0.0
 Architecture: iphoneos-arm64
