@@ -2905,16 +2905,17 @@ Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 524
 Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: lym.keyboardhook
 Filename: ./debs/com.Axs.keyboardhook_2.1-3+debug_iphoneos-arm64.deb
-Size: 44536
-MD5sum: 547c0b456a0fac7a846efc975a755ef0
-SHA1: a0e8d5fa8f2ed4b80e519b0f2a84eece5853b2b3
-SHA256: aeb03a06803cc6ef0c9fdd40a8d3415313c4f9a0d8107e47843b2dadf7e06de5
-Section: Tweaks
+Size: 48932
+MD5sum: bf06be06d67de8d7bebbf270dba5b637
+SHA1: 42c6b380e8bef478aa836e36386f18fa5d3db54b
+SHA256: 292f7c7289d4ff5cae6805329cffaa855512318e481ecac9015f1a850a87a412
+Section: 键盘插件
 Description: 关于系统输入法和微信输入法的一些自定义，包括：键盘背景自定义、预选词语自定义；付费插件，仅做个人备份。
 Author: baiy
 Icon: https://axs66.github.io/pro/icon/keyboardhook.png
-Name: KeyboardHook原生输入法自定义
+Name: Keyboard 系统输入法自定义
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardhook/js.json
 
 Package: com.Axs.keyboards
@@ -4630,6 +4631,24 @@ Icon: https://axs66.github.io/pro/icon/spectrums.png
 Name: 去除ios17岛内频谱黑块
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
+Package: com.Axs.spectrums
+Version: 2.0
+Architecture: iphoneos-arm64
+Maintainer: Simon
+Installed-Size: 768
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.Axs.spectrums_2.0_iphoneos-arm64.deb
+Size: 123568
+MD5sum: 1922c9cd4f4756c037d5582b36c39c16
+SHA1: 7a1dfc2c619cd87458a40c5fcc12093851e835c4
+SHA256: 1156ac65fd0643c66432a0dde1aaf6eccdc8f73a3e509d6c859f885a65473315
+Section: 灵动岛
+Description: 去掉音轨在17系统上面的小黑块，动感专辑圆环均衡器，17系统不再卑微！
+Author: Simon
+Icon: https://axs66.github.io/pro/icon/spectrums.png
+Name: spectrums
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/spectrums/js.json
+
 Package: com.Axs.split-view-pro
 Version: 1.3.7
 Architecture: iphoneos-arm64
@@ -4721,6 +4740,24 @@ Author: SquidForce, Backup
 Icon: https://axs66.github.io/pro/icon/squidextender.png
 Name: SquidExtender 鱿鱼键盘
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/squidextender/js.json
+
+Package: com.Axs.squidforce
+Version: 1.0.1-1
+Architecture: iphoneos-arm64
+Maintainer: BVN
+Installed-Size: 328
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/com.Axs.squidforce_1.0.1-1_iphoneos-arm64.deb
+Size: 38056
+MD5sum: d86b30edb4f9713f80db2bd07579a355
+SHA1: a559b5d75dd888a82cfae42cdb9544aed1259bbc
+SHA256: ec35afee73e3c3dd02755140d6c0af9bdd560f8b1ee22553dcd0008cbbfdf7ac
+Section: 破解插件
+Description: 乌贼三件套(squidextender，squidgesturepro，copyvault）通杀插件，安装即可生效。
+Author: BVN
+Icon: https://axs66.github.io/pro/icon/squidforce.png
+Name: SquidForce VIP
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/squidforce/js.json
 
 Package: com.Axs.squidgesturepro
 Version: 2.7.6-2
@@ -7099,6 +7136,30 @@ Name: DuoStatus
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/duostatus/js.json
 
 Package: com.axs.duostatus
+Version: 5.2.0-104
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 552
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.duostatus_5.2.0-104_iphoneos-arm64.deb
+Size: 58874
+MD5sum: 195a1c7f60fe0888c45d96ec14da9df0
+SHA1: 18331e6616ace9654618cc4c45305edb6e8d51bf
+SHA256: bfa4f56830e2afff86195622ed13c20e83e9d51f0a0777e948b84ef1715e718f
+Section: Axs-Tweaks
+Description: 状态栏信号/网络/电量三合一圆环图标。
+ * 1.圆环=电量、底部圆点=信号、环内=WiFi 或 5G/4G 制式
+ * 2.全部取自系统真实数据，实时刷新
+ * 3.点按图标可展开系统原生图标，保持 2 秒后自动收回
+ * 4.支持自定义元素的尺寸/位移/线宽/配色等参数，改动即时生效
+ * 5. 支持ios15.0~17.3.1系统
+ * 6. 兼容电话助手
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/duostatus.png
+Name: DuoStatus
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/duostatus/js.json
+
+Package: com.axs.duostatus
 Version: 5.2.0-19
 Architecture: iphoneos-arm64
 Maintainer: Axs
@@ -7353,6 +7414,27 @@ Author: Axs
 Icon: https://axs66.github.io/pro/icon/dynamicnotland.png
 Name: ios16~17动态岛
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
+
+Package: com.axs.keyboardtools
+Version: 5.2.0-27
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 424
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.keyboardtools_5.2.0-27_iphoneos-arm64.deb
+Size: 32770
+MD5sum: b8e8623c1b553392d5d0f39f18678682
+SHA1: 92d17a5a48811fb3954f7b3c46ddf1fc59a2d6ca
+SHA256: 3b74eb374d09608e592f8bba57e40179ed67647ac88a2e79a00a51ac3c912da0
+Section: Axs-Tweaks
+Description: 键盘文本编辑工具栏，在键盘上方提供复制/粘贴/剪切/撤销/全选/光标移动等快捷操作。
+ * 1. 10 个功能按钮：全选、复制、粘贴、剪贴板、剪切、撤销、光标左移、光标右移、换行、收起键盘
+ * 2. 剪贴板需要安装Clipboard 插件，才能调出的面板
+ * 3. 设置面板可逐项开关功能、自定义按钮顺序，改动立即生效，无需注销
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/keyboardtools.png
+Name: KeyboardTools
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardtools/js.json
 
 Package: com.axs.lockplayer
 Version: 3.22
