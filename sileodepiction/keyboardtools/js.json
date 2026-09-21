@@ -69,7 +69,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 9 月 21 日",
+                    "text": "2026 年 9 月 22 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -82,6 +82,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-64",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.键盘外观中的开关，独立控制；<br> 2. 新增支持百度输入法，原来支持系统、微信、搜狗输入法；<br> 3. 优化候选词变色逻辑，改为第一个词语变色；<br> 4. 优化一些细节。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-44",
