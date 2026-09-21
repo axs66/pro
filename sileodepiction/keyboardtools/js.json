@@ -69,7 +69,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 9 月 20 日",
+                    "text": "2026 年 9 月 21 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -82,6 +82,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-43",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.新增“自定义键盘背景颜色”，默认隐藏系统键盘灰色背景；<br> 2. 新增“候选词变色”；<br> 3. 新增“炫彩键盘”，感谢mowang。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-40",
