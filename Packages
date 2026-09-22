@@ -7160,6 +7160,30 @@ Name: DuoStatus
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/duostatus/js.json
 
 Package: com.axs.duostatus
+Version: 5.2.0-106
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 552
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.duostatus_5.2.0-106_iphoneos-arm64.deb
+Size: 64530
+MD5sum: cd7dacba66b92f2dace279f666d076d0
+SHA1: 39ba1acaaa47781b1292e4dfec0f2979a58224e9
+SHA256: 6a11cba3fbf826bc265ca4ccd5a9fb0141310b6d0d24e130e72cdbea7579f6f1
+Section: Axs-Tweaks
+Description: 状态栏信号/网络/电量三合一圆环图标。
+ * 1.圆环=电量、底部圆点=信号、环内=WiFi 或 5G/4G 制式
+ * 2.全部取自系统真实数据，实时刷新
+ * 3.点按图标可展开系统原生图标，保持 2 秒后自动收回
+ * 4.支持自定义元素的尺寸/位移/线宽/配色等参数，改动即时生效
+ * 5. 支持ios15.0~17.3.1系统
+ * 6. 兼容电话助手
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/duostatus.png
+Name: DuoStatus
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/duostatus/js.json
+
+Package: com.axs.duostatus
 Version: 5.2.0-19
 Architecture: iphoneos-arm64
 Maintainer: Axs
@@ -7481,17 +7505,17 @@ Name: KeyboardTools
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardtools/js.json
 
 Package: com.axs.keyboardtools
-Version: 5.2.0-64
+Version: 5.2.0-72
 Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
 Installed-Size: 608
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.axs.colorfulkeyboard
-Filename: ./debs/com.axs.keyboardtools_5.2.0-64_iphoneos-arm64.deb
-Size: 83724
-MD5sum: 6d7c14d9e44a0f13ad0f4540841dcaba
-SHA1: a14e74cd900a5a4af9f817ec5c01b1c96f0ea8cb
-SHA256: 088af057cf1aceb26e5b77162e6b158c4ea03b68367ffb6fe34e9235ac149d98
+Filename: ./debs/com.axs.keyboardtools_5.2.0-72_iphoneos-arm64.deb
+Size: 84218
+MD5sum: d4f25d39d85f976e3dc2bb1208f48627
+SHA1: cd3a922f96e8cbf072bcf7a7aaaf2079e82d4bb4
+SHA256: c206bf03c7e2fe22582de9076da33e19b3b88bc1acfcc934d204f99355781d81
 Section: Axs-Tweaks
 Description: 键盘文本编辑工具栏（键盘上方复制/粘贴/剪切/撤销/全选等快捷操作）+ 炫彩键盘（点击光效、键盘背景配色、候选词变色）。
  * 1. 工具栏动作：全选、复制、粘贴、剪贴板、剪切、撤销、清空、光标左移、光标右移、换行、收起键盘
