@@ -7480,6 +7480,29 @@ Icon: https://axs66.github.io/pro/icon/keyboardtools.png
 Name: KeyboardTools
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardtools/js.json
 
+Package: com.axs.keyboardtools
+Version: 5.2.0-64
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 608
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.axs.colorfulkeyboard
+Filename: ./debs/com.axs.keyboardtools_5.2.0-64_iphoneos-arm64.deb
+Size: 83724
+MD5sum: 6d7c14d9e44a0f13ad0f4540841dcaba
+SHA1: a14e74cd900a5a4af9f817ec5c01b1c96f0ea8cb
+SHA256: 088af057cf1aceb26e5b77162e6b158c4ea03b68367ffb6fe34e9235ac149d98
+Section: Axs-Tweaks
+Description: 键盘文本编辑工具栏（键盘上方复制/粘贴/剪切/撤销/全选等快捷操作）+ 炫彩键盘（点击光效、键盘背景配色、候选词变色）。
+ * 1. 工具栏动作：全选、复制、粘贴、剪贴板、剪切、撤销、清空、光标左移、光标右移、换行、收起键盘
+ * 2. 每个按钮的点击与四个滑动方向可各自绑定动作，动作显示名可自定义，改动立即生效、无需注销
+ * 3. 键盘外观：点击光效、候选词变色；键盘背景色分浅色/深色设置，点行用系统取色器选色（可调透明度）
+ * 4. 剪贴板需要安装 Clipboard 插件，才能调出面板
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/keyboardtools.png
+Name: KeyboardTools
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardtools/js.json
+
 Package: com.axs.lockplayer
 Version: 3.22
 Architecture: iphoneos-arm64
