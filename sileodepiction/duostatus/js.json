@@ -84,13 +84,24 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-117",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "为“灵动岛展开时，导致的图标偏移”，增加一个控制开关。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-106",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.调整系统滑条逻辑，避免部分用户看不见参数。",
+                    "markdown": "调整系统滑条逻辑，避免部分用户看不见参数。",
                     "useRawFormat": true
                 },
                {
