@@ -84,6 +84,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-118",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.新增“强度/扩散/环境光”自定义调节；<br> 2.工具栏新增“表情键盘”；<br> 3.新增“底部工具栏”；<br> 4.底部工具栏支持Filza、web网页搜索显示；<br> 5.修复“选拼音”背景颜色；<br> 6.修复之前添加纯黑键盘功能后，系统默认的26键界面部分黑层残留的bug。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-85",
                     "useBoldText": true,
                     "useBottomMargin": false
