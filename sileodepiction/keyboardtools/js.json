@@ -84,6 +84,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-139",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.工具栏新增动作“Snapper4截图”；<br> 2.工具栏新增动作“Snapper4长截图”；<br> 3.工具栏新增动作“ScreenShell Pro截屏套壳”；<br> 4.工具栏新增动作“ScreenShell Pro截屏水印”；<br> 5.工具栏新增动作“ScreenShell Pro截屏套壳&水印”；<br> 可以将5个动作设置在一个按钮上面，点击、左滑、右滑、上滑、下滑。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-124",
                     "useBoldText": true,
                     "useBottomMargin": false
