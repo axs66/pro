@@ -7087,6 +7087,24 @@ Icon: https://axs66.github.io/pro/icon/contactsfs.png
 Name: ContactsFS 来电全屏显示头像
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/contactsfs/js.json
 
+Package: com.axs.cr4shed
+Version: 5.2.0-30
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 876
+Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./debs/com.axs.cr4shed_5.2.0-30_iphoneos-arm64.deb
+Size: 107434
+MD5sum: 70f97df1b85bdcfcd67a0c75cd427ff0
+SHA1: a324fa6fc299120837e107421ec1b24d7b8dc5f0
+SHA256: f3de35cd2fba5d6a0771e80aef2c971eb604341a89f6df3d0444aa46b348cab7
+Section: Axs-Tweaks
+Description: 这是一款记录与分析iOS崩溃报告的工具,每一份报告最前面含有原有分析。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/cr4shed.png
+Name: Cr4shed
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/cr4shed/js.json
+
 Package: com.axs.duostatus
 Version: 5.2.0-101
 Architecture: iphoneos-arm64
