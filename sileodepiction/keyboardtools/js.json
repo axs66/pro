@@ -84,6 +84,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-124",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.底部工具栏一律透明不再区分键盘类型，工具栏背景色仅对上方模式生效；<br> 2.优化“底部工具栏”,上滑动作触发系统手势逻辑。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-118",
                     "useBoldText": true,
                     "useBottomMargin": false
