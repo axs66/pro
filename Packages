@@ -3967,6 +3967,24 @@ Icon: https://axs66.github.io/pro/icon/pogr.png
 Name: AirPods PodsGrant
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/pogr/js.json
 
+Package: com.Axs.pogr
+Version: 0.5.5~prerelease3
+Architecture: iphoneos-arm64
+Maintainer: Ruphane
+Installed-Size: 480
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.Axs.pogr_0.5.5~prerelease3_iphoneos-arm64.deb
+Size: 75272
+MD5sum: d0195e314af96ee68b18fe37b656e26a
+SHA1: 40b57dd062aeb58d89bc761c054d14b5c3c0dd2f
+SHA256: e02ffbc4ef932d6553bcd7bdda14c599828d4f033edc53fca1ac39935fb8c119
+Section: Tweaks
+Description: 提高低系统与新 AirPods 兼容性
+Author: Ruphane
+Icon: https://axs66.github.io/pro/icon/pogr.png
+Name: AirPods Grant
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/pogr/js.json
+
 Package: com.Axs.popoutbuttons
 Version: 1.0.2
 Architecture: iphoneos-arm64
