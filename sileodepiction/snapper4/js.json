@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 9 月 10 日",
+                    "text": "2026 年 9 月 27 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,6 +86,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-43",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.底部工具栏：新增“URL”自定义链接功能；<br>2.新增“工具栏图标切换”功能，插件目前仅包含2套，可自行增加；<br>3.新增“Filza打开素材目录”功能。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-40",
