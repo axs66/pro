@@ -1837,12 +1837,12 @@ Maintainer: Axs
 Installed-Size: 876
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
 Filename: ./debs/com.axs.cr4shed_5.2.0-30_iphoneos-arm64.deb
-Size: 106996
-MD5sum: d81c29f1229f06bd17bc1dbd87b03215
-SHA1: f6389ba5011ecdddcd0d37e90002e40cbfc66fc5
-SHA256: b5b53333671bc69d34dfba942b1e13fb3a8b870455f76196686873196df74a12
+Size: 107204
+MD5sum: 0457e063c05be30a5151ed5cc8621d2b
+SHA1: 249b7bf719306cdf3a31ddf5a445469e113b48e8
+SHA256: b2db8272d154b3717a0147bbdf1f7ade4dd71044070eef7980810f1664fda8f3
 Section: Axs-Tweaks
-Description: 这是一款记录与分析iOS崩溃报告的工具,每一份报告最前面含有原有分析。
+Description: 这是一款记录与分析iOS崩溃报告的工具,每一份报告最前面含有原因分析。
 Author: Axs
 Icon: https://axs66.github.io/pro/icon/cr4shed.png
 Name: Cr4shed 崩溃日志
