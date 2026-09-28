@@ -8838,17 +8838,17 @@ Name: Snapper 4
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
 
 Package: com.axs.snapper4
-Version: 5.2.0-43
-Architecture: iphoneos-arm64
+Version: 5.2.0-44
+Architecture: iphoneos-arm64e
 Maintainer: Axs <qiaozhini000@163.com>
 Installed-Size: 1620
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
-Filename: ./debs/com.axs.snapper4_5.2.0-43_iphoneos-arm64.deb
-Size: 379676
-MD5sum: 714fc81f5e76ff188ac316b0569f2d5e
-SHA1: c7f2773a60561a22e3a5d8c5b964803343946168
-SHA256: 7aee35ddbb9665d29d18fdc6383b4939876c6862f72aebd4f291e98723bfbc54
+Filename: ./debs/com.axs.snapper4_5.2.0-44_iphoneos-arm64e.deb
+Size: 380116
+MD5sum: 60c1d3e714e1c3ad9abaeba56802bcbb
+SHA1: 8b2f8010463c5acee746c1f5b70762f1364ae325
+SHA256: ba19172d88fbdccbe8593639f47b2998ed421819beedecd1c4d19d9696c33fb3
 Section: Axs-Tweaks
 Description: 这是一款截图工具。
  * 一、基本设置
@@ -8874,17 +8874,17 @@ Name: Snapper 4
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
 
 Package: com.axs.snapper4
-Version: 5.2.0-43
-Architecture: iphoneos-arm64e
+Version: 5.2.0-44
+Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhini000@163.com>
 Installed-Size: 1620
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
-Filename: ./debs/com.axs.snapper4_5.2.0-43_iphoneos-arm64e.deb
-Size: 380094
-MD5sum: e3e23d04a3bdce3c67904969e5ac8e6b
-SHA1: 45efa79c6fd194470ada3cb0727f7e1cb618d402
-SHA256: 0fd7708f867bd4072cc02b15262c096491d5c3b12c0ddef99eb1b85d4268a041
+Filename: ./debs/com.axs.snapper4_5.2.0-44_iphoneos-arm64.deb
+Size: 379776
+MD5sum: 3fde01896e9f58cef8d45a82a6531edb
+SHA1: 4ef68ff26f19bf2792a700823affc6d34e316abb
+SHA256: f48a7c469d96b20c6912dae51d1bb1bb2a10277eb3a6750726b23b1589a92523
 Section: Axs-Tweaks
 Description: 这是一款截图工具。
  * 一、基本设置
