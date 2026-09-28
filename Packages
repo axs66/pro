@@ -1819,31 +1819,13 @@ Maintainer: Axs
 Installed-Size: 2404
 Depends: mobilesubstrate, firmware (>= 9.0), ws.hbang.common (>= 1.11),  com.axs.libnotifications, cm90.crossoveripc
 Filename: ./debs/com.Axs.cr4shed_4.3.2_iphoneos-arm64.deb
-Size: 198372
-MD5sum: cef3f438fda5b91637948bf1f76dd58e
-SHA1: a9743ff3f11b0b08e9add66c9e479fd3c505c7b7
-SHA256: 71ca9624c1f29de1f277eec480138468ae5c4defed22ed5e7b667950a1fb7d56
+Size: 198392
+MD5sum: bd8ea6afa040ab261290546baad89f6d
+SHA1: 71d9f59dd5537524c51169dd15ca4db7c18f3921
+SHA256: dadb3671a4bda3212315d542a161e34ae7ea8aeb34a973e6a1c1d619152460c7
 Section: Tweaks
 Description: 查看崩溃日志，提交给Ai，让它告诉你问题出在哪里。安装此插件前，必须先安装Ldid插件，默认源就有，否则闪退。
 Author: Muirey03
-Icon: https://axs66.github.io/pro/icon/cr4shed.png
-Name: Cr4shed 崩溃日志
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/cr4shed/js.json
-
-Package: com.Axs.cr4shed
-Version: 5.2.0-30
-Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 876
-Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
-Filename: ./debs/com.axs.cr4shed_5.2.0-30_iphoneos-arm64.deb
-Size: 107204
-MD5sum: 0457e063c05be30a5151ed5cc8621d2b
-SHA1: 249b7bf719306cdf3a31ddf5a445469e113b48e8
-SHA256: b2db8272d154b3717a0147bbdf1f7ade4dd71044070eef7980810f1664fda8f3
-Section: Axs-Tweaks
-Description: 这是一款记录与分析iOS崩溃报告的工具,每一份报告最前面含有原因分析。
-Author: Axs
 Icon: https://axs66.github.io/pro/icon/cr4shed.png
 Name: Cr4shed 崩溃日志
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/cr4shed/js.json
