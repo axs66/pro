@@ -88,6 +88,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-68",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.调整可变字体粗细范围上限；<br>2.修复通知中心上滑后,时间变成系统时间不恢复的bug；<br>3.锁屏时间随通知中心的消息条数，动画自适应平滑过度。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-64",
                     "useBoldText": true,
                     "useBottomMargin": false
