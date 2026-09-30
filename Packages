@@ -7576,6 +7576,50 @@ Icon: https://axs66.github.io/pro/icon/ips.png
 Name: IPSLog
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
 
+Package: com.axs.ipslog
+Version: 5.2.0-12
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 680
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.ipslog_5.2.0-12_iphoneos-arm64.deb
+Size: 91194
+MD5sum: 6896949cc66fdd8c424d1e62fab0921e
+SHA1: 4783cf75c1a46d1e4c0530949de95761ecf4d574
+SHA256: 71e95f8f886ab547d11e6dfb5482eeaef65413b80dbc12cf4d970918840dc673
+Section: Axs-Tweaks
+Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
+ * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
+ * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
+ * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
+ * 新崩溃未读数角标提醒（可关闭）
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/ips.png
+Name: IPSLog
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
+
+Package: com.axs.ipslog
+Version: 5.2.0-12
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 680
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.ipslog_5.2.0-12_iphoneos-arm64e.deb
+Size: 91096
+MD5sum: a461ac0f6022a78cde3689162bb5f5dd
+SHA1: 51b25d9a50e6f2d08a7faa04c7785fd0cd170486
+SHA256: 73e6db55e4fa7f91f9e6dd46227847cb86a627999ee75bb2ab220266ac3da684
+Section: Axs-Tweaks
+Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
+ * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
+ * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
+ * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
+ * 新崩溃未读数角标提醒（可关闭）
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/ips.png
+Name: IPSLog
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
+
 Package: com.axs.keyboardtools
 Version: 5.2.0-118
 Architecture: iphoneos-arm64
