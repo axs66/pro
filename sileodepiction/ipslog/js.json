@@ -88,13 +88,24 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-18",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.插件面板右上角的分享，可以分享到任意app了，文件名称保留原始名称；<br> 2.安装更省心，不会自动注销，也可以看见更新的内容；<br> 3.日志分类更准，崩溃原因分析更精确；<br> 4.优化代码，减少20kb。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-15",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.新增“内存、系统指标、app自身终止、内核 panic”类的崩溃日志分析结论，若你遇见没有分析结论的日志，请到QQ群反馈：678055716；<br> 2.插件面板新增“忽略开关”，“筛选”新增分类；<br> 3.日志查看面板右上角的“清空”，逻辑改为只清空当前筛选/搜索后的日志（所见即所清）；<br> 4.优化“已复制、已删除”显示位置；<br> 5.优化代码。",
+                    "markdown": "1.新增“内存、系统指标、app自身终止、内核 panic”类的崩溃日志分析结论，若你遇见没有分析结论的日志，请到QQ群反馈：678055716；<br> 2.插件面板新增“忽略开关”，“筛选”新增分类；<br> 3.日志查看面板右上角的“清空”，逻辑改为只清空当前筛选/搜索后的日志（所见即所清）；<br> 4.优化“已复制、已删除”显示位置。",
                     "useRawFormat": true
                 },
                {
