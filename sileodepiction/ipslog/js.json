@@ -96,8 +96,7 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "1.持续投喂不同的崩溃日志，进行原因分析总结；<br> 2.插件面板新增“忽略开关”，“筛选”新增分类；<br> 3.优化“已复制、已删除”显示位置。",
                     "useRawFormat": true
-                }
-            ]
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-11",
