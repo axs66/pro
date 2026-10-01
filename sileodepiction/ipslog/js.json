@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 9 月 29 日",
+                    "text": "2026 年 10 月 1 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -88,13 +88,13 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
-                    "title": "5.2.0-26",
+                    "title": "5.2.0-27",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.插投喂新类型崩溃日志，增加识别分析能力；<br> 2.很多人不知道，直达崩溃日志面板的URL深链接：Prefs:root=TWEAKS_CELL&path=IPSLog/Logs。",
+                    "markdown": "1.插投喂新类型崩溃日志，增加识别分析能力；<br> 2.很多人不知道，直达崩溃日志面板的URL深链接：Prefs:root=TWEAKS_CELL&path=IPSLog/Logs；<br> 3.筛选面板，显示分类条数。",
                     "useRawFormat": true
                 },
                {
