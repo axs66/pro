@@ -7660,6 +7660,48 @@ Icon: https://axs66.github.io/pro/icon/ips.png
 Name: IPSLog
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
 
+Package: com.axs.ipslog
+Version: 5.2.0-26
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 480
+Depends: preferenceloader
+Filename: ./debs/com.axs.ipslog_5.2.0-26_iphoneos-arm64e.deb
+Size: 79586
+MD5sum: 66104c8b3cae7796762fc2abaa8ef7b9
+SHA1: 597088d703aa873bb8ba50f4ba1038ef37761696
+SHA256: 5af74ed3771ae0fc68c59481e77b728261ec32644c38ea20c4118522de16232e
+Section: Axs-Tweaks
+Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
+ * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
+ * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
+ * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/ips.png
+Name: IPSLog
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
+
+Package: com.axs.ipslog
+Version: 5.2.0-26
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 480
+Depends: preferenceloader
+Filename: ./debs/com.axs.ipslog_5.2.0-26_iphoneos-arm64.deb
+Size: 79360
+MD5sum: 1a84a17673d9aeba228caf3530a5c334
+SHA1: 537cf999427b005d7bc799fd87ce395d97b522e8
+SHA256: 45c2ae745192d52a9782f790b03f10ab6dc8766cd9bd78711556d908009d9391
+Section: Axs-Tweaks
+Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
+ * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
+ * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
+ * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/ips.png
+Name: IPSLog
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
+
 Package: com.axs.keyboardtools
 Version: 5.2.0-118
 Architecture: iphoneos-arm64
@@ -7744,6 +7786,54 @@ Size: 144982
 MD5sum: a476ca8ff081dc85785c85bbc7d0f420
 SHA1: 1f59a64d408f8b7166720a77d437c4ccc8420cb7
 SHA256: a7e6ddad2ca7878617ab4347919a0c468bb8d7ce9d22f703f8ccb7e8940417dc
+Section: Axs-Tweaks
+Description: 键盘文本编辑工具栏（可置于键盘上方或键盘下方，复制/粘贴/剪切/撤销/全选等快捷操作）+ 炫彩键盘（点击光效、键盘背景配色、候选词变色）。
+ * 1. 工具栏动作：全选、复制、粘贴、剪贴板、剪切、撤销、清空、光标左移、光标右移、换行、收起键盘
+ * 2. 工具栏位置：键盘上方或键盘下方
+ * 3. 每个按钮的点击与四个滑动方向可各自绑定动作，动作显示名可自定义，改动立即生效、无需注销
+ * 4. 键盘外观：点击光效、候选词变色；键盘背景色分浅色/深色设置，点行用系统取色器选色（可调透明度）
+ * 5. 剪贴板需要安装 Clipboard 插件，才能调出面板
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/keyboardtools.png
+Name: KeyboardTools
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardtools/js.json
+
+Package: com.axs.keyboardtools
+Version: 5.2.0-164
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 876
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.axs.colorfulkeyboard
+Filename: ./debs/com.axs.keyboardtools_5.2.0-164_iphoneos-arm64e.deb
+Size: 147896
+MD5sum: 2bb999ecd1dc0aca76362d7cb6e013ac
+SHA1: 6d6a61ffb8ba66b5cba28ef10a67dadc4186f885
+SHA256: 2f32b32e1658a21a577f415f84fdc5fbff0654c842fc03208369f750493538e1
+Section: Axs-Tweaks
+Description: 键盘文本编辑工具栏（可置于键盘上方或键盘下方，复制/粘贴/剪切/撤销/全选等快捷操作）+ 炫彩键盘（点击光效、键盘背景配色、候选词变色）。
+ * 1. 工具栏动作：全选、复制、粘贴、剪贴板、剪切、撤销、清空、光标左移、光标右移、换行、收起键盘
+ * 2. 工具栏位置：键盘上方或键盘下方
+ * 3. 每个按钮的点击与四个滑动方向可各自绑定动作，动作显示名可自定义，改动立即生效、无需注销
+ * 4. 键盘外观：点击光效、候选词变色；键盘背景色分浅色/深色设置，点行用系统取色器选色（可调透明度）
+ * 5. 剪贴板需要安装 Clipboard 插件，才能调出面板
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/keyboardtools.png
+Name: KeyboardTools
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardtools/js.json
+
+Package: com.axs.keyboardtools
+Version: 5.2.0-164
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 876
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.axs.colorfulkeyboard
+Filename: ./debs/com.axs.keyboardtools_5.2.0-164_iphoneos-arm64.deb
+Size: 147094
+MD5sum: e7d0f57ded2a095dfd9eaf1c82b836df
+SHA1: 92e82e7968e50601b9c92a57adaa57d485849067
+SHA256: c67bb12a0e11a8454f8cf40cf29cab7aa87b678fbda607bd5ad25555586ca3b3
 Section: Axs-Tweaks
 Description: 键盘文本编辑工具栏（可置于键盘上方或键盘下方，复制/粘贴/剪切/撤销/全选等快捷操作）+ 炫彩键盘（点击光效、键盘背景配色、候选词变色）。
  * 1. 工具栏动作：全选、复制、粘贴、剪贴板、剪切、撤销、清空、光标左移、光标右移、换行、收起键盘
