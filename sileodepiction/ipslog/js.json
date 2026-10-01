@@ -22,7 +22,7 @@
                 },      
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "插件设置面板上一键查看与分析设备上的 .ips 崩溃日志，内置崩溃原因分析；若你遇见没有分析结论的日志，请到QQ群反馈：678055716。<br>1.崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志；<br>2.解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像；<br>3.支持查看完整原文、复制任意字段、分享导出、删除单条与清空。",
+                    "markdown": "插件设置面板上一键查看与分析设备上的 .ips 崩溃日志，内置崩溃原因分析；若你遇见没有分析结论的日志，请到QQ群反馈：678055716。<br>1.崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志；<br>2.解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像；<br>3.支持查看完整原文、复制任意字段、分享导出、删除单条与清空;<br>4.直达崩溃日志面板的URL深链接：Prefs:root=TWEAKS_CELL&path=IPSLog/Logs",
                     "useRawFormat": true,
                 },      
                {
@@ -86,6 +86,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-26",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.插投喂新类型崩溃日志，增加识别分析能力；<br> 2.很多人不知道，直达崩溃日志面板的URL深链接：Prefs:root=TWEAKS_CELL&path=IPSLog/Logs。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-18",
