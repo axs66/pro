@@ -7618,6 +7618,48 @@ Icon: https://axs66.github.io/pro/icon/ips.png
 Name: IPSLog
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
 
+Package: com.axs.ipslog
+Version: 5.2.0-18
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 480
+Depends: preferenceloader
+Filename: ./debs/com.axs.ipslog_5.2.0-18_iphoneos-arm64.deb
+Size: 76926
+MD5sum: 67e0b6e35a60fbe36d625353c7a55cbc
+SHA1: 61acdcbb5490fece45349b2f9016bf80dc924f63
+SHA256: fe073101d411373c6a8c1e6eda8c84dda13354b1be8ee916a2f776e03e05a872
+Section: Axs-Tweaks
+Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
+ * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
+ * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
+ * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/ips.png
+Name: IPSLog
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
+
+Package: com.axs.ipslog
+Version: 5.2.0-18
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 480
+Depends: preferenceloader
+Filename: ./debs/com.axs.ipslog_5.2.0-18_iphoneos-arm64e.deb
+Size: 77104
+MD5sum: 61d7ff9244de6d701259db8372c5e570
+SHA1: 64e3f69fad40ec1d6a9a10c958f6df4860ca1465
+SHA256: 2f94132681ab6affa536da2aa3e210e3de8cb65a27b2b228924538dd5f84c643
+Section: Axs-Tweaks
+Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
+ * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
+ * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
+ * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/ips.png
+Name: IPSLog
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
+
 Package: com.axs.keyboardtools
 Version: 5.2.0-118
 Architecture: iphoneos-arm64
@@ -7691,17 +7733,17 @@ Name: KeyboardTools
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardtools/js.json
 
 Package: com.axs.keyboardtools
-Version: 5.2.0-156
+Version: 5.2.0-159
 Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 860
+Installed-Size: 876
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.axs.colorfulkeyboard
-Filename: ./debs/com.axs.keyboardtools_5.2.0-156_iphoneos-arm64.deb
-Size: 144472
-MD5sum: 52ba2bceb0f99ef1caa03612d419136a
-SHA1: 384e0477e83463a959c5c9fe512cec2f3eb1787c
-SHA256: 10542271ba6d897165d53dedacb45d10eeab3c6652b0f6dc913fc53cae4a0f31
+Filename: ./debs/com.axs.keyboardtools_5.2.0-159_iphoneos-arm64.deb
+Size: 144982
+MD5sum: a476ca8ff081dc85785c85bbc7d0f420
+SHA1: 1f59a64d408f8b7166720a77d437c4ccc8420cb7
+SHA256: a7e6ddad2ca7878617ab4347919a0c468bb8d7ce9d22f703f8ccb7e8940417dc
 Section: Axs-Tweaks
 Description: 键盘文本编辑工具栏（可置于键盘上方或键盘下方，复制/粘贴/剪切/撤销/全选等快捷操作）+ 炫彩键盘（点击光效、键盘背景配色、候选词变色）。
  * 1. 工具栏动作：全选、复制、粘贴、剪贴板、剪切、撤销、清空、光标左移、光标右移、换行、收起键盘
