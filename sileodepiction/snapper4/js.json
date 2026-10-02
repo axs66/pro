@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 9 月 28 日",
+                    "text": "2026 年 10 月 2 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,6 +86,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-45",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "OCR识别新增“Ai模型”，即可以采用阿里云百练的API Key。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-44",
