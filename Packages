@@ -6413,6 +6413,23 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 黄白助手
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechat/js.json
 
+Package: com.HBWechatHelper.ailun
+Version: 2.1.7
+Architecture: iphoneos-arm64
+Maintainer: HuangBai <QQ:1343309363@qq.com>
+Depends: mobilesubstrate
+Filename: ./debs/com.HBWechatHelper.ailun_2.1.7_iphoneos-arm64.deb
+Size: 5876520
+MD5sum: 3f51b24c34d4f8cad5b15fa6ea857983
+SHA1: 5b28bba56c89420901aa0b6f542616227118ebb3
+SHA256: e1b04bef6826f5fa5a85503a787949a46a9264dbacc8b43ce4204beb934712b9
+Section: 微信插件
+Description: 黄白助手-微信插件，点歌朋友圈一键点赞，禁用控件，设置布局大小，私聊发抢自己的红包，文本转语音，文案语录，群聊管理，朋友圈保存实况 Live 图，消息防撤回，艾特所有人，朋友圈自定义选取位置，消息双击复读，修改气泡，修改按钮图标，修改显示微信号，自动呼出键盘，微信运动一键点赞，头像转发好友，强制下载 dylib 文件，设置全局圆头像，百变消息小尾巴，朋友圈小尾巴，等诸多功能
+Author: HuangBai <QQ:1343309363@qq.com>
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 黄白助手
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/HBWechat/js.json
+
 Package: com.anthopak.quickprefs-rootless
 Version: 1.3.5
 Architecture: iphoneos-arm64
@@ -7828,6 +7845,30 @@ Size: 147094
 MD5sum: e7d0f57ded2a095dfd9eaf1c82b836df
 SHA1: 92e82e7968e50601b9c92a57adaa57d485849067
 SHA256: c67bb12a0e11a8454f8cf40cf29cab7aa87b678fbda607bd5ad25555586ca3b3
+Section: Axs-Tweaks
+Description: 键盘文本编辑工具栏（可置于键盘上方或键盘下方，复制/粘贴/剪切/撤销/全选等快捷操作）+ 炫彩键盘（点击光效、键盘背景配色、候选词变色）。
+ * 1. 工具栏动作：全选、复制、粘贴、剪贴板、剪切、撤销、清空、光标左移、光标右移、换行、收起键盘
+ * 2. 工具栏位置：键盘上方或键盘下方
+ * 3. 每个按钮的点击与四个滑动方向可各自绑定动作，动作显示名可自定义，改动立即生效、无需注销
+ * 4. 键盘外观：点击光效、候选词变色；键盘背景色分浅色/深色设置，点行用系统取色器选色（可调透明度）
+ * 5. 剪贴板需要安装 Clipboard 插件，才能调出面板
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/keyboardtools.png
+Name: KeyboardTools
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardtools/js.json
+
+Package: com.axs.keyboardtools
+Version: 5.2.0-187
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 980
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.axs.colorfulkeyboard
+Filename: ./debs/com.axs.keyboardtools_5.2.0-187_iphoneos-arm64.deb
+Size: 171350
+MD5sum: d72bfa1c68afff4e3d3cfee31500ebc6
+SHA1: 1991a60e8fb7b060584b3a7bb8876eae10a04ad9
+SHA256: 069d0c84e2497661a9c7ba50f349bde228d54a83eaa984625c2ae34f06b4d161
 Section: Axs-Tweaks
 Description: 键盘文本编辑工具栏（可置于键盘上方或键盘下方，复制/粘贴/剪切/撤销/全选等快捷操作）+ 炫彩键盘（点击光效、键盘背景配色、候选词变色）。
  * 1. 工具栏动作：全选、复制、粘贴、剪贴板、剪切、撤销、清空、光标左移、光标右移、换行、收起键盘
@@ -11069,6 +11110,23 @@ Size: 9401964
 MD5sum: 906c15744596174e2120b3b5e7e01cb7
 SHA1: fe283e216a682a4f1cb9cd277b894d2203060072
 SHA256: fedf671a09935295527b8252eb23fcb94cc809a88da0569d34a331bc7fd34887
+Section: 微信插件
+Description: 微信主题盒子
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/themebox/js.json
+
+Package: com.tencent.themebox
+Version: 3.0.7
+Architecture: iphoneos-arm64
+Maintainer: admin@25mao.com
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_3.0.7_iphoneos-arm64.deb
+Size: 9690640
+MD5sum: 7e5b9f682c72d570dbf421633287499c
+SHA1: 5c1f5b0d5dcb91c03c8888717c8d8363f5a9ff03
+SHA256: 030c03d64d1d9b6ae817ef010981b355d9fce2e3384b538629ee94a3e6498e3d
 Section: 微信插件
 Description: 微信主题盒子
 Author: Mao
