@@ -10298,6 +10298,23 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: WCPulse
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCPulse/js.json
 
+Package: com.huami.WCPulse
+Version: 1.7-5
+Architecture: iphoneos-arm64
+Maintainer: huami
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.huami.WCPulse_1.7-5_iphoneos-arm64.deb
+Size: 3572352
+MD5sum: a133d21d88d82baffa6020b1a9f27751
+SHA1: 9f4dcaaffc0e8b42a822e84f1a589ee29a742149
+SHA256: fc674c3a9b48ece2fc40af53552e913e095f13f1d0f143db078b91625b33978c
+Section: 微信插件
+Description: WCPulse
+Author: 小学生
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: WCPulse
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/WCPulse/js.json
+
 Package: com.iface360.pandabeautyloader
 Version: 1.2.0
 Architecture: iphoneos-arm64
@@ -10740,27 +10757,22 @@ Name: App Lecard 分屏插件
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/applecard/js.json
 
 Package: com.opa334.choicy
-Version: 1.5.3-2
+Version: 1.5.4-2
 Architecture: iphoneos-arm64
-Maintainer: Axs
-Installed-Size: 1122
-Depends: firmware (>= 10.0), mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist (>= 1.0.4)
-Filename: ./debs/com.opa334.choicy_1.5.3-2_iphoneos-arm64.deb
-Size: 161400
-MD5sum: 14ef7c9f828c26dd8960a1b54fbb2af1
-SHA1: 7e9f42140c78611f052e0373d114f0650dd002d8
-SHA256: a21237b80bee394ae5204a87173cbeaa3a4f51d5672432d72a2077f2b02e47d2
-Section: 系统增强
-Homepage: https://axs66.github.io/pro
-Description: 屏蔽越狱检测工具
-Tag: purpose::extension
+Maintainer: opa334
+Installed-Size: 1120
+Depends: mobilesubstrate, com.opa334.altlist (>=1.0.4), preferenceloader
+Filename: ./debs/com.opa334.choicy_1.5.4-2_iphoneos-arm64.deb
+Size: 162012
+MD5sum: 16ee10333357bcd86614d004d8449ae9
+SHA1: 1c7a76a75f29afd1101873400a12ee87cb6d82fd
+SHA256: 1de756d5fbed898397984689280664739424ae1b9d81c78a67f3f461fee34eb0
+Section: Tweaks
+Description: 指定屏蔽越狱插件，避免检测。
 Author: opa334
-Depiction: https://t.me/wxfx8
-Dev: opa334
 Icon: https://axs66.github.io/pro/icon/choicy.png
 Name: Choicy
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/choicy/js.json
-Sponsor: A
 
 Package: com.opa334.trollstorehelper
 Version: 2.1
@@ -11026,6 +11038,23 @@ MD5sum: 88524bca8b7fb5188975be771cb9acb8
 SHA1: bb473ff3bf3e2dc46e2c36e7fe59253968daabd6
 SHA256: fb9312fdf064f3724ea55b928533fb9dfbb160be063377ac853c1ddeb4239598
 Section: 分屏插件
+Description: 分屏而已
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/ScreenCore.png
+Name: ScreenCore
+
+Package: com.susudear.screencore
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 2960
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.susudear.screencore_2.0.1_iphoneos-arm64.deb
+Size: 463824
+MD5sum: 43d8326528105f02d1a5f9c82b3e9050
+SHA1: 29dd4e7de4c15f63a48963aa8ad977389d3a434b
+SHA256: 5ca480c5b4ad5ce59b4d0ffa402140392c529a38252e7259bb493229f0b1988a
+Section: Tweaks
 Description: 分屏而已
 Author: SuSu
 Icon: https://repo.susubaby.cn/icons/ScreenCore.png
