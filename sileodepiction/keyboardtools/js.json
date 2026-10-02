@@ -69,7 +69,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 10 月 1 日",
+                    "text": "2026 年 10 月 2 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -84,13 +84,24 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-187",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.重构点击光效 <br> 2.重构候选词渐变；<br> 3.调整界面结构及名称。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-164",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.支持URL深链接调用,纯黑键盘切换:prefs:root=kbt_black <br> 2.修复“备忘录”操作中偶尔闪退的bug；<br> 3.支持“隐根”包。",
+                    "markdown": "1.支持URL深链接调用,纯黑键盘切换:prefs:root=kbt_black <br> 2.修复“备忘录”操作中偶尔闪退的bug。",
                     "useRawFormat": true
                 },
                {
