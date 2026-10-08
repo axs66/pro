@@ -1100,6 +1100,26 @@ Icon: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main
 Name: BoardSwipe 滑动键盘
 Sileodepiction: https://raw.githubusercontent.com/AnubisTweaks/AnubisTweaks.github.io/main/assets/json/boardswipe/boardswipe.json
 
+Package: com.Axs.bofangqi
+Version: 0.3.14
+Architecture: iphoneos-arm64
+Maintainer: 夜辰
+Installed-Size: 2708
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0), firmware (<< 18.0)
+Conflicts: com.jaysuen.evocenter, com.local.nativeplayerresize
+Replaces: com.local.nativeplayerresize
+Filename: ./debs/com.Axs.bofangqi_0.3.14_iphoneos-arm64.deb
+Size: 603484
+MD5sum: b376c1216df51be8cecee7c074e84996
+SHA1: 2537a845a79d02297b857b0375bb47da4446b80e
+SHA256: d65edd49fd98a3c832594a841c72e1e045e51196a420113212a88709e13bd0b3
+Section: Tweaks
+Description: 单纯原生播放器尺寸调节
+Author: 夜辰
+Icon: https://axs66.github.io/pro/icon/ccaudioplay.png
+Name: 原生播放器调节
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bofangqi/js.json
+
 Package: com.Axs.bounceit
 Version: 1.0.4
 Architecture: iphoneos-arm64
@@ -3935,18 +3955,18 @@ Package: com.Axs.pogr
 Version: 0.5.5~prerelease3
 Architecture: iphoneos-arm64
 Maintainer: Ruphane
-Installed-Size: 480
+Installed-Size: 484
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/com.Axs.pogr_0.5.5~prerelease3_iphoneos-arm64.deb
-Size: 75272
-MD5sum: d0195e314af96ee68b18fe37b656e26a
-SHA1: 40b57dd062aeb58d89bc761c054d14b5c3c0dd2f
-SHA256: e02ffbc4ef932d6553bcd7bdda14c599828d4f033edc53fca1ac39935fb8c119
+Size: 76872
+MD5sum: 583460406e384084cc9b2aadd7ccc951
+SHA1: 38ee9ae72cf89f9775ab9fb04f1d8e1c0f7d38ec
+SHA256: 2e76c554f781ad3086c2efe533de54d35c69892ab8bcdb9badb1642d140d1a55
 Section: Tweaks
-Description: 提高低系统与新 AirPods 兼容性
+Description: Tweak for better AirPods compatibility on old devices，不会再提示低版本连接，支持最新版airpods5
 Author: Ruphane
 Icon: https://axs66.github.io/pro/icon/pogr.png
-Name: AirPods Grant
+Name: AirPods Grant耳机弹窗
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/pogr/js.json
 
 Package: com.Axs.popoutbuttons
@@ -11239,6 +11259,23 @@ Size: 463824
 MD5sum: 43d8326528105f02d1a5f9c82b3e9050
 SHA1: 29dd4e7de4c15f63a48963aa8ad977389d3a434b
 SHA256: 5ca480c5b4ad5ce59b4d0ffa402140392c529a38252e7259bb493229f0b1988a
+Section: Tweaks
+Description: 分屏而已
+Author: SuSu
+Icon: https://repo.susubaby.cn/icons/ScreenCore.png
+Name: ScreenCore
+
+Package: com.susudear.screencore
+Version: 2.0.2
+Architecture: iphoneos-arm64
+Maintainer: SuSu
+Installed-Size: 2964
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.susudear.screencore_2.0.2_iphoneos-arm64.deb
+Size: 466096
+MD5sum: e6f8e584a15e88a9554a91359360ec5d
+SHA1: eb20df3bd04150d04a375e33ca5a7192e6e7f7d9
+SHA256: 768474e1c0abb4400108a06eaf9aa902bbb01a4fc7433ef392e19182718e1e98
 Section: Tweaks
 Description: 分屏而已
 Author: SuSu
