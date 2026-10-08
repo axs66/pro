@@ -7218,11 +7218,11 @@ Maintainer: Axs
 Installed-Size: 1200
 Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.axs.cpufree_5.2.0-5_iphoneos-arm64.deb
-Size: 77248
-MD5sum: a76160dadcb5b1f067fa91ce4ba15e6a
-SHA1: 372664963a2c6b569ea0163bb3d409c0bbfbeca1
-SHA256: f0ada52ff8d1a3645ed5591e8a23ddb3c9fdcad898c5a62f9b333974867c61e7
-Section: Tweaks
+Size: 77336
+MD5sum: 728d31b36381f4d3ae58c21bb84436c4
+SHA1: 726ca23647dc36c4e4a62fee89405cc99e1a35e4
+SHA256: 11e7a3c9c0759ceaf59eb3196dc0258168f6ce5ac1604b9c582d18065df245c9
+Section: Axs-Tweaks
 Description: 一个强大的 iOS 温控管理插件，接管系统温控决策，让 iPhone 发热时不再被强行降频、降亮度。
  * 一、双防护层拦截
  * 1. IOKit 层：拦截传感器温度读取、降频指令、限频属性写入和高温广播，从源头掐断降频动作；
