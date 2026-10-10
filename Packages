@@ -9639,6 +9639,33 @@ Icon: https://axs66.github.io/pro/icon/tweakshub.png
 Name: TweaksHub
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/tweakshub/js.json
 
+Package: com.axs.tweakshub
+Version: 5.2.0-83
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 544
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.nightwind.onesettings, com.creaturecoding.shuffle, com.sop.settingsrevamp, com.hk.settingsrevamp, com.dao.settingsrevamp, byg.iosios.net.settingsrevamp
+Filename: ./debs/com.axs.tweakshub_5.2.0-83_iphoneos-arm64.deb
+Size: 65100
+MD5sum: 0e4bce82a2b0e02cde51b7cb7cde1f34
+SHA1: ac18333c5da1e6a24747006d7c6cbdc57b87edf6
+SHA256: 701323125657ae83f8507d3ab8dfd6a54254c6bdcefd13272bc9e09447bf9033
+Section: Axs-Tweaks
+Description: 集中收纳统一管理越狱插件与第三方 App 设置，支持插件自定义名称和图标。
+ * 设置首页同组并排两个入口：越狱插件 + 应用软件
+ * 自动隐藏其他插件的首页独立入口，整组收纳系统第三方 App 设置
+ * 越狱插件面板递归聚合所有已装插件设置
+ * 应用软件面板收录第三方 App 设置入口（点击仍进原生设置页）
+ * 支持 Prefs:root=TWEAKS_CELL / TWEAKS_APPS_CELL 深链直达
+ * 「附加功能」新增屏蔽部件与维修记录（隐藏非原装电池、维修记录相关提示行）
+ * 「附加功能」新增屏蔽系统更新提示（隐藏设置首页「现有 iOS xx 可用」行）
+ * 「附加功能」新增自定义插件名称与图标，图标放进 /var/mobile/Axs/TweaksHub/ 即可用
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/tweakshub.png
+Name: TweaksHub
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/tweakshub/js.json
+
 Package: com.axs.wcplugins.rootless
 Version: 0.1-7
 Architecture: iphoneos-arm64
