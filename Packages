@@ -7212,16 +7212,16 @@ Name: ContactsFS 来电全屏显示头像
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/contactsfs/js.json
 
 Package: com.axs.cpufree
-Version: 5.2.0-50
+Version: 5.2.0-15
 Architecture: iphoneos-arm64
 Maintainer: Axs<qiaozhani000@163.com>
 Installed-Size: 1368
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.axs.cpufree_5.2.0-50_iphoneos-arm64.deb
-Size: 80638
-MD5sum: 5b85f07a1b096065c97cd0c8f7d97a15
-SHA1: 5069445364be1b5f6909aea7560115f13778c8a0
-SHA256: 927d978f001ce85cbed8902177b1b25dc839a16e857e87c12bbbd8fd83a3aec6
+Filename: ./debs/com.axs.cpufree_5.2.0-15_iphoneos-arm64.deb
+Size: 79946
+MD5sum: f19c43d072cfcb28365fd5bf487d30c0
+SHA1: 4b5a806537b2b2aa2f521f19c74bbe52cc499e17
+SHA256: 72a29cd739694d85ed90ced7dc334c68a60832417f2184fc09aa14fc94a355f6
 Section: Axs-Tweaks
 Description: 一个强大的 iOS 温控管理插件，接管系统温控决策，让 iPhone 发热时不再被强行降频、降亮度。
  * 一、双防护层拦截
@@ -7235,10 +7235,42 @@ Description: 一个强大的 iOS 温控管理插件，接管系统温控决策�
  * 2. 保留 70°C 安全阀：温度超过 70°C 或读温失败时自动放行系统保护，防止异常发热与黑屏。
  * 四、控制中心模块
  * 1. 功率模式切换：一键在「防温控 / 低功耗」之间切换；
- * 2. CPU频率上限：显示大核最高档位，低功耗模式下截断到上限 2016MHz。
+ * 2. CPU频率显示：实时显示大核真实频率，低功耗模式下上限 2016MHz。
  * 五、机型适配
  * 1. 内置 A11–A17 Pro 大核频率表（2390 / 2490 / 2650 / 3090 / 3230 / 3460 / 3780MHz），按机型自动匹配上限。
 Author: Axs<qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/cpufree.png
+Name: CPU Free
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/cpufree/js.json
+
+Package: com.axs.cpufree
+Version: 5.2.0-5
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 1200
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.cpufree_5.2.0-5_iphoneos-arm64.deb
+Size: 77248
+MD5sum: a76160dadcb5b1f067fa91ce4ba15e6a
+SHA1: 372664963a2c6b569ea0163bb3d409c0bbfbeca1
+SHA256: f0ada52ff8d1a3645ed5591e8a23ddb3c9fdcad898c5a62f9b333974867c61e7
+Section: Tweaks
+Description: 一个强大的 iOS 温控管理插件，接管系统温控决策，让 iPhone 发热时不再被强行降频、降亮度。
+ * 一、双防护层拦截
+ * 1. IOKit 层：拦截传感器温度读取、降频指令、限频属性写入和高温广播，从源头掐断降频动作；
+ * 2. ObjC 层：钩住内部决策类，阻止决策树评估、软化控制力度、改写热配置表，并把热状态重置为正常。
+ * 二、双功率模式
+ * 1. 防温控：减少降频、防止降亮度，重载场景尽量维持满血频率；
+ * 2. 低功耗：限制 CPU 最高 2016MHz，不抬高待机频率，兼顾省电与性能。
+ * 三、独立开关
+ * 1. CPU 防降频、屏幕防降亮度、屏蔽高温提醒（含设置内的散热建议）均可单独开关；
+ * 2. 保留 70°C 安全阀：温度超过 70°C 或读温失败时自动放行系统保护，防止异常发热与黑屏。
+ * 四、控制中心模块
+ * 1. 功率模式切换：一键在「防温控 / 低功耗」之间切换；
+ * 2. CPU频率显示：实时显示大核真实频率，低功耗模式下上限 2016MHz。
+ * 五、机型适配
+ * 1. 内置 A11–A17 Pro 大核频率表（2390 / 2490 / 2650 / 3090 / 3230 / 3460 / 3780MHz），按机型自动匹配上限。
+Author: Axs
 Icon: https://axs66.github.io/pro/icon/cpufree.png
 Name: CPU Free
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/cpufree/js.json
