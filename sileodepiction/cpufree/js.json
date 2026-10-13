@@ -1,0 +1,110 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://axs66.github.io/pro/images/Axslogo.png",
+    "tintColor": "#00BFFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "text":"✈分享频道",
+                    "action":"https://t.me/wxfx8",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                }, 
+               {
+                    "text":"✈交流群组",
+                    "action":"https://t.me/oncar2",
+                    "openExternal": 1,
+                    "class":"DepictionButtonView"
+                },      
+               {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "强大的 iOS 温控管理插件，接管系统温控决策，让 iPhone 发热时不再被强行降频、降亮度。<br><br>一、双防护层拦截<br>1. IOKit 层：拦截传感器温度读取、降频指令、限频属性写入与高温广播，从源头掐断降频动作；<br>2. ObjC 层：钩住内部决策类，阻止决策树评估、软化控制力度、改写热配置表，并把热状态重置为正常。<br><br>二、双功率模式<br>1. 防温控：减少降频、防止降亮度，重载场景尽量维持满血频率；<br>2. 低功耗：限制 CPU 最高 2016MHz，不抬高待机频率，兼顾省电与性能。<br><br>三、独立开关<br>1. CPU 防降频、屏幕防降亮度、屏蔽高温提醒（含设置内的散热建议）均可单独开关；<br>2. 保留 70°C 安全阀：温度超过 70°C 或读温失败时自动放行系统保护，防止异常发热与黑屏。<br><br>四、控制中心模块<br>1. 功率模式切换：一键在「防温控 / 低功耗」之间切换；<br>2. CPU 实时频率：显示大核最大驻留档位（实际工作频率），低功耗模式下不超过上限 2016MHz。<br><br>五、状态栏显示<br>1. 状态栏显示大核实时频率 + 整机 CPU 占用率（形如 3468MHz 42%），文字颜色跟随状态栏；<br>2. 位置可用面板的「水平 / 垂直偏移」微调，避开其它状态栏插件。<br><br>六、机型适配<br>1. 内置 A11–A17 Pro 大核上限表（2390 / 2490 / 2650 / 3090 / 3230 / 3468 / 3780MHz），按机型自动匹配上限。",
+                    "useRawFormat": true,
+                },      
+               {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{300, 346}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/pro/sileodepiction/cpufree/Screenshot_01.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "详情",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "A先生",
+                    "title": "维护者"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "VCR66T",
+                    "title": "微信"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "2026 年 10 月 13 日",
+                    "title": "最后更新日期"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "更新日志",
+            "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-66",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.修复支持ios17系统“状态栏显示实时CPU主频率” ;<br>2.修复自适应颜色切换;<br>3.新增“字号大小”调节;<br>4.优化位置调整范围，避免超出范围;<br>5.优化代码",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-57",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.新增“屏幕下放自动锁屏” ;<br>2.新增“状态栏显示实时CPU主频率”，不用去通过其他软件查看了，他们显示的并不是实时数据，显示的是上限频率，太误导人了;<br>3.完全重构CPU频率逻辑，之前的可以说是欢乐数据，这次是真实数据。",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ]
+}
