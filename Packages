@@ -7276,16 +7276,16 @@ Name: CPU Free
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/cpufree/js.json
 
 Package: com.axs.cpufree
-Version: 5.2.0-62
+Version: 5.2.0-66
 Architecture: iphoneos-arm64
 Maintainer: Axs<qiaozhani000@163.com>
-Installed-Size: 1408
+Installed-Size: 1412
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.axs.cpufree_5.2.0-62_iphoneos-arm64.deb
-Size: 91046
-MD5sum: be60a182685a598f9a3f93c27e2992fb
-SHA1: ebbeb083b57f3e7bc1404d924e0d3a2cdb1a0154
-SHA256: 5d152cd3874a34fdf698c4b548bf15f8e33d378f5febdea76ea8add1191840a8
+Filename: ./debs/com.axs.cpufree_5.2.0-66_iphoneos-arm64.deb
+Size: 93468
+MD5sum: 5f263e05bbf3102df6d2b7ef2be2013d
+SHA1: 114be5202051d96b05c507ae52eeb3d1e0783973
+SHA256: 985bcfa11900a5f766a0b7e1daa10276da0352a639bfdba90563dedecf451b58
 Section: Axs-Tweaks
 Description: 一个强大的 iOS 温控管理插件，接管系统温控决策，让 iPhone 发热时不再被强行降频、降亮度。
  * 一、双防护层拦截
@@ -7300,7 +7300,10 @@ Description: 一个强大的 iOS 温控管理插件，接管系统温控决策�
  * 四、控制中心模块
  * 1. 功率模式切换：一键在「防温控 / 低功耗」之间切换；
  * 2. CPU实时频率：显示大核最大驻留档位（实际工作频率），低功耗模式下不超过上限 2016MHz。
- * 五、机型适配
+ * 五、状态栏显示
+ * 1. 状态栏显示大核实时频率 + 整机 CPU 占用率（形如 3468MHz 42%），文字颜色跟随状态栏；
+ * 2. 位置可用面板的「水平 / 垂直偏移」微调，避开其它状态栏插件。
+ * 六、机型适配
  * 1. 内置 A11–A17 Pro 大核上限表（2390 / 2490 / 2650 / 3090 / 3230 / 3468 / 3780MHz），按机型自动匹配上限。
 Author: Axs<qiaozhani000@163.com>
 Icon: https://axs66.github.io/pro/icon/cpufree.png
