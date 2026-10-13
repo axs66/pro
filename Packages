@@ -7212,38 +7212,6 @@ Name: ContactsFS 来电全屏显示头像
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/contactsfs/js.json
 
 Package: com.axs.cpufree
-Version: 5.2.0-15
-Architecture: iphoneos-arm64
-Maintainer: Axs<qiaozhani000@163.com>
-Installed-Size: 1368
-Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.axs.cpufree_5.2.0-15_iphoneos-arm64.deb
-Size: 79946
-MD5sum: f19c43d072cfcb28365fd5bf487d30c0
-SHA1: 4b5a806537b2b2aa2f521f19c74bbe52cc499e17
-SHA256: 72a29cd739694d85ed90ced7dc334c68a60832417f2184fc09aa14fc94a355f6
-Section: Axs-Tweaks
-Description: 一个强大的 iOS 温控管理插件，接管系统温控决策，让 iPhone 发热时不再被强行降频、降亮度。
- * 一、双防护层拦截
- * 1. IOKit 层：拦截传感器温度读取、降频指令、限频属性写入和高温广播，从源头掐断降频动作；
- * 2. ObjC 层：钩住内部决策类，阻止决策树评估、软化控制力度、改写热配置表，并把热状态重置为正常。
- * 二、双功率模式
- * 1. 防温控：减少降频、防止降亮度，重载场景尽量维持满血频率；
- * 2. 低功耗：限制 CPU 最高 2016MHz，不抬高待机频率，兼顾省电与性能。
- * 三、独立开关
- * 1. CPU 防降频、屏幕防降亮度、屏蔽高温提醒（含设置内的散热建议）均可单独开关；
- * 2. 保留 70°C 安全阀：温度超过 70°C 或读温失败时自动放行系统保护，防止异常发热与黑屏。
- * 四、控制中心模块
- * 1. 功率模式切换：一键在「防温控 / 低功耗」之间切换；
- * 2. CPU频率显示：实时显示大核真实频率，低功耗模式下上限 2016MHz。
- * 五、机型适配
- * 1. 内置 A11–A17 Pro 大核频率表（2390 / 2490 / 2650 / 3090 / 3230 / 3460 / 3780MHz），按机型自动匹配上限。
-Author: Axs<qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/cpufree.png
-Name: CPU Free
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/cpufree/js.json
-
-Package: com.axs.cpufree
 Version: 5.2.0-5
 Architecture: iphoneos-arm64
 Maintainer: Axs
@@ -7271,6 +7239,38 @@ Description: 一个强大的 iOS 温控管理插件，接管系统温控决策�
  * 五、机型适配
  * 1. 内置 A11–A17 Pro 大核频率表（2390 / 2490 / 2650 / 3090 / 3230 / 3460 / 3780MHz），按机型自动匹配上限。
 Author: Axs
+Icon: https://axs66.github.io/pro/icon/cpufree.png
+Name: CPU Free
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/cpufree/js.json
+
+Package: com.axs.cpufree
+Version: 5.2.0-57
+Architecture: iphoneos-arm64
+Maintainer: Axs<qiaozhani000@163.com>
+Installed-Size: 1408
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.cpufree_5.2.0-57_iphoneos-arm64.deb
+Size: 90676
+MD5sum: 9aacab90e5521c2d3220d227f89501b1
+SHA1: 23de82aebd8ba8fd1692082dc2f542976a2e518d
+SHA256: 7b3e5c5c1cc91269709b75f32181ae8c81a108131f7c0423645f9a32b0b21982
+Section: Axs-Tweaks
+Description: 一个强大的 iOS 温控管理插件，接管系统温控决策，让 iPhone 发热时不再被强行降频、降亮度。
+ * 一、双防护层拦截
+ * 1. IOKit 层：拦截传感器温度读取、降频指令、限频属性写入和高温广播，从源头掐断降频动作；
+ * 2. ObjC 层：钩住内部决策类，阻止决策树评估、软化控制力度、改写热配置表，并把热状态重置为正常。
+ * 二、双功率模式
+ * 1. 防温控：减少降频、防止降亮度，重载场景尽量维持满血频率；
+ * 2. 低功耗：限制 CPU 最高 2016MHz，不抬高待机频率，兼顾省电与性能。
+ * 三、独立开关
+ * 1. CPU 防降频、屏幕防降亮度、屏蔽高温提醒（含设置内的散热建议）均可单独开关；
+ * 2. 保留 70°C 安全阀：温度超过 70°C 或读温失败时自动放行系统保护，防止异常发热与黑屏。
+ * 四、控制中心模块
+ * 1. 功率模式切换：一键在「防温控 / 低功耗」之间切换；
+ * 2. CPU实时频率：显示大核最大驻留档位（实际工作频率），低功耗模式下不超过上限 2016MHz。
+ * 五、机型适配
+ * 1. 内置 A11–A17 Pro 大核上限表（2390 / 2490 / 2650 / 3090 / 3230 / 3468 / 3780MHz），按机型自动匹配上限。
+Author: Axs<qiaozhani000@163.com>
 Icon: https://axs66.github.io/pro/icon/cpufree.png
 Name: CPU Free
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/cpufree/js.json
