@@ -8647,6 +8647,28 @@ Icon: https://raw.githubusercontent.com/axs66/ReachMyAbility/refs/heads/main/Res
 Name: ReachMyAbility
 Sileodepiction: https://raw.githubusercontent.com/axs66/ReachMyAbility/main/Resources/depiction.json
 
+Package: com.axs.screenlocktime
+Version: 5.2.0-7
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 496
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.screenlocktime_5.2.0-7_iphoneos-arm64.deb
+Size: 62134
+MD5sum: d8fca2a7c255ef9ad02d1f77d1262d58
+SHA1: a649a80d165e2138837c884da1eca2515a1308f9
+SHA256: b90d7dabd241e7fe46a833c24dca324d6d8a4bc3cce560fe037ff78898ecea0d
+Section: Axs-Tweaks
+Description: 为原生锁屏时间添加五色渐变，沿用系统字体。
+ * 支持自定义五种颜色，固定从左到右渐变。
+ * 可选日期与农历渐变，使用系统显示的文字。
+ * 支持调整时间大小与上下位置，设置即时生效。
+ * 支持兼容BigTime插件。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/screenlocktime.png
+Name: Screen lock time
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/screenlocktime/js.json
+
 Package: com.axs.screenshellpro
 Version: 5.2.0-61
 Architecture: iphoneos-arm64
