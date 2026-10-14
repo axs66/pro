@@ -644,6 +644,25 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: AFN
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/afn/js.json
 
+Package: com.Axs.afn
+Version: 3.6.1
+Architecture: iphoneos-arm64
+Maintainer: AFN Team
+Installed-Size: 7968
+Depends: mobilesubstrate, firmware (>= 15.0)
+Conflicts: com.tencent.xin.dkhelper, com.dkjone.dkhelper, com.afn.helper, com.xiaoxin.helper
+Filename: ./debs/com.Axs.afn_3.6.1_iphoneos-arm64.deb
+Size: 2763828
+MD5sum: 6295247f505a7d2fbd5ba2fdbced7a5f
+SHA1: e3c556aa687f3882833eb62c4d532f462aee61d1
+SHA256: ecc83c7594e1bb312c437c30a3366f85a48980bd6f95545b9dc61f94fb3c1b9f
+Section: Tweaks
+Description: 这是一个微信插件。
+Author: AFN Team
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: AFN
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/afn/js.json
+
 Package: com.Axs.aimpro
 Version: 1.1.2
 Architecture: iphoneos-arm64
@@ -844,6 +863,23 @@ Author: Luki
 Icon: https://axs66.github.io/pro/icon/arizona.png
 Name: Arizona 锁屏美化
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/arizona/js.json
+
+Package: com.Axs.audiomix
+Version: 0.0.10
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./debs/com.Axs.audiomix_0.0.10_iphoneos-arm64.deb
+Size: 33228
+MD5sum: 9f1ecb3f0d406a1bdc95d4a43326d218
+SHA1: 1b292b5769a90ef88c7a62cc7c3e053ac14b4665
+SHA256: 74c627e89f08e066e453f965fc0d5341eee47a385aeb28ef748659ac921c5c2f
+Section: Tweaks
+Description: 调整以同时播放两个或多个音频源。不适用于所有应用程序！有时第一个音频仍然会暂停，所以你必须重新启动它。
+Author: KingPuffdaddi
+Icon: https://axs66.github.io/pro/icon/audiomix.png
+Name: AudioMix 同时播放多个音频
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/audiomix/js.json
 
 Package: com.Axs.autolockscreen
 Version: 1.0.0
@@ -1978,6 +2014,25 @@ Icon: https://axs66.github.io/pro/icon/dockx.png
 Name: DockX
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/dockx/js.json
 
+Package: com.Axs.dontstopmusic
+Version: 2.3.1
+Architecture: iphoneos-arm64
+Maintainer: mikey820
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0)
+Conflicts: com.mikey820.pleasedontstopthemusic
+Filename: ./debs/com.Axs.dontstopmusic_2.3.1_iphoneos-arm64.deb
+Size: 5924
+MD5sum: e68221862914e326d9816fc5d4fd5caa
+SHA1: 2520e389f911ea92f03dcc38ba055b99a754eb43
+SHA256: 10036d27c41ab2934d463e16060f3c8780107739541998332346761c2ca5c4d2
+Section: Tweaks
+Description: 请勿停止音乐是一款注入 iOS 的 AVAudioSession 以启用音频混合的插件。这使您当前正在播放的音频（音乐、播客等）在其他应用请求播放音频时能够继续播放，而不会像系统通常那样暂停您的音频并仅播放新来源。
+Author: mikey820
+Icon: https://axs66.github.io/pro/icon/qsyy.png
+Name: 请别暂停音乐 PleaseDontStopTheMusic
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/dontstopmusic/js.json
+
 Package: com.Axs.dtzst
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -1995,6 +2050,23 @@ Author: liuf
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 圆角动态装饰图
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
+Package: com.Axs.dynamic120hz
+Version: 3.3.3-3
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 1180
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
+Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, cn.zqbb.fix120hz
+Filename: ./debs/com.Axs.dynamic120hz_3.3.3-3_iphoneos-arm64.deb
+Size: 398796
+MD5sum: 8af3826f747014494c7fe22903e16a60
+SHA1: 7dab8c3253914db17d983ecc4b943cd3718e31a6
+SHA256: 2b01b848a08669abbc62a3428c1de0db635bd38faab33588270b54930e757c5e
+Section: 破解插件
+Description: Unlock dynamic refresh rate from 80hz to 120hz
+Author: zqbb
+Name: Dynamic120hz
 
 Package: com.Axs.dynamicfx
 Version: 1.0.7
@@ -2601,6 +2673,24 @@ Depiction: https://axs66.github.io/pro
 Icon: https://axs66.github.io/pro/icon/hapticalert.png
 Name: Haptic Alert触感
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/hapticalert/js.json
+
+Package: com.Axs.hideairdrop
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/com.Axs.hideairdrop_1.1.0_iphoneos-arm64.deb
+Size: 5504
+MD5sum: 95bddad97ae77f716df5399c2699edeb
+SHA1: faf0d6d8fd4bf195939f7422be4f79de5e020d51
+SHA256: fd06cd5478ed582fdc39f1aa37eda24f2aeb597c2ff391d68c6c7e9a168a1a2b
+Section: Tweaks
+Description: 在原生 iOS 16 共享表中隐藏“隔空投送”和“热门人物建议”行。
+Author: 承诺
+Icon: https://axs66.github.io/pro/icon/hideairdrop.png
+Name: 隐藏隔空投送
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/hideairdrop/js.json
 
 Package: com.Axs.hidekbsettings
 Version: 1.0.7
@@ -9777,6 +9867,33 @@ Size: 65100
 MD5sum: 0e4bce82a2b0e02cde51b7cb7cde1f34
 SHA1: ac18333c5da1e6a24747006d7c6cbdc57b87edf6
 SHA256: 701323125657ae83f8507d3ab8dfd6a54254c6bdcefd13272bc9e09447bf9033
+Section: Axs-Tweaks
+Description: 集中收纳统一管理越狱插件与第三方 App 设置，支持插件自定义名称和图标。
+ * 设置首页同组并排两个入口：越狱插件 + 应用软件
+ * 自动隐藏其他插件的首页独立入口，整组收纳系统第三方 App 设置
+ * 越狱插件面板递归聚合所有已装插件设置
+ * 应用软件面板收录第三方 App 设置入口（点击仍进原生设置页）
+ * 支持 Prefs:root=TWEAKS_CELL / TWEAKS_APPS_CELL 深链直达
+ * 「附加功能」新增屏蔽部件与维修记录（隐藏非原装电池、维修记录相关提示行）
+ * 「附加功能」新增屏蔽系统更新提示（隐藏设置首页「现有 iOS xx 可用」行）
+ * 「附加功能」新增自定义插件名称与图标，图标放进 /var/mobile/Axs/TweaksHub/ 即可用
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/tweakshub.png
+Name: TweaksHub
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/tweakshub/js.json
+
+Package: com.axs.tweakshub
+Version: 5.2.0-86
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 728
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.nightwind.onesettings, com.creaturecoding.shuffle, com.sop.settingsrevamp, com.hk.settingsrevamp, com.dao.settingsrevamp, byg.iosios.net.settingsrevamp
+Filename: ./debs/com.axs.tweakshub_5.2.0-86_iphoneos-arm64.deb
+Size: 68362
+MD5sum: 09da0f94ab11c40c2767cb14ff0f551d
+SHA1: aa3ce5c443b8a5c8d8dd9666e9eea4afa575dda3
+SHA256: 0b376d41693251cec6e2b3247583d4eeb4216155426297b2ceca68943a0e6a95
 Section: Axs-Tweaks
 Description: 集中收纳统一管理越狱插件与第三方 App 设置，支持插件自定义名称和图标。
  * 设置首页同组并排两个入口：越狱插件 + 应用软件
