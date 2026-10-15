@@ -1831,22 +1831,22 @@ Name: CopyLog剪贴板
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/copylog/js.json
 
 Package: com.Axs.copyvault
-Version: 1.9.0-1
+Version: 1.9.0-2
 Architecture: iphoneos-arm64
-Maintainer: SquidForce, Backup
-Installed-Size: 6868
+Maintainer: SquidForce
+Installed-Size: 6220
 Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Conflicts: com.squidforce.copyvault,cn.octoforce.copyvault
-Filename: ./debs/com.Axs.copyvault_1.9.0-1_iphoneos-arm64.deb
-Size: 1851480
-MD5sum: addc3c9f68aaba62f8ddcf65d08be19a
-SHA1: 54c7197eec177512c06ae5e30225dabaad70643f
-SHA256: 3822f1c66dae2a23bff392d1f7d8f23c50349f3bf1ca9153d821eff825201559
+Conflicts: com.squidforce.copyvault
+Filename: ./debs/com.Axs.copyvault_1.9.0-2_iphoneos-arm64.deb
+Size: 1672600
+MD5sum: 541cf50aee25e6e0867792170a719b18
+SHA1: bd2e01ee9272f26a5aea5d1c25002b282811692d
+SHA256: 1dbbec7db1c0c5e2941318aef6146be23dcff82b852f2af0a9d6804db978589f
 Section: Tweaks
-Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！ [本包已内嵌 CCrack：安装后自动生成离线授权，无需激活码。CCrack 仅注入 SpringBoard。]
-Author: SquidForce, Backup
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！！
+Author: SquidForce
 Icon: https://axs66.github.io/pro/icon/copyvault.png
-Name: CopyVault 鱿鱼剪贴板
+Name: CopyVault(激活码版)
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/copyvault/js.json
 
 Package: com.Axs.cozybadges
@@ -4819,19 +4819,20 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/springanimations/js.j
 Package: com.Axs.squidextender
 Version: 3.7.4-2
 Architecture: iphoneos-arm64
-Maintainer: SquidForce, Backup
+Maintainer: SquidForce
+Installed-Size: 9988
 Depends: mobilesubstrate, preferenceloader, com.opa334.libsandy
-Conflicts: com.squidforce.squidextender,cn.octoforce.squidextender
+Conflicts: com.squidforce.squidextender
 Filename: ./debs/com.Axs.squidextender_3.7.4-2_iphoneos-arm64.deb
-Size: 2623880
-MD5sum: 2842eb2484107c4d3d23d7559af8c8e1
-SHA1: c39eeec9490fc170f6e931b168d17a05e3b3a9ac
-SHA256: fc3c603c01aa9a7c9967b169ffb6919334bdbb3a677d6de153a8bfc98ce597ca
+Size: 2285372
+MD5sum: d3128885f3a8ec3827ea265b6f3c07a5
+SHA1: 1f4074b8a904c9849bf5ae185e3e8919f5861977
+SHA256: 208f9da2f9c8d1860abbb4f2033a819b5b31735ce9558b997a1d955a4a89031d
 Section: Tweaks
-Description: SquidExtender + PCrack 离线授权（本地生成合法授权，不改二进制）
-Author: SquidForce, Backup
+Description: 激活码用户或需要激活码的用户安装这个，非激活码用户不要安装！
+Author: SquidForce
 Icon: https://axs66.github.io/pro/icon/squidextender.png
-Name: SquidExtender 鱿鱼键盘
+Name: SquidExtender(激活码版)
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/squidextender/js.json
 
 Package: com.Axs.squidforce
@@ -4855,20 +4856,20 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/squidforce/js.json
 Package: com.Axs.squidgesturepro
 Version: 2.7.6-2
 Architecture: iphoneos-arm64
-Maintainer: SquidForce, Backup
-Installed-Size: 7347
+Maintainer: SquidForce
+Installed-Size: 6620
 Depends: mobilesubstrate, preferenceloader, firmware (>= 14.0)
-Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro,cn.octoforce.squidgesturepro
+Conflicts: com.lclrc.squidgesture, com.lclrc.squidgesturepro
 Filename: ./debs/com.Axs.squidgesturepro_2.7.6-2_iphoneos-arm64.deb
-Size: 1932796
-MD5sum: 6ff7aca0fd748a6b9400a39da6b4e367
-SHA1: 0ccdfaf64a094a22a5224576ded46417cda80aa3
-SHA256: fc0a86397b1318190e9dabbc8eb79c5d6ddd967f3d12e567fe089f559710d32f
+Size: 1769472
+MD5sum: 5a72f85244a42675d0e67abc5207b134
+SHA1: 9943cc3a57af138d48e54919fa71de2f9b507b7d
+SHA256: 8b03cf6286fe2fc09ba69fa61178103ae451bc79ec3e278e754234aba0005606
 Section: Tweaks
-Description: 内置 DCrack 离线授权（本地生成、绑定设备、无需激活服务器）。
-Author: SquidForce, Backup
+Description: Gestures，激活码用户或需要激活码的用户安装此包，非激活码用户不要装!
+Author: SquidForce
 Icon: https://axs66.github.io/pro/icon/gesturepro.png
-Name: SquidGesturePro 鱿鱼手势
+Name: SquidGesturePro(激活码版)
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/squidgesturepro/js.json
 
 Package: com.Axs.stageduo
