@@ -6688,6 +6688,24 @@ Description: iOS 14-17 进程守护与性能优化工具，支持针对每个进
 Author: Axs
 Name: AppGuard
 
+Package: com.axs.appguard
+Version: 5.2.0-6
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 688
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.appguard_5.2.0-6_iphoneos-arm64.deb
+Size: 62966
+MD5sum: d90abda01b476c28df5425503b0ff00d
+SHA1: 7b7f070c2c30e68e2b84b4a1abee93fe16bef72a
+SHA256: ea588a1c2d1a009d03521c813920f22af097e496a237210f2621c0501398b370
+Section: Axs-Tweaks
+Description: iOS 14-17 进程守护与性能优化工具，支持针对每个进程独立设置活跃/非活跃内存限制、Jetsam 优先级、CPU Nice 调度优先级，并可剥离系统托管标记阻止内核自动覆盖配置。内置后台守护进程实时监控进程状态，支持有根/无根/隐藏越狱三种环境。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/appguard.png
+Name: AppGuard
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appguard/js.json
+
 Package: com.axs.appselect
 Version: 5.2.0-12
 Architecture: iphoneos-arm64
