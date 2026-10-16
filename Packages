@@ -7265,6 +7265,54 @@ Icon: https://axs66.github.io/pro/icon/bigtime.png
 Name: BigTime
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
 
+Package: com.axs.bigtime
+Version: 5.2.0-80
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1032
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
+Conflicts: com.axs.screenlocktime
+Filename: ./debs/com.axs.bigtime_5.2.0-80_iphoneos-arm64.deb
+Size: 144952
+MD5sum: 8815bab7f7b309763cdd267d893e56bd
+SHA1: 8ee387941f0ec80d647326ac9d3dceda43af895b
+SHA256: 5f98d4e97e2f2fa5238e5afd59e178bf6ebfdda8369b6649d4b0b04aa5b08204
+Section: Axs-Tweaks
+Description: 一个简单的锁屏时钟插件，支持在设置面板导入或选择 OTF、TTF 字体，素材目录为 /var/mobile/Axs/字体素材。
+ * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
+ * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
+ * 3.支持玻璃边缘、模糊、厚度和折射调节;
+ * 4.支持浅色/深色染色强度与深浅模式覆盖;
+ * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/bigtime.png
+Name: BigTime
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
+
+Package: com.axs.bigtime
+Version: 5.2.0-80
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1032
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
+Conflicts: com.axs.screenlocktime
+Filename: ./debs/com.axs.bigtime_5.2.0-80_iphoneos-arm64e.deb
+Size: 144164
+MD5sum: 44684b217545d280b8c8364d235d295b
+SHA1: 79c4c1b65c5d1511a5505c393a70e1981724661f
+SHA256: f1f5b5b04468f03266164554a966fcd9b41e735280fec494d9f2265029da64d5
+Section: Axs-Tweaks
+Description: 一个简单的锁屏时钟插件，支持在设置面板导入或选择 OTF、TTF 字体，素材目录为 /var/mobile/Axs/字体素材。
+ * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
+ * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
+ * 3.支持玻璃边缘、模糊、厚度和折射调节;
+ * 4.支持浅色/深色染色强度与深浅模式覆盖;
+ * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/bigtime.png
+Name: BigTime
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
+
 Package: com.axs.clipboard
 Version: 5.2.0-110
 Architecture: iphoneos-arm64
