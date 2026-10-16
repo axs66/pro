@@ -88,6 +88,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-79",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.支持导入OTF、TTF字体，不同的字体需要单独设置参数，默认参数是基于axs66.otf字体设置的；<br>2.优化描边逻辑，提高分辨率；<br>3.修复部分设备上字体显示异常的bug。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-74",
                     "useBoldText": true,
                     "useBottomMargin": false
