@@ -22,7 +22,7 @@
                 },      
                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf”字体素材，才能生效。<br>1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）；<br>2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节；<br>3.支持玻璃边缘、模糊、厚度、折射、高光和壁纸采样质量调节;<br>4.支持浅色/深色染色强度与深浅模式覆盖;<br>5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。",
+                    "markdown": "一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf”字体素材，才能生效。<br>1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）；<br>2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节；<br>3.支持玻璃边缘、模糊、厚度、折射、高光和壁纸采样质量调节;<br>4.支持浅色/深色染色强度与深浅模式覆盖;<br>5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节;<br>6.支持五色渐变时间。",
                     "useRawFormat": true,
                 },      
                {
@@ -73,7 +73,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 9 月 10 日",
+                    "text": "2026 年 10 月 16 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -86,6 +86,28 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-74",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.重构项目、原插件体积减少40kb；<br>2.新增“描边效果”。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-72",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.新增“五色渐变时间”功能。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-68",
