@@ -7177,126 +7177,6 @@ Name: BigTime
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
 
 Package: com.axs.bigtime
-Version: 5.2.0-74
-Architecture: iphoneos-arm64
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 980
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
-Conflicts: com.axs.screenlocktime
-Filename: ./debs/com.axs.bigtime_5.2.0-74_iphoneos-arm64.deb
-Size: 135688
-MD5sum: df1e59309a6165cb14b27f40ac9de9b9
-SHA1: ceb6f946049029899426e74529c6807026389557
-SHA256: e16fa5b5a56beaf199c4ed4e72ab626cb45f7ccb7e55c983529831cb5414cd86
-Section: Axs-Tweaks
-Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
- * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
- * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
- * 3.支持玻璃边缘、模糊、厚度和折射调节;
- * 4.支持浅色/深色染色强度与深浅模式覆盖;
- * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/bigtime.png
-Name: BigTime
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
-
-Package: com.axs.bigtime
-Version: 5.2.0-74
-Architecture: iphoneos-arm64e
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 980
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
-Conflicts: com.axs.screenlocktime
-Filename: ./debs/com.axs.bigtime_5.2.0-74_iphoneos-arm64e.deb
-Size: 135038
-MD5sum: 5625e187a59c06770932f1e0cfeddc18
-SHA1: 089be5d071c9bd0ea526f22aea1d742dd266c779
-SHA256: cb14c54f5fddac29d6b15193beb91ae1ad7acdbd1f0fe4feb829fdebde257ba9
-Section: Axs-Tweaks
-Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
- * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
- * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
- * 3.支持玻璃边缘、模糊、厚度和折射调节;
- * 4.支持浅色/深色染色强度与深浅模式覆盖;
- * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/bigtime.png
-Name: BigTime
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
-
-Package: com.axs.bigtime
-Version: 5.2.0-74
-Architecture: iphoneos-arm
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 980
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
-Conflicts: com.axs.screenlocktime
-Filename: ./debs/com.axs.bigtime_5.2.0-74_iphoneos-arm.deb
-Size: 135464
-MD5sum: 49a9323c0e3ed8620ef4d1cf5bd9beda
-SHA1: f87aef374ba2fb93d4401835b280f7c8aef11911
-SHA256: 46870bf8274c1b64d9309a6de1a4ea71394e5e122ec3bee7838eac33627a358e
-Section: Axs-Tweaks
-Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
- * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
- * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
- * 3.支持玻璃边缘、模糊、厚度和折射调节;
- * 4.支持浅色/深色染色强度与深浅模式覆盖;
- * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/bigtime.png
-Name: BigTime
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
-
-Package: com.axs.bigtime
-Version: 5.2.0-79
-Architecture: iphoneos-arm
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 1032
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
-Conflicts: com.axs.screenlocktime
-Filename: ./debs/com.axs.bigtime_5.2.0-79_iphoneos-arm.deb
-Size: 144218
-MD5sum: 25ebafff2de2908f406ba009ce89a019
-SHA1: 252c37fdcb4943d8b54992461c8fcac55799aab6
-SHA256: f18cf2bf45e259b5e3442baebf7d2949e6ceb9f229026002775e95313e2a83d9
-Section: Axs-Tweaks
-Description: 一个简单的锁屏时钟插件，支持在设置面板导入或选择 OTF、TTF 字体，素材目录为 /var/mobile/Axs/字体素材。
- * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
- * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
- * 3.支持玻璃边缘、模糊、厚度和折射调节;
- * 4.支持浅色/深色染色强度与深浅模式覆盖;
- * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/bigtime.png
-Name: BigTime
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
-
-Package: com.axs.bigtime
-Version: 5.2.0-79
-Architecture: iphoneos-arm64e
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 1032
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
-Conflicts: com.axs.screenlocktime
-Filename: ./debs/com.axs.bigtime_5.2.0-79_iphoneos-arm64e.deb
-Size: 143700
-MD5sum: c7da1073c009d423b3d42a5e760a4c85
-SHA1: d90943e6880677a2b4fe06eb57f48ffce3b0418d
-SHA256: 30c4d9721cbe1d7c757338210f4bb68aa0daec45dee15746e16bd63a9ed1d335
-Section: Axs-Tweaks
-Description: 一个简单的锁屏时钟插件，支持在设置面板导入或选择 OTF、TTF 字体，素材目录为 /var/mobile/Axs/字体素材。
- * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
- * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
- * 3.支持玻璃边缘、模糊、厚度和折射调节;
- * 4.支持浅色/深色染色强度与深浅模式覆盖;
- * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/bigtime.png
-Name: BigTime
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
-
-Package: com.axs.bigtime
 Version: 5.2.0-79
 Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
@@ -7332,30 +7212,6 @@ Size: 144952
 MD5sum: 8815bab7f7b309763cdd267d893e56bd
 SHA1: 8ee387941f0ec80d647326ac9d3dceda43af895b
 SHA256: 5f98d4e97e2f2fa5238e5afd59e178bf6ebfdda8369b6649d4b0b04aa5b08204
-Section: Axs-Tweaks
-Description: 一个简单的锁屏时钟插件，支持在设置面板导入或选择 OTF、TTF 字体，素材目录为 /var/mobile/Axs/字体素材。
- * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
- * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
- * 3.支持玻璃边缘、模糊、厚度和折射调节;
- * 4.支持浅色/深色染色强度与深浅模式覆盖;
- * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/bigtime.png
-Name: BigTime
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
-
-Package: com.axs.bigtime
-Version: 5.2.0-80
-Architecture: iphoneos-arm64e
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 1032
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
-Conflicts: com.axs.screenlocktime
-Filename: ./debs/com.axs.bigtime_5.2.0-80_iphoneos-arm64e.deb
-Size: 144164
-MD5sum: 44684b217545d280b8c8364d235d295b
-SHA1: 79c4c1b65c5d1511a5505c393a70e1981724661f
-SHA256: f1f5b5b04468f03266164554a966fcd9b41e735280fec494d9f2265029da64d5
 Section: Axs-Tweaks
 Description: 一个简单的锁屏时钟插件，支持在设置面板导入或选择 OTF、TTF 字体，素材目录为 /var/mobile/Axs/字体素材。
  * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
@@ -7744,6 +7600,44 @@ Description: 一个强大的 iOS 温控管理插件，接管系统温控决策�
  * 2. 位置可用面板的「水平 / 垂直偏移」微调，避开其它状态栏插件。
  * 六、机型适配
  * 1. 内置 A11–A17 Pro 大核上限表（2390 / 2490 / 2650 / 3090 / 3230 / 3468 / 3780MHz），按机型自动匹配上限。
+Author: Axs<qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/cpufree.png
+Name: CPU Free
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/cpufree/js.json
+
+Package: com.axs.cpufree
+Version: 5.2.0-72
+Architecture: iphoneos-arm64
+Maintainer: Axs<qiaozhani000@163.com>
+Installed-Size: 1492
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/com.axs.cpufree_5.2.0-72_iphoneos-arm64.deb
+Size: 117642
+MD5sum: aefd8477d9f2d2430e11e09f3316c5d6
+SHA1: 24b4f9eb3f054fc040ea65605a79c61a11252523
+SHA256: 4375c912e981c2c0aea2fbab01980503b69737c96dde209b5d1237d37d94f637
+Section: Axs-Tweaks
+Description: 一个强大的 iOS 温控管理插件，接管系统温控决策，让 iPhone 发热时不再被强行降频、降亮度。
+ * 一、双防护层拦截
+ * 1. IOKit 层：拦截传感器温度读取、降频指令、限频属性写入和高温广播，从源头掐断降频动作；
+ * 2. ObjC 层：钩住内部决策类，阻止决策树评估、软化控制力度、改写热配置表，并把热状态重置为正常。
+ * 二、双功率模式
+ * 1. 防温控：减少降频、防止降亮度，重载场景尽量维持满血频率；
+ * 2. 低功耗：限制 CPU 最高 2016MHz，不抬高待机频率，兼顾省电与性能。
+ * 三、独立开关
+ * 1. CPU 防降频、屏幕防降亮度、屏蔽高温提醒（含设置内的散热建议）均可单独开关；
+ * 2. 保留 70°C 安全阀：温度超过 70°C 或读温失败时自动放行系统保护，防止异常发热与黑屏。
+ * 四、控制中心模块
+ * 1. 功率模式切换：一键在「防温控 / 低功耗」之间切换；
+ * 2. CPU实时频率：显示大核最大驻留档位（实际工作频率），低功耗模式下不超过上限 2016MHz。
+ * 五、状态栏显示
+ * 1. 状态栏显示大核实时频率 + 整机 CPU 占用率（形如 3468MHz 42%），文字颜色跟随状态栏；
+ * 2. 位置可用面板的「水平 / 垂直偏移」微调，避开其它状态栏插件。
+ * 六、机型适配
+ * 1. 内置 A11–A17 Pro 大核上限表（2390 / 2490 / 2650 / 3090 / 3230 / 3468 / 3780MHz），按机型自动匹配上限。
+ * 七、刷新率管理
+ * 1. 支持 10 / 30 / 60 / 80 / 120Hz 优选帧率、全局注入及应用排除；
+ * 2. 提供系统调试 HUD 与 120fps 系统录屏支持，实际效果受设备和系统限制。
 Author: Axs<qiaozhani000@163.com>
 Icon: https://axs66.github.io/pro/icon/cpufree.png
 Name: CPU Free
