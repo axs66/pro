@@ -2051,23 +2051,6 @@ Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 圆角动态装饰图
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
 
-Package: com.Axs.dynamic120hz
-Version: 3.3.3-3
-Architecture: iphoneos-arm64
-Maintainer: zqbb
-Installed-Size: 1180
-Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 15.0), preferenceloader, com.opa334.altlist
-Conflicts: cn.zqbb.fix120hz15, com.zqbb.fix120hz, cn.zqbb.fix120hz
-Filename: ./debs/com.Axs.dynamic120hz_3.3.3-3_iphoneos-arm64.deb
-Size: 398796
-MD5sum: 8af3826f747014494c7fe22903e16a60
-SHA1: 7dab8c3253914db17d983ecc4b943cd3718e31a6
-SHA256: 2b01b848a08669abbc62a3428c1de0db635bd38faab33588270b54930e757c5e
-Section: 破解插件
-Description: Unlock dynamic refresh rate from 80hz to 120hz
-Author: zqbb
-Name: Dynamic120hz
-
 Package: com.Axs.dynamicfx
 Version: 1.0.7
 Architecture: iphoneos-arm64
@@ -7266,6 +7249,78 @@ Name: BigTime
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
 
 Package: com.axs.bigtime
+Version: 5.2.0-79
+Architecture: iphoneos-arm
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1032
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
+Conflicts: com.axs.screenlocktime
+Filename: ./debs/com.axs.bigtime_5.2.0-79_iphoneos-arm.deb
+Size: 144218
+MD5sum: 25ebafff2de2908f406ba009ce89a019
+SHA1: 252c37fdcb4943d8b54992461c8fcac55799aab6
+SHA256: f18cf2bf45e259b5e3442baebf7d2949e6ceb9f229026002775e95313e2a83d9
+Section: Axs-Tweaks
+Description: 一个简单的锁屏时钟插件，支持在设置面板导入或选择 OTF、TTF 字体，素材目录为 /var/mobile/Axs/字体素材。
+ * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
+ * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
+ * 3.支持玻璃边缘、模糊、厚度和折射调节;
+ * 4.支持浅色/深色染色强度与深浅模式覆盖;
+ * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/bigtime.png
+Name: BigTime
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
+
+Package: com.axs.bigtime
+Version: 5.2.0-79
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1032
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
+Conflicts: com.axs.screenlocktime
+Filename: ./debs/com.axs.bigtime_5.2.0-79_iphoneos-arm64e.deb
+Size: 143700
+MD5sum: c7da1073c009d423b3d42a5e760a4c85
+SHA1: d90943e6880677a2b4fe06eb57f48ffce3b0418d
+SHA256: 30c4d9721cbe1d7c757338210f4bb68aa0daec45dee15746e16bd63a9ed1d335
+Section: Axs-Tweaks
+Description: 一个简单的锁屏时钟插件，支持在设置面板导入或选择 OTF、TTF 字体，素材目录为 /var/mobile/Axs/字体素材。
+ * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
+ * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
+ * 3.支持玻璃边缘、模糊、厚度和折射调节;
+ * 4.支持浅色/深色染色强度与深浅模式覆盖;
+ * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/bigtime.png
+Name: BigTime
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
+
+Package: com.axs.bigtime
+Version: 5.2.0-79
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1032
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
+Conflicts: com.axs.screenlocktime
+Filename: ./debs/com.axs.bigtime_5.2.0-79_iphoneos-arm64.deb
+Size: 144368
+MD5sum: 48e007c399c23d88ea11ad95f9f21b7a
+SHA1: 8789b00d2ed3fcb793ac9e2e45d84f9b467175b1
+SHA256: ee788c81080041b7261cb1c8985090bcff378cb89914e70c64da9baa593192e2
+Section: Axs-Tweaks
+Description: 一个简单的锁屏时钟插件，支持在设置面板导入或选择 OTF、TTF 字体，素材目录为 /var/mobile/Axs/字体素材。
+ * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
+ * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
+ * 3.支持玻璃边缘、模糊、厚度和折射调节;
+ * 4.支持浅色/深色染色强度与深浅模式覆盖;
+ * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/bigtime.png
+Name: BigTime
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
+
+Package: com.axs.bigtime
 Version: 5.2.0-80
 Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
@@ -7301,6 +7356,78 @@ Size: 144164
 MD5sum: 44684b217545d280b8c8364d235d295b
 SHA1: 79c4c1b65c5d1511a5505c393a70e1981724661f
 SHA256: f1f5b5b04468f03266164554a966fcd9b41e735280fec494d9f2265029da64d5
+Section: Axs-Tweaks
+Description: 一个简单的锁屏时钟插件，支持在设置面板导入或选择 OTF、TTF 字体，素材目录为 /var/mobile/Axs/字体素材。
+ * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
+ * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
+ * 3.支持玻璃边缘、模糊、厚度和折射调节;
+ * 4.支持浅色/深色染色强度与深浅模式覆盖;
+ * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/bigtime.png
+Name: BigTime
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
+
+Package: com.axs.bigtime
+Version: 5.2.0-81
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1032
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
+Conflicts: com.axs.screenlocktime
+Filename: ./debs/com.axs.bigtime_5.2.0-81_iphoneos-arm64.deb
+Size: 145266
+MD5sum: 2e801d6673ae817e40a7df129d4bcb91
+SHA1: 77bb66b460ab2e41ff52a43f1aa9f9afaa967fba
+SHA256: bebe2e20ec4312ec3aa43fcb9cc4e1a50c376bc5aaab15bf8db3b41e40b7d688
+Section: Axs-Tweaks
+Description: 一个简单的锁屏时钟插件，支持在设置面板导入或选择 OTF、TTF 字体，素材目录为 /var/mobile/Axs/字体素材。
+ * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
+ * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
+ * 3.支持玻璃边缘、模糊、厚度和折射调节;
+ * 4.支持浅色/深色染色强度与深浅模式覆盖;
+ * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/bigtime.png
+Name: BigTime
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
+
+Package: com.axs.bigtime
+Version: 5.2.0-81
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1032
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
+Conflicts: com.axs.screenlocktime
+Filename: ./debs/com.axs.bigtime_5.2.0-81_iphoneos-arm64e.deb
+Size: 144500
+MD5sum: bcccf90e5b5852551b21807f1c75089a
+SHA1: 4ac80d151025d2a451c23461369b2aa636d46b00
+SHA256: 9fdc2194804ab4c7de25e6387e92ac993405eb38c45cdf017da041b8d61dee86
+Section: Axs-Tweaks
+Description: 一个简单的锁屏时钟插件，支持在设置面板导入或选择 OTF、TTF 字体，素材目录为 /var/mobile/Axs/字体素材。
+ * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
+ * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
+ * 3.支持玻璃边缘、模糊、厚度和折射调节;
+ * 4.支持浅色/深色染色强度与深浅模式覆盖;
+ * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/bigtime.png
+Name: BigTime
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
+
+Package: com.axs.bigtime
+Version: 5.2.0-81
+Architecture: iphoneos-arm
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1032
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
+Conflicts: com.axs.screenlocktime
+Filename: ./debs/com.axs.bigtime_5.2.0-81_iphoneos-arm.deb
+Size: 145016
+MD5sum: 468272e7c218a941eb44c520a4c373f5
+SHA1: 48e5d662fbcd9b09cb365b69d98a799b21d9a9dc
+SHA256: 74e2d16047a341d9ab560c99bde5dec43c6e6c8f526ef6efca1ac5572c596531
 Section: Axs-Tweaks
 Description: 一个简单的锁屏时钟插件，支持在设置面板导入或选择 OTF、TTF 字体，素材目录为 /var/mobile/Axs/字体素材。
  * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
@@ -11913,57 +12040,6 @@ Icon: https://axs66.github.io/pro/icon/split.png
 Name: split-view-pro
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/split-view-pro/js.json
 Ts: sp-sss
-
-Package: com.susudear.screencore
-Version: 1.1.7
-Architecture: iphoneos-arm64
-Maintainer: SuSu
-Installed-Size: 2828
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Filename: ./debs/com.susudear.screencore_1.1.7_iphoneos-arm64.deb
-Size: 441832
-MD5sum: 88524bca8b7fb5188975be771cb9acb8
-SHA1: bb473ff3bf3e2dc46e2c36e7fe59253968daabd6
-SHA256: fb9312fdf064f3724ea55b928533fb9dfbb160be063377ac853c1ddeb4239598
-Section: 分屏插件
-Description: 分屏而已
-Author: SuSu
-Icon: https://repo.susubaby.cn/icons/ScreenCore.png
-Name: ScreenCore
-
-Package: com.susudear.screencore
-Version: 2.0.1
-Architecture: iphoneos-arm64
-Maintainer: SuSu
-Installed-Size: 2960
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Filename: ./debs/com.susudear.screencore_2.0.1_iphoneos-arm64.deb
-Size: 463824
-MD5sum: 43d8326528105f02d1a5f9c82b3e9050
-SHA1: 29dd4e7de4c15f63a48963aa8ad977389d3a434b
-SHA256: 5ca480c5b4ad5ce59b4d0ffa402140392c529a38252e7259bb493229f0b1988a
-Section: Tweaks
-Description: 分屏而已
-Author: SuSu
-Icon: https://repo.susubaby.cn/icons/ScreenCore.png
-Name: ScreenCore
-
-Package: com.susudear.screencore
-Version: 2.0.2
-Architecture: iphoneos-arm64
-Maintainer: SuSu
-Installed-Size: 2964
-Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
-Filename: ./debs/com.susudear.screencore_2.0.2_iphoneos-arm64.deb
-Size: 466096
-MD5sum: e6f8e584a15e88a9554a91359360ec5d
-SHA1: eb20df3bd04150d04a375e33ca5a7192e6e7f7d9
-SHA256: 768474e1c0abb4400108a06eaf9aa902bbb01a4fc7433ef392e19182718e1e98
-Section: Tweaks
-Description: 分屏而已
-Author: SuSu
-Icon: https://repo.susubaby.cn/icons/ScreenCore.png
-Name: ScreenCore
 
 Package: com.tencent.themebox
 Version: 1.0.1-1
