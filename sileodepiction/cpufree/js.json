@@ -90,7 +90,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "新增“120Hz”刷新率调整",
+                    "markdown": "1.新增“120Hz”刷新率调整 ;<br>2.重启用户空间一次。",
                     "useRawFormat": true
                 },
                {
