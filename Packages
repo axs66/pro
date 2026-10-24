@@ -6795,6 +6795,30 @@ Icon: https://axs66.github.io/pro/icon/axon.png
 Name: Axon
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/axon/js.json
 
+Package: com.axs.axon
+Version: 5.2.0-61
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 588
+Depends: mobilesubstrate, preferenceloader, firmware (>= 16.0)
+Conflicts: io.ominousness.stackxi, com.thomasfinch.priorityhub, com.ioscreatix.intelixbeta, com.ioscreatix.intelix, com.spiritoflogic.ncunify, com.spiritoflogic.unifyx, com.hidan.nclink10, org.coolstar.ventana-modern, org.coolstar.ventana, org.s1ris.spinxi
+Filename: ./debs/com.axs.axon_5.2.0-61_iphoneos-arm64.deb
+Size: 70404
+MD5sum: 4bde7ef5432145a6b82db33fbb3a01a7
+SHA1: f1e51b577e04c7ecc6a3db8051ff9cb4e9428e21
+SHA256: 2c3c40a6ecd5cccbf6490aec85933fdd26410758e84707fb6cb8aedb471824e2
+Section: Axs-Tweaks
+Description: Priority Hub for iOS 16 - 将锁屏通知按应用智能分组。
+ * 1.按应用分组管理通知，一目了然
+ * 2.支持水平/垂直布局、多种图标样式
+ * 3.触觉反馈、深色模式、角标数量显示
+ * 4.按时间/应用名/通知数量排序
+ * 5.自定义间距、对齐方式、位置
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/axon.png
+Name: Axon
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/axon/js.json
+
 Package: com.axs.axsfont
 Version: 5.2.0-22
 Architecture: iphoneos-arm64
@@ -8622,6 +8646,29 @@ Size: 115298
 MD5sum: 8e3a1f39426579ecf673bc24dad567a9
 SHA1: 4c8f1fa00f7ba2b936a937324a2b3307f33264a9
 SHA256: 936f14c0e6ce23b85e250c5b6118279ec2bb2223dd26710f9e348e8789fe8bd7
+Section: Axs-Tweaks
+Description: lockplayer锁屏播放器，功能介绍：
+   *  1.点击专辑封面：跳转到当前播放 App
+   *  2.背景中部点击：播放/暂停
+   *  3.向左滑：上一曲；向右滑：下一曲
+   *  4.安装本插件后：原生锁屏播放器自动隐藏，仅显示 LockPlayer 面板
+   *  5.进度条：支持拖动定位，松手后自动更新播放进度
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/lockplayer.png
+Name: LockPlayer
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/lockplayer/js.json
+
+Package: com.axs.lockplayer
+Version: 5.2.0-12
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 668
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.lockplayer_5.2.0-12_iphoneos-arm64.deb
+Size: 115130
+MD5sum: 12447edeb099ea58a4ae042c295c0de4
+SHA1: 5ac7dbfc8daf2a350fdf61517ab867a1ff619e99
+SHA256: 81e5e51dbeadbd8996288069ba32657e64c6f8cf2e4780c9e87e5a634f0c1f81
 Section: Axs-Tweaks
 Description: lockplayer锁屏播放器，功能介绍：
    *  1.点击专辑封面：跳转到当前播放 App
