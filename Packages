@@ -2965,10 +2965,10 @@ Depends: mobilesubstrate, firmware (>= 15.0)
 Conflicts: lym.keyboardhook
 Filename: ./debs/com.Axs.keyboardhook_2.1-3+debug_iphoneos-arm64.deb
 Size: 48932
-MD5sum: bf06be06d67de8d7bebbf270dba5b637
-SHA1: 42c6b380e8bef478aa836e36386f18fa5d3db54b
-SHA256: 292f7c7289d4ff5cae6805329cffaa855512318e481ecac9015f1a850a87a412
-Section: 键盘插件
+MD5sum: d8ced407fabed82ac0c2cefb0226d029
+SHA1: d4f9a9251006f07fa1a54e6948cb93582053b4a0
+SHA256: 8b9e65bb8ade1641b249910070a228900cc42d87da22302f300b16e6ca9a07e4
+Section: Tweaks
 Description: 关于系统输入法和微信输入法的一些自定义，包括：键盘背景自定义、预选词语自定义；付费插件，仅做个人备份。
 Author: baiy
 Icon: https://axs66.github.io/pro/icon/keyboardhook.png
@@ -10273,18 +10273,20 @@ Architecture: iphoneos-arm64
 Maintainer: xsxs18
 Installed-Size: 1016
 Recommends: uikittools
-Filename: ./debs/com.axs.voidy_1.0_iphoneos-arm64.deb
-Size: 299796
-MD5sum: 628d897f3dbc85cec87248683109a58c
-SHA1: dcd7a54a991fae739549b8c87c189b6cccf787a4
-SHA256: 76876e27a64f25bc64e5d27d2c63a1dcb075f598a3994abdebf60973e37f340f
-Section: Applications
+Filename: ./debs/com.axs.voidy_1.0_iphoneos-arm64(1).deb
+Size: 299940
+MD5sum: 937203675177af805f44e87360acedb1
+SHA1: 0b2503515e9bf9830aada6d7b451763e6d7fe9c4
+SHA256: d708197b7be865348fdc979b4e1366f22a58c58bdeb592b165caee3f9dbe28d0
+Section: Tweaks
 Description: 这是一款轻量级系统清理工具。
  1. 清除缓存、日志、临时文件和软件包残留，进行管理
  2. 调整与启动守护进程，查找大文件和孤立的软件�
  3. 可以按预定时间自动清洁。
 Author: xsxs18
-Name: Voidy 清理
+Icon: https://axs66.github.io/pro/icon/voidy.png
+Name: Voidy 清理工具
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/voidy/js.json
 
 Package: com.axs.wcplugins.rootless
 Version: 0.1-7
