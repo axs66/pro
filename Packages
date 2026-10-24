@@ -10267,6 +10267,25 @@ Icon: https://axs66.github.io/pro/icon/tweakshub.png
 Name: TweaksHub
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/tweakshub/js.json
 
+Package: com.axs.voidy
+Version: 1.0
+Architecture: iphoneos-arm64
+Maintainer: xsxs18
+Installed-Size: 1016
+Recommends: uikittools
+Filename: ./debs/com.axs.voidy_1.0_iphoneos-arm64.deb
+Size: 299796
+MD5sum: 628d897f3dbc85cec87248683109a58c
+SHA1: dcd7a54a991fae739549b8c87c189b6cccf787a4
+SHA256: 76876e27a64f25bc64e5d27d2c63a1dcb075f598a3994abdebf60973e37f340f
+Section: Applications
+Description: 这是一款轻量级系统清理工具。
+ 1. 清除缓存、日志、临时文件和软件包残留，进行管理
+ 2. 调整与启动守护进程，查找大文件和孤立的软件�
+ 3. 可以按预定时间自动清洁。
+Author: xsxs18
+Name: Voidy 清理
+
 Package: com.axs.wcplugins.rootless
 Version: 0.1-7
 Architecture: iphoneos-arm64
