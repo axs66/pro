@@ -7050,29 +7050,6 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
 
 Package: com.axs.bigtime
 Version: 5.2.0-66
-Architecture: iphoneos-arm64e
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 948
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Filename: ./debs/com.axs.bigtime_5.2.0-66_iphoneos-arm64e.deb
-Size: 132258
-MD5sum: f95b9b468b748b93419ab704794e61bf
-SHA1: 9e357df13f9b6bd9fd47c9483b4f94512b71ea9a
-SHA256: 7f4dc06d3453f425f414a10cba1a57bc46edec1f98276a4c2d0a95361eae0d14
-Section: Axs-Tweaks
-Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
- * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
- * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
- * 3.支持玻璃边缘、模糊、厚度、折射、高光和壁纸采样质量调节;
- * 4.支持浅色/深色染色强度与深浅模式覆盖;
- * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/bigtime.png
-Name: BigTime
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
-
-Package: com.axs.bigtime
-Version: 5.2.0-66
 Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
 Installed-Size: 948
@@ -7095,16 +7072,16 @@ Name: BigTime
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
 
 Package: com.axs.bigtime
-Version: 5.2.0-68
-Architecture: iphoneos-arm64
+Version: 5.2.0-66
+Architecture: iphoneos-arm64e
 Maintainer: Axs <qiaozhani000@163.com>
 Installed-Size: 948
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
-Filename: ./debs/com.axs.bigtime_5.2.0-68_iphoneos-arm64.deb
-Size: 133678
-MD5sum: 98c70ec329bda5f129ea6f69cd4176ca
-SHA1: 89ca747b36aafd0d33f04f54e6d031c242ab67a6
-SHA256: c92e0cf782e8c865ed6f96f3400b29ca2d43bf957f5a11ab5fd340cdd852ff23
+Filename: ./debs/com.axs.bigtime_5.2.0-66_iphoneos-arm64e.deb
+Size: 132258
+MD5sum: f95b9b468b748b93419ab704794e61bf
+SHA1: 9e357df13f9b6bd9fd47c9483b4f94512b71ea9a
+SHA256: 7f4dc06d3453f425f414a10cba1a57bc46edec1f98276a4c2d0a95361eae0d14
 Section: Axs-Tweaks
 Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
  * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
@@ -7128,6 +7105,29 @@ Size: 132852
 MD5sum: 547290fece7e8fc83d7241626ef9e59c
 SHA1: 0d0a9ee5d40c4389b5f6af41b1fc8b20de65e8f7
 SHA256: 491927c7ec37304e2b9a119340e66d11e84485b8f806247a1f9772cc26318b78
+Section: Axs-Tweaks
+Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
+ * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
+ * 2.支持锁屏时钟启用开关、帧率上限和垂直偏移调节;
+ * 3.支持玻璃边缘、模糊、厚度、折射、高光和壁纸采样质量调节;
+ * 4.支持浅色/深色染色强度与深浅模式覆盖;
+ * 5.支持 iOS 16+ 可变字体粗细、大小、宽度、高度和柔和度调节。
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/bigtime.png
+Name: BigTime
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
+
+Package: com.axs.bigtime
+Version: 5.2.0-68
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 948
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.0), preferenceloader
+Filename: ./debs/com.axs.bigtime_5.2.0-68_iphoneos-arm64.deb
+Size: 133678
+MD5sum: 98c70ec329bda5f129ea6f69cd4176ca
+SHA1: 89ca747b36aafd0d33f04f54e6d031c242ab67a6
+SHA256: c92e0cf782e8c865ed6f96f3400b29ca2d43bf957f5a11ab5fd340cdd852ff23
 Section: Axs-Tweaks
 Description: 一个简单的锁屏时钟插件，需要在“/var/mobile/Axs/字体素材”文件夹里面放入“axs66.otf"字体素材，才能生效。
  * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
@@ -7262,16 +7262,16 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
 
 Package: com.axs.bigtime
 Version: 5.2.0-81
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm
 Maintainer: Axs <qiaozhani000@163.com>
 Installed-Size: 1032
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
 Conflicts: com.axs.screenlocktime
-Filename: ./debs/com.axs.bigtime_5.2.0-81_iphoneos-arm64e.deb
-Size: 144500
-MD5sum: bcccf90e5b5852551b21807f1c75089a
-SHA1: 4ac80d151025d2a451c23461369b2aa636d46b00
-SHA256: 9fdc2194804ab4c7de25e6387e92ac993405eb38c45cdf017da041b8d61dee86
+Filename: ./debs/com.axs.bigtime_5.2.0-81_iphoneos-arm.deb
+Size: 145016
+MD5sum: 468272e7c218a941eb44c520a4c373f5
+SHA1: 48e5d662fbcd9b09cb365b69d98a799b21d9a9dc
+SHA256: 74e2d16047a341d9ab560c99bde5dec43c6e6c8f526ef6efca1ac5572c596531
 Section: Axs-Tweaks
 Description: 一个简单的锁屏时钟插件，支持在设置面板导入或选择 OTF、TTF 字体，素材目录为 /var/mobile/Axs/字体素材。
  * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
@@ -7286,16 +7286,16 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
 
 Package: com.axs.bigtime
 Version: 5.2.0-81
-Architecture: iphoneos-arm
+Architecture: iphoneos-arm64e
 Maintainer: Axs <qiaozhani000@163.com>
 Installed-Size: 1032
 Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), preferenceloader
 Conflicts: com.axs.screenlocktime
-Filename: ./debs/com.axs.bigtime_5.2.0-81_iphoneos-arm.deb
-Size: 145016
-MD5sum: 468272e7c218a941eb44c520a4c373f5
-SHA1: 48e5d662fbcd9b09cb365b69d98a799b21d9a9dc
-SHA256: 74e2d16047a341d9ab560c99bde5dec43c6e6c8f526ef6efca1ac5572c596531
+Filename: ./debs/com.axs.bigtime_5.2.0-81_iphoneos-arm64e.deb
+Size: 144500
+MD5sum: bcccf90e5b5852551b21807f1c75089a
+SHA1: 4ac80d151025d2a451c23461369b2aa636d46b00
+SHA256: 9fdc2194804ab4c7de25e6387e92ac993405eb38c45cdf017da041b8d61dee86
 Section: Axs-Tweaks
 Description: 一个简单的锁屏时钟插件，支持在设置面板导入或选择 OTF、TTF 字体，素材目录为 /var/mobile/Axs/字体素材。
  * 1.锁屏大字时钟玻璃效果，隐藏系统时间（锁屏时）;
@@ -8080,15 +8080,15 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/ios16dao/js.json
 
 Package: com.axs.ipslog
 Version: 5.2.0-11
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Axs <qiaozhani000@163.com>
 Installed-Size: 664
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.axs.ipslog_5.2.0-11_iphoneos-arm64.deb
-Size: 86284
-MD5sum: 3a42d3a44122ce23c9fa091fe2c30dca
-SHA1: 2948fbd9b0136bf2cf8618ec2ad79fc42a839ece
-SHA256: 0797a9d18032a707c3e0ecd169c5a6c2075c8e6fa7ccd6029306bf7ab93b082c
+Filename: ./debs/com.axs.ipslog_5.2.0-11_iphoneos-arm64e.deb
+Size: 86198
+MD5sum: cf4e1cec3c41f691275a9b1b94175e3f
+SHA1: 09e82219c6c5f2058e8c848bcc2ee084344ada21
+SHA256: 6a1e85016388f5e8b21be03578b9c8990d367ca4f679306e4577bab8e8096c14
 Section: Axs-Tweaks
 Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
  * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索
@@ -8102,15 +8102,15 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
 
 Package: com.axs.ipslog
 Version: 5.2.0-11
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
 Installed-Size: 664
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.axs.ipslog_5.2.0-11_iphoneos-arm64e.deb
-Size: 86198
-MD5sum: cf4e1cec3c41f691275a9b1b94175e3f
-SHA1: 09e82219c6c5f2058e8c848bcc2ee084344ada21
-SHA256: 6a1e85016388f5e8b21be03578b9c8990d367ca4f679306e4577bab8e8096c14
+Filename: ./debs/com.axs.ipslog_5.2.0-11_iphoneos-arm64.deb
+Size: 86284
+MD5sum: 3a42d3a44122ce23c9fa091fe2c30dca
+SHA1: 2948fbd9b0136bf2cf8618ec2ad79fc42a839ece
+SHA256: 0797a9d18032a707c3e0ecd169c5a6c2075c8e6fa7ccd6029306bf7ab93b082c
 Section: Axs-Tweaks
 Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
  * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索
@@ -8166,27 +8166,6 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
 
 Package: com.axs.ipslog
 Version: 5.2.0-18
-Architecture: iphoneos-arm64e
-Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 480
-Depends: preferenceloader
-Filename: ./debs/com.axs.ipslog_5.2.0-18_iphoneos-arm64e.deb
-Size: 77104
-MD5sum: 61d7ff9244de6d701259db8372c5e570
-SHA1: 64e3f69fad40ec1d6a9a10c958f6df4860ca1465
-SHA256: 2f94132681ab6affa536da2aa3e210e3de8cb65a27b2b228924538dd5f84c643
-Section: Axs-Tweaks
-Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
- * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
- * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
- * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
-Author: Axs <qiaozhani000@163.com>
-Icon: https://axs66.github.io/pro/icon/ips.png
-Name: IPSLog
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
-
-Package: com.axs.ipslog
-Version: 5.2.0-18
 Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
 Installed-Size: 480
@@ -8207,16 +8186,16 @@ Name: IPSLog
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
 
 Package: com.axs.ipslog
-Version: 5.2.0-27
+Version: 5.2.0-18
 Architecture: iphoneos-arm64e
 Maintainer: Axs <qiaozhani000@163.com>
 Installed-Size: 480
 Depends: preferenceloader
-Filename: ./debs/com.axs.ipslog_5.2.0-27_iphoneos-arm64e.deb
-Size: 80566
-MD5sum: f16a422f49817a43f1b2037a125aff19
-SHA1: b44c6ddaa07a03c387d9aba1590988b4fcb6e32e
-SHA256: 8cb7f79fdf9ad3d8c934d4de134ee4e84ab02ccf6f8ca1bec0bd27bdf8b95df6
+Filename: ./debs/com.axs.ipslog_5.2.0-18_iphoneos-arm64e.deb
+Size: 77104
+MD5sum: 61d7ff9244de6d701259db8372c5e570
+SHA1: 64e3f69fad40ec1d6a9a10c958f6df4860ca1465
+SHA256: 2f94132681ab6affa536da2aa3e210e3de8cb65a27b2b228924538dd5f84c643
 Section: Axs-Tweaks
 Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
  * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
@@ -8238,6 +8217,27 @@ Size: 80646
 MD5sum: 24e6fec94d017dc3652343f95b11877b
 SHA1: fb6f94c118c83187f366a4718f4e022e0e926902
 SHA256: 1495ebe4d20d2319ccc28ef41de0864e77f8776e47ff8c9229ab680a441761f9
+Section: Axs-Tweaks
+Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
+ * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
+ * 解析异常类型 / 异常码 / 触发线程 / 崩溃堆栈 / 二进制映像
+ * 支持查看完整原文、复制任意字段、分享导出、删除单条与清空
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/ips.png
+Name: IPSLog
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
+
+Package: com.axs.ipslog
+Version: 5.2.0-27
+Architecture: iphoneos-arm64e
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 480
+Depends: preferenceloader
+Filename: ./debs/com.axs.ipslog_5.2.0-27_iphoneos-arm64e.deb
+Size: 80566
+MD5sum: f16a422f49817a43f1b2037a125aff19
+SHA1: b44c6ddaa07a03c387d9aba1590988b4fcb6e32e
+SHA256: 8cb7f79fdf9ad3d8c934d4de134ee4e84ab02ccf6f8ca1bec0bd27bdf8b95df6
 Section: Axs-Tweaks
 Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
  * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
@@ -8292,15 +8292,15 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
 
 Package: com.axs.ipslog
 Version: 5.2.0-31
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Axs <qiaozhani000@163.com>
 Installed-Size: 512
 Depends: preferenceloader
-Filename: ./debs/com.axs.ipslog_5.2.0-31_iphoneos-arm64.deb
-Size: 87630
-MD5sum: fba662bc47c8159b3fbe82076e7f3d73
-SHA1: 2f77e56fb8f4804ef64d9efd141ff0e71e49977d
-SHA256: 0d899012456e9acc3542ec4385a9e0a956e1beaea7153f74aafe080be57542a3
+Filename: ./debs/com.axs.ipslog_5.2.0-31_iphoneos-arm64e.deb
+Size: 87864
+MD5sum: 127031f60618f90c275312aad0899841
+SHA1: 80a1684c6c34a57438d39a03a62b3b1558be6836
+SHA256: 3ce1c25f9a5dcb8eb3e3b2d5ede15a5af641638f8871b053018c7d504000aa18
 Section: Axs-Tweaks
 Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
  * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
@@ -8313,15 +8313,15 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/ipslog/js.json
 
 Package: com.axs.ipslog
 Version: 5.2.0-31
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
 Installed-Size: 512
 Depends: preferenceloader
-Filename: ./debs/com.axs.ipslog_5.2.0-31_iphoneos-arm64e.deb
-Size: 87864
-MD5sum: 127031f60618f90c275312aad0899841
-SHA1: 80a1684c6c34a57438d39a03a62b3b1558be6836
-SHA256: 3ce1c25f9a5dcb8eb3e3b2d5ede15a5af641638f8871b053018c7d504000aa18
+Filename: ./debs/com.axs.ipslog_5.2.0-31_iphoneos-arm64.deb
+Size: 87630
+MD5sum: fba662bc47c8159b3fbe82076e7f3d73
+SHA1: 2f77e56fb8f4804ef64d9efd141ff0e71e49977d
+SHA256: 0d899012456e9acc3542ec4385a9e0a956e1beaea7153f74aafe080be57542a3
 Section: Axs-Tweaks
 Description: 设置内一键查看与分析设备上的 .ips 崩溃日志，快速定位崩溃原因。
  * 崩溃日志查看器：按进程聚合、按时间倒序、关键字搜索、可筛选分类、可一键清空日志
@@ -9631,16 +9631,16 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper3expand/js.jso
 
 Package: com.axs.snapper4
 Version: 5.2.0-26
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Axs <qiaozhini000@163.com>
 Installed-Size: 1440
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
 Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
-Filename: ./debs/com.axs.snapper4_5.2.0-26_iphoneos-arm64.deb
-Size: 312004
-MD5sum: 10d2a6c0a46e5f1b7c3676b0179afa56
-SHA1: 33b30f3c610537479a7f471de3815ee78ec4aa63
-SHA256: a4a5b7048767182c6fd15e2cb8cd42bb819f2c3b9de2b4eb11fbef24e3021809
+Filename: ./debs/com.axs.snapper4_5.2.0-26_iphoneos-arm64e.deb
+Size: 311440
+MD5sum: 33c7e57197bf0d00c921b581f91ce0ef
+SHA1: efb1e97d1c63f8f413903fe879defcc90228d620
+SHA256: 82e33feb09d017ecdcf0e829b29856de33e0125ec8b5778415765948ecb1ee05
 Section: Axs-Tweaks
 Description: 这是一款截图工具。
  * 一、基本设置
@@ -9667,16 +9667,16 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
 
 Package: com.axs.snapper4
 Version: 5.2.0-26
-Architecture: iphoneos-arm64e
+Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhini000@163.com>
 Installed-Size: 1440
 Depends: mobilesubstrate, preferenceloader, firmware (>= 15.1)
 Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
-Filename: ./debs/com.axs.snapper4_5.2.0-26_iphoneos-arm64e.deb
-Size: 311440
-MD5sum: 33c7e57197bf0d00c921b581f91ce0ef
-SHA1: efb1e97d1c63f8f413903fe879defcc90228d620
-SHA256: 82e33feb09d017ecdcf0e829b29856de33e0125ec8b5778415765948ecb1ee05
+Filename: ./debs/com.axs.snapper4_5.2.0-26_iphoneos-arm64.deb
+Size: 312004
+MD5sum: 10d2a6c0a46e5f1b7c3676b0179afa56
+SHA1: 33b30f3c610537479a7f471de3815ee78ec4aa63
+SHA256: a4a5b7048767182c6fd15e2cb8cd42bb819f2c3b9de2b4eb11fbef24e3021809
 Section: Axs-Tweaks
 Description: 这是一款截图工具。
  * 一、基本设置
@@ -9775,42 +9775,6 @@ Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
 
 Package: com.axs.snapper4
 Version: 5.2.0-40
-Architecture: iphoneos-arm64
-Maintainer: Axs <qiaozhini000@163.com>
-Installed-Size: 1476
-Depends: mobilesubstrate, preferenceloader
-Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
-Filename: ./debs/com.axs.snapper4_5.2.0-40_iphoneos-arm64.deb
-Size: 302884
-MD5sum: c7340d605b27ffaf08685183a7c07b80
-SHA1: 600ede7dfa2c9d98ce76b49dc6612fae632bba9c
-SHA256: 5acf6fc623b7d17e387b4cd18de408c064678080509ba97290120c9fbac3490e
-Section: Axs-Tweaks
-Description: 这是一款截图工具。
- * 一、基本设置
- * 1、移动标记：开启后标注内容可拖动调整位置；
- * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
- * 二、触发方式
- * 1、音量增+电源键=：可选系统截图或插件截图；
- * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
- * 三、截图设置
- * 1、截图仅复制：截图后仅复制到剪贴板；
- * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
- * 四、AI 服务（识别与翻译）
- * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
- * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
- * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
- * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
- * 五、扩展功能
- * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
- * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
-Author: Axs <qiaozhini000@163.com>
-Icon: https://axs66.github.io/pro/icon/snapper.png
-Name: Snapper 4
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
-
-Package: com.axs.snapper4
-Version: 5.2.0-40
 Architecture: iphoneos-arm64e
 Maintainer: Axs <qiaozhini000@163.com>
 Installed-Size: 1476
@@ -9846,17 +9810,17 @@ Name: Snapper 4
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
 
 Package: com.axs.snapper4
-Version: 5.2.0-44
+Version: 5.2.0-40
 Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhini000@163.com>
-Installed-Size: 1620
+Installed-Size: 1476
 Depends: mobilesubstrate, preferenceloader
 Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
-Filename: ./debs/com.axs.snapper4_5.2.0-44_iphoneos-arm64.deb
-Size: 379776
-MD5sum: 3fde01896e9f58cef8d45a82a6531edb
-SHA1: 4ef68ff26f19bf2792a700823affc6d34e316abb
-SHA256: f48a7c469d96b20c6912dae51d1bb1bb2a10277eb3a6750726b23b1589a92523
+Filename: ./debs/com.axs.snapper4_5.2.0-40_iphoneos-arm64.deb
+Size: 302884
+MD5sum: c7340d605b27ffaf08685183a7c07b80
+SHA1: 600ede7dfa2c9d98ce76b49dc6612fae632bba9c
+SHA256: 5acf6fc623b7d17e387b4cd18de408c064678080509ba97290120c9fbac3490e
 Section: Axs-Tweaks
 Description: 这是一款截图工具。
  * 一、基本设置
@@ -9893,6 +9857,42 @@ Size: 380116
 MD5sum: 60c1d3e714e1c3ad9abaeba56802bcbb
 SHA1: 8b2f8010463c5acee746c1f5b70762f1364ae325
 SHA256: ba19172d88fbdccbe8593639f47b2998ed421819beedecd1c4d19d9696c33fb3
+Section: Axs-Tweaks
+Description: 这是一款截图工具。
+ * 一、基本设置
+ * 1、移动标记：开启后标注内容可拖动调整位置；
+ * 2、功能开关与排序：设置面板内可开关并拖拽排序全部功能。
+ * 二、触发方式
+ * 1、音量增+电源键=：可选系统截图或插件截图；
+ * 2、长按音量减→插件截图：开启后长按音量减约 0.2 秒调出冻结模式。
+ * 三、截图设置
+ * 1、截图仅复制：截图后仅复制到剪贴板；
+ * 2、长截图方式：滚动拼接 / 一镜到底，智能帧匹配自动拼接；
+ * 四、AI 服务（识别与翻译）
+ * 1、Sileo：Sileo 描述页长按翻译纯文本，翻译方式可选百度翻译或 AI 翻译；
+ * 2、AI 互译与问答：中英文互译与中文问答，支持自定义提示词与 AI 对话模式，半屏浮层展示；
+ * 3、文字识别 (OCR)：模型识别截图文字，半屏浮层展示、涂抹选择、一键复制；
+ * 4、百度翻译：自动检测语言双向翻译（中文↔外语），支持图片翻译 / 文本翻译双通道。
+ * 五、扩展功能
+ * 1、截图标记：颜色/箭头/自由画线/文字/矩形/圆形/高亮/马赛克/撤回/删除/保存/复制；
+ * 2、URL 触发：支持手势插件通过 prefs:root=snapper4_freeze（冻结）/ prefs:root=snapper4_long（长截图）系统深链触发。
+Author: Axs <qiaozhini000@163.com>
+Icon: https://axs66.github.io/pro/icon/snapper.png
+Name: Snapper 4
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
+
+Package: com.axs.snapper4
+Version: 5.2.0-44
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhini000@163.com>
+Installed-Size: 1620
+Depends: mobilesubstrate, preferenceloader
+Conflicts: com.jontelang.snapper3, com.susudear.stayshot,  com.axs.snapper3tag,  com.iosdump.shellx
+Filename: ./debs/com.axs.snapper4_5.2.0-44_iphoneos-arm64.deb
+Size: 379776
+MD5sum: 3fde01896e9f58cef8d45a82a6531edb
+SHA1: 4ef68ff26f19bf2792a700823affc6d34e316abb
+SHA256: f48a7c469d96b20c6912dae51d1bb1bb2a10277eb3a6750726b23b1589a92523
 Section: Axs-Tweaks
 Description: 这是一款截图工具。
  * 一、基本设置
@@ -11314,23 +11314,6 @@ Name: SHELLX
 
 Package: com.iosdump.shellx
 Version: 9.9.9
-Architecture: iphoneos-arm64
-Maintainer: iosdump
-Installed-Size: 14062
-Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
-Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
-Filename: ./debs/com.iosdump.shellx_9.9.9_iphoneos-arm64.deb
-Size: 2364192
-MD5sum: 6825a8342f2ff86a74bbc994df9278a5
-SHA1: 65818ceb81e3e817a8b805ce26192ccfcde93623
-SHA256: 2f4fb9781f51c33a458ab7b3079f008f6ebfb508b8525dda96e0a78e5520e9f4
-Section: Tweaks
-Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
-Author: iosdump
-Name: SHELLX
-
-Package: com.iosdump.shellx
-Version: 9.9.9
 Architecture: iphoneos-arm64e
 Maintainer: iosdump
 Installed-Size: 14062
@@ -11341,6 +11324,23 @@ Size: 2360952
 MD5sum: 5a721be7eee74bc797cac24367176a34
 SHA1: db3524abaeae2a35fcd184779dfb44dd93751529
 SHA256: 70e64c9184196f03f8112599fa3cf3aade0c528c95a8d9e31490e383cde8c29c
+Section: Tweaks
+Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
+Author: iosdump
+Name: SHELLX
+
+Package: com.iosdump.shellx
+Version: 9.9.9
+Architecture: iphoneos-arm64
+Maintainer: iosdump
+Installed-Size: 14062
+Depends: mobilesubstrate, preferenceloader, com.opa334.ccsupport
+Conflicts: com.jontelang.snapper3, byg.iosios.net.snapper3, com.jontelang.snapper, com.jontelang.snapper2.packix, xyz.cypwn.snapperfr33
+Filename: ./debs/com.iosdump.shellx_9.9.9_iphoneos-arm64.deb
+Size: 2364192
+MD5sum: 6825a8342f2ff86a74bbc994df9278a5
+SHA1: 65818ceb81e3e817a8b805ce26192ccfcde93623
+SHA256: 2f4fb9781f51c33a458ab7b3079f008f6ebfb508b8525dda96e0a78e5520e9f4
 Section: Tweaks
 Description: 支持录屏/截图套壳，水印以及区域截图、长截图、Ai问答、快捷手势等，兼容iOS14-17所有越狱
 Author: iosdump
@@ -12103,6 +12103,22 @@ Description: Minimal design without compromise
 Depiction: https://axs66.github.io/pro
 Icon: https://img.chariz.cloud/icon/akara/icon@3x.png
 Name: Akara
+
+Package: com.tsangbaby.galaxy
+Version: 5.2.0-6
+Architecture: iphoneos-arm64
+Maintainer: Tsangbaby
+Installed-Size: 2152
+Depends: firmware (>= 15.0), preferenceloader
+Filename: ./debs/com.tsangbaby.galaxy_5.2.0-6_iphoneos-arm64.deb
+Size: 427280
+MD5sum: f6ce62bbbec2a2d1392555c849dca060
+SHA1: 182fef4b8f66390ada890c44515529a7ac3a41ae
+SHA256: f551426a94f02dcd208fb0131231deefee3e3df0ae3e13c36366207a8f5baf82
+Section: Tweaks
+Description: Independent circular app launcher for iOS 15 and later.
+Author: Tsangbaby
+Name: Galaxy
 
 Package: com.wechat.enhance
 Version: 1.1.9
