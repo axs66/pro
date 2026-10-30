@@ -12111,14 +12111,16 @@ Maintainer: Tsangbaby
 Installed-Size: 2152
 Depends: firmware (>= 15.0), preferenceloader
 Filename: ./debs/com.tsangbaby.galaxy_5.2.0-6_iphoneos-arm64.deb
-Size: 427280
-MD5sum: f6ce62bbbec2a2d1392555c849dca060
-SHA1: 182fef4b8f66390ada890c44515529a7ac3a41ae
-SHA256: f551426a94f02dcd208fb0131231deefee3e3df0ae3e13c36366207a8f5baf82
+Size: 427748
+MD5sum: ad6907324c4e401d07aad45e400d96c3
+SHA1: 26210086cd1c8cdffdb4677b7ec88f764df0b9b1
+SHA256: 11e2dd6d81aba5bb8f2f6b5d96f301bdb4183c7912aac8fcb41ea0df7ad1b273
 Section: Tweaks
-Description: Independent circular app launcher for iOS 15 and later.
+Description: 适用于 iOS 15 及更高版本的独立圆形应用启动器，支持Split Screen、PullOver X、Myrtle、FloatingView分屏打开。
 Author: Tsangbaby
-Name: Galaxy
+Icon: https://axs66.github.io/pro/icon/galaxy.png
+Name: Galaxy 启动器
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/galaxy/js.json
 
 Package: com.wechat.enhance
 Version: 1.1.9
