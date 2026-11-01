@@ -7380,6 +7380,26 @@ Icon: https://axs66.github.io/pro/icon/bigtime.png
 Name: BigTime
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/bigtime/js.json
 
+Package: com.axs.classicfolders
+Version: 5.2.0-16
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 452
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Filename: ./debs/com.axs.classicfolders_5.2.0-16_iphoneos-arm64.deb
+Size: 39462
+MD5sum: 67c267a375e4d8b9476d5e5efb40d134
+SHA1: 7614687865518d0959b786c09ce4af126cc64da2
+SHA256: 9ddcae0cbb9689c7862142b60592990df26d6f862ed4e2b749bd233e2c07505a
+Section: Axs-Tweaks
+Description: 让 iOS 15+ 的桌面文件夹按经典 macOS 风格原位展开。
+ * 1. 点开文件夹时在图标原位弹出半透明玻璃面板，桌面图标随面板重排、淡出
+ * 2. 支持重命名、轻点空白关闭、启动应用自动收起
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/ClassicFolders3.png
+Name: ClassicFolders
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/classicfolders/js.json
+
 Package: com.axs.clipboard
 Version: 5.2.0-110
 Architecture: iphoneos-arm64
