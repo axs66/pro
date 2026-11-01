@@ -1793,6 +1793,23 @@ Icon: https://axs66.github.io/pro/icon/collection.png
 Name: Collection
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/collection/js.json
 
+Package: com.Axs.compatibility
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: Hide2Less
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.Axs.compatibility_0.1.0_iphoneos-arm64.deb
+Size: 17132
+MD5sum: 533a0ff4a1dcbffd187ea3b47ce82a9b
+SHA1: a974d6568dffb9d7f05f844664b4d4d14eca53eb
+SHA256: 1f00d1702ee8586ab6a8e1fb82b89a3795d779b98676d98471fa7a7faaa510df
+Section: Tweaks
+Description: 依赖插件，自动关联
+Author: Hide2Less
+Icon: https://axs66.github.io/pro/icon/compatibility.png
+Name: Compatibility
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/compatibility/js.json
+
 Package: com.Axs.controlcenterlayout
 Version: 2.1
 Architecture: iphoneos-arm64
@@ -2657,6 +2674,24 @@ Icon: https://axs66.github.io/pro/icon/hapticalert.png
 Name: Haptic Alert触感
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/hapticalert/js.json
 
+Package: com.Axs.hide2less
+Version: 0.1.3
+Architecture: iphoneos-arm64
+Maintainer: Banana
+Installed-Size: 580
+Depends: firmware (>= 15.0), dpkg (>= 1.21.18), ldid, shell-cmds
+Filename: ./debs/com.Axs.hide2less_0.1.3_iphoneos-arm64.deb
+Size: 162412
+MD5sum: 7b888f70cd9600ebfe8a3101607f5895
+SHA1: 60ad5d508d1980286b11bd73b7d6f7e134474d71
+SHA256: 2cfd9139d99357a6c7da7a7b831b373a027091ba26b869d9928a41bfbadcbbcf
+Section: Utilities
+Description: 隐根插件转换为无根插件
+Author: Banana
+Icon: https://axs66.github.io/pro/icon/hide2less.png
+Name: Hide2Less 隐根转无根
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/hide2less/js.json
+
 Package: com.Axs.hideairdrop
 Version: 1.1.0
 Architecture: iphoneos-arm64
@@ -2937,6 +2972,25 @@ Author: Dcsyhi
 Icon: https://axs66.github.io/pro/icon/kbapp.png
 Name: KBApp
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/kbapp/js.json
+
+Package: com.Axs.keyboardai
+Version: 6.6.6-3
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 10995
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy,com.axs.compatibility
+Conflicts: com.zqbb.hello.keyboard.ai
+Filename: ./debs/com.Axs.keyboardai_6.6.6-3_iphoneos-arm64.deb
+Size: 2809736
+MD5sum: a15e3e842e7fe05364ed695aff002685
+SHA1: 2cca71a996445f9b1cc5aa02d7e96620d4d13261
+SHA256: 25c6f33d7f24c63cead2b721cacd33ba76a1889f309272199b7cf8585cffd919
+Section: 破解插件
+Description: Quickly activate AI mode.
+Author: zqbb
+Icon: https://axs66.github.io/pro/icon/keyboardai.png
+Name: Hello 键盘�
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardai/js.json
 
 Package: com.Axs.keyboardhook
 Version: 2.0-6+debug
@@ -3387,6 +3441,24 @@ Author: Mika <qiaozhani000@163.com>
 Icon: https://axs66.github.io/pro/icon/lyric.png
 Name: 桌面歌词
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/js.json
+
+Package: com.Axs.memorystatus
+Version: 3.9.0-6
+Architecture: iphoneos-arm64
+Maintainer: zqbb
+Installed-Size: 11450
+Depends: mobilesubstrate (>= 0.9.5000) , firmware (>= 14.0), preferenceloader, launchctl,com.axs.compatibility
+Filename: ./debs/com.Axs.memorystatus_3.9.0-6_iphoneos-arm64.deb
+Size: 3071600
+MD5sum: 20eacad2447df0c39c76ea1d54d14974
+SHA1: 827172762a791fdb90a27d637addf1573a16addb
+SHA256: 636a54e6b2389a2f16e6c58aac1f07e48f53431afd063fb2577c8de2b3ec258e
+Section: 破解插件
+Description: Set memorystatus to avoid being killed by the system
+Author: zqbb
+Icon: https://axs66.github.io/pro/icon/memorystatus.png
+Name: Hello Memory Status
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/memorystatus/js.json
 
 Package: com.Axs.mikotohelper
 Version: 1.3.6-10
