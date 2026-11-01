@@ -90,7 +90,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "初始发布",
+                    "markdown": "初始发布，仅39kb",
                     "useRawFormat": true
                 }
             ]
