@@ -28,11 +28,15 @@
                {
                     "class": "DepictionScreenshotsView",
                     "itemCornerRadius": 6,
-                    "itemSize": "{300, 346}",
+                    "itemSize": "{150, 346}",
                     "screenshots": [
                         {
                             "accessibilityText": "Screenshot",
                             "url": "https://axs66.github.io/pro/sileodepiction/classicfolders/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/pro/sileodepiction/classicfolders/Screenshot_02.png"
                         }
                     ]
                 },
@@ -84,7 +88,7 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
-                    "title": "5.2.0-20",
+                    "title": "5.2.0-25",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
