@@ -7421,6 +7421,27 @@ Icon: https://axs66.github.io/pro/icon/ClassicFolders3.png
 Name: ClassicFolders
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/classicfolders/js.json
 
+Package: com.axs.classicfolders
+Version: 5.2.0-25
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 576
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0)
+Filename: ./debs/com.axs.classicfolders_5.2.0-25_iphoneos-arm64.deb
+Size: 68056
+MD5sum: 5c4fc465770d99e3a0c0c63fec812edb
+SHA1: 5fa563b4d883f26b7fe15034603bd0a10bf662f7
+SHA256: c93ddc8cae50ec7d8f1997d49a0e437783fdd1f381a1019a77d37990983d8e1c
+Section: Axs-Tweaks
+Description: 让 iOS 15+ 的桌面文件夹按经典 macOS 风格原位展开。
+ * 1. 点开文件夹时在图标原位弹出半透明玻璃面板，桌面图标随面板重排、淡出
+ * 2. 支持重命名、轻点空白关闭、启动应用自动收起
+ * 3. 支持导入图片、GIF、静音视频作为文件夹面板背景
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/ClassicFolders3.png
+Name: ClassicFolders
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/classicfolders/js.json
+
 Package: com.axs.clipboard
 Version: 5.2.0-110
 Architecture: iphoneos-arm64
