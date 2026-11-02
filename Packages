@@ -4670,50 +4670,6 @@ Icon: https://axs66.github.io/pro/icon/SmallBoard.png
 Name: SmallBoard 键盘下沉
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/SmallBoard/js.json
 
-Package: com.Axs.snapbackup
-Version: 3.8.3
-Architecture: iphoneos-arm64
-Maintainer: kanuo
-Installed-Size: 648
-Depends: firmware (>= 15.0), mobilesubstrate, apt, dpkg, coreutils, sed
-Filename: ./debs/com.Axs.snapbackup_3.8.3_iphoneos-arm64.deb
-Size: 1075100
-MD5sum: bb4cddf4a9fae415bf1f6ef500d15d43
-SHA1: b1959488051e06037d96cc88d0b9dfce1317cce5
-SHA256: af838021fdc63b242188859bdcbfe9dcb0f3aaa4acedd28aed17ee37852fd6f5
-Section: Tweaks
-Description: 越狱插件与配置备份恢复工具（rootless + RootHide 隐根适配）
- 轻量、现代 UI 的越狱备份工具，专为解决重装、重越狱、迁移插件与配置的痛点而设计。
- .
- 【核心功能】
- - 一键备份全部已安装插件（现场重打包为 .deb）+ 软件源列表 + 插件偏好配置 plist
- - 两种备份模式：轻量清单备份 / 完整离线备份（含 deb 安装包）
- - 选择性备份：可勾选要备份的插件与配置，自动标记「设置有界面」的插件
- - 插件、依赖、偏好与配置目录统一归档，记录 SHA-256、权限和所有�
- .
- 【恢复流程】
- - 独立 root helper 校验备份完整性、包元数据与架构，依赖由 Sileo 处理
- - 恢复插件后自动打开 Sileo 并加入安装队列，用户手动确认安�
- - 备份结果支持多选恢复，自动处理 Sileo 获取及本地重新安装入队
- - 可跳过已安装插件，独立入口批量选择本地 deb 加入 Sileo 队列
- - Sileo 内仍支持多选 deb、导入文件夹与 SnapBackup 待恢复任务
- - 使用 Sileo 原生安装队列；恢复插件与恢复配置为独立按钮
- - 可单独恢复备份配置，也可按 Sileo 任务核验安装结果后恢复对应配置
- - 保留恢复日志与配置覆盖前的副本
- .
- 【操作流程】
- ① 备份：主页 →「一键备份」→ 选模式（全部插件 / 勾选的插件+配置 / 仅配置）→ 等待完成，备份存于 /var/mobile/Documents/SnapBackup/
- ② 恢复配置：主页 →「恢复配置」→ 选备份�
- ③ 恢复插件：主页 →「恢复插件」→ 选备份包 → 自动打开 Sileo 加入队列 → 手动确认安�
- .
- RootHide 隐根专门适配：正确读取隐根容器 apt 数据库、动态解析真实 jbroot、不受 .jbroot-xxxx 隔离目录干扰。
- 备份目录：/var/mobile/Documents/SnapBackup/；后台不常驻，打开才执行，不耗电。
-Author: kanuo
-Dev: kanuo
-Icon: https://axs66.github.io/pro/icon/snapbackup.png
-Name: SnapBackup 备份恢复
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapbackup/js.json
-
 Package: com.Axs.snapper3
 Version: 1.2.1
 Architecture: iphoneos-arm64
@@ -9167,6 +9123,45 @@ Author: Axs
 Icon: https://axs66.github.io/pro/images/cjms.png
 Name: Sileo越狱源介绍
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/sileo/js.json
+
+Package: com.axs.snapbackup
+Version: 3.8.3
+Architecture: iphoneos-arm64
+Maintainer: kanuo
+Installed-Size: 648
+Depends: firmware (>= 15.0), mobilesubstrate, apt, dpkg, coreutils, sed
+Filename: ./debs/com.Axs.snapbackup_3.8.3_iphoneos-arm64.deb
+Size: 1074984
+MD5sum: 0bffd2860077b11fdcd31986ddb54856
+SHA1: a42d8bebdce34fe566c03a99312fa1b294195bdd
+SHA256: fcb3587b1a009b2442606c6e59d1cbf7adcab1d6df8c3099abdda9edd9d8d051
+Section: Tweaks
+Description: 全能越狱备份恢复与系统垃圾缓存清理工具，支持 Rootless + RootHide（隐根）。 轻量、现代化的越狱管理工具，集插件备份、配置恢复、批量安装与深度垃圾缓存清理于一体，解决重装系统、重新越狱、插件迁移及设备存储空间管理等问题。
+ * 【核心功能】
+ * 一、插件备份与恢复
+ * 1. 一键备份已安装插件，现场重新打包 DEB，同时保存软件源、依赖及插件偏好配置。
+ * 2. 支持轻量清单备份、完整离线备份、选择性备份及仅配置备份。
+ * 3. 自动识别带设置界面的插件，统一归档插件、依赖、配置文件及相关目录。
+ * 4. 支持多选恢复、批量安装本地 DEB，自动加入 Sileo 原生安装队列。
+ * 5. 插件安装与配置恢复独立操作，支持跳过已安装插件、配置覆盖前备份及恢复日志。
+ * 6. 记录SHA-256、文件权限、所有者及包元数据，辅助校验备份完整性。
+ * 二、深度垃圾缓存清理
+ * 1. 全盘扫描应用缓存、系统公共缓存、临时文件、日志及其他可清理数据。
+ * 2. 自动统计垃圾文件数量与占用空间，按应用及文件类型分类展示。
+ * 3. 支持逐项勾选、全选、全不选，清理前显示预计释放的存储空间。
+ * 4. 提供文件路径查看及目录定位，方便检查缓存来源与具体内容。
+ * 5. 对系统资源、系统诊断数据等敏感项目进行独立标记，默认不自动勾选，需手动确认后清理。
+ * 6. 支持选择性删除，避免误删重要系统资源及应用数据。
+ * 【操作说明】
+ * 1. 备份：主页 → 一键备份 → 选择备份模式 → 等待完成。
+ * 2. 恢复配置：主页 → 恢复配置 → 选择备份包。
+ * 3. 恢复插件：主页 → 恢复插件 → 选择备份包 → Sileo 确认安装。
+ * 4. 垃圾清理：主页→清理垃圾缓存→扫描→勾选项目→确认删除。
+ * 备份目录：/var/mobile/Documents/SnapBackup/ 后台不常驻运行，仅在用户主动打开时执行，不增加后台常驻功耗。
+Author: kanuo
+Icon: https://axs66.github.io/pro/icon/snapbackup.png
+Name: SnapBackup 备份恢复&清理工具
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapbackup/js.json
 
 Package: com.axs.snapper3tag
 Version: 5.2.0-18
