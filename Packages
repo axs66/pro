@@ -8749,6 +8749,30 @@ Name: KeyboardTools
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardtools/js.json
 
 Package: com.axs.keyboardtools
+Version: 5.2.0-206
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1448
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.axs.colorfulkeyboard
+Filename: ./debs/com.axs.keyboardtools_5.2.0-206_iphoneos-arm64.deb
+Size: 271072
+MD5sum: 6363b7ea2ff0e159c7909ac8ab277e3f
+SHA1: 95341447f076d44cde423d319a7dab494088f03f
+SHA256: d4c4361998e2bc8b9665b5498bf333c0ebd23ac6b82308c0f8032676bcb00d02
+Section: Axs-Tweaks
+Description: 键盘文本编辑工具栏（可置于键盘上方或键盘下方，复制/粘贴/剪切/撤销/全选等快捷操作）+ 炫彩键盘（点击光效、键盘背景配色、候选词变色）。
+ * 1. 工具栏动作：全选、复制、粘贴、剪贴板、剪切、撤销、清空、光标左移、光标右移、换行、收起键盘
+ * 2. 工具栏位置：键盘上方或键盘下方
+ * 3. 每个按钮的点击与四个滑动方向可各自绑定动作，动作显示名可自定义，改动立即生效、无需注销
+ * 4. 键盘外观：点击光效、候选词变色；键盘背景色分浅色/深色设置，点行用系统取色器选色（可调透明度）
+ * 5. 剪贴板需要安装 Clipboard 插件，才能调出面板
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/keyboardtools.png
+Name: KeyboardTools
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardtools/js.json
+
+Package: com.axs.keyboardtools
 Version: 5.2.0-27
 Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
@@ -10334,6 +10358,27 @@ Size: 46446
 MD5sum: 641f0ffea3dc27723f616f7231258b80
 SHA1: 1749ebe707e8c3762500481329047086b844c133
 SHA256: 8d382117c6479c27b1189cc8ca819b965e0d403a611bb6f589e95588af075c8d
+Section: Axs-Tweaks
+Description: 全局触摸轨迹显示插件：在屏幕任意位置触摸时，实时显示手指触点和拖尾残影动画。
+ * 1.适配录屏、演示、教程录制等场景，可设置仅录屏时显示。
+ * 2.支持多指模式，参数可调（大小、透明度、动画时长等）。
+ * 3.支持三种触点样式（颜色/图片/表情）。
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/touchtrail.png
+Name: TouchTrail
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/touchtrail/js.json
+
+Package: com.axs.touchtrail
+Version: 5.2.0-62
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 432
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.touchtrail_5.2.0-62_iphoneos-arm64.deb
+Size: 39358
+MD5sum: 7328aa6b9fe1785eea2cde9e252d4a4f
+SHA1: 5dd7597a0a1557f668d8d45f2f5103b87b6b5ab6
+SHA256: 7af35d1bfcad0032b73f45a5b282fa9f7d211c0722b7ad49d5f74ebdb19a547f
 Section: Axs-Tweaks
 Description: 全局触摸轨迹显示插件：在屏幕任意位置触摸时，实时显示手指触点和拖尾残影动画。
  * 1.适配录屏、演示、教程录制等场景，可设置仅录屏时显示。
