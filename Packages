@@ -8701,17 +8701,17 @@ Name: KeyboardTools
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardtools/js.json
 
 Package: com.axs.keyboardtools
-Version: 5.2.0-196
+Version: 5.2.0-200
 Architecture: iphoneos-arm64
 Maintainer: Axs <qiaozhani000@163.com>
-Installed-Size: 1348
+Installed-Size: 1380
 Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
 Conflicts: com.axs.colorfulkeyboard
-Filename: ./debs/com.axs.keyboardtools_5.2.0-196_iphoneos-arm64.deb
-Size: 237472
-MD5sum: 402f8227c8b85807a7cce25d24f60127
-SHA1: 65a13044e58f7e6fc5adf491ce33ccaba89e3690
-SHA256: c72bf9896ccf271b1f13c4b891eeed6a2e140f239ce085fe7206735550631e24
+Filename: ./debs/com.axs.keyboardtools_5.2.0-200_iphoneos-arm64.deb
+Size: 239126
+MD5sum: d129e5f45326668ccf9a73053ffc4b95
+SHA1: 9c2f84072a409869adaed6e95f7cf4195efc7af1
+SHA256: e1aeaa1fabf94383a27ef5575143b33db0d72b4e0e4519c3106daebfe6365295
 Section: Axs-Tweaks
 Description: 键盘文本编辑工具栏（可置于键盘上方或键盘下方，复制/粘贴/剪切/撤销/全选等快捷操作）+ 炫彩键盘（点击光效、键盘背景配色、候选词变色）。
  * 1. 工具栏动作：全选、复制、粘贴、剪贴板、剪切、撤销、清空、光标左移、光标右移、换行、收起键盘
