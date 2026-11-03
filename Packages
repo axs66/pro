@@ -809,6 +809,24 @@ Icon: https://axs66.github.io/pro/icon/appstore.png
 Name: AppStoreTroller
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/appstore/js.json
 
+Package: com.Axs.appstoreupdateblock
+Version: 0.1.0
+Architecture: iphoneos-arm64
+Maintainer: 白白白
+Installed-Size: 239
+Depends: firmware (>= 16.0), mobilesubstrate
+Filename: ./debs/com.Axs.appstoreupdateblock_0.1.0_iphoneos-arm64.deb
+Size: 16888
+MD5sum: 6c51a3fe5dd85e16113df17cf949f4a0
+SHA1: 8b4ee5339cf58b04eb3b0e9624cf1566164e1524
+SHA256: b5d29e2908d3bd29d5c732636bdbef076282790bb2c9e00e1930705912fe6a12
+Section: Tweaks
+Description: 在 App Store 里按应用屏蔽更新，被屏蔽的应用不再出现在更新列表，也不会被一次全部更新。
+Author: 白白白
+Icon: https://axs66.github.io/pro/icon/appstore.png
+Name: App Store 更新屏蔽
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/appstoreupdateblock/js.json
+
 Package: com.Axs.aptv
 Version: 0.0.1
 Architecture: iphoneos-arm64
@@ -2980,16 +2998,16 @@ Maintainer: zqbb
 Installed-Size: 10995
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy,com.axs.compatibility
 Conflicts: com.zqbb.hello.keyboard.ai
-Filename: ./debs/com.Axs.keyboardai_6.6.6-3_iphoneos-arm64.deb
-Size: 2809736
-MD5sum: a15e3e842e7fe05364ed695aff002685
-SHA1: 2cca71a996445f9b1cc5aa02d7e96620d4d13261
-SHA256: 25c6f33d7f24c63cead2b721cacd33ba76a1889f309272199b7cf8585cffd919
+Filename: ./debs/com.Axs.keyboardai_6.6.6-3_iphoneos-arm64(1).deb
+Size: 2808940
+MD5sum: 38b09ecd4ea30a7a56d002015809152b
+SHA1: 0d16232b5d41253de8b4a8ed048c85e25e5608bb
+SHA256: 3edce312fb4a507df9d4d8e5e414ecd7186b64c19cded1e3bb06dd856de8a78a
 Section: 破解插件
 Description: Quickly activate AI mode.
 Author: zqbb
 Icon: https://axs66.github.io/pro/icon/keyboardai.png
-Name: Hello 键盘�
+Name: Hello KeyboardAi
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardai/js.json
 
 Package: com.Axs.keyboardhook
@@ -8670,6 +8688,30 @@ Size: 238082
 MD5sum: 7d7c4fab0f865244459334c77ab3e220
 SHA1: 11546c225760d3ca198b96632f6623c15335272d
 SHA256: 7ce35082a4b39a554312aad0efb41878070ddaf297c8a5aee5d9b6ead177c934
+Section: Axs-Tweaks
+Description: 键盘文本编辑工具栏（可置于键盘上方或键盘下方，复制/粘贴/剪切/撤销/全选等快捷操作）+ 炫彩键盘（点击光效、键盘背景配色、候选词变色）。
+ * 1. 工具栏动作：全选、复制、粘贴、剪贴板、剪切、撤销、清空、光标左移、光标右移、换行、收起键盘
+ * 2. 工具栏位置：键盘上方或键盘下方
+ * 3. 每个按钮的点击与四个滑动方向可各自绑定动作，动作显示名可自定义，改动立即生效、无需注销
+ * 4. 键盘外观：点击光效、候选词变色；键盘背景色分浅色/深色设置，点行用系统取色器选色（可调透明度）
+ * 5. 剪贴板需要安装 Clipboard 插件，才能调出面板
+Author: Axs <qiaozhani000@163.com>
+Icon: https://axs66.github.io/pro/icon/keyboardtools.png
+Name: KeyboardTools
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/keyboardtools/js.json
+
+Package: com.axs.keyboardtools
+Version: 5.2.0-196
+Architecture: iphoneos-arm64
+Maintainer: Axs <qiaozhani000@163.com>
+Installed-Size: 1348
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.axs.colorfulkeyboard
+Filename: ./debs/com.axs.keyboardtools_5.2.0-196_iphoneos-arm64.deb
+Size: 237472
+MD5sum: 402f8227c8b85807a7cce25d24f60127
+SHA1: 65a13044e58f7e6fc5adf491ce33ccaba89e3690
+SHA256: c72bf9896ccf271b1f13c4b891eeed6a2e140f239ce085fe7206735550631e24
 Section: Axs-Tweaks
 Description: 键盘文本编辑工具栏（可置于键盘上方或键盘下方，复制/粘贴/剪切/撤销/全选等快捷操作）+ 炫彩键盘（点击光效、键盘背景配色、候选词变色）。
  * 1. 工具栏动作：全选、复制、粘贴、剪贴板、剪切、撤销、清空、光标左移、光标右移、换行、收起键盘
