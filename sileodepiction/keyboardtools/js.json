@@ -69,7 +69,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 11 月 2 日",
+                    "text": "2026 年 11 月 3 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -82,6 +82,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-196",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "优化“Ai问答”对话框呼出动画。",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-195",
