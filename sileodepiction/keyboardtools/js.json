@@ -84,6 +84,17 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
+                    "title": "5.2.0-202",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.“Ai问答”对话框左侧增加“＋”可从相册或文件选择图片;<br>2.支持从 Clipboard 粘贴图片；<br>3.附件可预览、删除，支持纯图片或图文发送；<br>4.每条最多 4 张，自动压缩；发送失败时保留草稿。。",
+                    "useRawFormat": true
+                },
+               {
+                    "class": "DepictionSubheaderView",
                     "title": "5.2.0-200",
                     "useBoldText": true,
                     "useBottomMargin": false
