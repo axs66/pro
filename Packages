@@ -10539,7 +10539,7 @@ Architecture: iphoneos-arm64
 Maintainer: xsxs18
 Installed-Size: 1016
 Recommends: uikittools
-Filename: ./debs/com.axs.voidy_1.0_iphoneos-arm64(1).deb
+Filename: ./debs/com.axs.voidy_1.0_iphoneos-arm64.deb
 Size: 299940
 MD5sum: 937203675177af805f44e87360acedb1
 SHA1: 0b2503515e9bf9830aada6d7b451763e6d7fe9c4
