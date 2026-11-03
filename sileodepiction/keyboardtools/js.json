@@ -84,13 +84,13 @@
             "views": [
                {
                     "class": "DepictionSubheaderView",
-                    "title": "5.2.0-196",
+                    "title": "5.2.0-200",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "优化“Ai问答”对话框呼出动画。",
+                    "markdown": "1.优化“Ai问答”对话框呼出动画;<br>2.“Ai问答”对话框兼容剪贴板插件呼出面板。",
                     "useRawFormat": true
                 },
                {
