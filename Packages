@@ -2998,7 +2998,7 @@ Maintainer: zqbb
 Installed-Size: 10995
 Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.libsandy,com.axs.compatibility
 Conflicts: com.zqbb.hello.keyboard.ai
-Filename: ./debs/com.Axs.keyboardai_6.6.6-3_iphoneos-arm64(1).deb
+Filename: ./debs/com.Axs.keyboardai_6.6.6-3_iphoneos-arm64.deb
 Size: 2808940
 MD5sum: 38b09ecd4ea30a7a56d002015809152b
 SHA1: 0d16232b5d41253de8b4a8ed048c85e25e5608bb
