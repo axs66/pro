@@ -7496,6 +7496,24 @@ Icon: https://axs66.github.io/pro/icon/clean.png
 Name: AxsClean
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/clean/js.json
 
+Package: com.axs.clean
+Version: 5.2.0-14
+Architecture: iphoneos-arm64
+Maintainer: Axs & kanuo
+Installed-Size: 356
+Depends: firmware (>= 15.0)
+Filename: ./debs/com.axs.clean_5.2.0-14_iphoneos-arm64.deb
+Size: 54426
+MD5sum: db72cafd4d9907082b37e7ff7ab70571
+SHA1: 2430887dce89ca6754566215449081a1e136f36b
+SHA256: 9a5ca48a9a9a6e3423ab54aef9ffe83a44201007aa7fc5c25e0b3663336417d8
+Section: Axs-Tweaks
+Description: 这是一款系统快速清理缓存工具，如果遇见清理失败的请去https://axs66.github.io/pro 越狱源长按“获取”选择V5.2.0-12版本安装，执行清理一次之后，再更新新版本。
+Author: Axs & kanuo
+Icon: https://axs66.github.io/pro/icon/clean.png
+Name: AxsClean
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/clean/js.json
+
 Package: com.axs.clipboard
 Version: 5.2.0-110
 Architecture: iphoneos-arm64
