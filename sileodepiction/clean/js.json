@@ -92,7 +92,7 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "加入保守保护规则：<br>1.苹果地图：排除其缓存，避免影响地图信息空白；<br>2.王者荣耀：排除其缓存，避免影响每次重新登录；<br>3.Sileo商店：排除其缓存，避免再次清空新闻记录。",
                     "useRawFormat": true
-                }
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-12",
@@ -103,7 +103,7 @@
                     "class": "DepictionMarkdownView",
                     "markdown": "清理失败的用户，采用此版本执行清理一次，在升级新版本。",
                     "useRawFormat": true
-                }
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-10",
