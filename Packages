@@ -11804,6 +11804,22 @@ Description: 京东去广告+精简
 Author: M哥
 Name: 京东（去广告+精简）
 
+Package: com.jumping.thermaldetect
+Version: 1.0.32
+Architecture: iphoneos-arm64
+Maintainer: jumping8
+Depends: org.coolstar.ellekit | mobilesubstrate | com.ex.substitute
+Filename: ./debs/com.jumping.thermaldetect_1.0.32_iphoneos-arm64.deb
+Size: 235208
+MD5sum: b11ff8b81d7bf14f5ea364962c5d7258
+SHA1: d1bb97152a20e4ad25083fa0882eaa4f12673a7d
+SHA256: d37f98e44a6fa28bc7f6ec84675f124d5c16971e784b097bbdb642469a98969f
+Section: Utilities
+Description: 定位导致设备过热/耗电的进程/插件/App（thermalState + 每进程 CPU + 插件 Filter 匹配）（无根/rootless 版：安装到 /var/jb，适用 Dopamine 等无根越狱；roothide 环境请装隐根版）
+Author: jumping8
+Icon: file:///var/jb/Library/PreferenceBundles/com.jumping.thermaldetect.bundle/Icon-sileo.png
+Name: 耗电发热排行榜
+
 Package: com.ketty.meowtimemachine
 Version: 0.0.1-106+debug
 Architecture: iphoneos-arm64
