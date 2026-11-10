@@ -26,6 +26,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Run generate_packages.sh
         run: |
@@ -43,7 +45,19 @@ jobs:
           git config --local user.email "actions@github.com"
           git add Packages Packages.bz2 Packages.gz Packages.zst
           git commit -m "Update Packages" || echo "No changes to commit"
-          git push https://${{ secrets.PAT }}@github.com/axs66/pro.git HEAD:main
+          REMOTE="https://${{ secrets.PAT }}@github.com/axs66/pro.git"
+          for i in 1 2 3 4 5; do
+            if git push "$REMOTE" HEAD:main; then
+              echo "Packages pushed to main."
+              exit 0
+            fi
+            echo "Push rejected (attempt $i/5), merging remote main and retrying..."
+            git fetch "$REMOTE" main
+            git merge --no-edit -X ours FETCH_HEAD
+            sleep $((i * 5))
+          done
+          echo "Failed to push Packages after 5 attempts."
+          exit 1
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
