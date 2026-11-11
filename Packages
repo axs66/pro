@@ -1921,6 +1921,24 @@ Icon: https://axs66.github.io/pro/icon/cr4shed.png
 Name: Cr4shed 崩溃日志
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/cr4shed/js.json
 
+Package: com.Axs.cracklock
+Version: 1.0.4
+Architecture: iphoneos-arm64
+Maintainer: 7513
+Installed-Size: 1852
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/com.Axs.cracklock_1.0.4_iphoneos-arm64.deb
+Size: 1166864
+MD5sum: 4c0a87e9d29b6d64a2dab13515d4fa6c
+SHA1: 6a9da9c75a9bb4807a7ff3a9b3e47ddb3ef72f32
+SHA256: 4ed9ac7b617a9bf9b1591913bdbb074baa0867d08c1b6c006bc44cfedeb407c3
+Section: Tweaks
+Description: 熄屏幻术（FadeCraft）—— 十六种熄屏动画（碎屏 / 像素消散 / 百叶窗 / 信号故障 / CRT 关机 / 竖条翻牌 / 旋涡吸入 / 灰烬升腾 / 风沙吹散 / 条带垂落 / 波纹扭曲 / 方块散开 / 螺旋甩出 / 漆皮剥落 / 灯管熄灭 / 烟尘飘散），每种可单独调参。
+Author: 7513
+Icon: https://axs66.github.io/pro/icon/cracklock.png
+Name: 熄屏幻术
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/cracklock/js.json
+
 Package: com.Axs.custom-notification-sound
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -2699,11 +2717,11 @@ Maintainer: Banana
 Installed-Size: 580
 Depends: firmware (>= 15.0), dpkg (>= 1.21.18), ldid, shell-cmds
 Filename: ./debs/com.Axs.hide2less_0.1.3_iphoneos-arm64.deb
-Size: 162872
-MD5sum: ca42e5188009694396c2d50d56d6ad83
-SHA1: f25b33a435dd56e1090f3ea1a1cd11421002146f
-SHA256: f8cfded9c9c9cb8f3b0bf6b3c4680536c6125a3019db296eafcb788444c3260a
-Section: tweaks
+Size: 163268
+MD5sum: 5c08ffd73d79e8745e705726dcf20de0
+SHA1: aaa0723a012892481b86d3f4329aea39f988ac69
+SHA256: c3eafd24f20c1e853dadf2b4483ec5490c1d09bda3656e39e489ae9a449b5ecf
+Section: Tweaks
 Description: 隐根插件转换为无根插件
 Author: Banana
 Icon: https://axs66.github.io/pro/icon/hide2less.png
@@ -11831,11 +11849,11 @@ Architecture: iphoneos-arm64
 Maintainer: jumping8
 Depends: org.coolstar.ellekit | mobilesubstrate | com.ex.substitute
 Filename: ./debs/com.jumping.thermaldetect_1.0.32_iphoneos-arm64.deb
-Size: 156488
-MD5sum: 5e461b19047a18a6025bceb9cb0e6524
-SHA1: 101829799d744d0256d78938e5011c1ce2bb29d4
-SHA256: 5e6d08d797191bd0097f44941deee114ef60cc760658b731cd96482f5cc11d97
-Section: tweaks
+Size: 156504
+MD5sum: 8931ee1e3493cf8d3240db76830d6a7b
+SHA1: 97bb2928f1e2d58014f1a6589c41bbf35af879a5
+SHA256: 50699ac06547e03434b264c5c129ceecd4bef59a20b89729a2b777f88f172354
+Section: Tweaks
 Description: 定位导致设备过热/耗电的进程/插件/App（thermalState + 每进程 CPU + 插件 Filter 匹配）。
 Author: jumping8
 Icon: file:///var/jb/Library/PreferenceBundles/com.jumping.thermaldetect.bundle/Icon-sileo.png
@@ -12524,6 +12542,23 @@ Size: 9690640
 MD5sum: 7e5b9f682c72d570dbf421633287499c
 SHA1: 5c1f5b0d5dcb91c03c8888717c8d8363f5a9ff03
 SHA256: 030c03d64d1d9b6ae817ef010981b355d9fce2e3384b538629ee94a3e6498e3d
+Section: 微信插件
+Description: 微信主题盒子
+Author: Mao
+Icon: https://axs66.github.io/pro/icon/wechat.png
+Name: 主题盒子
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/themebox/js.json
+
+Package: com.tencent.themebox
+Version: 3.0.8
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/com.tencent.themebox_3.0.8_iphoneos-arm64.deb
+Size: 9755436
+MD5sum: abff303dc42ee0816b728e35f05f0dec
+SHA1: 26e01d756949823c000a035ef4d95db4c4925a2b
+SHA256: 71de019f116ec1e0ff43000fed5a5715c9b5463f27695318ecdb9c6eb637bcce
 Section: 微信插件
 Description: 微信主题盒子
 Author: Mao
