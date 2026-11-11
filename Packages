@@ -9192,12 +9192,12 @@ Version: 1.1.0
 Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 444
-Depends: firmware (>= 16.0), mobilesubstrate, preferenceloader
+Depends: mobilesubstrate, preferenceloader
 Filename: ./debs/com.axs.notifyisland_1.1.0_iphoneos-arm64.deb
-Size: 53412
-MD5sum: c17411f155de4563f5836ec2ec1ac6ab
-SHA1: 33f5c7c537b291329f62c8bc9380a8a419e24303
-SHA256: 1a1c1b35a3ab495a6c1b8d2664d847b3923c867ced226aa92b649df156638c79
+Size: 53388
+MD5sum: 0e63bb5a0d0e7baf3bd57652673a9e1a
+SHA1: 48618ec43f6faeb8072e0459e9ef0003b8f9dcad
+SHA256: 897e5bcdd722939409f0cf345d9c46b463a49891def6c635e68bf8d25ca751f6
 Section: Axs-Tweaks
 Description: 灵动通知，功能介绍:
   * 1.在灵动岛上显示精美的消息通知；
