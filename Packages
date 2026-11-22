@@ -10498,16 +10498,16 @@ Name: TouchTrail
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/touchtrail/js.json
 
 Package: com.axs.touchtrail
-Version: 5.2.0-62
+Version: 5.2.0-64
 Architecture: iphoneos-arm64
 Maintainer: Axs
 Installed-Size: 432
 Depends: mobilesubstrate, preferenceloader
-Filename: ./debs/com.axs.touchtrail_5.2.0-62_iphoneos-arm64.deb
-Size: 39358
-MD5sum: 7328aa6b9fe1785eea2cde9e252d4a4f
-SHA1: 5dd7597a0a1557f668d8d45f2f5103b87b6b5ab6
-SHA256: 7af35d1bfcad0032b73f45a5b282fa9f7d211c0722b7ad49d5f74ebdb19a547f
+Filename: ./debs/com.axs.touchtrail_5.2.0-64_iphoneos-arm64.deb
+Size: 39484
+MD5sum: b21f5da4498d0839c7be2325047fbba5
+SHA1: 53f767c9995a7c6a74cb54b7e037c441f3fa8b8a
+SHA256: 7161daf47e9512d32f7d7eadfae35ed176a95f9c83774d28e216b6503d613737
 Section: Axs-Tweaks
 Description: 全局触摸轨迹显示插件：在屏幕任意位置触摸时，实时显示手指触点和拖尾残影动画。
  * 1.适配录屏、演示、教程录制等场景，可设置仅录屏时显示。
