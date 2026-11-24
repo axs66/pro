@@ -1,7 +1,7 @@
 {
     "class": "DepictionTabView",
     "headerImage": "https://axs66.github.io/pro/images/Axslogo.png",
-    "tintColor": "00BFFF",
+    "tintColor": "#00BFFF",
     "minVersion": "0.3",
     "tabs": [
         {
@@ -19,11 +19,33 @@
                     "action":"https://t.me/oncar2",
                     "openExternal": 1,
                     "class":"DepictionButtonView"
-                }, 
+                },      
                {
-                    "markdown": "空包插件，意在介绍，请勿安装。<br><br>一个纯业余爱好者，构建越狱源，仅方便自己平时需要。",
+                    "class": "DepictionMarkdownView",
+                    "markdown": "在 v2.5.1 原版基础上增加一些实用功能：<br>1.新增自动保存插件包、直接下载 deb、指定deb版本下载；<br>2.新增插件包大小显示。",
                     "useRawFormat": true,
-                    "class": "DepictionMarkdownView"                 
+                },      
+               {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{300, 346}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://axs66.github.io/pro/sileodepiction/sileo/Screenshot_01.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
                 },
                 {
                     "class": "DepictionHeaderView",
@@ -46,6 +68,11 @@
                     "title": "微信"
                 },
                 {
+                    "class": "DepictionTableTextView",
+                    "text": "2026 年 11 月 25 日",
+                    "title": "最后更新日期"
+                },
+                {
                     "class": "DepictionSpacerView",
                     "spacing": 16
                 }
@@ -56,11 +83,17 @@
             "tabname": "更新日志",
             "views": [
                {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-18",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
                     "class": "DepictionMarkdownView",
-                    "markdown": "1.空包插件，意在介绍，请勿安装。<br><br>2.只分享最好用的越狱插件，不明白怎么玩可以咨询微信：VCR66T。<br><br>3.如果发现插件异常，麻烦即时反馈，谢谢各位！",
+                    "markdown": "初始发布",
                     "useRawFormat": true
                 }
             ]
         }
-    ],
+    ]
 }
