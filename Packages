@@ -9356,16 +9356,16 @@ Architecture: iphoneos-arm64
 Maintainer: https://axs66.github.io/pro
 Depends: mobilesubstrate, firmware (>= 12.0)
 Filename: ./debs/com.axs.sileo_1.0_iphoneos-arm64.deb
-Size: 872
-MD5sum: 392b3872389d639f9c655e8d2e80f1c0
-SHA1: 93fcff240f50aeddb806873b7b4ed87cebf191d0
-SHA256: 831332f810abc419b095c1d749510583184a439fd023a91bc9561833e0fdb90c
+Size: 908
+MD5sum: 71a543180eadbf374178391582cadea7
+SHA1: a9b1bc75a58e71210e4dde1ebad9ae21c5309899
+SHA256: eb767d90cc2a549bcbf8ead04c927c3eb946baf0ebf2e5326234c95b07953618
 Section: Axs-Tweaks
 Description: Axs
 Author: Axs
 Icon: https://axs66.github.io/pro/images/cjms.png
 Name: Sileo越狱源介绍
-Sileodepiction: https://axs66.github.io/pro/sileodepiction/sileo/js.json
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/Axssileo/js.json
 
 Package: com.axs.snapbackup
 Version: 3.8.3
@@ -12862,6 +12862,23 @@ Author: Netskao
 Icon: https://axs66.github.io/pro/icon/wechat.png
 Name: 微信净化END
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/wcpureextension/js.json
+
+Package: org.coolstar.sileo
+Version: 5.2.0-18
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
+Filename: ./debs/org.coolstar.sileo_5.2.0-18_iphoneos-arm64.deb
+Size: 2779680
+MD5sum: c98370f8647a685f78cf1bc4835e7be3
+SHA1: de3e41c7634f587bc81ac5196a70bbc7eed7d693
+SHA256: 05e920b2bc9b9b223269fb341fdbb08128fe82520eda2d28e0d545dbc8d2bcd7
+Section: Axs-Tweaks
+Description: 在 v2.5.1 原版基础上，增加了自动保存插件包、直接下载 deb、指定版本下载、插件包大小显示等功能。
+Author: Amy While & Axs
+Icon: https://axs66.github.io/pro/icon/sileo.png
+Name: Sileo 无根
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/sileo/js.json
 
 Package: org.mr.voicechangerx-rootless
 Version: 2.4-136
