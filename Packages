@@ -10478,6 +10478,29 @@ Name: Snapper 4
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/snapper4/js.json
 
 Package: com.axs.sst
+Version: 5.2.0-14
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 400
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.sst_5.2.0-14_iphoneos-arm64.deb
+Size: 30564
+MD5sum: 477179b1085057b17c7e19228e1a0d4b
+SHA1: 92bda1ea2219493ad0ce6bec8c85947d5608ddc7
+SHA256: fa22d9972a03b912ee2f4d6893e3e0f080b332939e524fe87bf07e70f9dc73ae
+Section: Axs-Tweaks
+Description: 系统界面精简
+ * 桌面：禁用 App 资源库与桌面下拉搜索，隐藏底部小横条，透明 Dock 背景
+ * 锁屏：禁用左滑相机，隐藏手电筒/相机按钮与专注模式提示，通知不亮屏，自动面容解锁，锁屏/解锁静音，零唤醒动画
+ * 截图：禁止截图预览并静音快门声
+ * 无线：彻底关闭 Wi-Fi 与蓝牙
+ * 设置：隐藏设置 App 列表分割线
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/sst.png
+Name: AxsSST
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/sst/js.json
+
+Package: com.axs.sst
 Version: 5.2.0-8
 Architecture: iphoneos-arm64
 Maintainer: Axs
