@@ -10501,6 +10501,30 @@ Name: AxsSST
 Sileodepiction: https://axs66.github.io/pro/sileodepiction/sst/js.json
 
 Package: com.axs.sst
+Version: 5.2.0-22
+Architecture: iphoneos-arm64
+Maintainer: Axs
+Installed-Size: 468
+Depends: mobilesubstrate, preferenceloader
+Filename: ./debs/com.axs.sst_5.2.0-22_iphoneos-arm64.deb
+Size: 50054
+MD5sum: 6fc1838edcbd027d0ce4a36837b00499
+SHA1: 5aa686a34d7e4e95f87e053c75ddc35bcdd1f84c
+SHA256: 9cb8e4c8c3c45bdb04fea0dd326584b08c3a0417cb9d4c4c517af144446718b4
+Section: Axs-Tweaks
+Description: 系统界面精简
+ * 桌面：禁用 App 资源库与桌面下拉搜索，隐藏底部小横条，透明 Dock 背景，隐藏翻页小点
+ * 锁屏：禁用左滑相机，隐藏手电筒/相机按钮与专注模式提示，通知不亮屏，自动面容解锁，锁屏/解锁静音，零唤醒动画
+ * 截图：禁止截图预览并静音快门声
+ * 相机：录像时可在快门旁暂停/继续录制，点击帧率切换录像格式，录像中可开关闪光灯，计时显示毫秒
+ * 无线：彻底关闭 Wi-Fi 与蓝牙
+ * 设置：隐藏设置 App 列表分割线
+Author: Axs
+Icon: https://axs66.github.io/pro/icon/sst.png
+Name: AxsSST
+Sileodepiction: https://axs66.github.io/pro/sileodepiction/sst/js.json
+
+Package: com.axs.sst
 Version: 5.2.0-8
 Architecture: iphoneos-arm64
 Maintainer: Axs
