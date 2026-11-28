@@ -69,7 +69,7 @@
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "2026 年 11 月 27 日",
+                    "text": "2026 年 11 月 28 日",
                     "title": "最后更新日期"
                 },
                 {
@@ -82,6 +82,17 @@
             "class": "DepictionStackView",
             "tabname": "更新日志",
             "views": [
+               {
+                    "class": "DepictionSubheaderView",
+                    "title": "5.2.0-14",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "1.新增隐藏桌面翻页小点；<br>2.新增相机中的功能：<br>录像时可以开启闪光灯<br>录像时显示毫秒<br>录像时可任意暂停和恢复录制<br>录像界面直接切换视频格式：高清、4K；30fps、60fps",
+                    "useRawFormat": true
+                },
                {
                     "class": "DepictionSubheaderView",
                     "title": "5.2.0-14",
